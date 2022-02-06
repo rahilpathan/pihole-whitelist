@@ -2158,6 +2158,7 @@ aanqylta.com
 aapsis.com
 aaqiycetqwx.com
 aasyy.com
+aax-us-east.amazon-adsystem.com
 aaxads.com
 aaxdetect.com
 ab-gb.mgid.com
@@ -2611,6 +2612,7 @@ ad.cmvideo.cn
 ad.cooks.com
 ad.correioweb.com.br
 ad.crichd.in
+ad.crwdcntrl.net
 ad.csdn.net
 ad.daum.net
 ad.ddo.jp
@@ -2621,6 +2623,7 @@ ad.doganburda.com
 ad.dokrmob.com
 ad.donanimhaber.com
 ad.doubanio.com
+ad.doubleclick.net
 ad.download.cnet.com
 ad.dqwjzm.com
 ad.duapps.com
@@ -3179,6 +3182,7 @@ adexchangeprediction.com
 adexchangetracker.com
 adexcite.com
 adexmedias.com
+adexp.liftoff.io
 adexprt.com
 adexprts.com
 adextent.com
@@ -6358,12 +6362,14 @@ app-analytics-ru.huami.com
 app-analytics.snapchat.com
 app-department.report
 app-g.39.net
+app-measurement.com
 app-monitor.ele.me
 app-trackings.com
 app.3987.com
 app.9yyg.cn
 app.abc000.to
 app.acm.dzwww.com
+app.adjust.com
 app.adjust.io
 app.adjust.net.in
 app.adjust.world
@@ -8168,8 +8174,15 @@ beacon.wikia-services.com
 beacon.www.theguardian.com
 beaconacceptable.com
 beaconads.com
+beacons.gcp.gvt2.com
+beacons.gvt2.com
 beacons.helium.com
 beacons.mediamelon.com
+beacons2.gvt2.com
+beacons3.gvt2.com
+beacons4.gvt2.com
+beacons5.gvt2.com
+beacons5.gvt3.com
 beaconstreetservices.com
 beadbears.com
 beagle.prod.tda.link
@@ -9866,6 +9879,7 @@ c.51y5.net
 c.8l8l.com
 c.adbxb.cn
 c.algovid.com
+c.amazon-adsystem.com
 c.anmeilai.net
 c.autohome.com.cn
 c.baidu.com
@@ -10012,6 +10026,7 @@ c1wx.lianwangtech.com
 c2.58toto.net
 c2.popads.net
 c2.statcounter.com
+c2.taboola.com
 c2.xsu.cc
 c2.zedo.com
 c212.net
@@ -10531,6 +10546,7 @@ cdn.88-f.net
 cdn.adapi.fotoable.com
 cdn.adbert.info
 cdn.ads.fotoable.net
+cdn.adsafeprotected.com
 cdn.adsk2.co
 cdn.adsquirrel.ai
 cdn.adstract.com
@@ -10576,6 +10592,7 @@ cdn.jquery-uim.download
 cdn.klasseo.com
 cdn.komentary.aol.com
 cdn.krxd.net
+cdn.liftoff.io
 cdn.lodeo.io
 cdn.lu.sogoucdn.com
 cdn.malokacha.club
@@ -10611,6 +10628,7 @@ cdn.sports-streams-online.club
 cdn.sports-streams-online.xyz
 cdn.static-cnt.bid
 cdn.steambets.net
+cdn.taboola.com
 cdn.tekoapis.com
 cdn.tianmidian.com
 cdn.tinglian.com
@@ -10638,9 +10656,11 @@ cdn1.srv.revdepo.com
 cdn1.tvzhe.com
 cdn1now.com
 cdn2.auditude.com
+cdn2.inner-active.mobi
 cdn2.moji002.com
 cdn2now.com
 cdn3.hentaihand.com
+cdn3.optimizely.com
 cdn4ads.com
 cdn5now.com
 cdn7.network
@@ -11302,6 +11322,7 @@ clear-request.com
 clearac.com
 clearadnetwork.com
 clearant.club
+clearbid.uberads.com
 clearbitjs.com
 clearcabbage.com
 clearcomb.com
@@ -12950,6 +12971,7 @@ csdata1.com
 csf.uzone.id
 cshi.ru
 cshwhy.cn
+csi.gstatic.com
 csiasvapqrccq.com
 csjs.ltd
 csjuq.com
@@ -20443,6 +20465,7 @@ granify.com
 graniteacquitcharacteristic.com
 grannynightmare.com
 grapeshot.co.uk
+graph.facebook.com
 graph.nhaccuatui.com
 grapheffect.com
 graphinsider.com
@@ -22512,6 +22535,7 @@ icstats.nl
 icu.getstorybox.com
 icyrd.com
 id-visitors.com
+id.google.com
 id.jiathis.com
 id.kbmg.cz
 id1.cn
@@ -24550,6 +24574,7 @@ jrvdga.com
 js-1.pchome.net
 js-agent.newrelic.com
 js-apac-ss.ysm.yahoo.com
+js-sec.indexww.com
 js.05sun.com
 js.133u.com
 js.139y.com
@@ -29892,6 +29917,7 @@ mrzfjsbjj.com
 mrzhifu.net
 mrzikj.com
 ms-trackingapi.phenompeople.com
+ms.applovin.com
 ms.applvn.com
 ms.awqsaged.cn
 ms.cmcm.com
@@ -30533,6 +30559,7 @@ nearestaxe.com
 neatstats.com
 nebadu.com
 neblotech.com
+nebula-cdn.kampyle.com
 nebwvbpelobi.com
 necessarilyunkindhanging.com
 necessaryfiddlemister.com
@@ -38829,6 +38856,7 @@ service.ad.duomi.com
 service.cocounion.com
 service.danmu.youku.com
 service.epro.sogou.com
+service.game-mode.net
 service.urchin.com
 servicegetbook.net
 servicelayer.king.com
@@ -38846,6 +38874,7 @@ seskeu3zk7.com
 session.timecommerce.net
 sessioncam.com
 sessionm.com
+sessions.bugsnag.com
 sessions.exchange
 sessionstack.com
 sestat.baidu.com
@@ -40585,6 +40614,7 @@ sskmnews.pro
 ssl-cdn.media.innity.net
 ssl-google-analytics.l.google.com
 ssl-services.com
+ssl.google-analytics.com
 ssl.hyhzy.cn
 ssl.ymapp.com
 ssl.zy3dku.cn
@@ -40872,6 +40902,7 @@ static.adtidy.net
 static.aio.media
 static.analytics-site.com
 static.app.m.letv.com
+static.criteo.net
 static.duoshuo.com
 static.g.iqiyi.com
 static.g.ppstream.com
@@ -42161,6 +42192,7 @@ tags.catapultx.com
 tags.cdn.circlesix.co
 tags.clickagy.com
 tags.creativille.co.uk
+tags.crwdcntrl.net
 tags.growingio.com
 tags.master-perf-tools.com
 tags.newscgp.com
@@ -43552,6 +43584,7 @@ tp88trk.com
 tp992.top
 tpa7.iahorro.com
 tpbid.com
+tpc.googlesyndication.com
 tpcdn.top
 tpd4.cn
 tpdads.com
@@ -45792,6 +45825,7 @@ v7.kawinhome.com
 v707070.com
 v7ac.com
 v7king.com
+v8.analytics.pinsightmedia.com
 v8.club
 v9-dc-ad.ixigua.com
 v9banners-com.cdn.ampproject.org
@@ -48248,6 +48282,7 @@ www-sina-cn-com.com
 www.adbert.com.tw
 www.auditude.com
 www.google-analytics.com
+www.googleadservices.com
 www.googletagservices.com
 www.hey.lt
 www.milawka.com
@@ -48255,6 +48290,7 @@ www.net.kg
 www.onclickclear.com
 www.outbrain.com
 www.p.de
+www.summerhamster.com
 www.trading24.io
 www.trafficjunky.com
 www.trafficjunky.net
@@ -50711,3 +50747,4 @@ zzyonghao.com
 zzz7.52896368.com
 zzznews.ru
 zzzzz4.52896368.com
+zzzzz4.52896368.comcdn.liftoff.io
