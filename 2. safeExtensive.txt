@@ -459,6 +459,7 @@ amundi-tc.com
 amzn.com
 amzn.to
 analytics.twitter.com
+analytics.yahoo.com
 android.clients.google.com
 androidcentral.com
 androidpay-users-pa.googleapis.com
@@ -751,6 +752,7 @@ barokart.com.tr
 basecamp.com
 basicthinking.de
 basvuru.denizbank.com
+bat.bing.com
 bayt.com
 bb.com.br
 bbacbank.com
@@ -855,6 +857,7 @@ blombank.com
 bloomberg.com
 blsk.de
 bluehost.com
+bluekai.com
 bmcedirect.ma
 bmi.ir
 bmo.com
@@ -918,6 +921,7 @@ bt.com
 btb.az
 btc-e.com
 btg.mtvnservices.com
+btstatic.com
 buffer.com
 bufferapp.com
 bukalapak.com
@@ -1157,6 +1161,7 @@ clickcash.onelink.me
 clickfunnels.com
 clickserve.cc-dt.com
 clickserve.dartsearch.net
+clicktale.net
 client-api.itunes.apple.com
 client-bank.itbank.ru
 client-channel.google.com
@@ -1212,6 +1217,7 @@ colpatria.com
 colpatria.com.co
 com.adguard.sa
 comdirect.de
+commander1.com
 commbank.com.au
 commerzbank.de
 commerzfinanz.com
@@ -1228,6 +1234,7 @@ connect.googleforwork.com
 connect.rtb.ru
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
+connexity.net
 consent-st.truste.com
 consent.truste.com
 console.cloud.google.com
@@ -1367,6 +1374,7 @@ dbo.snbank.ru
 dbo.zhivagobank.ru
 dbo1.uralfinance.com
 dbs.com.tw
+dc-storm.com
 dcs-vod.apis.anvato.net
 dcu-online.org
 dcu.org
@@ -1627,6 +1635,7 @@ engine.admelon.ru
 engine2.admelon.ru
 enpara.com
 enpass.io
+ensighten.com
 ensonhaber.com
 enter.unicredit.ru
 enterprise.com
@@ -1885,6 +1894,7 @@ gc3d.georgiancard.ge
 gdlp01.c-wss.com
 gefa-bank.de
 geico.com
+geistm.com
 gemius.com
 gemius.pl
 generali.it
@@ -1941,6 +1951,7 @@ gnbsudameris.com.co
 gnf-mdn.apple.com
 gnf-mr.apple.com
 gnula.nu
+go-mpulse.net
 go.blokada.org
 go.com
 go.microsoft.com
@@ -2157,6 +2168,7 @@ googleadservices.com
 googleapis.com
 googleapis.l.google.com
 googlehosted.l.googleusercontent.com
+googletagmanager.com
 googleusercontent.com
 gopjn.com
 gorod23.ru
@@ -2720,6 +2732,7 @@ instantmessaging-pa.googleapis.com
 instructure.com
 intechbank.ru
 intellectmoney.ru
+intelliad.de
 interactivebrokers.co.uk
 interactivebrokers.com
 intercom.io
@@ -3011,6 +3024,7 @@ link.sylikes.com
 link.theplatform.com
 link.theskimm.com
 link.wizzair.com
+linkconnector.com
 linkedin.com
 links.da.slickdeals.net
 links.mkt41.net
@@ -3142,6 +3156,7 @@ masterpass.ch
 masterpass.com
 mataharimall.com
 match.adsrvr.org
+mathtag.com
 mathworks.com
 maxcdn.bootstrapcdn.com
 maybank2u.com.my
@@ -3233,6 +3248,7 @@ media.steampowered.com
 media.wired.com
 media4.steampowered.com
 mediafire.com
+mediaforge.com
 mediaplex.com
 mediation.adnxs.com
 mediavine-d.openx.net
@@ -3363,6 +3379,7 @@ mozilla.org
 mp4upload.com
 mpaycard.ru
 mpd.mxptint.net
+mplxtms.com
 mpsnare.iesnare.com
 mqtt-mini.facebook.com
 mqtt.c10r.facebook.com
@@ -3875,6 +3892,7 @@ pekao.com.pl
 pekao24.pl
 penfed.org
 pensionsmyndigheten.se
+pepperjamnetwork.com
 perevedi.me
 perf.mmstat.com
 perfectmoney.is
@@ -3994,6 +4012,7 @@ prebid.adnxs.com
 preferences.truste.com
 prestashop.com
 prezi.com
+prf.hn
 pricelist.skype.com
 primbank.ru
 prior.by
@@ -4063,6 +4082,7 @@ pusher.com
 pusherapp.com
 putlocker.is
 puu.sh
+pxf.io
 python.org
 q.adrta.com
 q.quora.com
@@ -4076,6 +4096,7 @@ qksrv.net
 qnbfinansbank.com
 qnbfinansbank.enpara.com
 quantcast.mgr.consensu.org
+quantserve.com
 query.prod.cms.rt.microsoft.com
 quick.bankvl.ru
 quik.psbank.ru
@@ -4441,6 +4462,8 @@ rheingauer-volksbank.de
 rhoen-rennsteig-sparkasse.de
 richart.tw
 rileg.de
+rlcdn.com
+rmtag.com
 ro-go.kelkoogroup.net
 robinhood.com
 roblox.com
@@ -4752,6 +4775,7 @@ skb-hardt.de
 skb-rheinstetten.de
 skbank.com.tw
 skbwitten.de
+skimresources.com
 skl.apple.com
 skmb.de
 sko.rbkmoney.ru
@@ -5203,6 +5227,7 @@ status.plex.tv
 statuspage.io
 steamcdn-a.akamaihd.net
 steamcommunity.com
+steelhousemedia.com
 steylerbank.de
 stickypassword.com
 stitcher.pluto.tv
@@ -5259,6 +5284,7 @@ sysctl.org
 system.aliorbank.pl
 t-mobile.com
 t-mobilebankowe.pl
+t.cfjump.com
 t.co
 t.dripemail2.com
 t.emailing.monoprix.fr
@@ -5270,6 +5296,7 @@ t0.ssl.ak.tiles.virtualearth.net
 t23.intelliad.de
 t3n.de
 tabelog.com
+taboola.com
 tag.aticdn.net
 tagcommander.com
 tagilbank.ru
@@ -5341,6 +5368,7 @@ th.bibplus.uobgroup.com
 the-home-depot-ca.pxf.io
 the.earth.li
 theandroidsoul.com
+thebrighttag.com
 theguardian.com
 theinstapay.com
 themeforest.net
@@ -5374,6 +5402,7 @@ timewarnercable.com
 tineye.com
 tinkoff.ru
 tinyurl.com
+tiqcdn.com
 tisco.co.th
 tiscoasset.com
 title.auth.xboxlive.com
