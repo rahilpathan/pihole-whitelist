@@ -6,6 +6,8 @@
 1drv.com
 1drv.ms
 1hosts.cf
+1x1.gi
+1x1.pn
 2-edge-chat.facebook.com
 2-undefined.facebook.com
 2.android.pool.ntp.org
@@ -34,6 +36,7 @@ aax-us-east.amazon-adsystem.com
 aax-us-iad.amazon.com
 aax-us-pdx.amazon-adsystem.com
 aax.amazon-adsystem.com
+abebooks.com
 account.samsung.com
 accounts.elephantjournal.com
 accounts.google.com
@@ -61,6 +64,7 @@ akamaihd.net
 akamaitechnologies.com
 akamaized.net
 algolia.com
+aliexpress.com
 alluremedia.com
 alluremedia.com.au
 amazon-adsystem.com
@@ -68,12 +72,14 @@ amazonaws.com
 amd.cdn.turner.com
 ams.plex.se
 analytics.twitter.com
+analytics.yahoo.com
 android.clients.google.com
 angel.co
 anrdoezrs.net
 answers.microsoft.com
 anycubic.com
 aolcdn.com
+aos.prf.hn
 apex.techrepublic.com
 api-d.dropbox.com
 api-global.netflix.com
@@ -129,6 +135,7 @@ az764295.vo.msecnd.net
 azurewebsites.net
 b-api.facebook.com
 b.disquscdn.com
+bat.bing.com
 bbc.com
 beeg.com
 best.aliexpress.com
@@ -148,6 +155,8 @@ blog.hubspot.com
 blog.medium.com
 blog.techrepublic.com
 blogs.techrepublic.com
+bluehost.com
+bluekai.com
 boards.greenhouse.io
 books.google.com
 brainpop.com
@@ -156,6 +165,7 @@ brightcove.com
 brightcove.net
 browser.pipe.aria.microsoft.com
 bt.com
+btstatic.com
 bufferapp.com
 bwp.techrepublic.com
 c.amazon-adsystem.com
@@ -241,6 +251,7 @@ click.linksynergy.com
 click.microsoftstoreemail.com
 clickserve.cc-dt.com
 clickserve.dartsearch.net
+clicktale.net
 client-api.itunes.apple.com
 client-channel.google.com
 client-s.gateway.messenger.live.com
@@ -266,11 +277,14 @@ code.org
 codeload.github.com
 codepen.io
 collateral.medium.com
+commander1.com
 commission-junction.com
 completion.amazon.co.uk
 completion.amazon.com
+connect.facebook.net
 connect.googleforwork.com
 connectivitycheck.android.com
+connexity.net
 consent-st.truste.com
 consent.truste.com
 content.prd.user.itv.com
@@ -289,6 +303,7 @@ cse.google.com
 csi.gstatic.com
 csm-e-itv-eb.play.dar.itv.com
 csp.medium.com
+ct.pinterest.com
 ct.techrepublic.com
 ct.yimg.com
 ctldl.windowsupdate.com
@@ -300,6 +315,7 @@ d2gatte9o95jao.cloudfront.net
 dashboard.plex.tv
 data.microsoft.com
 dataplicity.com
+dc-storm.com
 dcs-vod.apis.anvato.net
 def-vef.xboxlive.com
 definitionupdates.microsoft.com
@@ -343,6 +359,7 @@ driftt.com
 drive.google.com
 dshield.org
 dsms0mj1bbhn4.cloudfront.net
+dtrk5.com
 dw.techrepublic.com
 dynupdate.no-ip.com
 e1.whatsapp.net
@@ -388,6 +405,7 @@ en-gb.facebook.com
 en.w3schools.com
 encrypted-tbn0.gstatic.com
 enews.techrepublic.com
+ensighten.com
 entitlement.auth.adobe.com
 epmclk.com
 epn.adledge.com
@@ -469,9 +487,11 @@ ftp.chocolatey.org
 ftp.hp.com
 g.live.com
 g.whatsapp.net
+gamefly.com
 gan.doubleclick.net
 gapt.hit.gemius.pl
 gdlp01.c-wss.com
+geistm.com
 gemius.pl
 geo-prod.do.dsp.mp.microsoft.com
 geo3.ggpht.com
@@ -489,7 +509,9 @@ gizbot.com
 gizmodo.com
 glyph.medium.com
 gn.symcb.com
+go-mpulse.net
 go.microsoft.com
+go.nordvpn.net
 go.redirectingat.com
 go.skimresources.com
 go2jump.org
@@ -502,6 +524,7 @@ googleadservices.com
 googleapis.com
 googleapis.l.google.com
 googlehosted.l.googleusercontent.com
+googletagmanager.com
 gopjn.com
 goto.target.com
 goto.walmart.com
@@ -520,7 +543,9 @@ help.ui.xboxlive.com
 hls.ted.com
 hn.algolia.com
 home.bt.com
+honey.io
 horizonhobby.co.uk
+hostgator.com
 hosts.herndl.org
 hostsfile.mine.nu
 hostsfile.org
@@ -543,11 +568,13 @@ icloud.com
 icq.com
 id.google.co.in
 id.google.com
+ihg.com
 image.elephantjournal.com
 image.ibb.co
 images-na.ssl-images-amazon.com
 images.dmca.com
 images.pluto.tv
+images.revtrax.com
 imagesak.secureserver.net
 imasdk.googleapis.com
 img-prod-cms-rt-microsoft-com.akamaized.net
@@ -568,6 +595,7 @@ indianexpress.com
 inference.location.live.net
 insights.peel-prod.com
 instantmessaging-pa.googleapis.com
+intelliad.de
 intercom.io
 ipinfo.info
 ipinfo.io
@@ -587,11 +615,13 @@ jdoqocy.com
 jobs.medium.com
 joewein.net
 join.slack.com
+joinhoney.com
 jquery.com
 js.indexww.com
 js.maxmind.com
 js.stripe.com
 jsdelivr.net
+jtlo.net
 keezmovies.com
 keystone.mwbsys.com
 khanacademy.org
@@ -600,6 +630,7 @@ kinja-debug.firebaseio.com
 kinja.com
 kqzyfj.com
 l-msedge.net
+landsend.com
 lastfm-img2.akamaized.net
 lcprd1.samsungcloudsolution.net
 learn.elephantjournal.com
@@ -616,6 +647,7 @@ lifehack.org
 lifehacker.com
 link.theplatform.com
 link.theskimm.com
+linkconnector.com
 linkedin.com
 links.da.slickdeals.net
 linksynergy.com
@@ -654,6 +686,7 @@ manifest.googlevideo.com
 maps.google.com
 maps.googleapis.com
 marinsm.com
+mathtag.com
 maxcdn.bootstrapcdn.com
 mboxedge22.tt.omtrdc.net
 mcgraw-hill.com
@@ -725,6 +758,7 @@ media.licdn.com
 media.sbs.com.au
 media.wired.com
 mediafire.com
+mediaforge.com
 mediaplex.com
 medium.com
 medium.freecodecamp.org
@@ -762,6 +796,7 @@ mmv274.whatsapp.net
 mobile.pipe.aria.microsoft.com
 mobilenetworkscoring-pa.googleapis.com
 movies.ndtv.com
+mplxtms.com
 mqtt.c10r.facebook.com
 mremote.org
 msedge.net
@@ -777,6 +812,7 @@ ndtv.com
 netdna.bootstrapcdn.com
 netflix.com
 netpnb.com
+networksolutions.com
 newsletters.nationalgeographic.com
 nexus.ensighten.com
 nexus.officeapps.live.com
@@ -785,6 +821,7 @@ nine.plugins.plexapp.com
 nls.techrepublic.com
 no-ip.com
 node.plexapp.com
+nordvpn.com
 noteworthy.medium.com
 notifications.google.com
 notify.xboxlive.com
@@ -848,6 +885,7 @@ pastebin.com
 paypal.com
 paytm.com
 peach.ebu.io
+pepperjamnetwork.com
 pf.directory.live.com
 pgi.billdesk.com
 phishing.mailscanner.info
@@ -882,6 +920,7 @@ portableapps.com
 portal.fb.com
 pps.whatsapp.net
 preferences.truste.com
+prf.hn
 pricelist.skype.com
 privacy-policy.truste.com
 prod.telemetry.ros.rockstargames.com
@@ -901,10 +940,12 @@ pushbullet.com
 pusher.com
 pusherapp.com
 puu.sh
+pxf.io
 q.stripe.com
 qa.sockets.stackexchange.com
 qksrv.net
 quantcast.mgr.consensu.org
+quantserve.com
 query.prod.cms.rt.microsoft.com
 ramp.purch.com
 raw.githubusercontent.com
@@ -923,8 +964,11 @@ res.cloudinary.com
 resources.sbs.com.au
 revinate.com
 rg3.github.io
+rlcdn.com
+rmtag.com
 router.bittorrent.com
 rover.ebay.com
+rrmo.net
 rt.com
 rtp-play.onesignal.com
 rukminim1.flixcart.com
@@ -983,6 +1027,7 @@ secure.surveymonkey.com
 secure.techrepublic.com
 seesaw.me
 self-repair.mozilla.org
+sephora.com
 serverfault.com
 service.weather.microsoft.com
 services.addons.mozilla.org
@@ -999,6 +1044,8 @@ silo.pluto.tv
 siloh.pluto.tv
 sitepoint.com
 sites.google.com
+sjv.io
+skimresources.com
 skyhook.sonarr.tv
 skype.com
 slack.com
@@ -1010,6 +1057,7 @@ smile.amazon.com
 smokingwheels.github.io
 smtp.mail.yahoo.com
 snapdeal.com
+society6.com
 solaredge.com
 sony.co.uk
 space.com
@@ -1043,6 +1091,7 @@ static2cdn.hubspot.com
 statsfe2.ws.microsoft.com
 status.plex.tv
 statuspage.io
+steelhousemedia.com
 stitcher.pluto.tv
 storage.googleapis.com
 store-images.s-microsoft.com
@@ -1056,14 +1105,18 @@ sv.symcd.com
 symcb.com
 synology.com
 sysctl.org
+t.cfjump.com
 t.myvisualiq.net
 t.paypal.com
 t.purch.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
+taboola.com
 tagcommander.com
 tawk.to
 tc.tradetracker.com
+tealeaf.com
+tealium.com
 techradar.com
 techrepublic.com
 techtarget.com
@@ -1074,6 +1127,7 @@ text.getpocket.com
 textshot.medium.com
 the.earth.li
 theandroidsoul.com
+thebrighttag.com
 theguardian.com
 themoviedb.com
 thetvdb.com
@@ -1086,6 +1140,7 @@ time.com
 time.samsungcloudsolution.com
 time.windows.com
 tinyurl.com
+tiqcdn.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tkqlhce.com
@@ -1095,6 +1150,7 @@ toptenreviews.com
 toreedgefd.dsx.mp.microsoft.com
 tpc.googlesyndication.com
 track.adform.net
+track.as
 track.ucas.com
 track.webgains.com
 tracker.debian.org
@@ -1116,13 +1172,16 @@ twimg.com
 twitter.com
 typingclub.com
 ui.skype.com
+uisv.net
 undefined.facebook.com
 unsplash.com
 update.code.visualstudio.com
 upload.facebook.com
+uqzq.net
 urs.techrepublic.com
 use.fontawesome.com
 use.typekit.net
+utag.ga
 v.firebog.net
 v.shopify.com
 v.whatsapp.net
@@ -1206,11 +1265,17 @@ www.affiliatefuture.com
 www.anrdoezrs.net
 www.apmebf.com
 www.app.adjust.com
+www.avantlink.ca
 www.avantlink.com
+www.awin1.com
+www.bestbuy.com
 www.bfast.com
+www.bluenile.ca
+www.bluenile.com
 www.cc-dt.com
 www.cj.com
 www.codeload.github.com
+www.commission-junction.com
 www.dataplicity.com
 www.device-metrics-us-2.amazon.co
 www.doubleclick.net
@@ -1241,14 +1306,18 @@ www.eu-gmtdmp.gd1.mookie1.com
 www.evyy.net
 www.fls-na.amazon.com
 www.fota5.adups.cn
+www.frontgate.com
 www.fs.microsoft.com
 www.googleadservices.com
 www.googleapis.com
 www.googletagmanager.com
 www.gopjn.com
+www.groupon.com
 www.gstatic.com
+www.hsn.com
 www.icloud.com
 www.jdoqocy.com
+www.joinhoney.com
 www.keezmovies.com
 www.kqzyfj.com
 www.linksynergy.com
@@ -1289,6 +1358,7 @@ www.plex.tv
 www.pntra.com
 www.pntrac.com
 www.pntrack.com
+www.pntrs.com
 www.pt-gmtdmp.mookie1.com
 www.qksrv.net
 www.quantcast.mgr.consensu.org
@@ -1305,6 +1375,7 @@ www.twitter.com
 www.web.whatsapp.com
 www.xboxlive.com
 www.youtube-nocookie.com
+www.zulily.com
 x.kinja-static.com
 xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
@@ -1316,6 +1387,7 @@ xkms.xboxlive.com
 xsts.auth.xboxlive.com
 xvideos.com
 yahoo.com
+yimg.com
 youtu.be
 youtube-dl.org
 youtube-nocookie.com
