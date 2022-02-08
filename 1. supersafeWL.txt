@@ -38,7 +38,6 @@ a790.w16.akamai.net
 aan.amazon-adsystem.com
 aan.amazon.co.uk
 aan.amazon.com
-aax-eu.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
 aax-us-iad.amazon.com
 aax-us-pdx.amazon-adsystem.com
@@ -72,7 +71,6 @@ adf.ly
 ads-e-darwin.hulustream.com
 ads.opensubtitles.org
 ads2.opensubtitles.org
-adservice.google.com
 adversity.uk.to
 ae.cwip.eset.com
 ae01.alicdn.com
@@ -143,7 +141,6 @@ apis.google.com
 apis.mail.yahoo.com
 apmebf.com
 app-api.ted.com
-app-measurement.com
 app.antpool.com
 app.convertkit.com
 app.plex.tv
@@ -168,7 +165,6 @@ askvg.com
 aspnetcdn.com
 asset.wsj.net
 assets-jpcust.jwpsrv.com
-assets.adobedtm.com
 assets.coinbase.com
 assets.gadgets360cdn.com
 assets.getpocket.com
@@ -230,7 +226,6 @@ blog.techrepublic.com
 blogram.net
 blogs.techrepublic.com
 bluehost.com
-bluekai.com
 boardgamegeek.com
 boards.greenhouse.io
 books.google.com
@@ -295,7 +290,6 @@ cdn.medium.com
 cdn.onenote.net
 cdn.onenote.net.edgekey.net
 cdn.onesignal.com
-cdn.optimizely.com
 cdn.perfdrive.com
 cdn.rawgit.com
 cdn.samsungcloudsolution.com
@@ -332,7 +326,6 @@ cfvod.kaltura.com
 channel9.msdn.com
 channels.roku.com
 chart.googleapis.com
-chartbeat.com
 chat.cdn.whatsapp.net
 chevrolet.com
 chocolatey.org
@@ -423,11 +416,9 @@ cryptauthenrollment.googleapis.com
 cs22.wpc.v0cdn.net
 cs9.wac.phicdn.net
 cse.google.com
-csi.gstatic.com
 csm-e-itv-eb.play.dar.itv.com
 csp.int-x3.letsencrypt.org.edgesuite.net
 csp.medium.com
-ct.pinterest.com
 ct.techrepublic.com
 ct.yimg.com
 ctldl.windowsupdate.com
@@ -486,8 +477,6 @@ doctor.ndtv.com
 domain.antpool.com
 dominos.co.in
 donorschoose.org
-dotomi.com
-doubleclick.net
 download.lenovo.com
 download.microsoft.com
 download.sonarr.tv
@@ -612,7 +601,6 @@ external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
 f.kinja-static.com
 f1.media.brightcove.com
-facebook.com
 facebook.net
 faq.whatsapp.com
 fast.fonts.net
@@ -674,7 +662,6 @@ gcm-http.googleapis.com
 gcm.googleapis.com
 gdlp01.c-wss.com
 geistm.com
-gekko.spiceworks.com
 gemius.pl
 geo-prod.do.dsp.mp.microsoft.com
 geo3.ggpht.com
@@ -701,16 +688,13 @@ go2jump.org
 godaddy.com
 goo.gl
 goodreads.com
-google-analytics.com
 google.com
-googleadservices.com
 googleapis.com
 googleapis.l.google.com
 googlehosted.l.googleusercontent.com
 gopjn.com
 goto.target.com
 goto.walmart.com
-graph.facebook.com
 graph.whatsapp.net
 gravatar.com
 groups.google.com
@@ -782,7 +766,6 @@ icloud.cdn-apple.com
 icloud.com
 icq.com
 id.google.co.in
-id.google.com
 ideone.com
 ihg.com
 im.upromise.com
@@ -800,7 +783,6 @@ images.revtrax.com
 images.theconversation.com
 images.unsplash.com
 imagesak.secureserver.net
-imasdk.googleapis.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 img.brightcove.com
@@ -937,7 +919,6 @@ maps.google.com
 maps.googleapis.com
 maps.windows.com
 marinsm.com
-mathtag.com
 maxcdn.bootstrapcdn.com
 mboxedge22.tt.omtrdc.net
 mcgraw-hill.com
@@ -1121,7 +1102,6 @@ office.poloniex.com
 office365.com
 officeclient.microsoft.com
 ogs.google.com
-ojrq.net
 ola.com
 olx.in
 om.cbsi.com
@@ -1129,12 +1109,10 @@ oms.symantec.com
 oneclient.sfx.ms
 onedrive.live.com
 onenetworkdirect.net
-onesignal.com
 onlinecourses.nptel.ac.in
 open.spotify.com
 openapi.samsung.com
 openphish.com
-openrcv.baidu.com
 openrtb-eu-west-1.axonix.com
 openrtb-t.axonix.com
 openrtb.adkernel.com
@@ -1163,7 +1141,6 @@ p2p.antpool.com
 package.chocolatey.org
 packages.chocolatey.org
 pagead.l.doubleclick.net
-pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 partner.microsoft.com
 partners.webmasterplan.com
@@ -1244,14 +1221,12 @@ pushbullet.com
 pusher.com
 pusherapp.com
 puu.sh
-px.spiceworks.com
 pxf.io
 q.stripe.com
 qa.sockets.stackexchange.com
 qksrv.net
 qme.mydns.jp
 quantcast.mgr.consensu.org
-quantserve.com
 query.prod.cms.rt.microsoft.com
 quora.com
 ramp.purch.com
@@ -1268,7 +1243,6 @@ redirect.viglink.com
 redirectingat.com
 redirector.googlevideo.com
 redirector.gvt1.com
-referrer.disqus.com
 reminders-pa.googleapis.com
 res.cloudinary.com
 resources.sbs.com.au
@@ -1381,7 +1355,6 @@ siloh.pluto.tv
 sitepoint.com
 sites.google.com
 sjv.io
-skimresources.com
 skyhook.sonarr.tv
 skype.com
 slack.com
@@ -1413,7 +1386,6 @@ spreadsheets.google.com
 sqs.us-east-1.amazonaws.com
 squidblacklist.org
 ssl.bblck.me
-ssl.google-analytics.com
 ssl.gstatic.com
 ssl.p.jwpcdn.com
 sslbl.abuse.ch
@@ -1491,7 +1463,6 @@ t.purch.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 t2bot.ru
-taboola.com
 tagcommander.com
 target.com
 tatacliq.com
@@ -1593,7 +1564,6 @@ useraction.zee5.com-v2.edgekey.net
 userapi.zee5.com-v4.edgekey.net
 utag.ga
 v.firebog.net
-v.shopify.com
 v.whatsapp.net
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
@@ -1839,7 +1809,6 @@ www.gizmodo.com
 www.glyph.medium.com
 www.go.microsoft.com
 www.goodreads.com
-www.google-analytics.com
 www.google.com
 www.googleadservices.com
 www.googleapis.com
@@ -1924,7 +1893,6 @@ www.o.aolcdn.com
 www.o1.email.medium.com
 www.o2.email.medium.com
 www.office.poloniex.com
-www.ojrq.net
 www.ola.com
 www.olx.in
 www.onenetworkdirect.net
