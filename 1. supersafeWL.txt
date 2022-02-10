@@ -8,8 +8,6 @@
 1drv.com
 1drv.ms
 1hosts.cf
-1x1.gi
-1x1.pn
 2-01-3cf7-000c.cdx.cedexis.net
 2-edge-chat.facebook.com
 2-undefined.facebook.com
@@ -96,6 +94,7 @@ amd.cdn.turner.com
 ams.plex.se
 amzn.to
 analytics.twitter.com
+analytics.yahoo.com
 android.clients.google.com
 angel.co
 anrdoezrs.net
@@ -195,6 +194,7 @@ b.marfeelcache.com
 b2bapi.zee5.com
 bankrate.com
 banners.spiceworks.com
+bat.bing.com
 bbc.com
 bbci.co.uk
 bc.marfeelcache.com
@@ -226,6 +226,7 @@ blog.techrepublic.com
 blogram.net
 blogs.techrepublic.com
 bluehost.com
+bluekai.com
 boardgamegeek.com
 boards.greenhouse.io
 books.google.com
@@ -419,6 +420,7 @@ cse.google.com
 csm-e-itv-eb.play.dar.itv.com
 csp.int-x3.letsencrypt.org.edgesuite.net
 csp.medium.com
+ct.pinterest.com
 ct.techrepublic.com
 ct.yimg.com
 ctldl.windowsupdate.com
@@ -477,6 +479,7 @@ doctor.ndtv.com
 domain.antpool.com
 dominos.co.in
 donorschoose.org
+dotomi.com
 download.lenovo.com
 download.microsoft.com
 download.sonarr.tv
@@ -680,6 +683,7 @@ gizbot.com
 gizmodo.com
 glyph.medium.com
 gn.symcb.com
+go-mpulse.net
 go.microsoft.com
 go.nordvpn.net
 go.redirectingat.com
@@ -688,10 +692,13 @@ go2jump.org
 godaddy.com
 goo.gl
 goodreads.com
+google-analytics.com
 google.com
+googleadservices.com
 googleapis.com
 googleapis.l.google.com
 googlehosted.l.googleusercontent.com
+googletagmanager.com
 gopjn.com
 goto.target.com
 goto.walmart.com
@@ -919,6 +926,7 @@ maps.google.com
 maps.googleapis.com
 maps.windows.com
 marinsm.com
+mathtag.com
 maxcdn.bootstrapcdn.com
 mboxedge22.tt.omtrdc.net
 mcgraw-hill.com
@@ -1102,6 +1110,7 @@ office.poloniex.com
 office365.com
 officeclient.microsoft.com
 ogs.google.com
+ojrq.net
 ola.com
 olx.in
 om.cbsi.com
@@ -1227,6 +1236,7 @@ qa.sockets.stackexchange.com
 qksrv.net
 qme.mydns.jp
 quantcast.mgr.consensu.org
+quantserve.com
 query.prod.cms.rt.microsoft.com
 quora.com
 ramp.purch.com
@@ -1355,6 +1365,7 @@ siloh.pluto.tv
 sitepoint.com
 sites.google.com
 sjv.io
+skimresources.com
 skyhook.sonarr.tv
 skype.com
 slack.com
@@ -1463,6 +1474,7 @@ t.purch.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 t2bot.ru
+taboola.com
 tagcommander.com
 target.com
 tatacliq.com
