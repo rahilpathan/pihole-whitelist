@@ -5797,8 +5797,8 @@ apimobile.lifelog.sonymobile.com
 apinchofhealthy.com
 apinchofpixiedust.com
 apipos.com
-apiproxy.elb.amazonaws.com
 apiproxy-device-prod-nlb.amazonaws.com
+apiproxy.elb.amazonaws.com
 apis.247sports.com
 apis.anvato.net
 apis.broadcastify.com
@@ -7340,7 +7340,6 @@ aurorahealthcare.org
 aurorak12.org
 aus.com
 aus.thunderbird.net
-aus.waterfox.net
 aus.waterfox.net
 aus5.mozilla.org
 auscanforum.com
@@ -19888,10 +19887,10 @@ device-api.asnapieu.com
 device-api.urbanairship.com
 device-firmware.gp-static.com
 device-messaging-na.amazon.com
-device-metrics.amazon.com
 device-metrics-us-2.amazon.co
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
+device-metrics.amazon.com
 device-provisioning.googleapis.com
 device.amplifi.com
 device.auth.xboxlive.com
@@ -21824,8 +21823,8 @@ du1gtm004.adobe.com
 du6zwf9bdczcq.cloudfront.net
 dual-gslb.spotify.com
 dualipa.com
-dualstack.apiproxy.elb.amazonaws.com
 dualstack.apiproxy-device-prod.elb.amazonaws.com
+dualstack.apiproxy.elb.amazonaws.com
 dualstack.be
 dualstack.beaconserver-ce.elb.amazonaws.com
 dualstack.ichnaea-web.elb.amazonaws.com
@@ -26053,7 +26052,6 @@ flowserve.com
 flowtoys.com
 floydhub.com
 flq.us
-fls.amazon-adsystem.com
 fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
 fls-eu.amazon-adsystem.com
@@ -26068,6 +26066,7 @@ fls-fe.amazon.co.jp
 fls-na.amazon-adsystem.com
 fls-na.amazon.ca
 fls-na.amazon.com
+fls.amazon-adsystem.com
 flsenate.gov
 flstudio.image-line.com
 fltplan.com
@@ -41116,7 +41115,6 @@ lodihealth.org
 lodz.tvp.pl
 loebbecke-bank.de
 lofter.com
-log.tiktokv.com
 log-1.samsungacr.com
 log-tb.sgsnssdk.com
 log-upload-os.mihoyo.com
@@ -42187,7 +42185,6 @@ madridiario.es
 madridnoche.com
 madrinhasdecasamento.com.br
 madriverhospital.com
-mads.amazon.com
 mads-eu.amazon.com
 mads.amazon-adsystem.com
 mads.amazon.com
@@ -45914,9 +45911,9 @@ mouser.com
 mouthhealthy.org
 mouv.fr
 mouwmotor.com
-movable-ink.com
 movable-ink-2183.com
 movable-ink-397.com
+movable-ink.com
 movavi.com
 moveon.org
 movescount.com
@@ -52536,7 +52533,6 @@ photonetc.com
 photopills.com
 photoreflect.com
 photoreview.gotinder.com
-photos.dropbox.com
 photos-1.dropbox.com
 photos-2.dropbox.com
 photos-3.dropbox.com
@@ -58409,7 +58405,6 @@ s2k7tnzlhrpw.statuspage.io
 s2p.mpay.samsung.com
 s2p.stg.mpay.samsung.com
 s2r.co
-s3.amazonaws.com
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
 s3-ap-southeast-1.amazonaws.com
@@ -58433,7 +58428,6 @@ s3-us-west-1-w.amazonaws.com
 s3-us-west-1.amazonaws.com
 s3-us-west-2.amazonaws.com
 s3-website-us-west-1.amazonaws.com
-s3.amazonaws.com
 s3.amazonaws.com
 s3.ap-northeast-2.amazonaws.com
 s3.ap-south-1.amazonaws.com
@@ -63588,7 +63582,6 @@ ssl-product-images.www8-hp.com
 ssl-stat.amebame.com
 ssl-static.janraincapture.com
 ssl-static.libsyn.com
-ssl.damoh.n-tv.de
 ssl.2.damoh.chip.de
 ssl.apple.com
 ssl.avexnet.or.jp
@@ -63599,6 +63592,7 @@ ssl.biglion.ru
 ssl.capitalfm.com
 ssl.cdn.turner.com
 ssl.comodo.com
+ssl.damoh.n-tv.de
 ssl.dlsite.com
 ssl.easypay.by
 ssl.fastly.net
@@ -76695,7 +76689,6 @@ www-support-downloads.sonymobile.com
 www-tc.pbs.org
 www-test.cas.org
 www-wp.viber.com
-www.cloudfront.net
 www.10010.com
 www.112.2o7.net
 www.122.2o7.net

@@ -256,7 +256,6 @@
 105.net
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.se
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
-106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 107.61.236.23.bc.googleusercontent.com
 1075kissfm.com
 1080.plus
@@ -2305,7 +2304,6 @@ aax-vx-us-us-east-1.amazon-adsystem.com
 aax-vx-us-us-west-2.amazon-adsystem.com
 aax.amazon.com
 aax.amazon-adsystem.amazon.com
-aax.amazon-adsystem.com
 aaxx.ga
 ab-in-den-urlaub.de
 ab.edu
@@ -7683,7 +7681,6 @@ android.googleapis.com
 android.googlesource.com
 android.intouch.sonymobile.com
 android.l.google.com
-android.l.google.com
 android.pool.ntp.org
 android.prod.cloud.netflix.com
 android.stackexchange.com
@@ -8440,7 +8437,6 @@ api.am.coinbase.com
 api.amazfit.com
 api.amazon.com
 api.amazon.in
-api.amazonalexa.com
 api.amazonalexa.com
 api.amplitude.com
 api.analysis.windows.net
@@ -11625,7 +11621,6 @@ aus-ias.edu.au
 aus.com
 aus.delve.office.com
 aus.thunderbird.net
-aus.waterfox.net
 aus.waterfox.net
 aus5.mozilla.org
 auscanforum.com
@@ -17380,7 +17375,6 @@ bolshoyvopros.ru
 bolsonaro.com.br
 bolt-gcdn.sc-cdn.net
 bolt.dropbox.com
-bolt.dropbox.com
 boltmwprod1-a.akamaihd.net
 boltsfromtheblue.com
 boluda.com
@@ -21574,7 +21568,6 @@ cdn.cosmicjs.com
 cdn.couponcabin.com
 cdn.coverstand.com
 cdn.cpnscdn.com
-cdn.cpnscdn.com
 cdn.cquotient.com
 cdn.cr.org
 cdn.creative-assembly.com
@@ -25069,7 +25062,6 @@ client-lb.dropbox.com
 client-nbservice.msn.com
 client-office365-tas.msedge.net
 client-s.gateway.messenger.live.com
-client-s.gateway.messenger.live.com
 client-strings.xboxlive.com
 client-test-01.westeurope.cloudapp.azure.com
 client-web.dropbox.com
@@ -26117,7 +26109,6 @@ codeigniter.com
 codeiixx.tumblr.com
 codelibrary.amlegal.com
 codelnet.com
-codeload.github.com
 codeload.github.com
 codely.tv
 codemasters.com
@@ -28786,7 +28777,6 @@ crks.me
 crkt.com
 crl-ds.ws.symantec.com.edgekey.net
 crl.adobe.com
-crl.apple.com
 crl.apple.com
 crl.comodoca.com
 crl.comodoca4.com
@@ -35628,7 +35618,6 @@ draeger.com
 draft.blogger.com
 drafthouse.com
 draftkings.com
-draftprodoms.trafficmanager.net
 draftprodoms.trafficmanager.net
 drag0n.org
 dragboatreview.com
@@ -49417,7 +49406,6 @@ googlehosted.com
 googlehosted.googleusercontent.com
 googlehosted.l.google.com
 googlehosted.l.googleusercontent.com
-googlehosted.l.googleusercontent.com
 googleideas.com
 googleinsidesearch.com
 googlelabs.com
@@ -57498,7 +57486,6 @@ img1.bdbphotos.com
 img1.beachbodyimages.com
 img1.bgxcdn.com
 img1.blogblog.com
-img1.blogblog.com
 img1.cgtrader.com
 img1.demotywatoryfb.pl
 img1.dirtywarez.com
@@ -57888,7 +57875,6 @@ imoti.net
 imovelweb.com.br
 imp-ppe.microsoft.com
 imp-serving.com
-imp.appledaily.com
 imp.appledaily.com
 imp.ch
 imp.i102628.net
@@ -58471,7 +58457,6 @@ infostrada.it
 infotel.ca
 infotephvg.edu.co
 infovia.net
-infowars.com
 infowars.com
 infowarsmedia.com
 infowarsstore.com
@@ -61990,7 +61975,6 @@ jpto.sonymobile.com
 jpurecords.com
 jpush.com
 jpw.ppe.datacatalog.azure.com
-jq.qq.com
 jq.qq.com
 jque.net
 jquery.co
@@ -67985,7 +67969,6 @@ log.internetat.tv
 log.mmstat.com
 log.ph
 log.quora.com
-log.tiktokv.com
 log.tpns.tencent.com
 log.ys7.com
 log.zoom.us
@@ -69707,7 +69690,6 @@ madriverhospital.com
 mads.amazon.com
 mads-eu.amazon.com
 mads.amazon-adsystem.com
-mads.amazon.com
 mads.tv.com
 madscience.org
 madshi.net
@@ -71374,7 +71356,6 @@ max.permato.com
 max.storage.msn.com
 max64.com
 maxbarskih.com
-maxcdn.bootstrapcdn.com
 maxcdn.bootstrapcdn.com
 maxcdn.com
 maxcoin.miningpoolhub.com
@@ -76116,7 +76097,6 @@ msguancha.com
 msguides.com
 msh.am
 msh.amazon.co.uk
-msh.amazon.com
 msh.amazon.com
 msh.amazon.de
 msha.gov
@@ -87399,7 +87379,6 @@ photos-df.live.com
 photos-eu.bazaarvoice.com
 photos-thumb.dropbox.com
 photos-ugc.l.googleusercontent.com
-photos-ugc.l.googleusercontent.com
 photos-us.bazaarvoice.com
 photos.1highscore.com
 photos.app.goo.gl
@@ -87410,7 +87389,6 @@ photos.brivity.com
 photos.classiccars.com
 photos.dealersocket.com
 photos.demandstudios.com
-photos.dropbox.com
 photos.essence.com
 photos.freeones.com
 photos.google.com
@@ -98651,7 +98629,6 @@ s2s.recommend.infra.skype.com
 s3.amazonaws.com
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
-s3-1.amazonaws.com
 s3-af-south-1.amazonaws.com
 s3-ap-east-1.amazonaws.com
 s3-ap-northeast-2.amazonaws.com
@@ -98710,10 +98687,7 @@ s3-website.eu-south-1.amazonaws.com
 s3-website.eu-west-2.amazonaws.com
 s3-website.eu-west-3.amazonaws.com
 s3-website.us-east-2.amazonaws.com
-s3.amazonaws.com
 s3.af-south-1.amazonaws.com
-s3.amazonaws.com
-s3.amazonaws.com
 s3.ap-east-1.amazonaws.com
 s3.ap-northeast-1.amazonaws.com
 s3.ap-northeast-2.amazonaws.com
@@ -116264,7 +116238,6 @@ tools.gotinder.com
 tools.ietf.org
 tools.kali.org
 tools.l.google.com
-tools.l.google.com
 tools.login.live.com
 tools.mgaz.de
 tools.naver.com
@@ -130715,7 +130688,6 @@ www.alcohol-soft.com
 www.alcpu.com
 www.alexa.com
 www.algolia.com
-www.algolia.com
 www.alibaba.com
 www.alicdn.com
 www.aliexpress.com
@@ -130931,7 +130903,6 @@ www.btc.ru.sp918.antpool.com
 www.btc.to
 www.bugmenot.com
 www.bugsnag.com
-www.bugsnag.com
 www.buscape.com.br
 www.business.opera.com
 www.businessinsider.com
@@ -131013,7 +130984,6 @@ www.clients1.google.com
 www.cliphunter.com
 www.cloudflare-dns.com
 www.cloudflare.com
-www.cloudfront.net
 www.cloudian.com
 www.cloudns.net
 www.clubedohardware.com.br
@@ -134144,7 +134114,6 @@ yep.it
 yep.video.yahoo.com
 yepi.com
 yerl.org
-yerl.org
 yes-news.com
 yes.my
 yes.xxx
@@ -134619,7 +134588,6 @@ yts.mx
 yts.re
 yts.wf
 ytstatic.l.google.com
-ytstatic.l.google.com
 yu.edu
 yu.xyz.mn
 yu2.it
@@ -135035,7 +135003,6 @@ zerodha.com
 zerodot1.github.io
 zerodot1.gitlab.io
 zerognews.com
-zerohedge.com
 zerohedge.com
 zeroinwisconsin.gov
 zeroistanbul.com
