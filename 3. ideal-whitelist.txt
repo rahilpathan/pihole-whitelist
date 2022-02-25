@@ -20,7 +20,6 @@
 0.client-channel.google.com
 0.cloudflare-dns.com
 0.cn.pool.ntp.org
-0.com
 0.coreos.pool.ntp.org
 0.datadog.pool.ntp.org
 0.de.pool.ntp.org
@@ -420,7 +419,7 @@
 1z.vk.com
 1zoom.me
 2-01-2c3e-003d.cdx.cedexis.net
-2-01-2c3e-005c.cdx.cedexis.net # CNAME
+2-01-2c3e-005c.cdx.cedexis.net
 2-01-3cf7-000c.cdx.cedexis.net
 2-edge-chat.facebook.com
 2-images.motorcar.com
@@ -1321,7 +1320,6 @@ a790.w16.akamai.net
 a8g4i9g5y.ssl.hwcdn.net
 a8uen9dp20c1ata400pwotgb-wpengine.netdna-ssl.com
 a90.g.akamai.net
-a90.g.akamai.net # www.dorkly.com
 a90skid.com
 aa-hip-prod.eastus.cloudapp.azure.com
 aa-trading.com
@@ -1383,7 +1381,6 @@ aat.org.uk
 aatkit.com
 aausports.org
 aaww.org
-aax-*.amazon-adsystem.com
 aax-cpm.amazon-adsystem.amazon.com
 aax-cpm.amazon-adsystem.com
 aax-eu-rtb-adx.amazon-adsystem.com
@@ -1409,9 +1406,9 @@ aax-vx-eu-eu-west-1.amazon-adsystem.com
 aax-vx-fe-us-west-2.amazon-adsystem.com
 aax-vx-us-us-east-1.amazon-adsystem.com
 aax-vx-us-us-west-2.amazon-adsystem.com
-aax.*.amazon.com
 aax.amazon-adsystem.amazon.com
 aax.amazon-adsystem.com
+aax.amazon.com
 ab954f7f-4945-49f3-9494-bd34ed75f152.cloudapp.net
 abacus.com
 abacusnews.com
@@ -1548,7 +1545,6 @@ abramsbooks.com
 abre.ai
 abril.com.br
 abroad.apilocate.amap.com
-abroad.apilocate.amap.com # Miband 4 weather location
 abs-0.twimg.com
 abs.ezw.me
 abs.twimg.com
@@ -1850,7 +1846,6 @@ acnur.org
 acoating.com
 acompli.helpshift.com
 acompli.net
-acompli.net$app=com.microsoft.office.outlook
 aconstantinobrandao.com.br
 acorns.com
 acosm.in
@@ -1953,7 +1948,6 @@ activity.api.np.km.playstation.net
 activity.m.duiba.com.cn
 activity.netroam.mihome.xiaomi.net
 activity.windows.com
-activity.windows.com # brake Authenticator backup function
 actiweb.es
 actonservice.com
 actonsoftware.com
@@ -2047,7 +2041,6 @@ adapt.org
 adaptervendor.com
 adaptyourlife.com
 adash.man.aliyuncs.com
-adash.man.aliyuncs.com # for aliyun document api
 adashx.m.taobao.com
 adata.com
 adaware.com
@@ -2184,7 +2177,7 @@ admdownload.adobe.com
 adme.ru
 admeta.ph
 admin-official.line.me
-admin-webex-com-*.*.elb.amazonaws.com
+admin-webex-com.elb.amazonaws.com
 admin.acceleratingscience.com
 admin.blog.naver.com
 admin.brightcove.com
@@ -3270,7 +3263,7 @@ akam3.cdn.jdmagicbox.com
 akam4.cdn.jdmagicbox.com
 akamai-b.cddbp.net
 akamai-b.cdn.cddbp.net
-akamai-san*.exacttarget.com.edgekey.net
+akamai-san.exacttarget.com.edgekey.net
 akamai-static.ebaycdn.net
 akamai.com
 akamai.net
@@ -3945,7 +3938,6 @@ amazon.coffee
 amazon.college
 amazon.cologne
 amazon.com
-amazon.com$app=com.audible.application
 amazon.com.au
 amazon.com.br
 amazon.com.mx
@@ -4419,8 +4411,6 @@ amazonalexa.com
 amazonas.am.gov.br
 amazonaws.cn
 amazonaws.com
-amazonaws.com$app=com.tunnelbear.android
-amazonaws.com$app=ru.beeline.services
 amazoncustomerservice.d2.sc.omtrdc.net
 amazonforum.com
 amazongames.com
@@ -4637,7 +4627,6 @@ amp-integration.glomex.com
 amp-reddit-com.cdn.ampproject.org
 amp.akamaized.net
 amp.businessinsider.com
-amp.businessinsider.com # Article image
 amp.cnbc.com
 amp.com.au
 amp.dailycaller.com
@@ -4821,15 +4810,12 @@ android-tv-api-us.crackle.com
 android-x86.org
 android.bugly.qq.com
 android.clients.google.com
-android.clients.google.com  # Android play
 android.com
 android.com.pl
 android.gadgethacks.com
 android.googleapis.com
 android.intouch.sonymobile.com
 android.l.google.com
-android.l.google.com # Android play
-android.l.google.com #google play
 android.pool.ntp.org
 android.prod.cloud.netflix.com
 android.stackexchange.com
@@ -5161,7 +5147,6 @@ ap.cdn.survey.medallia.com
 ap.ebs.bankofchina.com
 ap.ign.com
 ap.org
-ap.org # News main stream
 ap.orgdict.leo.org
 ap.rdcpix.com
 ap.spotify.com
@@ -5292,7 +5277,6 @@ api.amazfit.com
 api.amazon.com
 api.amazon.in
 api.amazonalexa.com
-api.amazonalexa.com  #firetv stick
 api.amplitude.com
 api.anti-captcha.com
 api.antpool.com
@@ -5342,7 +5326,7 @@ api.breezometer.com
 api.brightcove.com
 api.browser.intl.miui.com
 api.browser.miui.com
-api.browser.yandex.ru$app=ru.yandex.disk
+api.browser.yandex.ru
 api.brs.intl.miui.com
 api.bufferapp.com
 api.calendar.intl.miui.com
@@ -5411,7 +5395,6 @@ api.euro.hismarttv.com
 api.exchange.coinbase.com
 api.experianaperture.io
 api.facebook.com
-api.facebook.com # needed while viewing previous voice clip on mobile messenger
 api.faceid.com
 api.fast.com
 api.fboom.me
@@ -5521,10 +5504,9 @@ api.mihome.xiaomi.net
 api.mina.mi.com
 api.miui.security.xiaomi.com
 api.miwifi.com
-api.mobile-api.ru$app=ru.mamba.client
+api.mobile-api.ru
 api.mobile.immobilienscout24.de
 api.monitor.azure.com
-api.monitor.azure.com # CNAME
 api.music.apple.com
 api.my.avira.com
 api.mygrocerydeals.com
@@ -5672,7 +5654,6 @@ api.surfeasy.com
 api.syndicaster.tv
 api.taboola.com
 api.target.com
-api.target.com # target.com
 api.tastyworks.com
 api.tau.vk.com
 api.teams.skype.com
@@ -5765,12 +5746,11 @@ api.xmpush.xiaomi.com
 api.xposed.info
 api.yotpo.com
 api.zaloapp.com
-api.zaloapp.com # Sticker cant load
 api.zhihu.com
 api.zhuti.intl.xiaomi.com
 api.zhuti.xiaomi.com
 api.zingnews.vn
-api.zomato.com$app=com.application.zomato
+api.zomato.com
 api.zuza.com
 api.zynga.com
 api0.origin.com
@@ -5817,8 +5797,8 @@ apimobile.lifelog.sonymobile.com
 apinchofhealthy.com
 apinchofpixiedust.com
 apipos.com
-apiproxy-*-*.*.elb.amazonaws.com
-apiproxy-device-prod-nlb-*.*.amazonaws.com
+apiproxy.elb.amazonaws.com
+apiproxy-device-prod-nlb.amazonaws.com
 apis.247sports.com
 apis.anvato.net
 apis.broadcastify.com
@@ -5900,7 +5880,6 @@ app.aave.com
 app.acuityscheduling.com
 app.adaway.org
 app.adjust.com
-app.adjust.com$app=com.azure.authenticator
 app.adjust.io
 app.adjust.net.in
 app.alipay.com
@@ -6325,7 +6304,6 @@ arcticapi.com
 arcticeider.com
 arcticmonkeys.com
 arcus-uswest.amazon.com
-arcus-uswest.amazon.com # firetv stick
 arczip.com
 ard.de
 ardmediathek.de
@@ -6762,7 +6740,6 @@ assets.247sports.com
 assets.academy.com
 assets.adidas.com
 assets.adobedtm.com
-assets.adobedtm.com # Adobe tutorial assets wont load
 assets.adobetm.com
 assets.aftership.com
 assets.ajmadison.com
@@ -7218,7 +7195,6 @@ au.download.windowsupdate.com
 au.download.windowsupdate.com.edgesuite.net
 au.edubirdie.com
 au.ff.avast.sec.miui.com
-au.ff.avast.sec.miui.com # Xiaomi security app
 au.hide.me
 au.ign.com
 au.indeed.com
@@ -7259,7 +7235,7 @@ audi.de
 audibank.de
 audible.co.uk
 audible.com
-audible.de$app=com.audible.application
+audible.de
 audible.fr
 audibletrack.com
 audibletrial.com
@@ -7365,7 +7341,7 @@ aurorak12.org
 aus.com
 aus.thunderbird.net
 aus.waterfox.net
-aus.waterfox.net// FF sync
+aus.waterfox.net
 aus5.mozilla.org
 auscanforum.com
 ausertimes.blogspot.com
@@ -7703,7 +7679,7 @@ avrotros.nl
 avrupagoz.com
 avrupagoz.com.tr
 avrupd.onkyo.com
-avs-alexa-*-*.amazon.com
+avs-alexa.amazon.com
 avselectro.ru
 avsforum.com
 avsforum.com.cdn.cloudflare.net
@@ -7847,18 +7823,15 @@ azure.com.au
 azure.microsoft.com
 azurecomcdn.azureedge.net
 azureedge.net
-azureedge.net$app=com.microsoft.office.outlook
 azurespeed.com
 azurewebsites.net
 azvision.az
 b-api.facebook.com
-b-api.facebook.com # facebook lite / messenger lite login required
 b-cdn.net
 b-cloud.templatebank.com
 b-g-ca-3.betterstream.co
 b-gat.es
 b-graph.facebook.com
-b-graph.facebook.com # facebook lite / messenger lite login required
 b-jacobdawson.deviantart.com
 b-jazz.com
 b-side.org.uk
@@ -8730,7 +8703,7 @@ beacon.netflix.com
 beaconama.net
 beaconbeta.schneidercorp.com
 beaconortho.com
-beaconserver-ce-*.*.elb.amazonaws.com
+beaconserver-ce.elb.amazonaws.com
 beacukai.go.id
 beagleboard.org
 beam.pro
@@ -9200,7 +9173,6 @@ bglmed.de
 bgo-records.com
 bgonair.bg
 bgp.fe01.c3.xiaomi.com
-bgp.fe01.c3.xiaomi.com # Xiaomi login
 bgp.he.net
 bgr.co
 bgr.com
@@ -10568,7 +10540,6 @@ bollywoodlife.com
 bolsonaro.com.br
 bolt-gcdn.sc-cdn.net
 bolt.dropbox.com
-bolt.dropbox.com #dropbox client sync
 boltmwprod1-a.akamaihd.net
 boluda.com
 bom.to
@@ -11551,7 +11522,6 @@ buy.ele.me
 buy.garmin.com
 buy.garmin.com.cdn.cloudflare.net
 buy.geni.us
-buy.geni.us # https://www.pcworld.com/article/3317848/storage/the-spacious-1tb-sandisk-ultra-ssd-is-one-of-the-best-drives-you-can-buy-and-its-cheaper-than-ever.html
 buy.gm.com
 buy.itunes.apple.com
 buy.line.me
@@ -11675,7 +11645,6 @@ c.cintnetworks.com
 c.cwip.eset.com
 c.digikey.com
 c.disquscdn.com
-c.disquscdn.com # For wordpress plugin
 c.disquscdn.com.cdn.cloudflare.net
 c.dvdfab.cn
 c.eset.com
@@ -11691,7 +11660,6 @@ c.live.com
 c.live.com.nsatc.net
 c.maps.velocityweather.com
 c.media-amazon.com
-c.media-amazon.com # IMDB
 c.mi.com
 c.microsoft.com
 c.mmcdn.net
@@ -11719,7 +11687,6 @@ c.tenor.com
 c.tile.openstreetmap.org
 c.trackmytarget.com
 c.trello.com
-c.trello.com # Trello content
 c.vk.com
 c.wallhere.com
 c.xbox.com
@@ -12081,7 +12048,6 @@ campaign-archive2.com
 campaign-image.com
 campaign.abb.com
 campaign.adobe.com
-campaign.adobe.com # CNAME of t.emailing.monoprix.fr
 campaign.aliexpress.com
 campaign.consumer.entitlement.skype.com
 campaign.consumer.huawei.com
@@ -13045,7 +13011,6 @@ cdn.cosmicjs.com
 cdn.couponcabin.com
 cdn.coverstand.com
 cdn.cpnscdn.com
-cdn.cpnscdn.com #BJSapp
 cdn.cquotient.com
 cdn.cr.org
 cdn.creative-assembly.com
@@ -13288,7 +13253,6 @@ cdn.onesignal.com
 cdn.opinionlab.com
 cdn.opticsandlab.com
 cdn.optimizely.com
-cdn.optimizely.com # Used by Origin for content delivery
 cdn.optinmonster.com
 cdn.osxdaily.com
 cdn.outdoorhub.com
@@ -13414,7 +13378,6 @@ cdn.support.sonymobile.com
 cdn.survey.medallia.com
 cdn.suwalls.com
 cdn.syndication.twimg.com
-cdn.syndication.twimg.com # Embeded twitt
 cdn.syndication.twitter.com
 cdn.sysprobs.com
 cdn.taganime.co
@@ -13819,7 +13782,6 @@ cdromance.com
 cds.b5g9b8e4.hwcdn.net
 cds.csx.sony.com
 cds.d2s7q6s2.hwcdn.net
-cds.d2s7q6s2.hwcdn.net # endpoint is used by the Highwinds Content Delivery Network to perform Windows updates
 cds.j3z9t3p6.hwcdn.net
 cds.s5x3j6q5.hwcdn.net
 cds.x2u5r8g3.hwcdn.net
@@ -14751,10 +14713,8 @@ ci.thefashionspot.com
 ci.totallyher.com
 ci3.googleusercontent.com
 ci4.googleusercontent.com
-ci4.googleusercontent.com # image inside gmail
 ci42.actonsoftware.com
 ci5.googleusercontent.com
-ci5.googleusercontent.com # image inside gmail
 ci6.googleusercontent.com
 ci61.actonsoftware.com
 cia.gov
@@ -15002,7 +14962,6 @@ ckpool.org
 cksmh.gov.tw
 cl.cam.ac.uk
 cl.exct.net
-cl.exct.net # (salesforce) required for some sites' acct recovery emails
 cl.lk
 cl.ly
 cl.pinterest.com
@@ -15211,19 +15170,12 @@ click.updates.ubisoft.com
 click.vi
 click.virt.exacttarget.com
 click.virt.s10.exacttarget.com
-click.virt.s10.exacttarget.com # Click link CNAME for salesforce marketing cloud
 click.virt.s11.exacttarget.com
-click.virt.s11.exacttarget.com # Click link CNAME for salesforce marketing cloud
 click.virt.s12.exacttarget.com
-click.virt.s12.exacttarget.com # Click link CNAME for salesforce marketing cloud
 click.virt.s4.exacttarget.com
-click.virt.s4.exacttarget.com # Click link CNAME for salesforce marketing cloud
 click.virt.s5.exacttarget.com
-click.virt.s5.exacttarget.com # Click link CNAME for salesforce marketing cloud
 click.virt.s6.exacttarget.com
-click.virt.s6.exacttarget.com # Click link CNAME for salesforce marketing cloud
 click.virt.s7.exacttarget.com
-click.virt.s7.exacttarget.com # Click link CNAME for salesforce marketing cloud
 click.vk.com
 click.zoom.us
 click2houston.com
@@ -15282,7 +15234,6 @@ client-green.jenkins.ops.corp.zoom.com
 client-lb.dropbox.com
 client-office365-tas.msedge.net
 client-s.gateway.messenger.live.com
-client-s.gateway.messenger.live.com #skype login
 client-web.dropbox.com
 client.akamai.com
 client.amplifi.com
@@ -15444,7 +15395,7 @@ cloud-1.steamusercontent.com
 cloud-2.steamusercontent.com
 cloud-3.steamusercontent.com
 cloud-4.steamusercontent.com
-cloud-api.yandex.net$app=ru.yandex.disk
+cloud-api.yandex.net
 cloud-native-sre.wtf
 cloud.blender.org
 cloud.bluestacks.com
@@ -15683,7 +15634,6 @@ cn-geo1.uber.com
 cn.antpool.com
 cn.app.chat.xiaomi.net
 cn.bing.com
-cn.bing.com # For chinese user
 cn.bing.net
 cn.engadget.com
 cn.gravatar.com
@@ -15853,7 +15803,6 @@ codegrazer.com
 codegrepper.com
 codelibrary.amlegal.com
 codeload.github.com
-codeload.github.com #download
 codely.tv
 codemasters.com
 codementor.io
@@ -16437,10 +16386,8 @@ config.ioam.de
 config.mobirate.com
 config.mycloud.com
 config.outturner.com
-config.outturner.com # ios/android will blank page
 config.pandora.com
 config.pinyin.sogou.com
-config.pinyin.sogou.com # Config
 config.samqaicongen.com
 config.skype.com
 config.ubnt.com
@@ -16490,7 +16437,6 @@ connect.ok.ru
 connect.privacystar.com
 connect.qq.com
 connect.rom.miui.com
-connect.rom.miui.com # captive_portal
 connect.rtb.ru
 connect.scroll.com
 connect.secure.wellsfargo.com
@@ -16730,7 +16676,6 @@ contimotousablog.com
 continental-corporation.com
 continuetogive.com
 continuum.dds.microsoft.com
-continuum.dds.microsoft.com # Connect your phone to Microsoft windows
 continuum.graphics
 contnt.ly
 contour.com
@@ -17008,7 +16953,7 @@ counter-strike.net
 countere.com
 counterfire.org
 counterpath.com
-countess-prod-public-*.*.elb.amazonaws.com
+countess-prod-public.elb.amazonaws.com
 countess.twitch.tv
 countgore.com
 countingdownto.com
@@ -17226,7 +17171,6 @@ crazyimg.com
 crazymikesapps.com
 crazypatterns.net
 crbcdn.jsfiddle.net
-crbcdn.jsfiddle.net # Javascript online playground
 crbug.com
 crc.zoom.com
 crca.ucsd.edu
@@ -17776,7 +17720,6 @@ cs829417-20.vk.com
 cs829417-30.vk.com
 cs837.wac.edgecastcdn.net
 cs9.wac.phicdn.net
-cs9.wac.phicdn.net # endpoints are used by the Verizon Content Delivery Network to perform Windows updates
 cs910.vk.com
 cs92612.vk.com
 cs9360.vk.com
@@ -17894,7 +17837,6 @@ ct-m-fbx.fbsbx.com
 ct-res.cloudinary.com
 ct.discogs.com
 ct.impactradius.com
-ct.impactradius.com # CNAME of goto.jet.com
 ct.pinterest.com
 ct.sendgrid.net
 ct.techrepublic.com
@@ -18063,7 +18005,6 @@ custody.coinbase.com
 custojusto.pt
 custom-foam-inserts.com
 custom.bnc.lt
-custom.bnc.lt # CNAME of link.swa.info
 custom.plausible.io
 customa2z.com
 customaniacs.org
@@ -18084,12 +18025,10 @@ customers.havis.com
 customerservicelife.com
 customizedgirl.com
 customlinks.appsflyer.com
-customlinks.appsflyer.com # CNAME of click.snapshat.com
 customnet.co.uk
 custompcma.com
 custompcreview.com
 customtraffic.impactradius.com
-customtraffic.impactradius.com # CNAME of goto.target.com
 customtruck.com
 customwifispycameras.com
 custsrv_login.do
@@ -18611,7 +18550,6 @@ d3o3xk5laa66xl.cloudfront.net
 d3ogvdx946i4sr.cloudfront.net
 d3ojfab0q2dwum.cloudfront.net
 d3orhvfyxudxxq.cloudfront.net
-d3orhvfyxudxxq.cloudfront.net # CNAME images.ctfassets.net
 d3otus7o5uizil.cloudfront.net
 d3ovluux6b7f2q.cloudfront.net
 d3p8zr0ffa9t17.cloudfront.net
@@ -18869,7 +18807,6 @@ darmstadt.de
 darmstadt.ui-traffic.de
 darshanyeshiva.org
 dart.l.doubleclick.net
-dart.l.doubleclick.net # CNAME of ad.doubleclick.net
 dartington.org.uk
 dartmouth.edu
 dartsearch.net
@@ -19134,7 +19071,6 @@ dbzer0.com
 dc-e70d1ce32117.chia-anime.tv
 dc-msedge.net
 dc-ppe.trafficmanager.net
-dc-ppe.trafficmanager.net # CNAME
 dc.applicationinsights.azure.com
 dc.applicationinsights.microsoft.com
 dc.fandom.com
@@ -19145,7 +19081,6 @@ dc25fa3b90806dea35a3-c6624d51d7070fec85e79dd91d1b12f6.ssl.cf5.rackcdn.com
 dc502wrt.org
 dca.nl
 dcape-na.amazon.com
-dcape-na.amazon.com  # firetv stick
 dcarack08.vpg.cdn.yimg.com
 dcard.tw
 dcc-jpl.com
@@ -19807,7 +19742,6 @@ detectadblock.com
 detective-store.com
 detector.maltronics.com
 detectportal.firefox.com
-detectportal.firefox.com # is used to detect captive portals on public wifi networks to be able to redirect you to their logon screen
 detik.com
 detne.ws
 detoxdudes.com
@@ -19927,7 +19861,6 @@ developers.cloudflare.com
 developers.coinbase.com
 developers.facebook.com
 developers.google.com
-developers.google.com$app=com.symantec.mobilesecurity
 developers.googleblog.com
 developers.hp.com
 developers.line.me
@@ -19955,7 +19888,7 @@ device-api.asnapieu.com
 device-api.urbanairship.com
 device-firmware.gp-static.com
 device-messaging-na.amazon.com
-device-metrics-*.amazon.com
+device-metrics.amazon.com
 device-metrics-us-2.amazon.co
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
@@ -20229,7 +20162,7 @@ digit.in
 digital-advisor.com
 digital-jedi.deviantart.com
 digital-photography-school.com
-digital-railcard.co.uk$app=com.raildeliverygroup.railcard
+digital-railcard.co.uk
 digital-watchdog.com
 digital.noorbank.com
 digital.olivesoftware.com
@@ -20679,7 +20612,6 @@ dl-bia2.ir
 dl-canary.discordapp.net
 dl-client.dropbox.com
 dl-count.xposed.info
-dl-debug*.dropbox.com
 dl-debug.dropbox.com
 dl-desktop-apps.sonymobile.com
 dl-desktop-xcapps.sonymobile.com
@@ -20721,7 +20653,6 @@ dl.flipagram.com
 dl.flipkart.com
 dl.free.fr
 dl.google.com
-dl.google.com$app=com.android.providers.media
 dl.hulu.com
 dl.humble.com
 dl.imgbox.com
@@ -20810,7 +20741,7 @@ dlr.rlp.de
 dlr.sd.gov
 dlrdoc.deere.com
 dlrshv.es
-dls-udc.dqa.samsung.com$app=com.samsung.accessory.safiletransfer
+dls-udc.dqa.samsung.com
 dls.di.atlas.samsung.com
 dls.net
 dlshield.com
@@ -21457,7 +21388,7 @@ downloadcenter.intel.com
 downloadcenter.samsung.com
 downloadcenter.trendmicro.com
 downloadconfiguratorcloud.sonymobile.com
-downloader.disk.yandex.ru$app=ru.yandex.disk
+downloader.disk.yandex.ru
 downloadfestival.co.uk
 downloadg.garmin.com
 downloadgram.com
@@ -21574,7 +21505,6 @@ draeger.com
 drafthouse.com
 draftkings.com
 draftprodoms.trafficmanager.net
-draftprodoms.trafficmanager.net #CNAME
 dragboatreview.com
 dragcity.com
 dragd.is
@@ -21855,7 +21785,6 @@ dsm01pap002files.storage.live.com
 dsms0mj1bbhn4.cloudfront.net
 dsogaming.com
 dsp.brand.sogou.com
-dsp.brand.sogou.com # image
 dspultra.com
 dspy.me
 dsr.gd
@@ -21895,11 +21824,11 @@ du1gtm004.adobe.com
 du6zwf9bdczcq.cloudfront.net
 dual-gslb.spotify.com
 dualipa.com
-dualstack.apiproxy-*-*.*.elb.amazonaws.com
-dualstack.apiproxy-device-prod-*.elb.*.amazonaws.com
+dualstack.apiproxy.elb.amazonaws.com
+dualstack.apiproxy-device-prod.elb.amazonaws.com
 dualstack.be
-dualstack.beaconserver-ce-*.*.elb.amazonaws.com
-dualstack.ichnaea-web-*.*.elb.amazonaws.com
+dualstack.beaconserver-ce.elb.amazonaws.com
+dualstack.ichnaea-web.elb.amazonaws.com
 dualstack.imgur-1414492366.us-east-1.elb.amazonaws.com
 dualstack.kayak.map.fastly.net
 dualstack.reddit.map.fastly.net
@@ -22079,7 +22008,6 @@ dynabook.com
 dynadot.com
 dynaimage.cdn.cnn.com
 dynaimage.cdn.turner.com
-dynaimage.cdn.turner.com # ios CNN image will load
 dynamic-assets.coinbase.com
 dynamic-cdn.spot.im
 dynamic.12306.cn
@@ -22126,7 +22054,6 @@ dz2cdn4.dzone.com
 dz4link.com
 dzb-bank.de
 dzc-metrics.mzstatic.com
-dzc-metrics.mzstatic.com # Itunes desktop sync
 dzh.mop.com
 dzhsag-dhstxuyamc7k.cloudmaestro.com
 dziendobry.tvn.pl
@@ -22236,7 +22163,6 @@ e3489.cd.akamaiedge.net
 e360.yale.edu
 e37.eu
 e3843.g.akamaiedge.net
-e3843.g.akamaiedge.net # support.microsoft.com
 e3f49eaa46b57.cdn.sohucs.com
 e4.whatsapp.net
 e4478.a.akamaiedge.net
@@ -22666,7 +22592,6 @@ edge-core.com
 edge-enterprise.activity.windows.com
 edge-gamers.com
 edge-mqtt.facebook.com
-edge-mqtt.facebook.com # get online and showing messenger current online status
 edge.activity.windows.com
 edge.api.brightcove.com
 edge.bamgrid.com
@@ -22691,7 +22616,6 @@ edgessl.sherpadm.com
 edgestudio.com
 edgesuite.net
 edgetipscdn.microsoft.com
-edgetipscdn.microsoft.com # cdn to load css at www.microsoftedgeinsider.com
 edgewoodanimalhospital.com
 edgexfoundry.org
 edgunleshiy.com
@@ -24858,7 +24782,6 @@ facebook.at
 facebook.cn
 facebook.co
 facebook.com
-facebook.com$app=com.instagram.android
 facebook.com.au
 facebook.com.br
 facebook.com.edgekey.net
@@ -26130,7 +26053,7 @@ flowserve.com
 flowtoys.com
 floydhub.com
 flq.us
-fls-*.amazon-adsystem.com
+fls.amazon-adsystem.com
 fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
 fls-eu.amazon-adsystem.com
@@ -26145,7 +26068,6 @@ fls-fe.amazon.co.jp
 fls-na.amazon-adsystem.com
 fls-na.amazon.ca
 fls-na.amazon.com
-fls-na.amazon.com # IMDB
 flsenate.gov
 flstudio.image-line.com
 fltplan.com
@@ -26211,7 +26133,6 @@ fmyokohama.co.jp
 fmz.com
 fn.tc
 fna.fbcdn.net
-fna.fbcdn.net$app=com.facebook.katana
 fnac.com
 fnac.pt
 fnacspectacles.com
@@ -26293,7 +26214,6 @@ fonts.com
 fonts.google.com
 fonts.googleapis.com
 fonts.gstatic.com
-fonts.gstatic.com$app=com.google.android.gms
 fonts.net
 fontsc.com
 fontspace.com
@@ -27736,7 +27656,6 @@ g.delfi.lt
 g.download.windowsupdate.com.c.footprint.net
 g.espncdn.com
 g.ezoic.net
-g.ezoic.net # CNAME of www.techiediaries.com
 g.foolcdn.com
 g.ign.com
 g.justwatch.com
@@ -28440,7 +28359,6 @@ genuine.adobe.com
 genuine.microsoft.com
 genuinegmparts.com
 geo-applefinance-cache.internal.query.g03.yahoodns.net
-geo-applefinance-cache.internal.query.g03.yahoodns.net # Check currency or stock on spotlight
 geo-media.beatport.com
 geo-prod.do.dsp.mp.microsoft.com
 geo-prod.dodsp.mp.microsoft.com.nsatc.net
@@ -28691,7 +28609,6 @@ gg.google.com
 gg.pl
 ggnome.com
 ggpht.com
-ggpht.com$app=com.google.android.youtube
 ggpht.net
 ggrecon.com
 ggsgamer.com
@@ -29229,7 +29146,6 @@ go.onelink.me
 go.ostp.gov
 go.osu.edu
 go.pardot.com
-go.pardot.com # CNAME of goto.algolia.com
 go.peoplepower.org
 go.purenetworks.com
 go.recordedfuture.com
@@ -29506,8 +29422,6 @@ google.co.za
 google.co.zm
 google.co.zw
 google.com
-google.com$app=com.vkontakte.android
-google.com$app=ru.yandex.disk
 google.com.af
 google.com.ag
 google.com.ai
@@ -29676,9 +29590,6 @@ googleadservices.com
 googleadservises.com
 googleandyourbusiness.blogspot.com
 googleapis.com
-googleapis.com$app=com.google.android.calendar
-googleapis.com$app=com.google.android.gms
-googleapis.com$app=com.google.android.syncadapters.calendar
 googleapis.l.google.com
 googleblog.blogspot.com
 googleblog.blogspot.fr
@@ -29693,7 +29604,6 @@ googlefornonprofits.blogspot.com
 googlehosted.com
 googlehosted.googleusercontent.com
 googlehosted.l.googleusercontent.com
-googlehosted.l.googleusercontent.com #google play
 googlemail.l.google.com
 googleonlinesecurity.blogspot.com
 googlepolicyeurope.blogspot.fr
@@ -29706,7 +29616,6 @@ googletagmanager.com
 googletagservices.com
 googletoolbarhelp.blogspot.com
 googleusercontent.com
-googleusercontent.com$app=com.google.android.youtube
 googlevideo.com
 googlevoiceblog.blogspot.com
 googleweblight.com
@@ -29937,9 +29846,8 @@ graph-video.facebook.com
 graph.accountkit.com
 graph.bustle.com
 graph.facebook.com
-graph.facebook.com # it may break login and developer tool
 graph.facebook.net
-graph.fbpigeon.com$app=com.facebook.katana
+graph.fbpigeon.com
 graph.instagram.com
 graph.microsoft.com
 graph.qq.com
@@ -30260,7 +30168,6 @@ gsp1.apple.com
 gspinc.com
 gstatic.com
 gstaticadssl.l.google.com
-gstaticadssl.l.google.com # fonts.gstatic.com
 gsuite.google.co.uk
 gsuite.google.com
 gsuite.google.com.br
@@ -30500,7 +30407,6 @@ guysandstthomas.nhs.uk
 gvpcertvideos.att.com
 gvsu.edu
 gvt1.com
-gvt1.com$app=com.google.android.gms
 gvt2.com
 gvu.gatech.edu
 gvx.blob.core.windows.net
@@ -31015,7 +30921,6 @@ hdz.hr
 he-il.facebook.com
 he.gravatar.com
 he.net
-he.net # DNS provider
 he.wikipedia.com
 he.wikipedia.org
 heacademy.ac.uk
@@ -32348,7 +32253,6 @@ hrw.org
 hs-karlsruhe.de
 hs-scripts.com
 hs.eloqua.com
-hs.eloqua.com # Oracle Eloqua landing page CNAME target
 hs.fi
 hs.llnwd.net
 hs.mediadelivery.fi
@@ -32717,7 +32621,6 @@ hyves.tc
 hyves.tw
 hzmb.gov.hk
 hzqman.vk.com
-i*.gmx.net
 i-2.co
 i-am3p-cor003.api.p001.1drv.com
 i-bank.bgpb.by
@@ -32781,6 +32684,7 @@ i.fyu.se
 i.gadgets360cdn.com
 i.gifer.com
 i.giphy.com
+i.gmx.net
 i.goopics.net
 i.gr-assets.com
 i.gtimg.cn
@@ -35026,7 +34930,6 @@ img1.bdbphotos.com
 img1.beachbodyimages.com
 img1.bgxcdn.com
 img1.blogblog.com
-img1.blogblog.com #blogger image
 img1.cgtrader.com
 img1.demotywatoryfb.pl
 img1.dirtywarez.com
@@ -35044,12 +34947,10 @@ img1.imagetwist.com
 img1.koplayer.com
 img1.nickiswift.com
 img1.sj.qq.com
-img1.sj.qq.com  # im.qq.com image
 img1.static-ottera.com
 img1.thelist.com
 img1.tongtool.com
 img1.wsimg.com
-img1.wsimg.com # godaddy webmail cdn
 img10.imagetwist.com
 img100.imagetwist.com
 img101.imagetwist.com
@@ -35346,7 +35247,6 @@ imonline.nl
 imore.com
 imovelweb.com.br
 imp.appledaily.com
-imp.appledaily.com #mobile page image
 impa.br
 impactammo.com
 impactbnd.com
@@ -35678,7 +35578,6 @@ infospace.se
 infotel.ca
 infovia.net
 infowars.com
-infowars.com  #dingdong
 infowarsmedia.com
 infowarsstore.com
 infoworld.com
@@ -36418,7 +36317,6 @@ ipv4only.arpa
 ipv6-test.com
 ipv6-test.nl
 ipv6.he.net
-ipv6.he.net # DNS provider
 ipv6.microsoft.com
 ipv6.msftconnecttest.com
 ipv6.msftncsi.com
@@ -37575,7 +37473,6 @@ jpto.sonymobile.com
 jpurecords.com
 jpush.com
 jq.qq.com
-jq.qq.com #invitation link
 jquery.co
 jquery.com
 jquery.ga
@@ -37627,7 +37524,6 @@ js.skyscnr.com
 js.sohu.com
 js.squareup.com
 js.stripe.com
-js.stripe.com # stripe
 js.t.sinajs.cn
 js.taplytics.com
 js.touclick.com
@@ -37650,7 +37546,6 @@ jsdsupply.com
 jsesurplus.com
 jsf.or.jp
 jsfiddle.net
-jsfiddle.net # Javascript online playground
 jsgunparts.com
 jshen.me
 jsm.org
@@ -38505,7 +38400,7 @@ kindred.co
 kindredmedia.org
 kinect.co.nz
 kinemaster.com
-kinesis.*.amazonaws.com
+kinesis.amazonaws.com
 kinesis.us-east-1.amazonaws.com
 kinetico.co.uk
 kineticresearchgroup.com
@@ -39449,7 +39344,6 @@ l.betrad.com
 l.doubleclick.net
 l.engage.canva.com
 l.facebook.com
-l.facebook.com # https://www.quora.com/Why-are-l-facebook-com-and-lm-facebook-com-appearing-as-a-new-traffic-source-on-analytics
 l.franceculture.fr
 l.google.com
 l.googleusercontent.com
@@ -40650,17 +40544,11 @@ links.iterable.com
 links.malwarebytes.com
 links.mint.com
 links.mkt41.net
-links.mkt41.net # Click link CNAME for acoustic marketing platform
 links.mkt51.net
-links.mkt51.net # Click link CNAME for acoustic marketing platform
 links.mkt61.net
-links.mkt61.net # Click link CNAME for acoustic marketing platform
 links.mkt71.net
-links.mkt71.net # Click link CNAME for acoustic marketing platform
 links.mkt81.net
-links.mkt81.net # Click link CNAME for acoustic marketing platform
 links.mkt91.net
-links.mkt91.net # Click link CNAME for acoustic marketing platform
 links.net
 links.notifications.soundcloud.com
 links.playon.tv
@@ -41228,7 +41116,7 @@ lodihealth.org
 lodz.tvp.pl
 loebbecke-bank.de
 lofter.com
-log*-*.tiktokv.com
+log.tiktokv.com
 log-1.samsungacr.com
 log-tb.sgsnssdk.com
 log-upload-os.mihoyo.com
@@ -41312,7 +41200,6 @@ login.mediaset.it
 login.microsoft.com
 login.microsoftonline.com
 login.microsoftonline.us
-login.microsoftonline.us # office365
 login.msa.akadns6.net
 login.myid.disney.com
 login.mysewnet.com
@@ -41965,7 +41852,6 @@ m.exactag.com
 m.extratorrent.cc
 m.extratorrent.com
 m.facebook.com
-m.facebook.com$app=com.facebook.katana
 m.facebookcom
 m.files.bbci.co.uk
 m.firecams.com
@@ -42301,7 +42187,7 @@ madridiario.es
 madridnoche.com
 madrinhasdecasamento.com.br
 madriverhospital.com
-mads-*.amazon.com
+mads.amazon.com
 mads-eu.amazon.com
 mads.amazon-adsystem.com
 mads.amazon.com
@@ -42699,7 +42585,6 @@ manifest-gce-us-east1-production.fastly.mux.com
 manifest.auditude.com
 manifest.googlevideo.co
 manifest.googlevideo.com
-manifest.googlevideo.com # Youtube video won't show if blocked
 manifest.hulustream.com
 manifest.prod.boltdns.net
 manimo.su
@@ -43132,7 +43017,6 @@ marykay.com
 maryrosecook.com
 maryvalehospital.com
 mas-ext.amazon.com
-mas-ext.amazon.com # Amazon shopping on firetv stick
 mas-sdk.amazon.com
 mas-ssr-ad.amazon.com
 masalborna.org
@@ -43363,7 +43247,6 @@ mavromatic.com
 max-arms.com
 maxbarskih.com
 maxcdn.bootstrapcdn.com
-maxcdn.bootstrapcdn.com #bootstrap CDN
 maxcdn.com
 maxgo.com
 maxhost.ru
@@ -44703,8 +44586,8 @@ microsite.europcar.com
 microsites.audi.com
 microsites.bournemouth.ac.uk
 microsoft.com
-microsoft.com$app=com.microsoft.office.outlook
 microsoft.msafflnk.net
+microsoft.office.outlook
 microsoftcasualgames.com
 microsoftedge.microsoft.com
 microsoftedgeinsider.com
@@ -44994,7 +44877,6 @@ minnettbank.santanderconsumer.no
 minnstate.edu
 minnwestbank.com
 minorshort.weixin.qq.com
-minorshort.weixin.qq.com # Will break user unable to join group
 minpension.se
 minsheng.qingdaonews.com
 minsk2019.by
@@ -45308,7 +45190,6 @@ mixin.xiaomi.net
 mixlr.com
 mixmods.com.br
 mixnews.lv
-mixnews.lv # reported by jockjoint
 mixnmojo.com
 mixpanel.com
 mixvibes.com
@@ -45350,7 +45231,6 @@ mkt91.net
 mktcloud.c.huawei.com
 mkto-sj250060.com
 mktoweb.com
-mktoweb.com # Adobe MarkeTo landing page CNAME target
 mktplassets-ssl.xbox.com
 mktplassets.xbox.com
 mktplc.org
@@ -45551,7 +45431,7 @@ mobilemaps-pa.googleapis.com
 mobilemaps.googleapis.com
 mobilemarketing.adobe.com
 mobilenetworkscoring-pa.googleapis.com
-mobilesdk-*.kampyle.com
+mobilesdk.kampyle.com
 mobiletechreview.com
 mobilissimo.ro
 mobilitydigest.com
@@ -46034,7 +45914,7 @@ mouser.com
 mouthhealthy.org
 mouv.fr
 mouwmotor.com
-movable-ink-*.com
+movable-ink.com
 movable-ink-2183.com
 movable-ink-397.com
 movavi.com
@@ -46172,7 +46052,6 @@ mqcc.org
 mqdc.com
 mql5.com
 mqtt-mini.facebook.com
-mqtt-mini.facebook.com$app=com.facebook.katana
 mqtt-p4.facebook.com
 mqtt.c10r.facebook.com
 mqtt.facebook.com
@@ -46270,7 +46149,6 @@ msguides.com
 msh.am
 msh.amazon.co.uk
 msh.amazon.com
-msh.amazon.com #firetv stick
 mshsl.org
 msi.com
 mskcc.org
@@ -46805,7 +46683,6 @@ myaccount.chryslercapital.com
 myaccount.ea.com
 myaccount.geappliances.io
 myaccount.google.com
-myaccount.google.com$app=com.google.android.gms
 myaccount.grinnellmutual.com
 myaccount.gundogsupply.com
 myaccount.healthyfeetstore.com
@@ -48901,7 +48778,6 @@ northwestmagnum.com
 northwestshooter.com
 northwesttire.tireweb.com
 norton.com
-norton.com$app=com.symantec.mobilesecurity
 norton.house.gov
 norton.org
 norton52.com
@@ -49128,7 +49004,6 @@ ns.oneplus.com
 ns.umich.edu
 ns1.cloudflare-dns.com
 ns1.com
-ns1.com # domain name provider/ dns
 ns1.crunchyroll.com
 ns1.dirtywarez.com
 ns1.dropbox.com
@@ -49606,7 +49481,6 @@ ocremix.org
 ocsial.com
 ocsn.com
 ocsnext.ebay.com
-ocsp*.apple.com
 ocsp-ds.ws.symantec.com.edgekey.net
 ocsp-responder.com
 ocsp.affirmtrust.com
@@ -49817,7 +49691,6 @@ ognjs.vk.com
 ogof.org.uk
 ogone.com
 ogs.google.com
-ogs.google.com # image inside gmail
 ogs.ny.gov
 ogury.io
 oh-kliniken.de
@@ -51503,7 +51376,6 @@ page.li
 page.line.me
 page.mixi.jp
 pagead.l.doubleclick.net
-pagead.l.doubleclick.net # CNAME of www.googleadservices.com
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 pagebannermobile.as
@@ -52089,7 +51961,6 @@ pbnaudio.com
 pbr.com
 pbs.org
 pbs.twimg.com
-pbs.twimg.com # twitter image
 pbs5fz-c9lrcrpz7ym2.cloudmaestro.com
 pbsiddhartha.ac.in
 pbskids.org
@@ -52665,7 +52536,7 @@ photonetc.com
 photopills.com
 photoreflect.com
 photoreview.gotinder.com
-photos-*.dropbox.com
+photos.dropbox.com
 photos-1.dropbox.com
 photos-2.dropbox.com
 photos-3.dropbox.com
@@ -52680,7 +52551,6 @@ photos-bazaar-use1.prod.bazaarvoice.com
 photos-eu.bazaarvoice.com
 photos-thumb.dropbox.com
 photos-ugc.l.googleusercontent.com
-photos-ugc.l.googleusercontent.com #google photo
 photos-us.bazaarvoice.com
 photos.1highscore.com
 photos.app.goo.gl
@@ -52751,7 +52621,6 @@ pi.314159.ru
 pi.hole
 pi.opensprinkler.com
 pi.pardot.com
-pi.pardot.com # CNAME of go.pardot.com
 pi.pe
 pi.t.pardot.com
 pi.tedcdn.com
@@ -52951,7 +52820,7 @@ pinetools.com
 pinevillepethospitalonline.com
 pinews.co
 ping-admin.ru
-ping.*.adguard.io
+ping.adguard.io
 ping.avast.com
 ping.chrisbuijs.com
 ping.cloud.tencent.com
@@ -52986,7 +52855,6 @@ pinnaclesys.com
 pinochleclassic.com
 pinout.net
 pinpoint.us-east-1.amazonaws.com
-pinpoint.us-east-1.amazonaws.com # Amazon console
 pinpointevangelism.com
 pinpoll.com
 pinsimdb.org
@@ -53453,7 +53321,6 @@ playretrogames.com
 playrust.com
 plays.tv
 playstation.com
-playstation.com$app=com.scee.psxandroid
 playstation.com.edgekey.net
 playstation.com.ssl.d1.sc.omtrdc.net
 playstation.net
@@ -53484,7 +53351,6 @@ pletaura.com
 plex.direct
 plex.r.worldssl.net
 plex.tv
-plex.tv$app=com.plexapp.android
 plex.tvpremium-videos.telly.com
 plex.zoom.com
 plexcollectionposters.com
@@ -54023,7 +53889,6 @@ post.naver.com
 post.net.playstation.net
 post.pinterest.com
 post.spmailtechno.com
-post.spmailtechno.com # https://github.com/nextdns/metadata/issues/568
 post.spmailtechnol.com
 post.vk.com
 posta.co.tz
@@ -54688,7 +54553,6 @@ profile.mygamercard.net
 profile.myspace.com
 profile.skype.com
 profile.target.com
-profile.target.com # target.com
 profile.to
 profile.xboxlive.com
 profilecanada.com
@@ -55349,7 +55213,6 @@ q.equinox.com
 q.gs
 q.qlogo.cn
 q.stripe.com
-q.stripe.com # stripe
 q103albany.com
 q13fox.com
 q2009patch.quicken.com
@@ -55716,7 +55579,6 @@ r.sendinblue.hitbtc.com
 r.sg.sec.miui.com
 r.us
 r.us-east-1.awstrack.me
-r.us-east-1.awstrack.me # use as hackmd email tracker
 r.wmt.co
 r.worldssl.net
 r0n.net
@@ -56026,7 +55888,7 @@ raiffeisenbank-wyhl.de
 raiffeisenbankersingen.de
 raiffeisenonline.ro
 raika-erbes-buedesheim.de
-railcard.co.uk$app=com.raildeliverygroup.railcard
+railcard.co.uk
 railsware.com
 rainbird.ai
 rainbow.on.ca
@@ -56464,7 +56326,6 @@ rcsuperstore.com
 rcti.tv
 rcwilley.com
 rd.bizrate.com
-rd.bizrate.com # CNAME of link.sylikes.com
 rd.com
 rd.io
 rd.playstation.com
@@ -56614,7 +56475,6 @@ reboot.love
 rebrand.ly
 rebrandly.com
 rebrandlydomain.com
-rebrandlydomain.com # CNAME of go.blokada.org
 rebrick.it
 rec.ingka.com
 rec.quartic.pl
@@ -56790,7 +56650,6 @@ redrunrite.com
 redseafish.com
 redsharknews.com
 redsky.target.com
-redsky.target.com # target.com
 redstate.com
 redstation.com
 redtail.zendesk.com
@@ -57123,7 +56982,6 @@ res-sstv01.cheedn.com
 res-x.com
 res.apk.vidmate.net
 res.cloudinary.com
-res.cloudinary.com # for upload picture
 res.imtt.qq.com
 res.infosecurity-magazine.com
 res.insta360.com
@@ -58084,7 +57942,6 @@ rsvp0.net
 rsw-systems.com
 rt.com
 rt.imgur.com
-rt.imgur.com # Imgur upload
 rt.nu
 rt.optizone.ru
 rt.ru
@@ -58229,7 +58086,6 @@ runtastic.com
 runtothefinish.com
 runyweb.com
 rupload.facebook.com
-rupload.facebook.com # tested on mobile messenger while sending voice clip
 ruppiner-kliniken.de
 ruralking.com
 rurl.org
@@ -58553,10 +58409,9 @@ s2k7tnzlhrpw.statuspage.io
 s2p.mpay.samsung.com
 s2p.stg.mpay.samsung.com
 s2r.co
-s3-*.amazonaws.com
+s3.amazonaws.com
 s3-1-w.amazonaws.com
 s3-1.amazonaws.com
-s3-1.amazonaws.com #amazon S3 bucket
 s3-ap-southeast-1.amazonaws.com
 s3-directional-w.amazonaws.com
 s3-eu-west-1.amazonaws.com
@@ -58578,9 +58433,8 @@ s3-us-west-1-w.amazonaws.com
 s3-us-west-1.amazonaws.com
 s3-us-west-2.amazonaws.com
 s3-website-us-west-1.amazonaws.com
-s3.*.amazonaws.com
 s3.amazonaws.com
-s3.amazonaws.com #amazon S3 bucket
+s3.amazonaws.com
 s3.ap-northeast-2.amazonaws.com
 s3.ap-south-1.amazonaws.com
 s3.awkwardfamilyphotos.com
@@ -59405,7 +59259,7 @@ sci.intuit.ca
 sci.intuit.com
 sciarc.edu
 scielo.br
-science-edge-external-prod-*.*.elb.amazonaws.com
+science-edge-external-prod.elb.amazonaws.com
 science-et-vie.com
 science.discovery.com
 science.howstuffworks.com
@@ -59903,7 +59757,6 @@ secure-skin.ztat.net
 secure-us.imrworldwide.com
 secure.2checkout.com
 secure.aadcdn.microsoftonline-p.com
-secure.aadcdn.microsoftonline-p.com # Outlook.com logo
 secure.acquiropay.com
 secure.actblue.com
 secure.adnxs.com
@@ -60741,7 +60594,6 @@ shasta-rrs.symantec.com
 shaunthesheep.com
 shavar.prod.mozaws.net
 shavar.services.mozilla.com
-shavar.services.mozilla.com # is used to update the list of trackers that are getting blocked when tracking protection is turned on
 shaw.ca
 shawfloors.com
 shawmobile.ca
@@ -61623,13 +61475,9 @@ sites.engadget.com
 sites.fastspring.com
 sites.google.com
 sites.hscoscdn10.net
-sites.hscoscdn10.net # Click link CNAME for hubspot marketing platform
 sites.hscoscdn20.net
-sites.hscoscdn20.net # Click link CNAME for hubspot marketing platform
 sites.hscoscdn30.net
-sites.hscoscdn30.net # Click link CNAME for hubspot marketing platform
 sites.hscoscdn40.net
-sites.hscoscdn40.net # Click link CNAME for hubspot marketing platform
 sites.lib.byu.edu
 sites.pucgoias.edu.br
 sites.techcrunch.com
@@ -62201,9 +62049,7 @@ snapscouts.de
 snapshot.carfax.com
 snapshots-production.explore.org
 snaptu-mini.c10r.facebook.com
-snaptu-mini.c10r.facebook.com # facebook lite
 snaptu-mini.facebook.com
-snaptu-mini.facebook.com # facebook lite
 snat.goguardian.com
 snazzy.fm
 snbforums.com
@@ -62599,7 +62445,6 @@ sophos.com
 sophosupd.com
 sophosupd.net
 sophosxl.net
-sophosxl.net$app=com.sophos.smsec
 soporte.latam.playstation.com
 sopush-primary-https-new.elemecdn.com
 soradental.com
@@ -63539,7 +63384,6 @@ sq.gravatar.com
 sq6.ru
 sqex.to
 sqimg.qq.com
-sqimg.qq.com # im.qq.com image
 sqlcommunity.slack.com
 sqlitebrowser.org
 sqm.microsoft.com
@@ -63744,7 +63588,7 @@ ssl-product-images.www8-hp.com
 ssl-stat.amebame.com
 ssl-static.janraincapture.com
 ssl-static.libsyn.com
-ssl.*.damoh.n-tv.de
+ssl.damoh.n-tv.de
 ssl.2.damoh.chip.de
 ssl.apple.com
 ssl.avexnet.or.jp
@@ -63808,7 +63652,6 @@ ssrc.org
 sstakk.vk.com
 sstatic.net
 sstats.adobe.com
-sstats.adobe.com # adobe stock
 sstats.economist.com
 sstats.omahasteaks.com
 sstream.flipboard.com
@@ -64974,7 +64817,7 @@ stihi.ru
 stihlusa.com
 stileproject.com
 stillblondeafteralltheseyears.com
-stillingledig.*.no
+stillingledig.no
 stilltasty.com
 stillwoodammo.com
 stilnest.com
@@ -65113,7 +64956,7 @@ store.gogreenway.com
 store.google.com
 store.hbo.com
 store.hide.me
-store.hispace.hicloud.com$app=com.huawei.gameassistant
+store.hispace.hicloud.com
 store.hp.com
 store.imgur.com
 store.insta360.com
@@ -65912,7 +65755,6 @@ suicidepreventionlifeline.org
 suip.biz
 suitcaseentrepreneur.com
 suite15.emarsys.net
-suite15.emarsys.net # CNAME of link.wizzair.com
 suitsexpert.com
 sukebei.nyaa.si
 sukebei.tracker.wf
@@ -67425,7 +67267,6 @@ tele.click
 tele.gg
 tele.net
 tele2.ru
-tele2.ru$app=ru.tele2.mytele2
 tele5.de
 telebank.eatpbank.ru
 telebank.forshtadt.ru
@@ -68724,7 +68565,6 @@ thirdhour.org
 thirdmanrecords.com
 thirdmanstore.com
 thirdparty.bnc.lt
-thirdparty.bnc.lt # CNAME of app.sephora.com
 thirdparty.boxxspring.com
 thirdqq.qlogo.cn
 thirdway.org
@@ -69503,7 +69343,6 @@ tools.gotinder.com
 tools.ietf.org
 tools.kali.org
 tools.l.google.com
-tools.l.google.com #google chrome update
 tools.mgaz.de
 tools.naver.com
 tools.pingdom.com
@@ -69849,7 +69688,6 @@ track.aftership.com
 track.as
 track.bpost.be
 track.customer.io
-track.customer.io # CNAME of email.namebase.io
 track.effiliation.com
 track.fiverr.com
 track.flexlinkspro.com
@@ -70118,7 +69956,6 @@ traditionalmedicinals.com
 traditionalmusic.co.uk
 traegergrills.com
 traffic.alexa.com
-traffic.alexa.com # Showing Alexa ranking chart
 traffic.libsyn.com
 traffic.megaphone.fm
 traffic.spot.im
@@ -70719,7 +70556,6 @@ tuningpro.co
 tunisie-foot.com
 tunnelbear.cloudflare-dns.com
 tunnelbear.com
-tunnelbear.com$app=com.tunnelbear.android
 tupelosmallanimalhospital.com
 turanbank.az
 turaser.com
@@ -71948,7 +71784,6 @@ update.bullguard.com
 update.cdburnerxp.org
 update.cdburnerxp.se
 update.code.visualstudio.com
-update.code.visualstudio.com # vscode update
 update.delivery.autodesk.com
 update.dreamsavior.net
 update.evernote.com
@@ -72484,11 +72319,9 @@ use-application-dns.net
 use-p3.lb
 use.adserver.snapads.com
 use.fontawesome.com
-use.fontawesome.com # Font-awesome CDN
 use.my
 use.typekit.com
 use.typekit.net
-use.typekit.net # CDN
 use.typekit.net.edgekey.net
 usedcars.com
 usedmotorcyclestore.com
@@ -72911,7 +72744,7 @@ vapcelltech.com
 vapensiero.com.br
 vapiano.de
 vapordna.com
-var microtime = (Date.now() % 1000) / 1000
+var microtime
 varagesale.com
 varecha.pravda.sk
 varengold.de
@@ -73662,7 +73495,6 @@ view.paradym.com
 view.s11.exacttarget.com
 view.status.xbox.com
 view.virt.s7.exacttarget.com
-view.virt.s7.exacttarget.com # CNAME of view.email.nzz.ch
 view.vzaar.com
 viewer.content.glympse.com
 viewfromthewing.com
@@ -73956,10 +73788,9 @@ vjauj58549.i.lithium.com
 vjmedia.com.hk
 vjs.zencdn.net
 vjzoo.com
-vk-cdn.net$app=com.vkontakte.android
+vk-cdn.net
 vk.cc
 vk.com
-vk.com$app=com.vkontakte.android
 vk.comwww.vk.com
 vk.me
 vk.ovg.ox.ac.uk
@@ -73975,7 +73806,6 @@ vkontakter-x.com
 vkrugudruzei.ru
 vkube.vk.com
 vkuservideo.net
-vkuservideo.net$app=com.vkontakte.android
 vl.am
 vl.api.np.km.playstation.net
 vlab.pp.ru
@@ -74667,7 +74497,6 @@ waa.ai
 waaw.to
 wabash.net
 wac.edgecastcdn.net
-wac.edgecastcdn.net # endpoints are used by the Verizon Content Delivery Network to perform Windows updates
 wac.phicdn.net
 wacaco.com
 wachusett.com
@@ -75054,9 +74883,7 @@ wd.vanillicon.com
 wda-fr.org
 wdc.com
 wdcp.microsoft.com
-wdcp.microsoft.com # Windows defender
 wdcpalt.microsoft.com
-wdcpalt.microsoft.com # https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/configure-network-connections-windows-defender-antivirus
 wdfw.wa.gov
 wdhospital.com
 wdr.de
@@ -75117,7 +74944,6 @@ weather.service.msn.com
 weather.timleland.com
 weather.us
 weatherapi.market.xiaomi.com
-weatherapi.market.xiaomi.com$app=com.miui.weather2
 weatherbug.com
 weatherby.com
 weathercentral.com
@@ -75169,7 +74995,6 @@ web.digitick.com
 web.eecs.umich.edu
 web.extension.illinois.edu
 web.facebook.com
-web.facebook.com # Messenger Lite able to send out message
 web.getmonero.org
 web.gslb.nyu.edu
 web.hellenicbank.com
@@ -75692,8 +75517,6 @@ whatsapp.cc
 whatsapp.com
 whatsapp.info
 whatsapp.net
-whatsapp.net$app=com.whatsapp
-whatsapp.net$app=com.whatsapp.w4b
 whatsapp.org
 whatsapp.tv
 whatsappbrand.com
@@ -76149,7 +75972,6 @@ winehq.org
 winelibrary.com
 winfieldunited.com
 winfuture.de
-winfuture.de # German news site
 wingatebulldogs.com
 wings2soar.com
 wingsforlifeworldrun.com
@@ -76470,7 +76292,6 @@ worktruckonline.com
 worktrucksolutions.com
 world-airport-codes.com
 world-gen.g.aaplimg.com
-world-gen.g.aaplimg.com # System update download & user guide
 world-gifted.org
 world-net.co.nz
 world-war-2.wikia.org
@@ -76843,7 +76664,7 @@ wwrk.co
 www-01.ibm.com
 www-03.ibm.com
 www-admin.sonymobile.com
-www-amazon-*.customer.fastly.net
+www-amazon.customer.fastly.net
 www-api.dji.com
 www-b.hibid.com
 www-ber1.awin1.com
@@ -76874,7 +76695,7 @@ www-support-downloads.sonymobile.com
 www-tc.pbs.org
 www-test.cas.org
 www-wp.viber.com
-www.*.cloudfront.net
+www.cloudfront.net
 www.10010.com
 www.112.2o7.net
 www.122.2o7.net
@@ -76982,7 +76803,6 @@ www.alcohol-soft.com
 www.alcpu.com
 www.alexa.com
 www.algolia.com
-www.algolia.com #codepen
 www.alibaba.com
 www.alicdn.com
 www.aliexpress.com
@@ -77199,7 +77019,6 @@ www.btc.to
 www.btc.top
 www.bugmenot.com
 www.bugsnag.com
-www.bugsnag.com #official site
 www.buscape.com.br
 www.business.opera.com
 www.businessinsider.com
@@ -77745,7 +77564,6 @@ www.google.co.za
 www.google.co.zm
 www.google.co.zw
 www.google.com
-www.google.com$app=com.google.android.gms
 www.google.com.af
 www.google.com.ag
 www.google.com.ai
@@ -78181,7 +77999,6 @@ www.lowes.com
 www.lpsnmedia.net
 www.ltc.cryptopia.co.nz
 www.luckyorange.com
-www.luckyorange.com # Official site
 www.m.animefreak.tv
 www.m.apkpure.com
 www.m.hotmail.com
@@ -79338,7 +79155,6 @@ wwy.me
 wwz.rs
 wx.keloland.com
 wx.qlogo.cn
-wx.qlogo.cn # Picture
 wx.qq.com
 wx.si
 wx1.sinaimg.cn
@@ -79720,7 +79536,6 @@ xwis.net
 xwizft.vk.com
 xwt-classics.net
 xx.fbcdn.net
-xx.fbcdn.net$app=com.facebook.katana
 xx.snap.com
 xxl.se
 xxsurl.de
@@ -79881,7 +79696,6 @@ yenisafak.com
 yep.it
 yep.video.yahoo.com
 yerl.org
-yerl.org  #URL shorter
 yes24.com
 yesco.com
 yese69.com
@@ -80077,7 +79891,6 @@ youtube-trends.blogspot.com
 youtube-ui.l.google.com
 youtube.co
 youtube.com
-youtube.com$app=com.google.android.youtube
 youtube.com.br
 youtube.com.cloudflare-dns.com
 youtube.de
@@ -80092,7 +79905,6 @@ youtubecreator.blogspot.com
 youtubeeducation.com
 youtubego.com
 youtubei.googleapis.com
-youtubei.googleapis.com$app=com.google.android.youtube
 youtubejpblog.blogspot.com
 youtubekids.com
 youtubeshort.pro
@@ -80126,7 +79938,6 @@ yt4.ggpht.com
 ytdl-org.github.io
 ytimg-edge-static.l.google.com
 ytimg.com
-ytimg.com$app=com.google.android.youtube
 ytimg.l.google.com
 ytmnd.com
 ytmp3.cc
@@ -80136,7 +79947,6 @@ yts.ag
 yts.mx
 yts.wf
 ytstatic.l.google.com
-ytstatic.l.google.com #google chrome update
 yu.xyz.mn
 yu2.it
 yuann.tw
@@ -80190,10 +80000,8 @@ yyzhbhknht.mstreamcdn.com
 yz2.xmss.micloud.mi.com
 yzzusk.vk.com
 z-1.c10r.facebook.com
-z-1.c10r.facebook.com # Messenger Lite able to send out message
 z-ecx.images-amazon.com
 z-m.c10r.facebook.com
-z-m.c10r.facebook.com # CNAME of l.facebook.com
 z-m.facebook.com
 z-p4-graph.facebook.com
 z-proxy-ftrcom.glb.frontiernet.net
@@ -80391,7 +80199,6 @@ zerodot1.github.io
 zerodot1.gitlab.io
 zerognews.com
 zerohedge.com
-zerohedge.com #dingdong
 zerosuniverse.com
 zerotothree.org
 zerowastehome.com
