@@ -8,7 +8,6 @@
 0-amadeus.bvdinfo.com.biblio.vk.com
 0-edge-chat.facebook.com
 0-stnweb.cas.org.skyline.vk.com
-0.0.0.0
 0.0.1.cloudflare-dns.com
 0.1.cloudflare-dns.com
 0.1.cloudflare-dns.coma
@@ -1627,6 +1626,7 @@
 7769domain.com
 777.impossiblehq.com
 78.cn
+79423.analytics.edgekey.net
 79423.analytics.edgesuite.net
 7a.com.cn
 7capture.com
@@ -19572,6 +19572,7 @@ caochangqing.com
 cap-hotmail-auth.msn.com
 cap-mii.net
 cap-prod-wp.msn.com
+cap.cyberlink.com
 cap.microsoft.com
 cap.org.hk
 capablecitizen.com
@@ -25419,6 +25420,7 @@ collectandgo.be
 collectiblestoday.com
 collectibulldogs.com
 collectif-team8.com
+collecting-consent.g5e.com
 collectionofbestporn.com
 collections-int.mp.microsoft.com
 collections.md.mp.microsoft.com
@@ -26308,6 +26310,7 @@ conranshop.co.uk
 consadbg.com
 consejogeneralenfermeria.org
 consensu.org
+consent-manager-events.ogury.io
 consent-st.truste.com
 consent.cmp.oath.com
 consent.cookiebot.com
@@ -32953,6 +32956,7 @@ djpunjab.com
 djreprints.com
 djshop.de
 djsurda.com
+djtflbt20bdde.cloudfront.net
 djtunes.com
 djvbdz1obemzo.cloudfront.net
 djztrip.com
@@ -37253,6 +37257,7 @@ elyricsworld.com
 elysee.fr
 elyye.x.incapdns.net
 em-keriotest.westeurope.cloudapp.azure.com
+em.bm23.com
 em.carters.com
 em.funimation.com
 em.ign.com
@@ -45325,6 +45330,7 @@ gatdaily.com
 gate-project.com
 gate.ac.uk
 gate.ariuspay.ru
+gate.hockeyapp.net
 gate.io
 gate.sc
 gate.vseplatezhi.ru
@@ -55325,6 +55331,7 @@ img.e.sigsauer.com
 img.eachine.com
 img.echosting.cafe24.com
 img.elephantjournal.com
+img.en25.com
 img.engadget.com
 img.escolha.pt
 img.etonline.com
@@ -57589,6 +57596,7 @@ ipla-e1-92.pluscdn.pl
 ipla-e2-18.pluscdn.pl
 ipla-e2-30.pluscdn.pl
 ipla-e2-32.pluscdn.pl
+ipla.hit.stat24.com
 ipla.pluscdn.pl
 ipla.tv
 iplayer.fm
@@ -60325,6 +60333,7 @@ k.live.com
 k.root-servers.net
 k.sinaimg.cn
 k.uecdn.es
+k1.midasplayer.com
 k101fm.net
 k12-company.ru
 k12.ca.us
@@ -63359,6 +63368,7 @@ lb-ornith-ams-birds.cit.cornell.edu
 lb-rdv-r6-pc.ubisoft.com
 lb.511mn.org
 lb.gravatar.com
+lb.production-public.tubi.io
 lb.redirectingat.com
 lb.vg
 lb.wikipedia.com
@@ -65453,7 +65463,9 @@ log-upload-os.mihoyo.com
 log.byteoversea.com
 log.entrance.sonymobile.com
 log.internetat.tv
+log.mmstat.com
 log.ph
+log.quora.com
 log.tiktokv.com
 log.tpns.tencent.com
 log.zoom.us
@@ -66894,6 +66906,7 @@ m0.net
 m00.me
 m1.chia-anime.tv
 m1.com.sg
+m1.daumcdn.net
 m1.fwmrm.net
 m1.io
 m1.nsimg.net
@@ -70735,6 +70748,7 @@ mid.live.com
 mid.ru
 midas.com
 midasletter.com
+midasplayer.com
 midatacredito.com
 midatlantic.aaa.com
 midco.net
@@ -85434,6 +85448,7 @@ pmeastus2.svc.datafactory-int.azure.com
 pmeastus2.svc.datafactory.azure.com
 pmeastus2euap.svc.datafactory.azure.com
 pmenboeqhyrpvomq
+pmenboeqhyrpvomq.
 pmf.gov
 pmf.unizg.hr
 pmfs.edu.co
@@ -94828,6 +94843,7 @@ s-bol.com
 s-cs.rmp.rakuten.co.jp
 s-cute.com
 s-dragon.org
+s-forum.biz
 s-i-r.de
 s-install.avcdn.net
 s-jena.de
@@ -94888,6 +94904,7 @@ s.cdn.mozilla.net
 s.cdn.turner.com
 s.ch9.ms
 s.cleveland.com
+s.click.aliexpress.com
 s.click.ele.me
 s.click.taobao.com
 s.click.tmall.com
@@ -97221,6 +97238,7 @@ sec.yimg.com
 sec0wn.blogspot.com
 secb.de
 secb2b.com
+seccdn-gl.imrworldwide.com
 seccint.com
 seccionamarilla.com.mx
 secdns-block-page.brightcloud.com
@@ -98005,6 +98023,7 @@ servequake.com
 server-54-230-93-120.fra2.r.cloudfront.net
 server-analytics.snapchat.com
 server.flighting.cp.microsoft.com
+server.iad.liveperson.net
 server.nitrado.net
 server1.freevpn.me
 servercomponent.ph
@@ -99120,6 +99139,7 @@ shop.winefolly.com
 shop.wwe.com
 shop.xerox.com
 shop.yammienoob.co
+shop.zalo.me
 shop.zaloapp.com
 shop1.daumcdn.net
 shop2.daumcdn.net
@@ -101221,6 +101241,7 @@ socialimpact.youtube.com
 socialincomes.com
 socialistes.cat
 socialistworker.co.uk
+socialize.eu1.gigya.com
 socialize.gigya.com
 socialize.us1.gigya.com
 socialmatter.net
@@ -105833,6 +105854,7 @@ streamelements.com
 streamer.tawenda-tech.org
 streameye.net
 streamhunter.to
+streamillimit�.com
 streamin.to
 streaming-illimite.net
 streaming-live.rtp.pt
@@ -107589,6 +107611,7 @@ t1p.de
 t2.baidu.com
 t2.genius.com
 t2.gstatic.com
+t2.hulu.com
 t2.market.mi-img.com
 t2.market.xiaomi.com
 t2.pixhost.to
@@ -120445,6 +120468,7 @@ viewit.li
 viewlift.com
 viewmixed.com
 viewmotions.com
+viewpoint.com
 viewscreen.githubusercontent.com
 viewsfromhere.com
 viewsonic.com
@@ -121074,6 +121098,7 @@ vms-beta.boldchat.com
 vms-eu.boldchat.com
 vms-players.minutemediaservices.com
 vms-videos.minutemediaservices.com
+vms.bluebillywig.com
 vms.boldchat.com
 vms.msn.com
 vmscdn-download.storage.googleapis.com
@@ -126018,6 +126043,7 @@ www.6inches.pl
 www.7228.eu
 www.7eer.net
 www.8337.net
+www.888poker.com
 www.91mobiles.com
 www.9anime.at
 www.9anime.pw
@@ -126191,6 +126217,7 @@ www.bbc.co.uk
 www.bbc.com
 www.bbci.co.uk
 www.bd-pratidin.com
+www.beenverified.com
 www.behance.net
 www.belloflostsouls.net
 www.bemyeyes.com
@@ -126232,6 +126259,7 @@ www.blackboxrepack.com
 www.blackhatworld.com
 www.blacklistednews.com
 www.bleepingcomputer.com
+www.blizzard.com
 www.blockadblock.com
 www.blog.medium.com
 www.blog.techrepublic.com
@@ -126240,6 +126268,7 @@ www.blogads.com
 www.blogger.com
 www.blogs.techrepublic.com
 www.blogspot.com
+www.blogtopsites.com
 www.bloomberg.com
 www.blueangelhost.com
 www.bluenile.ca
@@ -126286,6 +126315,7 @@ www.cambridge.org
 www.camsoda.com
 www.canva.com
 www.canyoublockit.com
+www.capebretonpost.com
 www.capital.gr
 www.cbs.com
 www.cbsi.com
@@ -126331,6 +126361,7 @@ www.chron.com
 www.citrix.com
 www.cj.com
 www.ckpool.org
+www.clck.ru
 www.clement.antpool.com
 www.clickfunnels.com
 www.clien.net
@@ -126388,6 +126419,7 @@ www.consumepopculture.com
 www.conversantmedia.com
 www.coolrom.com
 www.corbettreport.com
+www.coronavirus.gov
 www.cort.as
 www.cosmopolitan.com
 www.countercurrents.org
@@ -126430,6 +126462,7 @@ www.dailywire.com
 www.daisuki.net
 www.danielamichalskifotografie.com
 www.data.cloudian.com
+www.datadoghq-browser-agent.com
 www.datahjelperne.no
 www.dataplicity.com
 www.daum.net
@@ -126522,6 +126555,7 @@ www.engadget.com
 www.engineering.coinbase.com
 www.ent-api.sandbox.coinbase.com
 www.eonline.com
+www.epicgames.com
 www.episerver.net
 www.epizy.com
 www.epmclk.com
@@ -126579,6 +126613,8 @@ www.f-droid.org
 www.facebook.com
 www.fakehub.com
 www.fanboy.co.nz
+www.fandom.com
+www.fashionista.com
 www.fast.com
 www.faucethub.io
 www.fbcdn.net
@@ -126587,6 +126623,7 @@ www.feedburner.com
 www.feedly.com
 www.feedpress.it
 www.fhm.com
+www.fide.com
 www.fidelity.com
 www.fifthplay.com
 www.figshare.com
@@ -126616,6 +126653,7 @@ www.fncstatic.com
 www.focus.de
 www.fok.nl
 www.fonts.com
+www.forbes.com
 www.force.com
 www.foresee.com
 www.foreseeresults.com
@@ -126697,6 +126735,7 @@ www.go.microsoft.com
 www.godaddy.com
 www.gofundme.com
 www.gog-statics.com
+www.gog.com
 www.gogoanime.io
 www.gogousenet.com
 www.gokano.com
@@ -126929,10 +126968,12 @@ www.graph.instagram.com
 www.gravatar.com
 www.gravatr.com
 www.greasyfork.org
+www.greenmangaming.com
 www.groupon.com
 www.gstatic.com
 www.gumroad.com
 www.gumtree.com
+www.haier.com
 www.hao123.com
 www.hardsextube.com
 www.hardwareluxx.de
@@ -126970,7 +127011,9 @@ www.hover.com
 www.howtogeek.com
 www.hrblock.com
 www.href.li
+www.hs-scripts.com
 www.hsn.com
+www.html5zombo.com
 www.htmlcommentbox.com
 www.hu
 www.huala
@@ -126981,6 +127024,7 @@ www.huffingtonpost.com
 www.huffingtonpost.com.au
 www.huffpost.com
 www.hulu.com
+www.humblebundle.com
 www.huya.com
 www.hydrax.net
 www.i.snap.com
@@ -127058,6 +127102,7 @@ www.itpapers.techrepublic.com
 www.iubenda.com
 www.iubenda.it
 www.iutoic-dhaka.edu
+www.j.mp
 www.jabcreations.com
 www.jack-donovan.com
 www.jackjones.com
@@ -127096,6 +127141,7 @@ www.keepass.info
 www.keepersecurity.com
 www.keezmovies.com
 www.keycdn.com
+www.khanacademy.org
 www.kickstarter.com
 www.kijiji.ca
 www.kissanime.com
@@ -127155,6 +127201,7 @@ www.login.wikimedia.org
 www.loginhood.io
 www.logmeinrescue.com
 www.lolcounter.com
+www.lootcrate.com
 www.lotustalk.com
 www.lovoo.com
 www.lowes.com
@@ -127175,6 +127222,7 @@ www.made.com
 www.mads.amazon-adsystem.com
 www.mail.bg
 www.mailchimp.com
+www.maine.gov
 www.majorgeeks.com
 www.makerdevs.com
 www.malekal.com
@@ -127250,6 +127298,7 @@ www.movie4u.org
 www.movielabs.com
 www.mozilla.org
 www.mql5.com
+www.msedge.net
 www.msftconnecttest.com
 www.msftncsi.com
 www.msn.com
@@ -127306,6 +127355,8 @@ www.news.gr
 www.newsauto.gr
 www.newstatesman.com
 www.newyorker.com
+www.nextplatform.com
+www.nfscars.net
 www.nicehash.com
 www.niecko.pl
 www.nirsoft.net
@@ -127319,6 +127370,7 @@ www.nordvpn.com
 www.nos.netease.com
 www.notepad-plus-plus.org
 www.noteworthy.medium.com
+www.notion.so
 www.now.sh
 www.nperf.com
 www.npmjs.com
@@ -127333,6 +127385,7 @@ www.nulled.to
 www.nutaku.net
 www.nutrija.com
 www.nvidia.com
+www.ny.gov
 www.nytimes.com
 www.o.aolcdn.com
 www.o1.email.medium.com
@@ -127394,6 +127447,9 @@ www.orange.fr
 www.orangepi.org
 www.oregonlive.com
 www.org
+www.origin.com
+www.oru.com
+www.osha.gov
 www.ospserver.net
 www.ouedkniss.com
 www.ouo.pr
@@ -127446,6 +127502,7 @@ www.pixiv.net
 www.pjatr.com
 www.pjtra.com
 www.placehold.it
+www.plarium.com
 www.platform-api.sharethis.com
 www.play-asia.com
 www.play.googleapis.com
@@ -127530,6 +127587,7 @@ www.raspberrypi.org
 www.ratehub.ca
 www.rcollard.com
 www.re-store.ru
+www.real-markt.de
 www.realvnc.com
 www.reason.com
 www.rebrandly.com
@@ -127553,6 +127611,7 @@ www.retro-bit.com
 www.returnofkings.com
 www.returnpath.com
 www.revdl.com
+www.rivm.nl
 www.rk.com
 www.roadandtrack.com
 www.rockstargames.com
@@ -127614,6 +127673,7 @@ www.seedr.cc
 www.segment.com
 www.semrush.com
 www.senate.gov
+www.serials.ws
 www.services.medium.com
 www.sevenforums.com
 www.sexloving.net
@@ -127808,6 +127868,7 @@ www.thisav.com
 www.threatcrowd.org
 www.thumbzilla.com
 www.tinypass.com
+www.tinyurl.com
 www.tkqlhce.com
 www.tmublr.com
 www.tmz.com
@@ -127911,6 +127972,7 @@ www.vmn.net
 www.vocabulary.com
 www.vodafone.gr
 www.vodjk.com
+www.void.gr
 www.voipfuture.com
 www.volksverpetzer.de
 www.voot.com
@@ -127936,6 +127998,7 @@ www.weather.com
 www.weather.gov
 www.weather.gr
 www.web-development-blog.com
+www.web.archive.org
 www.web.whatsapp.com
 www.webcrawler.com
 www.webhostingtalk.com
@@ -127953,11 +128016,13 @@ www.whatismyipaddress.com
 www.whatsapp.com
 www.whitehouse.gov
 www.whitepapers.techrepublic.com
+www.who.int
 www.who.is
 www.whoisentry.com
 www.whoismind.com
 www.wieistmeineip.de
 www.wikipedia.com
+www.wikipedia.org
 www.winfuture.de
 www.wire.com
 www.wired.co.uk
@@ -127970,6 +128035,7 @@ www.worcesterma.gov
 www.wordle.net
 www.wordpress.com
 www.worldometers.info
+www.wowhead.com
 www.ws.hashnest.com
 www.ws.sandbox.coinbase.com
 www.wshifen.com
@@ -128022,6 +128088,7 @@ www.zerohedge.com
 www.zippyshare.com
 www.ziprecruiter.com
 www.zoho.com
+www.zombo.com
 www.zona.me
 www.zoom.com
 www.zulily.com
