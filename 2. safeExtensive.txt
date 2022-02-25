@@ -619,6 +619,7 @@ acs-education.com
 acs-visa.norvik.eu
 acs.bkm.com.tr
 acs.fuib.com
+acs.m.taobao.com
 acs.severgazbank.ru
 acs.sia.eu
 acs2.3ds.modirum.com
@@ -1951,6 +1952,7 @@ api.account.xiaomi
 api.account.xiaomi.com
 api.accuweather.com
 api.actionbutton.co
+api.ad.xiaomi.com
 api.adguard.com
 api.ads.tvb.com
 api.ai.xiaomi.com
@@ -2200,6 +2202,7 @@ api2.diigo.com
 api2.poloniex.com
 api2.weather.com
 api3.cc.skype.com
+api3.siftscience.com
 api3.weather.com
 apicache.vudu.com
 apihub.daum.net
@@ -2511,6 +2514,7 @@ asviobank.ua
 at-blog.line.me
 at-go.kelkoogroup.net
 at-o.net
+at.alicdn.com
 at.alicdn.com.danuoyi.alicdn.com
 at.ly
 at.ms
@@ -2560,6 +2564,7 @@ auctions.yahoo.co.jp
 audibank.de
 audible.co.uk
 audible.com
+audid-api.taobao.com
 audio-ak-spotify-com.akamaized.net
 audio-ak.spotify.com.edgesuite.net
 audio-ake.spotify.com.edgesuite.net
@@ -3832,6 +3837,7 @@ cdn.firebase.com
 cdn.flipboard.com
 cdn.flowplayer.com
 cdn.fluidplayer.com
+cdn.flurry.com
 cdn.fontawesome.com
 cdn.friendbuy.com
 cdn.gadgets360.com
@@ -3857,6 +3863,7 @@ cdn.livestream.com
 cdn.medium.com
 cdn.mozilla.net
 cdn.mplxtms.com
+cdn.mxpnl.com
 cdn.naver.com
 cdn.onenote.net
 cdn.onenote.net.edgekey.net
@@ -3885,6 +3892,7 @@ cdn.samsungcloudsolution.net
 cdn.segment.io
 cdn.shopify.com
 cdn.shopifycloud.com
+cdn.siftscience.com
 cdn.sstatic.net
 cdn.static-economist.com
 cdn.staticaly.com
@@ -3927,6 +3935,7 @@ cdn2.digitaltrends.com
 cdn2.editmysite.com
 cdn2.funimation.com
 cdn2.hometogo.net
+cdn2.hubspot.net
 cdn2.optimizely.com
 cdn2.xda-developers.com
 cdn3.digitaltrends.com
@@ -4011,6 +4020,7 @@ cf-preview-media.sndcdn.com
 cf-st.sc-cdn.net
 cf-sync-media.sndcdn.com
 cf.hamreus.com
+cf.iadsdk.apple.com
 cf1.vuze.com
 cfemedia.com
 cfi.mb.seb.se
@@ -4575,6 +4585,7 @@ computer.howstuffworks.com
 computerlanguage.com
 comuesp.com
 comwww.vk.com
+concierge.analytics.console.aws.a2z.com
 concursolutions.com
 conduit-services.com
 conduit.mailchimpapp.com
@@ -5205,6 +5216,7 @@ d3p8zr0ffa9t17.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
 d3tsytm1wtjqo2.cloudfront.net
 d4.me
+d9hhrg4mnvzow.cloudfront.net
 da.gravatar.com
 da.netease.com
 da.victoriabank.md
@@ -5627,7 +5639,6 @@ dl-bia2.ir
 dl-canary.discordapp.net
 dl-client.dropbox.com
 dl-count.xposed.info
-dl-debug*.dropbox.com
 dl-desktop-apps.sonymobile.com
 dl-desktop-xcapps.sonymobile.com
 dl-developer.sonymobile.com
@@ -6018,6 +6029,7 @@ e-xacbank.com
 e.breitbart.com
 e.cl
 e.clhs.com.ua
+e.customeriomail.com
 e.getpocket.com
 e.hollisterco.com
 e.huawei.com
@@ -7234,6 +7246,7 @@ g.alicdn.com.danuoyi.alicdn.com
 g.cn
 g.co
 g.download.windowsupdate.com.c.footprint.net
+g.ezoic.net
 g.ign.com
 g.live.com
 g.mi.com
@@ -7375,6 +7388,7 @@ genobank-mainz.de
 genobank-unterallgaeu.de
 genobank.de
 genuine.adobe.com
+geo-applefinance-cache.internal.query.g03.yahoodns.net
 geo-prod.do.dsp.mp.microsoft.com
 geo-prod.dodsp.mp.microsoft.com.nsatc.net
 geo.nabstudio.com
@@ -7533,6 +7547,7 @@ glpals.com
 gls-online-filiale.de
 gls.de
 glyph.medium.com
+gm.gds.mmstat.com
 gm.mmstat.com
 gm1.ggpht.com
 gmail.com
@@ -8559,6 +8574,7 @@ ia.media-imdb.com
 iad-02.braze.com
 iad-04.braze.com
 iad.liveperson.net
+iadsdk.apple.com
 iadsdk.apple.com.akadns.net
 iadsdk.apple.com.edgekey.net
 iamcredentials.googleapis.com
@@ -9042,6 +9058,7 @@ il.ign.com
 ilbank.gov.tr
 illinois.zoom.com
 ilovecreatives.com
+im.qq.com
 im.rediff.com
 im.twitch.tv
 im.upromise.com
@@ -9300,6 +9317,7 @@ inbrowserediting.adobe.com
 inc.antpool.com
 inc.com
 include.zoom.com
+incoming.telemetry.mozilla.org
 incredibarvuz1.com
 indankorea.cs9993890.vk.com
 indd.adobe.com
@@ -11213,6 +11231,7 @@ metaffiliation.com
 metaservices.microsoft.com
 meteomaastricht.nl
 meteoplaza.com
+metok-ccc.intl.xiaomi.com
 metok.sys.miui.com
 metric-public-service-prod.ol.epicgames.com
 metric.gstatic.com
@@ -12273,6 +12292,7 @@ ocsp.comodoca4.com
 ocsp.digicert.com
 ocsp.entrust.net
 ocsp.globalsign.com
+ocsp.godaddy.com
 ocsp.godaddy.com.akadns.net
 ocsp.int-x1.letsencrypt.org
 ocsp.int-x2.letsencrypt.org
@@ -13123,7 +13143,6 @@ photo.store.qq.com
 photobucket.com
 photolog.blog.naver.com
 photoreview.gotinder.com
-photos-*.dropbox.com
 photos-ugc.l.googleusercontent.com
 photos.binance.com
 photos.dealersocket.com
@@ -13172,6 +13191,7 @@ ping.chrisbuijs.com
 ping.cloud.tencent.com
 ping.feedburner.com
 ping.tapas.io
+ping.taplytics.com
 ping.ui.com
 ping.zoom.com
 pingdom.com
@@ -13799,6 +13819,7 @@ r.sb.hitbtc.com
 r.search.yahoo.com
 r.sendinblue.hitbtc.com
 r.sg.sec.miui.com
+r.us
 r.us-east-1.awstrack.me
 r.worldssl.net
 r0n.net
@@ -14241,6 +14262,7 @@ ref.in
 ref.to
 refer.ccbill.com
 reference.com
+referrer.disqus.com
 refinery29.com
 reflex.tau.vk.com
 reflex.zoom.com
@@ -16390,6 +16412,7 @@ stats.stackexchange.com
 stats.streamelements.com
 stats.whatsapp.com
 statsandengagement.help.soundcloud.com
+statsfe2.update.microsoft.com.akadns.net
 status.adobe.com
 status.coinbase.com
 status.daum.net
@@ -17563,6 +17586,7 @@ umblr.com
 umbra.zoom.com
 umd.edu
 umdc.aliapp.org
+umdc.alipay.org
 umeeting.huawei.com
 umich.edu
 umich.qualtrics.com
@@ -18978,6 +19002,7 @@ womenshealthmag.com
 wonderbox.ugc.bazaarvoice.com
 wondershare.com
 woocall.sina.com.cn
+woodpecker.uc.cn
 woopic.com
 wooppay.com
 wooribank.com
@@ -19031,6 +19056,7 @@ ws.coinbase.com
 ws.grant.ua
 ws.hashnest.com
 ws.microsoft.com
+ws.mmstat.com
 ws.pusherapp.com
 ws.sandbox.coinbase.com
 ws.spot.im
@@ -19448,6 +19474,7 @@ www.dolcegabbana.com
 www.domain.antpool.com
 www.domain.dot.tk
 www.doppler.hulu.com
+www.dorkly.com
 www.dot.tk
 www.doubleclick.net
 www.download.windowsupdate.com
@@ -20070,6 +20097,7 @@ www.mi.com
 www.miaminewtimes.com
 www.microg.org
 www.microsoft.com
+www.microsoftedgeinsider.com
 www.minergate.com
 www.mirror.centos.org
 www.mirror.co.uk
@@ -20466,6 +20494,7 @@ www.taobao.com
 www.tatacliq.com
 www.tatacliq.com.edgekey.net
 www.techcrunch.com
+www.techiediaries.com
 www.techmeme.com
 www.technobezz.com
 www.technologyreview.com
@@ -20895,6 +20924,7 @@ yvjnex.vk.com
 yvoqgv.vk.com
 yz2.xmss.micloud.mi.com
 yzzusk.vk.com
+z-1.c10r.facebook.com
 z-ecx.images-amazon.com
 z-m.c10r.facebook.com
 z-m.facebook.com
