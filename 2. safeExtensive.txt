@@ -742,7 +742,6 @@ accu-weather.com
 accura.cc
 accuweather.com
 accuweather.zoom.com
-acdn.adnxs.com
 ace.naver.com
 acehardware.com
 acenar.com
@@ -880,7 +879,6 @@ adidas.ugc.bazaarvoice.com
 adidasjp.ugc.bazaarvoice.com
 adiu.amap.com
 adj.st
-adjix.com
 adjust.com
 adjust.io
 adjust.net.in
@@ -1201,7 +1199,6 @@ adtech.de
 adtech.zoom.com
 adtidy.net
 adtidy.org
-adtng.com
 adtrackers.net
 adtraction.com
 adultswim.com
@@ -2077,7 +2074,6 @@ ana.fr
 anabiullin.cs7777.vk.com
 analytics.edgekey.net
 analytics.google.com
-analytics.localytics.com
 analytics.robinhood.com
 analytics.twitter.com
 analyticsindiamag.com
@@ -2226,7 +2222,6 @@ api.account.xiaomi
 api.account.xiaomi.com
 api.accuweather.com
 api.actionbutton.co
-api.ad.xiaomi.com
 api.adguard.com
 api.ads.tvb.com
 api.ai.xiaomi.com
@@ -2404,7 +2399,6 @@ api.ra2.xlmc.sec.miui.com
 api.rapidvideo.com
 api.razorpay.com
 api.rebrandly.com
-api.redshell.io
 api.reserve.com
 api.rewards.internet.apps.samsung.com
 api.rlje.net
@@ -2459,7 +2453,6 @@ api.today.line.me
 api.toptenreviews.com
 api.traq.li
 api.travel.rakuten.co.jp
-api.treasuredata.com
 api.trello.com
 api.truckersmp.com
 api.tvpage.com
@@ -2659,6 +2652,7 @@ appmetrica.yandex.com
 appmetrica.yandex.ru
 appnee.com
 appr.vg
+apprep.smartscreen.microsoft.com
 apps-dn2.ospserver.net
 apps-pub.samsungcloudcdn.com
 apps.cybonline.co.uk
@@ -4464,7 +4458,6 @@ cdn.fds.api.xiaomi.com
 cdn.firebase.com
 cdn.flowplayer.com
 cdn.fluidplayer.com
-cdn.flurry.com
 cdn.fontawesome.com
 cdn.friendbuy.com
 cdn.gadgets360.com
@@ -4578,7 +4571,6 @@ cdn01.dailycaller.com
 cdn1.digitaltrends.com
 cdn1.ettoday.net
 cdn1.friendbuy.com
-cdn1.smartadserver.com
 cdn1.xda-developers.com
 cdn13.com
 cdn2.airfind.com
@@ -4683,7 +4675,6 @@ cf-preview-media.sndcdn.com
 cf-st.sc-cdn.net
 cf-sync-media.sndcdn.com
 cf.hamreus.com
-cf.iadsdk.apple.com
 cf.ly
 cf1.vuze.com
 cf2.me
@@ -5264,7 +5255,6 @@ coinmama.com
 coinmarketcap.com
 coinmine.pl
 coinpaymaster.com
-coinurl.com
 cokeurl.com
 collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
@@ -5966,12 +5956,12 @@ ctc.fe02.c3.xiaomi.com
 ctldl.windowsupdate.com
 ctrl.blog
 cts.businesswire.com
-cts.vresp.com
 ctt.ec
 ctvr.us
 ctx.ly
 cu.ac.bd
 cu.vk.com
+cubegroup.go2cloud.org
 cubesmart.ugc.bazaarvoice.com
 cubestat.com
 cuda.co
@@ -6162,7 +6152,6 @@ danskebank.dk
 danskretursystem.dk
 danviet.vn
 daominhha.com
-dap.digitalgov.gov
 dapk.vk.com
 daraz.pk
 darkhost.pro
@@ -6343,6 +6332,7 @@ delivery.acm.org
 delivery.rakuten.co.jp
 delivery.tacticalrepublic.com
 delivery.vidible.tv
+delivery.way2traffic.com
 dell.com
 dell.to
 dell.zoom.com
@@ -8176,7 +8166,6 @@ fls-na.amazon-adsystem.com
 fls-na.amazon.ca
 fls-na.amazon.com
 fltr.tv
-flurry.com
 flux.com
 flwr.pt
 flx1.com
@@ -8967,7 +8956,6 @@ go.trouter.io
 go.trouter.skype.com
 go.twitch.tv
 go.unl.edu
-go.usa.gov
 go.wechat.com
 go2.me
 go2.pt
@@ -9016,7 +9004,6 @@ goodgamestudios.com
 goodolddownloads.com
 goodreads.com
 goodyear.ugc.bazaarvoice.com
-google-analytics.com
 google-proxy-66-249-80-80srv151-6-213-95.vk.com
 google-talkplugin-release.vk.com
 google.ac
@@ -9237,7 +9224,6 @@ googlecode.com
 googlehosted.com
 googlehosted.googleusercontent.com
 googlehosted.l.googleusercontent.com
-googlesyndication.com
 googletagmanager.com
 googletagservices.com
 googleusercontent.com
@@ -10116,7 +10102,6 @@ iad-02.braze.com
 iad-03.braze.com
 iad-04.braze.com
 iad.liveperson.net
-iadsdk.apple.com
 iadsdk.apple.com.akadns.net
 iadsdk.apple.com.edgekey.net
 iam-agof-app.irquest.com
@@ -10894,7 +10879,6 @@ in.rediff.com
 in.samsung.com
 in.sbdp.sonymobile.com
 in.smsapi.micloud.xiaomi.net
-in.treasuredata.com
 in.xms.d.mi.com
 in.yahoo.com
 inapcache.boston.com
@@ -10904,8 +10888,6 @@ inbrowserediting.adobe.com
 inc.antpool.com
 inc.com
 include.zoom.com
-includecheck.oisd.nl
-incoming.telemetry.mozilla.org
 incredibarvuz1.com
 incredimail.com
 ind.pn
@@ -11480,7 +11462,6 @@ js.intercomcdn.com
 js.is
 js.maxmind.com
 js.pusher.com
-js.spotx.tv
 js.stripe.com
 js.t.sinajs.cn
 js.taplytics.com
@@ -11938,6 +11919,7 @@ latimes.com
 latimesblogs.latimes.com
 lattice.com
 laughlin.zoom.com
+launch1.co
 launcher.nirsoft.net
 launcher.spot.im
 launcher.twitch.tv
@@ -12133,7 +12115,6 @@ link.wnep.com
 link.xperialounge.sonymobile.com
 link.zip.net
 linkbee.com
-linkbucks.com
 linkbun.ch
 linkebr.com
 linkedin.com
@@ -12331,7 +12312,6 @@ locale.roblox.com
 localhost
 localhost.localdomain
 localhost.vk.com
-localytics.com
 location-inference-westus.cloudapp.net
 location.live.net
 locationiq.com
@@ -13632,6 +13612,7 @@ mozillazine.org
 mozu.com
 mp.huangye.miui.com
 mp.microsoft.com
+mp.pianomedia.eu
 mp.twitch.tv
 mp3-community.spot.im
 mp3.com
@@ -13895,7 +13876,6 @@ myregus.com
 myservice.xbox.com
 myshopify.com
 myskb.ru
-mysp.ac
 mysp.in
 myspace.com
 myspacesworks.com
@@ -14125,7 +14105,6 @@ news.com.au
 news.ebc.net.tw
 news.engadget.com
 news.google.com
-news.iadsdk.apple.com
 news.line.me
 news.naver.com
 news.nil.naver.com
@@ -15304,7 +15283,6 @@ page.amap.com
 page.li
 page.line.me
 pagead.l.doubleclick.net
-pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 pagefair.com
 pages.ebay.com
@@ -15329,6 +15307,7 @@ pandora.com
 pandora.mi.com
 pandora.xiaomi.com
 panduoduo.net
+panel.adtify.pl
 pangle.io
 panoramio.com
 pantheon.io
@@ -15375,7 +15354,6 @@ partners.logentries.com
 partners.playstation.com
 partners.salesforce.com
 partners.soundcloud.com
-partners.webmasterplan.com
 partnerseu.sec.samsung.com
 parton.ly
 parts.blog.livedoor.jp
@@ -15511,7 +15489,6 @@ pck.rs
 pcmag.com
 pcmatic.com
 pco.lt
-pcookie.aliexpress.com
 pcpartpicker.com
 pcrisk.com
 pcsuite.mi.com
@@ -16184,7 +16161,6 @@ promotions.newegg.com
 promotions.soundcloud.com
 proofpoint.com
 propublica.org
-propvideo.net
 protection.outlook.com
 prothom-alo.com
 prothomalo.com
@@ -16965,7 +16941,6 @@ redirector.googlevideo.com
 redirector.gvt1.com
 redirects.ca
 redirx.com
-redshell.io
 redsky.target.com
 redtube.com
 redu.it
@@ -17369,6 +17344,7 @@ s.btc.com
 s.btstatic.com
 s.cdn.mozilla.net
 s.cdn.turner.com
+s.click.aliexpress.com
 s.click.taobao.com
 s.click.tmall.com
 s.coinmarketcap.com
@@ -17650,7 +17626,6 @@ sbsibank.by
 sbsvodns-vh.akamaihd.net
 sbtonline.in
 sbux.co
-sc-analytics.appspot.com
 sc-apps.sonymobile.com
 sc-cdn.net
 sc-jpl.com
@@ -18487,7 +18462,6 @@ smallr.net
 smallseotools.com
 smart.cr
 smart.link
-smartadserver.com
 smartbank.ru
 smartbusiness.samsung.com
 smartclip.net
@@ -18507,7 +18481,6 @@ smashingmagazine.com
 smbc.co.jp
 smedia.webcollage.net
 smetrics.aem.playstation.com
-smetrics.att.com
 smetrics.costco.com
 smetrics.dhl.de
 smetrics.discover.com
@@ -18522,7 +18495,6 @@ smh.com.au
 smi2.ru
 smile.amazon.com
 smiledirectclub.com
-smileycentral.com
 smith.gl
 smljmp.com
 smll.co
@@ -19234,7 +19206,6 @@ ssl.bblck.me
 ssl.biglion.ru
 ssl.easypay.by
 ssl.fastly.net
-ssl.google-analytics.com
 ssl.gs
 ssl.gstatic.com
 ssl.kaptcha.com
@@ -19810,7 +19781,6 @@ suntm.es
 suo.im
 super.cz
 supercell.net
-superfastcdn.com
 superio.diigo.com
 superitu.com
 superjob.ru
@@ -19881,7 +19851,6 @@ support.zoom.com
 support2.kaspersky.com
 support2.xbox.com
 supportdev.cryptopia.co.nz
-supportmetrics.apple.com
 supportuat.xbox.com
 sups.us
 surf.plus.google.com
@@ -20030,7 +19999,6 @@ t1.market.xiaomi.com
 t1.nl
 t11.baidu.com
 t12.baidu.com
-t2.hulu.com
 t2.market.mi-img.com
 t2.market.xiaomi.com
 t23.intelliad.de
@@ -20743,7 +20711,6 @@ trbna.com
 trbo.com
 trcb.me
 trck.me
-treasuredata.com
 treehousei.com
 trello.com
 trends.google.com
@@ -23184,6 +23151,7 @@ www.blackberry.com
 www.blackboxrepack.com
 www.blackhatworld.com
 www.blacklistednews.com
+www.blankrefer.com
 www.bleepingcomputer.com
 www.blizzard.com
 www.blockadblock.com
@@ -23395,6 +23363,7 @@ www.download.windowsupdate.com
 www.downloads.techrepublic.com
 www.dpbolvw.net
 www.dpm.demdex.net
+www.drakulastream.eu
 www.dramafever.com
 www.drift.com
 www.driftt.com
@@ -23460,6 +23429,7 @@ www.eth.antpool.com
 www.ethn.io
 www.ethweb.antpool.com
 www.etoro.com
+www.etracker.de
 www.eu-gmtdmp.gd1.mookie1.com
 www.eu.cdn.survey.medallia.com
 www.eu.stratum.antpool.com
@@ -23543,6 +23513,7 @@ www.foxnews.com
 www.foxsports.com.au
 www.fr.wikipedia.com
 www.freedownloadmanager.org
+www.freemake.com
 www.freenet.de
 www.freeones.com
 www.frontgate.com
@@ -23598,6 +23569,7 @@ www.goldmoney.com
 www.goo.gl
 www.goodolddownloads.com
 www.goodreads.com
+www.google-analytics.com
 www.google.ac
 www.google.ad
 www.google.ae
@@ -23802,8 +23774,10 @@ www.google.tt
 www.google.vg
 www.google.vu
 www.google.ws
+www.googleadservices.com
 www.googleapis.com
 www.googlecommerce.com
+www.googletagmanager.com
 www.googleweblight.com
 www.gopjn.com
 www.gotinder.com
@@ -24300,6 +24274,7 @@ www.pool.antpool.com
 www.pool.ntp.org
 www.poolhb.com
 www.popuptest.com
+www.pornerbros.com
 www.pornhub.com
 www.posb.com.sg
 www.posta.co.tz
@@ -24461,6 +24436,7 @@ www.socialstyrelsen.dk
 www.sofascore.com
 www.soft98.ir
 www.softonic.com
+www.softpedia.com
 www.sogou.com
 www.sohu.com
 www.solaredge.com
@@ -25278,4 +25254,4 @@ zz.gd
 zzang.kr
 zzb.bz
 zzzzzz.vk.com
-zzzzzzzz.vk.com
+zzzzzzzz.vk.com+

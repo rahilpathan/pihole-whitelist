@@ -208,7 +208,6 @@ account.wire.com
 accounts.nvgs.nvidia.com
 accounts.pkr.com.invalid
 accura.cc
-acdn.adnxs.com
 acenar.com
 ackcdn.net
 acosm.in
@@ -259,7 +258,6 @@ adfly.fr
 adfoc.us
 adform.net
 adj.st
-adjix.com
 adjust.com
 adjust.io
 adjust.net.in
@@ -539,7 +537,6 @@ adsrt.org
 adswizz.com
 adtech.de
 adtidy.net
-adtng.com
 adtrackers.net
 adtraction.com
 adultswim.com
@@ -623,7 +620,6 @@ amzn.com
 amzn.to
 analytics.edgekey.net
 analytics.google.com
-analytics.localytics.com
 analytics.robinhood.com
 analytics.twitter.com
 andr.tv
@@ -654,7 +650,6 @@ api-secure.solvemedia.com
 api-tv.spotify.com
 api-xl9-ssl.xunlei.com
 api.account.xiaomi.com
-api.ad.xiaomi.com
 api.amplitude.com
 api.anti-captcha.com
 api.apptentive.com
@@ -686,7 +681,6 @@ api.opinary.com
 api.parse.com
 api.parsely.com
 api.pinterest.com
-api.redshell.io
 api.rlje.net
 api.rollbar.com
 api.sandbox.coinbase.com
@@ -697,7 +691,6 @@ api.solvemedia.com
 api.taboola.com
 api.techet.net
 api.traq.li
-api.treasuredata.com
 api.truckersmp.com
 api.uca.cloud.unity3d.com
 api.us.hismarttv.com
@@ -1146,7 +1139,6 @@ cdn.cxense.com
 cdn.derekseaman.com
 cdn.embedly.com
 cdn.fbsbx.com
-cdn.flurry.com
 cdn.gigya.com
 cdn.gotraffic.net
 cdn.hbbtv.smartclip.net
@@ -1182,7 +1174,6 @@ cdn.vidible.tv
 cdn.wootric.com
 cdn.zomap.de
 cdn1.ettoday.net
-cdn1.smartadserver.com
 cdn2.optimizely.com
 cdn3.optimizely.com
 cdn4.wibbitz.com
@@ -1203,7 +1194,6 @@ cesar.mn
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
 cf-st.sc-cdn.net
-cf.iadsdk.apple.com
 cf.ly
 cf1.vuze.com
 cf2.me
@@ -1379,7 +1369,6 @@ coge.la
 cognito-identity.us-east-1.amazonaws.com
 cohesionapps.com
 coinbase.com
-coinurl.com
 cokeurl.com
 collab-us.cloud.unity3d.com
 collab.cloud.unity3d.com
@@ -1494,7 +1483,6 @@ ct.pinterest.com
 ct.sendgrid.net
 ctldl.windowsupdate.com
 cts.businesswire.com
-cts.vresp.com
 ctt.ec
 ctvr.us
 ctx.ly
@@ -1587,7 +1575,6 @@ damoh.schneevonmorgen.com
 damoh.spiegel.de
 dansguardian.org
 danviet.vn
-dap.digitalgov.gov
 darknet.org.uk
 dart.l.doubleclick.net
 dartsearch.net
@@ -2065,7 +2052,6 @@ fls-na.amazon-adsystem.com
 fls-na.amazon.ca
 fls-na.amazon.com
 fltr.tv
-flurry.com
 flux.com
 flwr.pt
 flx1.com
@@ -2277,7 +2263,6 @@ go.theregister.com
 go.to
 go.trouter.skype.com
 go.unl.edu
-go.usa.gov
 go2.me
 go2.pt
 go2cloud.org
@@ -2301,7 +2286,6 @@ goo.io
 goo.lu
 goo.su
 good.ly
-google-analytics.com
 google.cf
 google.com
 google.ga
@@ -2310,7 +2294,6 @@ google.tk
 googleadapis.l.google.com
 googleadservices.com
 googleapis.com
-googlesyndication.com
 googletagmanager.com
 googletagservices.com
 googlypro.com
@@ -2544,7 +2527,6 @@ iad-02.braze.com
 iad-03.braze.com
 iad-04.braze.com
 iad.liveperson.net
-iadsdk.apple.com
 iam-agof-app.irquest.com
 ias.r10s.jp
 ias.rakuten.co.jp
@@ -2722,10 +2704,7 @@ impactradius.com
 imrworldwide.com
 in.appcenter.ms
 in.flux.com
-in.treasuredata.com
 inc.com
-includecheck.oisd.nl
-incoming.telemetry.mozilla.org
 ind.pn
 indexww.com
 indy.st
@@ -2883,7 +2862,6 @@ js.intercomcdn.com
 js.is
 js.maxmind.com
 js.pusher.com
-js.spotx.tv
 js.stripe.com
 js.taplytics.com
 jsdelivr.net
@@ -3035,7 +3013,6 @@ link.tl
 link.wnep.com
 link.zip.net
 linkbee.com
-linkbucks.com
 linkbun.ch
 linkebr.com
 linkee.com
@@ -3108,7 +3085,6 @@ lnnk.in
 lnnkin.com
 lnp.sn
 lnx.lu
-localytics.com
 log-1.samsungacr.com
 log-tb.sgsnssdk.com
 log-upload-os.mihoyo.com
@@ -3408,7 +3384,6 @@ myfonts.us
 myhomescreen.tv
 myloc.me
 mypict.me
-mysp.ac
 mysp.in
 myspace.com
 mystats.com
@@ -3476,7 +3451,6 @@ neustar.biz
 newrelic.com
 news.ebc.net.tw
 news.google.com
-news.iadsdk.apple.com
 news.smi2.ru
 newsbtc.com
 newser.me
@@ -3801,7 +3775,6 @@ packetlivesmatter.cl
 page.amap.com
 page.li
 pagead.l.doubleclick.net
-pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 pages.info.exclusive-networks.com
 pages03.net
@@ -3826,7 +3799,6 @@ partner2profit.com
 partnerprogramma.bol.com
 partners.etoro.com
 partners.salesforce.com
-partners.webmasterplan.com
 parton.ly
 partycasino.com
 parv.us
@@ -3849,7 +3821,6 @@ pbsiddhartha.ac.in
 pcekspert.com
 pck.rs
 pco.lt
-pcookie.aliexpress.com
 pcrisk.com
 pd.am
 pdc.micloud.xiaomi.net
@@ -4045,7 +4016,6 @@ promo.mobile.de
 promos.fling.com
 promotions.newegg.com
 proofpoint.com
-propvideo.net
 prov.samsungcloudsolution.com
 proxad.net
 proxy.novafusion.ea.com
@@ -4215,7 +4185,6 @@ redirector.googlevideo.com
 redirector.gvt1.com
 redirects.ca
 redirx.com
-redshell.io
 redu.it
 ref.so
 refer.ccbill.com
@@ -4398,7 +4367,6 @@ sawap.equifax.com
 sb.scorecardresearch.com
 sbn.to
 sbux.co
-sc-analytics.appspot.com
 sc-static.net
 sc.org
 scanverify.com
@@ -4668,13 +4636,11 @@ smallr.net
 smallseotools.com
 smart.cr
 smart.link
-smartadserver.com
 smartclip.net
 smartplugin.youbora.com
 smartredirect.de
 smarturl.it
 smashed.by
-smetrics.att.com
 smetrics.costco.com
 smetrics.dhl.de
 smetrics.discover.com
@@ -4685,7 +4651,6 @@ smf.is
 smfu.in
 smgm.us
 smi2.ru
-smileycentral.com
 smith.gl
 smljmp.com
 smll.co
@@ -4775,7 +4740,6 @@ srvtrck.com
 ssl-cdn.static.browser.mi-img.com
 ssl-nl.persgroep.edgekey.net
 ssl.bblck.me
-ssl.google-analytics.com
 ssl.gs
 ssl.gstatic.com
 ssl.o.auspost.com.au
@@ -4875,12 +4839,10 @@ sundaysky.com
 suntm.es
 suo.im
 supercell.net
-superfastcdn.com
 superstreamsystem.com
 supervisor.ext-twitch.tv
 support.binance.com
 support.coinbase.com
-supportmetrics.apple.com
 sups.us
 surl.co.uk
 surl.hu
@@ -4934,7 +4896,6 @@ t0.ssl.ak.tiles.virtualearth.net
 t1.g.mi.com
 t11.baidu.com
 t12.baidu.com
-t2.hulu.com
 t23.intelliad.de
 t2m.io
 t2mio.com
@@ -5193,7 +5154,6 @@ trbna.com
 trbo.com
 trcb.me
 trck.me
-treasuredata.com
 treehousei.com
 trg.li
 trial.api.huangye.miui.com

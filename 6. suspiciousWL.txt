@@ -3848,6 +3848,7 @@ actimes.com.au
 action.aclu.org
 action.ientry.net
 action.me
+action.metaffiliation.com
 action.ph
 action.web.ca
 action24.gr
@@ -5162,6 +5163,7 @@ ads.muxiv.com
 ads.mycricket.com
 ads.nationmedia.com
 ads.nc
+ads.nexage.com
 ads.nimses.com
 ads.nipr.ac.jp
 ads.nyootv.com
@@ -5280,6 +5282,7 @@ adserve.io
 adserve.net
 adserveonline.biz
 adserver-voice-online.co.uk
+adserver.adtech.de
 adserver.bigwigmedia.com
 adserver.bs
 adserver.bworldonline.com
@@ -9229,6 +9232,7 @@ analytics.google.com
 analytics.googleblog.com
 analytics.ht
 analytics.itunes.apple.com
+analytics.localytics.com
 analytics.messaging.microsoft.com
 analytics.microsoft.com
 analytics.mobila.yandex.net
@@ -9239,6 +9243,7 @@ analytics.si
 analytics.tercept.com
 analytics.tradedoubler.com
 analytics.tripwireinteractive.com
+analytics.twitter.com
 analytics.wearekiss.com
 analytics.westeurope.cloudapp.azure.com
 analytics.yinxiang.com
@@ -14470,6 +14475,10 @@ avatars.letgo.com
 avatars.mds.yandex.net
 avatars.miniclip.com
 avatars.ubisoft.com
+avatars0.githubusercontent.com
+avatars1.githubusercontent.com
+avatars2.githubusercontent.com
+avatars3.githubusercontent.com
 avatars4.githubusercontent.com
 avatars5.githubusercontent.com
 avatarservices.xboxlive.com
@@ -25005,6 +25014,7 @@ cbs.mp.microsoft.com
 cbs.ntu.edu.tw
 cbs.so
 cbs.sportsline.com
+cbs.wondershare.com
 cbs17.com
 cbs19news.com
 cbs2.com
@@ -25396,6 +25406,7 @@ cdn-scorestream-com.s3.amazonaws.com
 cdn-scraplogo.pearltrees.com
 cdn-secure.luckygunner.com
 cdn-seekingalpha.com
+cdn-settings.segment.com
 cdn-shop.adafruit.com
 cdn-social.janrain.com
 cdn-ssl.s7.disneystore.com
@@ -31394,6 +31405,7 @@ combatreform.org
 combatsportsupply.com
 combinatronics.io
 combine.ph
+combine.urbanairship.com
 combined.abuse.ch
 combined.rbl.msrbl.net
 combinedsystems.com
@@ -32586,6 +32598,7 @@ contributor.google.com
 contributor.yahoo.com
 control.com
 control.d-imaging.sony.co.jp
+control.kochava.com
 control.phone.com
 control4.com
 controlautomaticoeducacion.com
@@ -40228,6 +40241,7 @@ dmn-dallas-news-prod.cdn.arcpublishing.com
 dmn.dallasnews.com
 dmotion.hs.llnwd.net
 dmoz.org
+dmp.adform.net
 dmp.msn.com
 dmpdev.westeurope.cloudapp.azure.com
 dmpprod.westeurope.cloudapp.azure.com
@@ -41615,6 +41629,7 @@ dplay.se
 dplayer.pro
 dpliveupdate.com
 dplwebmarketing.com
+dpm.demdex.net
 dpm.zebestof.com
 dpmms.cam.ac.uk
 dpo.st
@@ -49323,6 +49338,7 @@ fbprod.flipboard.com
 fbprofiles.facebook.com
 fbs.com
 fbsatellite.com
+fbsbx.com
 fbsbx.com.online-metrix.net
 fbshare.me
 fbshareapp.tag.microsoft.com
@@ -53027,6 +53043,7 @@ freegasonus.com
 freegasprovider.com
 freegaypix.com
 freegeoip.app
+freegeoip.net
 freegiftcards.co
 freegiftcardsource.com
 freegiftreward.com
@@ -57693,6 +57710,7 @@ google-ad-personalization-1100x600.pn
 google-adservices.com
 google-adwords.pn
 google-africa.blogspot.com
+google-analytics.com
 google-analytics.pn
 google-arabia.blogspot.com
 google-au.blogspot.com
@@ -58638,6 +58656,7 @@ graph.accountkit.com
 graph.baidu.com
 graph.bustle.com
 graph.document.kremlin.ru
+graph.facebook.com
 graph.facebook.net
 graph.fbpigeon.com
 graph.microsoft.com
@@ -76756,6 +76775,7 @@ laughteryogaamerica.com
 laughy.jp
 laughyourway.com
 launch.yahoo.com
+launch1.co
 launchbox-app.com
 launchdarkly.com
 launcher-public-service-prod06.ol.epicgames.com
@@ -87296,6 +87316,7 @@ mobilcom-debitel.de
 mobile-ap.spotify.com
 mobile-barcode-scanner.com
 mobile-blog.line.me
+mobile-collector.newrelic.com
 mobile-content.sessionm.com
 mobile-data.s3.brave.com
 mobile-devint.cdn.openx.com
@@ -87306,6 +87327,7 @@ mobile-messenger.intercom.com
 mobile-qa.cdn.openx.com
 mobile-review.com
 mobile-sdk-api.intercom.io
+mobile-service.segment.com
 mobile-tracker-free.com
 mobile-update.bithumb.com
 mobile.anycast.adnxs.com
@@ -91607,6 +91629,7 @@ nbcu.demdex.net
 nbcu.tags.crwdcntrl.net
 nbcuas.com
 nbcudigitaladops.com
+nbcume.sc.omtrdc.net
 nbcuni-music.com
 nbcuni.com
 nbcunicareers.com
@@ -102765,6 +102788,7 @@ pixel.google.com
 pixel.inbox.exacttarget.com
 pixel.nymag.com
 pixel.pn
+pixel.redditmedia.com
 pixel.sitescout.com
 pixel.wp.com
 pixel4k.com
@@ -108467,6 +108491,7 @@ quantcast.com
 quantcast.mgr.consensu.org
 quantlabs.net
 quanto.co.nz
+quantserve.com
 quantumbooter.net
 quantumdev.microsoft.com
 quanzhi.cn
@@ -115436,6 +115461,7 @@ s.cdn.mozilla.net
 s.cdn.turner.com
 s.ch9.ms
 s.cleveland.com
+s.click.aliexpress.com
 s.click.ele.me
 s.click.taobao.com
 s.click.tmall.com
@@ -116061,6 +116087,7 @@ safebrowsing.brave.com
 safebrowsing.cache.l.google.com
 safebrowsing.clients.google.com
 safebrowsing.g.aaplimg.com
+safebrowsing.google.com
 safechat.com
 safeco.com
 safecom.org.au
@@ -117003,6 +117030,7 @@ sb.google.com
 sb.hitbtc.com
 sb.l.google.com
 sb.ltn.fi
+sb.scorecardresearch.com
 sb232.sbweb.microsoft.com
 sb233.sbweb.microsoft.com
 sb234.sbweb.microsoft.com
@@ -117101,6 +117129,7 @@ sbuniv.edu
 sbux.co
 sbvstest.eastus.cloudapp.azure.com
 sbxapitstagents.eastus2.cloudapp.azure.com
+sc-analytics.appspot.com
 sc-apps.sonymobile.com
 sc-cdn.net
 sc-jpl.com
@@ -118482,6 +118511,7 @@ secure.pqarchiver.com
 secure.prod.facebook.com
 secure.publicbroadcasting.net
 secure.qgiv.com
+secure.quantserve.com
 secure.raxcdn.com
 secure.runescape.com
 secure.selfwealth.com.au
@@ -119440,6 +119470,7 @@ settings-ppe.data.microsoft.com
 settings-sandbox.data.glbdns2.microsoft.com
 settings-ssl.xboxlive.com
 settings-win-ppe.data.microsoft.com
+settings.crashlytics.com
 settings.crisp.ch
 settings.crisp.chat
 settings.data.glbdns2.microsoft.com
@@ -125613,6 +125644,7 @@ ssl.easypay.by
 ssl.facebook.com
 ssl.fastly.net
 ssl.geoplugin.net
+ssl.google-analytics.com
 ssl.gs
 ssl.gstatic.com
 ssl.hwcdn.net
@@ -125999,6 +126031,7 @@ stagingretrieval-dcatbackend-int.mp.microsoft.com
 stagingv2.spot.im
 stagnesc7.sa.edu.au
 stagram.com
+stags.bluekai.com
 stahl-online.de
 stailamedia.com
 staind.com
@@ -139995,6 +140028,7 @@ udimi.com
 udiscovermusic.com
 udistrital.edu.co
 udl-api.sonymobile.com
+udm.scorecardresearch.com
 udm.wikipedia.org
 udmercy.edu
 udn.com
@@ -156112,6 +156146,7 @@ www.fac
 www.face2news.com
 www.faceb
 www.facebook
+www.facebook.com
 www.facegirl.ch
 www.factor-tech.com
 www.fairlands.herts.sch.uk
@@ -156572,6 +156607,7 @@ www.freedomsphoenix.com
 www.freedomunited.org
 www.freedownloadmanager.org
 www.freelancer.com
+www.freemake.com
 www.freemaninrealworld.altervista.org
 www.freenet.de
 www.freenflpicks.net
@@ -156914,6 +156950,7 @@ www.goodolddownloads.com
 www.goodreads.com
 www.goodshepherds.org
 www.goodsync.com
+www.google-analytics.com
 www.google-store.com
 www.google.ac
 www.google.ad
@@ -157134,6 +157171,7 @@ www.google.vu
 www.google.ws
 www.googleadapis.l.google.com
 www.googleads.g.doubleclick.net
+www.googleadservices.com
 www.googleapis.com
 www.googleblog.blogspot.com
 www.googlechinawebmaster.com
@@ -157141,6 +157179,7 @@ www.googlecommerce.com
 www.googlehosted.l.googleusercontent.com
 www.googlesciencefair.com
 www.googlestore.com
+www.googletagmanager.com
 www.googleweblight.com
 www.googlewebmastercentral.blogspot.com
 www.googoodolls.com
