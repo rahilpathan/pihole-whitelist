@@ -1,9 +1,11 @@
+0-edge-chat.facebook.com
 0.client-channel.google.com
 0.com
 000webhostapp.com
 0catch.com
 0rz.tw
 0x.co
+1-edge-chat.facebook.com
 1-undefined.facebook.com
 1-url.net
 1.bp.blogspot.com
@@ -44,6 +46,7 @@
 1url.cz
 1wb2.net
 2-01-3cf7-000c.cdx.cedexis.net
+2-edge-chat.facebook.com
 2-spyware.com
 2-undefined.facebook.com
 2.android.pool.ntp.org
@@ -79,6 +82,7 @@
 2wsb.tv
 2ya.com
 2ze.us
+3-edge-chat.facebook.com
 301.to
 301url.com
 307.to
@@ -89,6 +93,7 @@
 3ra.be
 3x.ro
 3x.si
+4-edge-chat.facebook.com
 4.bp.blogspot.com
 4.cn
 4.nbcny.com
@@ -109,6 +114,7 @@
 4url.cc
 4view.me
 5-11.co
+5-edge-chat.facebook.com
 5-undefined.facebook.com
 5.wews.com
 50000zl.si
@@ -128,6 +134,7 @@
 5rr.it
 5url.net
 5z8.info
+6-edge-chat.facebook.com
 6-undefined.facebook.com
 6fr.ru
 6g6.eu
@@ -261,6 +268,7 @@ accounts.pkr.com.invalid
 accounts.youtube.com
 accura.cc
 accuweather.com
+acdn.adnxs.com
 acenar.com
 ackcdn.net
 acompli.helpshift.com
@@ -271,6 +279,7 @@ acr0.samsungcloudsolution.com
 actie.milieudefensie.nl
 action.me
 actionnetwork.org
+activate.adobe.com
 activation.adobedtm.com
 activation.sls.microsoft.com
 activation.unity3d.com
@@ -283,6 +292,7 @@ ad-med.cz
 ad.admitad.com
 ad.antpool.com
 ad.aruba.it
+ad.atdmt.com
 ad.dmm.com
 ad.doubleclick.net
 ad.lgsmartad.com
@@ -923,6 +933,7 @@ asos.to
 aspnetcdn.com
 asset.wsj.net
 assets-jpcust.jwpsrv.com
+assets.adobedtm.com
 assets.coinbase.com
 assets.gadgets360cdn.com
 assets.getpocket.com
@@ -1479,12 +1490,14 @@ cdn.medium.com
 cdn.mplxtms.com
 cdn.onenote.net
 cdn.onenote.net.edgekey.net
+cdn.optimizely.com
 cdn.pardot.com
 cdn.pendo.io
 cdn.perfdrive.com
 cdn.printfriendly.com
 cdn.ravenjs.com
 cdn.rawgit.com
+cdn.refersion.com
 cdn.registerdisney.go.com
 cdn.rollbar.com
 cdn.samsungcloudsolution.com
@@ -1500,6 +1513,7 @@ cdn.syndication.twimg.com
 cdn.tinypass.com
 cdn.ttgtmedia.com
 cdn.viafoura.net
+cdn.vidible.tv
 cdn.voscast.com
 cdn.w3schools.com
 cdn.whatsapp.net
@@ -1511,6 +1525,7 @@ cdn1.smartadserver.com
 cdn2.digitaltrends.com
 cdn2.optimizely.com
 cdn3.digitaltrends.com
+cdn3.optimizely.com
 cdn4.digitaltrends.com
 cdn4.wibbitz.com
 cdn5.digitaltrends.com
@@ -1831,6 +1846,7 @@ content.aimatch.com
 content.dropboxapi.com
 content.prd.user.itv.com
 content.r9cdn.net
+continuum.dds.microsoft.com
 contnt.ly
 controleng.com
 converti.se
@@ -2079,6 +2095,7 @@ definitionupdates.microsoft.com
 del.ly
 delicious.com
 delivery.tacticalrepublic.com
+delivery.vidible.tv
 dell.com
 dell.to
 delta.com
@@ -2094,6 +2111,7 @@ desktop.github.com
 desktop.spotify.com
 desktop.telegram.org
 destyy.com
+det-ta-g7g.amazon.com
 detik.com
 detne.ws
 dev-multiscreen.samsung.com
@@ -2108,6 +2126,8 @@ deviantart.com
 device-api.asnapieu.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.co
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
 device-provisioning.googleapis.com
 device.auth.xboxlive.com
 deviloid.net
@@ -2265,6 +2285,7 @@ doxologia.ro
 dp-discovery-na-ext.amazon.com
 dp.im.weibo.cn
 dpbolvw.net
+dpm.demdex.net
 dpo.st
 dpu.samsungelectronics.com
 dr.tl
@@ -2400,6 +2421,7 @@ ecrea.tv
 ecx.images-amazon.com
 ed.gov
 edata.ndtv.com
+edge-chat.facebook.com
 edge-mqtt.facebook.com
 edge.activity.windows.com
 edge.api.brightcove.com
@@ -2656,6 +2678,7 @@ faygoluvers.net
 fb.com
 fb.me
 fb.nbcsports.com
+fbcdn-creative-a.akamaihd.net
 fbcdn.net
 fbshare.me
 fbuy.me
@@ -2773,6 +2796,7 @@ fonecta.fi
 font.me
 fontanka.ru
 fontjoy.com
+fonts.gstatic.com
 fonts.net
 foodnetwork.com
 footprint.net
@@ -2801,6 +2825,7 @@ fox.tv
 foxnews.com
 foxs.pt
 foxyurl.com
+fpdownload.adobe.com
 fpdownload.macromedia.com
 fpt.microsoft.com
 fr-go.kelkoogroup.net
@@ -3057,6 +3082,7 @@ goo.ne.jp
 goo.su
 good.ly
 goodreads.com
+google-analytics.com
 google.ca
 google.cf
 google.co.ao
@@ -3168,6 +3194,7 @@ goshrink.com
 gosquared.com
 gossi.pr
 gossipcop.com
+goto-target-com.customtraffic.impactradius.com
 goto.algolia.com
 goto.jet.com
 goto.target.com
@@ -3192,8 +3219,11 @@ gr.pn
 grab.by
 grabify.li
 graph.accountkit.com
+graph.facebook.com
 graph.facebook.net
+graph.instagram.com
 graph.whatsapp.net
+gravatar.com
 grdns.co
 greenend.org.uk
 greenmangaming.com
@@ -3888,6 +3918,7 @@ js.driftt.com
 js.hs-scripts.com
 js.indexww.com
 js.is
+js.maxmind.com
 js.pusher.com
 js.spotx.tv
 js.stripe.com
@@ -3931,6 +3962,7 @@ kemsos.go.id
 kepler.jd.com
 keshefoundation.org
 ketkp.in
+keystone.mwbsys.com
 kfd.pl
 kh.google.com
 khanacademy.org
@@ -4168,6 +4200,7 @@ lix.in
 lk.ht
 ll.a.hulu.com
 llu.ch
+lm.licenses.adobe.com
 ln-s.net
 ln-s.ru
 lnch.co
@@ -4961,6 +4994,7 @@ ocsp.comodoca.com
 ocsp.digicert.com
 ocsp.int-x3.letsencrypt.org
 ocsp.int-x3.letsencrypt.org.edgesuite.net
+ocsp.rootg2.amazontrust.com
 ocsp.sca1b.amazontrust.com
 octafx.com
 odc.weather.com
@@ -5338,6 +5372,7 @@ ping.fm
 ping.tapas.io
 ping.taplytics.com
 ping.ui.com
+pings.conviva.com
 pinnacle.com
 pinnaclesports.com
 pinpoint.us-east-1.amazonaws.com
@@ -5356,6 +5391,7 @@ pjtra.com
 pl-go.kelkoogroup.net
 pl.an
 pl.rdx2.lgtvsdp.com
+placehold.it
 placeholder.com
 placeholdit.imgix.net
 plantengineering.com
@@ -5731,6 +5767,7 @@ redu.it
 ref.so
 refer.ccbill.com
 reference.com
+refersion.com
 reg.biv.sony.tv
 reise.lc
 rel.in
@@ -5746,6 +5783,7 @@ reports.cliqz.com
 repository.cliqz.com
 rereddit.com
 res-x.com
+res.cloudinary.com
 resc.deskline.net
 researchgate.net
 researchintel.com
@@ -5989,6 +6027,7 @@ scontent-iad3-1.cdninstagram.com
 scontent-lga3-1.cdninstagram.com
 scontent-lhr3-1.xx.fbcdn.net
 scontent.fgdl5-1.fna.fbcdn.net
+scontent.xx.fbcdn.net
 scoop.it
 scr.wfcdn.de
 screenshots.goguardian.com
@@ -6432,6 +6471,7 @@ ss.phncdn.com
 ssl-cdn.static.browser.mi-img.com
 ssl-nl.persgroep.edgekey.net
 ssl.bblck.me
+ssl.google-analytics.com
 ssl.gs
 ssl.gstatic.com
 ssl.o.auspost.com.au
@@ -6507,6 +6547,7 @@ stats.paypal.com
 stats.pusher.com
 stats.ssa.gov
 stats.stackexchange.com
+stats.streamelements.com
 stats.t-online.de
 status.coinbase.com
 status.plex.tv
@@ -6645,6 +6686,7 @@ t.en25.com
 t.indeed.com
 t.ks.ua
 t.lh.com
+t.ly
 t.paydirekt.de
 t.purch.com
 t.uber.com
@@ -6898,6 +6940,7 @@ to.vg
 to8.cc
 today.com
 todhamilton.pro
+todo-ta-g7g.amazon.com
 tofukko.r.ribbon.to
 togoto.us
 tohle.de
@@ -6937,6 +6980,7 @@ tra.kz
 tracemyip.org
 traceurl.com
 track-eu.adformnet.akadns.net
+track.adform.net
 track.as
 track.customer.io
 track.flexlinkspro.com
@@ -7158,6 +7202,7 @@ umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
 un.org
 unagi-eu.amazon.com
+unagi-na.amazon.com
 unagi.amazon.co.jp
 unagi.amazon.com
 unblocksit.es
@@ -7266,6 +7311,7 @@ urlzs.com
 urs.techrepublic.com
 urub.us
 us-cert.gov
+us-east-1.amazonaws.com
 us-go.kelkoogroup.net
 us-v10.events.data.microsoft.com
 us-v20.events.data.microsoft.com
@@ -7325,6 +7371,7 @@ v.whatsapp.net
 v.wpimg.pl
 v.zite.com
 v10-win.vortex.data.microsoft.com.akadns.net
+v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v10c.events.data.microsoft.com
 v1m.net
@@ -7387,6 +7434,7 @@ videocdn-sbs.akamaized.net
 videolan.org
 videoplayerhub.com
 videoplaza.tv
+videos.vidible.tv
 vidible.tv
 vidtech.cbsinteractive.com
 view.virt.s7.exacttarget.com
@@ -7679,6 +7727,7 @@ www.about.medium.com
 www.account.samsung.com
 www.actionnetwork.org
 www.ad.antpool.com
+www.adf.ly
 www.affiliatefuture.com
 www.alarm.antpool.com
 www.algolia.com
@@ -7859,6 +7908,7 @@ www.go.microsoft.com
 www.godaddy.com
 www.gog.com
 www.goodreads.com
+www.google-analytics.com
 www.google.com
 www.googleapis.com
 www.gopjn.com
@@ -7919,6 +7969,7 @@ www.live.com
 www.login.coinbase.com
 www.login.wikimedia.org
 www.lootcrate.com
+www.lotustalk.com
 www.m.hotmail.com
 www.m.poloniex.com
 www.m.techrepublic.com
@@ -8042,6 +8093,7 @@ www.quora.com
 www.rcollard.com
 www.real-markt.de
 www.reddit.com
+www.refersion.com
 www.rivm.nl
 www.rsk.antpool.com
 www.rt.com
@@ -8052,6 +8104,7 @@ www.samsung.com
 www.sandbox.coinbase.com
 www.sandbox.exchange.coinbase.com
 www.sandboxie.com
+www.sbs.com.au
 www.secure.techrepublic.com
 www.serials.ws
 www.services.medium.com

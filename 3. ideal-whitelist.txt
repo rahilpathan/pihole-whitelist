@@ -6,6 +6,7 @@
 0-196.vk.com
 0-amadeus.bvdinfo.com
 0-amadeus.bvdinfo.com.biblio.vk.com
+0-edge-chat.facebook.com
 0-stnweb.cas.org.skyline.vk.com
 0.0.0.0
 0.0.1.cloudflare-dns.com
@@ -89,6 +90,7 @@
 0zz0.com
 1-4-0.war-prod.prod.whalekit.li
 1-4u-computer-graphics.com
+1-edge-chat.facebook.com
 1-images.motorcar.com
 1-undefined.facebook.com
 1-url.net
@@ -418,6 +420,7 @@
 1zoom.me
 2-01-2c3e-003d.cdx.cedexis.net
 2-01-3cf7-000c.cdx.cedexis.net
+2-edge-chat.facebook.com
 2-images.motorcar.com
 2-spyware.com
 2-undefined.facebook.com
@@ -620,6 +623,7 @@
 2ya.com
 2yrh403fk8vd1hz9ro2n46dd-wpengine.netdna-ssl.com
 2ze.us
+3-edge-chat.facebook.com
 3-images.motorcar.com
 3.235.223.199.bc.googleusercontent.com
 3.amazon.pool.ntp.org
@@ -775,6 +779,7 @@
 3x.si
 3xysvi-c9lrcrpz7ym2.cloudmaestro.com
 3z.net
+4-edge-chat.facebook.com
 4-images.motorcar.com
 4-stroke.net
 4.48.236.23.bc.googleusercontent.com
@@ -867,6 +872,7 @@
 4xem.com
 5-11.co
 5-57a9f564e5295.radiocms.com
+5-edge-chat.facebook.com
 5-tv.ru
 5-undefined.facebook.com
 5.allegroimg.com
@@ -956,6 +962,7 @@
 5url.net
 5webs.net
 5z8.info
+6-edge-chat.facebook.com
 6-undefined.facebook.com
 6.allegroimg.com
 6.viki.io
@@ -2143,6 +2150,7 @@ adityamobileshop.com
 adiu.amap.com
 adj.com
 adj.st
+adjix.com
 adjust.com
 adjust.io
 adjust.net.in
@@ -5564,6 +5572,7 @@ api.ranker.com
 api.rapidvideo.com
 api.razorpay.com
 api.rebrandly.com
+api.redshell.io
 api.remotrapp.com
 api.reserve.com
 api.reverb.com
@@ -5649,6 +5658,7 @@ api.tools.pinpoll.com
 api.toptenreviews.com
 api.traq.li
 api.travel.rakuten.co.jp
+api.treasuredata.com
 api.trello.com
 api.tripleseat.com
 api.truckersmp.com
@@ -13941,6 +13951,7 @@ cf-sync-media.sndcdn.com
 cf-whatson.pluto.tv
 cf.chownowcdn.com
 cf.hamreus.com
+cf.iadsdk.apple.com
 cf.ly
 cf.nascar.com
 cf.shopee.ph
@@ -15860,6 +15871,7 @@ cointelegraph.com
 cointimes.com.br
 cointiply.com
 cointrackers.com
+coinurl.com
 coisasdediva.com.br
 cok.net
 cokeurl.com
@@ -18742,6 +18754,7 @@ danwessonfirearms.com
 danybucio.com
 danzzntfzh3zw.cloudfront.net
 daominhha.com
+dap.digitalgov.gov
 dapalan.com
 dapk.vk.com
 daplane.com
@@ -20572,6 +20585,7 @@ dl-bia2.ir
 dl-canary.discordapp.net
 dl-client.dropbox.com
 dl-count.xposed.info
+dl-debug*.dropbox.com
 dl-debug.dropbox.com
 dl-desktop-apps.sonymobile.com
 dl-desktop-xcapps.sonymobile.com
@@ -22548,6 +22562,7 @@ edf.org
 edgagolf.com
 edge-1.volume.com
 edge-block-previews-video-live.dropbox-dns.com
+edge-chat.facebook.com
 edge-chat.messenger.com
 edge-core.com
 edge-enterprise.activity.windows.com
@@ -29121,6 +29136,7 @@ go.trouter.skype.com
 go.trustyou.com
 go.twitch.tv
 go.unl.edu
+go.usa.gov
 go.vipreantivirus.com
 go.wechat.com
 go.wh.gov
@@ -29633,6 +29649,7 @@ gotgame.com
 gothru.co
 gotimegear.com
 gotinder.com
+goto-target-com.customtraffic.impactradius.com
 goto.algolia.com
 goto.clickfunnels.com
 goto.jet.com
@@ -35284,6 +35301,7 @@ in.reuters.com
 in.samsung.com
 in.sbdp.sonymobile.com
 in.smsapi.micloud.xiaomi.net
+in.treasuredata.com
 in.xms.d.mi.com
 in.yahoo.com
 in.youtube.com
@@ -35314,6 +35332,7 @@ incimages.com
 inclarity.co.uk
 include.ebaystatic.com
 include.zoom.com
+includecheck.oisd.nl
 includecpp.org
 inclusivedesign24.org
 incognito.london
@@ -37455,6 +37474,7 @@ js.prd.fusionapi.autodesk.com
 js.pusher.com
 js.skyscnr.com
 js.sohu.com
+js.spotx.tv
 js.squareup.com
 js.stripe.com
 js.t.sinajs.cn
@@ -40440,6 +40460,7 @@ link.xperialounge.sonymobile.com
 link.zip.net
 link.zixcentral.com
 linkbee.com
+linkbucks.com
 linkbun.ch
 linkco.re
 linkd.in
@@ -46880,6 +46901,7 @@ mysortimo.es
 mysortimo.fr
 mysortimo.no
 mysortimo.se
+mysp.ac
 mysp.in
 myspace.com
 myspacecdn.com
@@ -47903,6 +47925,7 @@ news.guns.com
 news.harvard.edu
 news.health.com
 news.housefun.com.tw
+news.iadsdk.apple.com
 news.ifeng.com
 news.images.itv.com
 news.internet.apps.samsung.com
@@ -51590,6 +51613,7 @@ partners.playstation.com
 partners.salesforce.com
 partners.soundcloud.com
 partners.uber.com
+partners.webmasterplan.com
 partnerseu.sec.samsung.com
 partnersforpubliced.org
 partnerstatic.carfax.com
@@ -51944,6 +51968,7 @@ pco.lt
 pcols.com
 pcom.edu
 pconline.com.cn
+pcookie.aliexpress.com
 pcosdiva.com
 pcpartguide.com
 pcpartpicker.com
@@ -52456,6 +52481,7 @@ photonetc.com
 photopills.com
 photoreflect.com
 photoreview.gotinder.com
+photos-*.dropbox.com
 photos-1.dropbox.com
 photos-2.dropbox.com
 photos-3.dropbox.com
@@ -53358,6 +53384,7 @@ pmd.cdn.turner.com
 pmdssl.flixkart.com.edgekey.net
 pmdstatic.net
 pmdvod.nationalgeographic.com
+pmenboeqhyrpvomq.
 pmf.unizg.hr
 pmi.com
 pmi.org
@@ -54595,6 +54622,7 @@ proprofs.com
 propstore.com
 propstoreauction.com
 propublica.org
+propvideo.net
 proquest.com
 proquest.libguides.com
 proreferral.com
@@ -56571,6 +56599,7 @@ redrocksonline.com
 redrunrite.com
 redseafish.com
 redsharknews.com
+redshell.io
 redsky.target.com
 redstate.com
 redstation.com
@@ -61810,6 +61839,7 @@ sme.co.uk
 smedia.webcollage.net
 smeet.com
 smetrics.aem.playstation.com
+smetrics.att.com
 smetrics.costco.com
 smetrics.dhl.de
 smetrics.discover.com
@@ -61835,6 +61865,7 @@ smileadsl.com
 smilebrilliant.com
 smiledirectclub.com
 smilereminder.com
+smileycentral.com
 smitegame.com
 smith-wesson.com
 smith-wessonforum.com
@@ -65389,6 +65420,7 @@ streamdb9web.securenetsystems.net
 streamelements.com
 streamer.tawenda-tech.org
 streamillimit.com
+streamillimit�.com
 streaming-live.rtp.pt
 streaming.adswizz.com
 streaming.maerklin.de
@@ -65787,6 +65819,7 @@ supercurioso.com
 superdrug.com
 superesportes.com.br
 superfamicom.org
+superfastcdn.com
 superhouse.tv
 superindo.co.id
 superio.diigo.com
@@ -66014,6 +66047,7 @@ supportdev.cryptopia.co.nz
 supportforums.adtran.com
 supportforums.cisco.com
 supportiv.com
+supportmetrics.apple.com
 supportportal.gemalto.com
 supportstage.mediacomcable.com
 supporttickets.intel.com
@@ -66500,6 +66534,7 @@ t1p.de
 t2.baidu.com
 t2.genius.com
 t2.gstatic.com
+t2.hulu.com
 t2.leech.ie
 t2.market.mi-img.com
 t2.market.xiaomi.com
@@ -70023,6 +70058,7 @@ trcb.me
 trck.me
 trcnyc.org
 tre.it
+treasuredata.com
 treasury.gov
 treasurydirect.gov
 treatmentadvocacycenter.org

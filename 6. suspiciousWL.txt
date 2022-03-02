@@ -7,6 +7,7 @@
 0-196.vk.com
 0-amadeus.bvdinfo.com
 0-amadeus.bvdinfo.com.biblio.vk.com
+0-edge-chat.facebook.com
 0-stnweb.cas.org.skyline.vk.com
 0.0.1.cloudflare-dns.com
 0.0.1impch.tradedoubler.com
@@ -152,6 +153,7 @@
 1-4-0.war-prod.prod.whalekit.live
 1-4u-computer-graphics.com
 1-apple.com.tw
+1-edge-chat.facebook.com
 1-images.motorcar.com
 1-leon-avanesian.pixels.com
 1-ps.googleusercontent.com
@@ -866,6 +868,7 @@
 2-art-coliseum.com
 2-berega.ru
 2-dutch.nl
+2-edge-chat.facebook.com
 2-hand.info
 2-images.motorcar.com
 2-ps.googleusercontent.com
@@ -1291,6 +1294,7 @@
 2yrh403fk8vd1hz9ro2n46dd-wpengine.netdna-ssl.com
 2ze.us
 3-a.net
+3-edge-chat.facebook.com
 3-images.motorcar.com
 3-ps.googleusercontent.com
 3.235.223.199.bc.googleusercontent.com
@@ -1604,6 +1608,7 @@
 4-4-2.com
 4-72.com.co
 4-c-0003.c-msedge.net
+4-edge-chat.facebook.com
 4-images.motorcar.com
 4-ps.googleusercontent.com
 4-stroke.net
@@ -1817,6 +1822,7 @@
 4xem.com
 5-11.co
 5-57a9f564e5295.radiocms.com
+5-edge-chat.facebook.com
 5-tv.ru
 5-undefined.facebook.com
 5.allegroimg.com
@@ -2001,6 +2007,7 @@
 5ygvgko5bbtd3.ru
 5z8.info
 6-4-2.blogspot.com
+6-edge-chat.facebook.com
 6-undefined.facebook.com
 6.allegroimg.com
 6.client-channel.google.com
@@ -43976,6 +43983,7 @@ edge-atlas-shv-13-frc1.facebook.com
 edge-atlas-shv-17-prn1.facebook.com
 edge-atlas-shv-18-prn1.facebook.com
 edge-block-previews-video-live.dropbox-dns.com
+edge-chat.facebook.com
 edge-chat.messenger.com
 edge-core.com
 edge-dl.andomedia.com
@@ -58659,6 +58667,7 @@ graph.document.kremlin.ru
 graph.facebook.com
 graph.facebook.net
 graph.fbpigeon.com
+graph.instagram.com
 graph.microsoft.com
 graph.qq.com
 graph.rockstargames.com
