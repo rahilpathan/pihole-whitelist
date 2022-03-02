@@ -20585,7 +20585,7 @@ dl-bia2.ir
 dl-canary.discordapp.net
 dl-client.dropbox.com
 dl-count.xposed.info
-dl-debug*.dropbox.com
+dl-debug1.dropbox.com
 dl-debug.dropbox.com
 dl-desktop-apps.sonymobile.com
 dl-desktop-xcapps.sonymobile.com
@@ -52481,7 +52481,7 @@ photonetc.com
 photopills.com
 photoreflect.com
 photoreview.gotinder.com
-photos-*.dropbox.com
+photos-0.dropbox.com
 photos-1.dropbox.com
 photos-2.dropbox.com
 photos-3.dropbox.com
@@ -53384,7 +53384,6 @@ pmd.cdn.turner.com
 pmdssl.flixkart.com.edgekey.net
 pmdstatic.net
 pmdvod.nationalgeographic.com
-pmenboeqhyrpvomq.
 pmf.unizg.hr
 pmi.com
 pmi.org
@@ -65420,7 +65419,6 @@ streamdb9web.securenetsystems.net
 streamelements.com
 streamer.tawenda-tech.org
 streamillimit.com
-streamillimit�.com
 streaming-live.rtp.pt
 streaming.adswizz.com
 streaming.maerklin.de

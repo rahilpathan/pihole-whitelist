@@ -6624,7 +6624,6 @@ dl-bia2.ir
 dl-canary.discordapp.net
 dl-client.dropbox.com
 dl-count.xposed.info
-dl-debug*.dropbox.com
 dl-desktop-apps.sonymobile.com
 dl-desktop-xcapps.sonymobile.com
 dl-developer.sonymobile.com
@@ -15627,7 +15626,6 @@ photo.store.qq.com
 photobucket.com
 photolog.blog.naver.com
 photoreview.gotinder.com
-photos-*.dropbox.com
 photos-ugc.l.googleusercontent.com
 photos-us.bazaarvoice.com
 photos.binance.com
@@ -15868,7 +15866,6 @@ pm0.net
 pmall.migc.xiaomi.com
 pmd.cdn.turner.com
 pmdssl.flixkart.com.edgekey.net
-pmenboeqhyrpvomq.
 pmir.sec.miui.com
 pnbindia.in
 pnc.com
@@ -19745,7 +19742,6 @@ streamate.com
 streamelements.com
 streamer.tawenda-tech.org
 streamillimit.com
-streamillimit�.com
 streaming-live.rtp.pt
 streaming.adswizz.com
 streaming.vk.com

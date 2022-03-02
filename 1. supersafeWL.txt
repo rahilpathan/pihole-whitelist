@@ -2189,7 +2189,6 @@ ditto.com
 djtflbt20bdde.cloudfront.net
 dk-go.kelkoogroup.net
 dl-client.dropbox.com
-dl-debug*.dropbox.com
 dl-doc.dropbox.com
 dl-doc.dropboxusercontent.com
 dl-ssl.google.com
@@ -5341,7 +5340,6 @@ phonearena.com
 phonecallapi.micloud.xiaomi.net
 photo.net
 photobucket.com
-photos-*.dropbox.com
 photos.dropbox.com
 photos.googleapis.com
 php.net
@@ -5438,7 +5436,6 @@ pm.wu.cz
 pm0.net
 pmd.cdn.turner.com
 pmdssl.flixkart.com.edgekey.net
-pmenboeqhyrpvomq.
 pndo.ly
 pngr.it
 pninja.co
