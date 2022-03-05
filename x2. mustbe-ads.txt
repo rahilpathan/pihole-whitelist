@@ -991,6 +991,8 @@
 201n.com
 2020mustang.com
 2021.dxsbb.com
+202108-ssonew.sprinklr.com
+202110-ssonew.sprinklr.com
 20272.engine.mobileapptracking.com
 20294.engine.mobileapptracking.com
 20298.engine.mobileapptracking.com
@@ -2111,6 +2113,7 @@
 5734a40f2d.vws.vegacdn.vn
 5740.engine.mobileapptracking.com
 57473b6b571.com
+577547e6e4b0714c3ebd74e4.socialapps.sprinklr.com
 5783.org
 578756.gameloft.com
 5788.engine.mobileapptracking.com
@@ -3432,6 +3435,7 @@ aaplimg.com
 aapsis.com
 aaqiycetqwx.com
 aarki.com
+aarp-app.sprinklr.com
 aasyy.com
 aax-eu-retail-direct.amazon-adsystem.com
 aax.me
@@ -3630,11 +3634,14 @@ accelacomm.com
 acceleratesign.com
 accelerationirreproachabledonation.com
 accengage.net
+accenture-app.sprinklr.com
 acceptablecolor.com
 access-analyze.org
 access-mc.com
 access.adblox.net
 access.njherald.com
+access.sprinklr.com
+accessallasos.sprinklr.com
 accessi.it
 accessibilityinsights.io
 accessiblescopevisitor.com
@@ -6540,6 +6547,7 @@ advmusic.com
 advmusic.net
 advnet.xyz
 advnetwork.net
+advocacy-assets.sprinklr.com
 advolution.biz
 advolution.de
 advoly.com
@@ -7212,6 +7220,11 @@ airpushmarketing.s3.amazonaws.com
 airrrxggfafnbl.xyz
 airserve.net
 airsoubs.com
+airtel-app.sprinklr.com
+airtel-care.sprinklr.com
+airtel-qa-ui.sprinklr.com
+airtel-qa.sprinklr.com
+airtel.sprinklr.com
 ais-api.applicaster.com
 ais.abacast.com
 ais.applicaster.com
@@ -7659,6 +7672,7 @@ amazon.poxo.com
 amazon.vrvm.com
 amazonaax.com
 amazonclix.com
+amazoninfluencer.sprinklr.com
 amazy.ru
 ambaab.com
 ambercrow.com
@@ -7713,6 +7727,7 @@ amorphysp.fun
 amountinue.info
 amp-cdn.rqmob.com
 amp-error-reporting.appspot.com
+amp-webui.sprinklr.com
 amp.admarvel.com
 amp.adpushup.com
 amp.casalemedia.com
@@ -8592,6 +8607,7 @@ api-cache.adsnative.com
 api-cdn.mypoints.com
 api-compatible.mixpanel.com
 api-device.mocaplatform.com
+api-docs.sprinklr.com
 api-esp.piano.io
 api-ext.mediav.com
 api-flow.flyme.cn
@@ -8623,6 +8639,7 @@ api-sdk.datadome.co
 api-shoulei-ssl.xunlei.com
 api-staging.wootric.com
 api-telemetry.servers.getgo.com
+api-test.sprinklr.com
 api-us-east.zqtk.net
 api-us.appodealx.com
 api-usent.kampyle.com
@@ -8724,6 +8741,7 @@ api.bs.zui.com
 api.bttrack.com
 api.bugfender.com
 api.bugsee.com
+api.businessindex.sprinklr.com
 api.c.avazunativeads.com
 api.callstats.io
 api.calq.io
@@ -8858,6 +8876,7 @@ api.mediation.amberweather.com
 api.megacool.co
 api.mgid.com
 api.millionsview.com
+api.mixpanel.com
 api.mobadvent.com
 api.mobcells.com
 api.mobeacon.mobisky.pl
@@ -8890,6 +8909,7 @@ api.newrelic.com
 api.newsfeed.intl.miui.com
 api.ning.com
 api.nobeta.com.br
+api.nqa.sprinklr.com
 api.nrelate.com
 api.nylas.com
 api.omnilocal.ai
@@ -8923,6 +8943,7 @@ api.ppoi.org
 api.proba.ai
 api.prooffactor.com
 api.proofpositivemedia.com
+api.public-user-service.sprinklr.com
 api.pubnative.net
 api.punchh.com
 api.push-ad.com
@@ -8934,6 +8955,7 @@ api.pushnami.com
 api.pushspring.com
 api.pushwoosh.com
 api.pxlad.io
+api.qa.socialmirror.sprinklr.com
 api.quantumgraph.com
 api.radar.io
 api.rees46.com
@@ -8967,11 +8989,14 @@ api.simpleanalytics.io
 api.smartechmetrics.com
 api.smartocto.com
 api.smbeat.jp
+api.socialbusiness.sprinklr.com
+api.socialmirror.sprinklr.com
 api.sociaplus.com
 api.soclminer.com.br
 api.speedshiftmedia.com
 api.splkmobile.com
 api.sponsorpay.com
+api.sprinklr.com
 api.staging.wootric.com
 api.starstarmobile.com
 api.stathat.com
@@ -9041,6 +9066,7 @@ api2.okanjo.com
 api2.play.cn
 api2.poperblocker.com
 api2.restartad.com
+api2.sprinklr.com
 api4.1mobile.com
 api6.agilone.com
 api64.com
@@ -9167,6 +9193,7 @@ app-ad.variflight.com
 app-adforce.jp
 app-analytics-ru.huami.com
 app-config.enhance.co
+app-dedicated2.sprinklr.com
 app-department.report
 app-e.marketo.com
 app-g.39.net
@@ -9180,7 +9207,10 @@ app-lon05.marketo.com
 app-lon06.marketo.com
 app-lon07.marketo.com
 app-lon08.marketo.com
+app-measurement.com
 app-monitor.ele.me
+app-named1.sprinklr.com
+app-named3.sprinklr.com
 app-script.monsido.com
 app-sj01.marketo.com
 app-sj02.marketo.com
@@ -9216,6 +9246,7 @@ app-sjo.marketo.com
 app-sjp.marketo.com
 app-sjqe.marketo.com
 app-sn01.marketo.com
+app-status.sprinklr.com
 app-trackings.com
 app.10ft.itv.com
 app.3987.com
@@ -9283,6 +9314,7 @@ app.roximity.com
 app.sbz.workers.dev
 app.segment.com
 app.shoptarget.com.br
+app.sprinklr.com
 app.ssp.yahoo.com
 app.starschina.com
 app.subiz.com
@@ -9306,6 +9338,7 @@ app.yesware.com.herokudns.com
 app.yieldify.com
 app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
+app2.sprinklr.com
 app5.pw
 appad-api-01.perfectcorp.com
 appad-api-02.perfectcorp.com
@@ -9365,6 +9398,7 @@ apple.ne
 apple.news
 apple.www.letv.com
 applebarq.com
+applecare.sprinklr.com
 applequan.com
 applesarmy.com
 appleturk.net
@@ -9999,6 +10033,7 @@ assoc-msdk-us.amazon-adsystem.com
 associalbde.xyz
 associalinterva.xyz
 associalunb.xyz
+associatedbank.sprinklr.com
 associatedpress-d.openx.net
 associazio.com
 associeta.com
@@ -10141,6 +10176,7 @@ atshops1.ru
 atspace.tv
 atsptp.com
 atstuffwith.com
+att-space.sprinklr.com
 att.productmadness.com
 att.sc.omtrdc.net
 att.stargame.com
@@ -10196,8 +10232,15 @@ audible.tt.omtrdc.net
 audiblyactorisolation.com
 audiblytriggersreview.com
 audience-164723144.us-east-1.elb.amazonaws.com
+audience-api.sprinklr.com
+audience-azrqa-api.sprinklr.com
+audience-preview-api.sprinklr.com
+audience-prod0-api.sprinklr.com
+audience-prod2-api.sprinklr.com
+audience-staging-api.sprinklr.com
 audience.atex.com
 audience.net
+audience.sprinklr.com
 audience.systems
 audience.tapad.com
 audience.widespace.com
@@ -10564,6 +10607,15 @@ azoqypmjsvulo.com
 azorbe.com
 azpresearch.club
 azrimet.info
+azrqa-api.sprinklr.com
+azrqa-assets.sprinklr.com
+azrqa-edge-ui-routing-lb.sprinklr.com
+azrqa-ia-assets.sprinklr.com
+azrqa-nodejs-static.sprinklr.com
+azrqa-red-beta.sprinklr.com
+azrqa-socaudit-ipa.sprinklr.com
+azrqa-socialadvocacy.sprinklr.com
+azrqa-sprcdn-assets.sprinklr.com
 azsgp.adtiming.com
 azsin.ru
 aztecash.com
@@ -10743,7 +10795,11 @@ b97.yahoo.co.jp
 b99u.to
 b9ba73f1cd9b6.com
 b9msljkxf96s.ru
+ba-ambassadors-v3-prod.sprinklr.com
+ba-backstage-dsn-v2-prod.sprinklr.com
+ba-backstage.digitalstylistnetwork-v3-prod.sprinklr.com
 ba-content.de
+ba-homeoutfitters-drupal-prod.sprinklr.com
 ba.ccm2.net
 ba.fqzds.com
 ba.kioskea.net
@@ -11821,6 +11877,7 @@ beshtienhr2hd8j09.com
 beshucklean.com
 besiasmere.site
 besmeargleor.com
+besocial-bmc.sprinklr.com
 besoes.com
 besstahete.info
 best-cargo.ru
@@ -11907,12 +11964,14 @@ beta.admicro.vn
 beta.airpush.com
 beta.mediafort.ru
 beta.simpel.nl
+beta.sprinklr.com
 beta.vpon.com
 betaffs.com
 betahit.click
 betareportcentral.doubleclick.net
 betarget.com
 betarget.de
+betawpspr.sprinklr.com
 betburdaaffiliates.com
 betcity.nl
 betemolgar.com
@@ -12322,6 +12381,7 @@ bjhmdy.vip
 bjhuhangjy.com
 bjjdboai.cn
 bjmxcy.cn
+bjp-connect.sprinklr.com
 bjpengyouhui.com
 bjpljy.com.cn
 bjpnhannceskudl.xyz
@@ -12399,6 +12459,8 @@ bladesthirst.com
 bladswetis.com
 blafo.ru
 blaghfpd.com
+blah.nqa.sprinklr.com
+blah1.nqa.sprinklr.com
 blaick.com
 blaindgatum.com
 blamads.com
@@ -12461,6 +12523,7 @@ blog-stat.com
 blog-webkatalog.de
 blog.livelog.biz
 blog.milliyet.com.tr
+blog.sprinklr.com
 blog104.com
 blogad01.myweb.hinet.net
 blogad02.myweb.hinet.net
@@ -12838,6 +12901,7 @@ boulevardgoodnesslassitude.com
 bounce-ads.de
 bounce.bar
 bounce.emxdgt.com
+bounce.sprinklr.com
 bounceexchange.com
 bouncepilot.com
 bouncex.com
@@ -12924,6 +12988,7 @@ branchr.com
 brand-sdk.kmsmep.com
 brand.ad
 brand.net
+brand.sprinklr.com
 brand.zing.vn
 brandads.net
 brandadshowjs.58.com
@@ -12993,6 +13058,7 @@ breeze.olclient.baofeng.com
 breezily168.com
 brekdok.com
 brend.hdkinoshka.net
+brendan-testing.sprinklr.com
 brenscino.prescreenapp.io
 brethrengenotypeteledyne.com
 brevandolius.com
@@ -13050,6 +13116,7 @@ broklam.com
 brominer.com
 bronrt.stsdk.vivo.com.cn
 bronya.club
+brookfieldpropertiesretail-app.sprinklr.com
 brort.stsdk.vivo.com.cn
 brothcorewearisome.com
 brotherhoodminims.com
@@ -13331,6 +13398,7 @@ businesscare.com
 businesscatalyst.com
 businessclick.ch
 businessclick.com
+businessindex.sprinklr.com
 businessinsider.amp.permutive.com
 businesspayments.org
 busions.com
@@ -13962,6 +14030,7 @@ caneswindfallquiver.com
 cangnews.com
 canli-tvizle.me
 canlytics.com
+cannes.sprinklr.com
 cannonjudo.com
 cannontwin.com
 canonch.pro
@@ -14211,6 +14280,7 @@ cbowvspl.top
 cbr.innocraft.cl
 cbr.innocraft.cloud
 cbs.containers.piwik.pro
+cbs.sprinklr.com
 cbsd.da1.vip.prod.criteo.com
 cbsdfp5832910442.s.moatpixel.com
 cbsgmrqkdycbjn.xyz
@@ -14304,6 +14374,8 @@ cda-played.pl
 cda-player.pl
 cda.0-shiny.com
 cdata.58.com
+cdata.app.sprinklr.com
+cdata.nqa.sprinklr.com
 cdcwn.xyz
 cdend.com
 cdfgdafijhcbjejeabf.ru
@@ -15007,6 +15079,8 @@ cerizoug.net
 cernrefraidinterva.xyz
 certainalmostcontent.com
 certifica.com
+certifications.qa.sprinklr.com
+certifications.sprinklr.com
 certified-apps.com
 certifiedemphasize.com
 certify-amp.alexametrics.com
@@ -15168,6 +15242,7 @@ charts3.equitystory.com
 chasedeposition.com
 chaseusbs823221627973.s.moatpixel.com
 chat-api.swapcard.com
+chat-demo.sprinklr.com
 chat.ind.nl
 chatinator.com
 chatintegrationastonishing.com
@@ -15463,7 +15538,9 @@ ciridola.com
 cis.schibsted.com
 cishantao.com
 citheekr.com
+citi-space.sprinklr.com
 citireklam.com
+citizensbank-app.sprinklr.com
 citizenshadowrequires.com
 citizenshis.com
 citrusad.com
@@ -15687,6 +15764,7 @@ click.oneplus.cn
 click.oneplus.com
 click.rssfwd.com
 click.scour.com
+click.sprinklr.com
 click.startappservice.com
 click.stats-locations.com
 click.tanx.com
@@ -15855,6 +15933,7 @@ client.to
 client.vads.net.vn
 clientcdn.pushengage.com
 clientchatlive.com
+clientdemos.sprinklr.com
 clientgear.com
 clientinfo.phimmoizz.net
 clientlog.midomi.com
@@ -16074,6 +16153,7 @@ cmbzqtf.cn
 cmcdl.cmcm.com
 cmcintra.net
 cmcore.com
+cmd.sprinklr.com
 cmdsdkekfhavlv.xyz
 cmdts.ksmobile.com
 cmfads.com
@@ -16652,6 +16732,7 @@ colpursehowl.com
 coltagainst.pro
 com-app1.site
 com-bvaauctions-main.collector.snplow.net
+com-cat-upload-dev.sprinklr.com
 com-codecombat-main.collector.snplow.net
 com-disqus.netmng.com
 com-dsg.netmng.com
@@ -16707,11 +16788,13 @@ comilar-efferiff.icu
 comin.co
 cominghamer.info
 comm-news.com
+commandcenter.sprinklr.com
 commandersact.com
 commandspockets.com
 commandwalk.com
 commentaryharm.com
 comments-api.i.bt.no
+commerce-api.sprinklr.com
 commerce.campaignmonitor.com
 commercial.daznservices.com
 commercialdamagingmuffin.com
@@ -16728,7 +16811,10 @@ commonswing.com
 commonvivacious.com
 communicate.gimbal.com
 communicationads.net
+community-att-3.sprinklr.com
+community-imdb.sprinklr.com
 community.service.signalr.net
+community.sprinklr.com
 communityi.biz
 comorw.com
 companionstormyhusk.com
@@ -16848,6 +16934,7 @@ config.baofeng.net
 config.claspws.tv
 config.cocounion.com
 config.eastus-ssp.appgwv2.inmobi.com
+config.edge.skype.com
 config.emb-api.com
 config.hiido.com
 config.inmobi.cn
@@ -16891,6 +16978,7 @@ connead.net
 connect-metrics-collector.s-onetag.com
 connect.getflowbox.com
 connect.nosto.com
+connect.sprinklr.com
 connect.summit.co.uk
 connect.tapjoy.com
 connectedit.co
@@ -16994,6 +17082,7 @@ content.printdirect.ru
 content.quantcount.com
 content.quantserve.com
 content.s8bbs.com
+content.sprinklr.com
 content.streamplay.to
 content.tapjoy.com
 content.zeronaught.com
@@ -17169,6 +17258,7 @@ coop.pop.baofeng.com
 coopcdn-res.cloudinary.com
 cooperatecleave.com
 coopermedia.go2affise.com
+coopsocialhub.sprinklr.com
 coordinatedbedroom.com
 coordinatedcoat.com
 coordinatedcub.com
@@ -17258,6 +17348,7 @@ cotchaug.com
 cotdrollback.com
 coterybulrush.com
 cotlandguile.com
+coty.sprinklr.com
 couas.com
 couchcoaster.jp
 coudswamper.com
@@ -17440,6 +17531,7 @@ couthosh.net
 coveo.com
 coverapparatus.com
 covetoussyndrome.com
+covid19.sprinklr.com
 covivado.club
 cowana-adserver.de
 cowardlymissinggranulated.com
@@ -18122,6 +18214,7 @@ cx.ssacdn.com
 cx0001.cn
 cxad.cxense.com
 cxb4.cn
+cxc.sprinklr.com
 cxcxt.com
 cxense.com.edgekey.net
 cxfzw.cn
@@ -19071,6 +19164,7 @@ daopz.top
 daotag.com
 daoyoudao.com
 dap.pagechoice.net
+dap.sprinklr.com
 dapper.net
 dapperdiscussion.com
 dapperfloor.com
@@ -19109,6 +19203,8 @@ dascoinpolska.com.pl
 dasdk.luojilab.com
 dasfelynsaterr.webcam
 dasfelynsaterr.win
+dash-int.sprinklr.com
+dash-staging.sprinklr.com
 dash.applovin.com
 dash.getsitecontrol.com
 dash.parsely.com
@@ -19119,6 +19215,8 @@ dashboard.io
 dashboard.tinypass.com
 dashboard.webwinkelkeur.nl
 dashboardad.net
+dashboards-dev.sprinklr.com
+dashboards.sprinklr.com
 dasheducation.cn
 dashet.com
 dashgreen.online
@@ -19335,6 +19433,7 @@ datasteam.io
 dataunion.com.br
 dataunlocker.com
 dataur.ru
+datavisualizer.sprinklr.com
 datawrkz.com
 datax.baidu.com
 dataxpand.com
@@ -19741,6 +19840,8 @@ deliveryengine.tunein.adswizz.com
 deliverymodo.com
 dellswhinyrank.com
 delnapb.com
+deloitte-space.sprinklr.com
+deloitte.sprinklr.com
 deloplen.com
 delosnetwork.it
 deloton.com
@@ -19767,10 +19868,12 @@ demelehend.com
 demkc32bq01ah.cloudfront.net
 demnip.com
 demo-adopt.admicro.vn
+demo-prod-care.sprinklr.com
 demo.admicro.vn
 demo.jointreport-switch.com
 demo.klick.vn
 demo.pinetech.vn
+demo.sprinklr.com
 demo.tagdiv.com
 demoad.com
 demoads.com
@@ -19895,6 +19998,7 @@ detwzgl8cvciv.cloudfront.net
 deuted.com
 dev-api.persona.ly
 dev-as.cluep.com
+dev-display-api.sprinklr.com
 dev-push.m.youku.com
 dev-track.adthrive.com
 dev.accengage.com
@@ -19905,7 +20009,9 @@ dev.flurry.com
 dev.leanplum.com
 dev.nodle.io
 dev.persona.ly
+dev.sprinklr.com
 dev.tg.youxi.com
+dev2-display-api.sprinklr.com
 dev2pub.com
 dev4enki.com
 devaluationlimetreedeadly.com
@@ -19916,8 +20022,10 @@ devatics.io
 devaxi.org
 devel.adswizz.com
 developer.livehelpnow.net
+developer.sprinklr.com
 developerity.com
 developermedia.com
+developers.sprinklr.com
 developingstripes.com
 develsdrawal.xyz
 deviantart-d.openx.net
@@ -20044,6 +20152,7 @@ di7stero.com
 di9qu.com.cn
 diag-vd.gridsumdissector.com
 diag-wd.gridsumdissector.com
+diageo.sprinklr.com
 diagnose.igstatic.com
 diagnosedifferentlycompute.com
 diagnosis.ad.intl.xiaomi.com
@@ -20282,6 +20391,7 @@ dislikesparecandle.com
 disloquerent.website
 disloyalmeddling.com
 dismantlepenantiterrorist.com
+disney.sprinklr.com
 disorderpoking.com
 disorganizedsweatymash.com
 disp-x.space
@@ -20301,6 +20411,35 @@ dispawsusva.inmoment.com
 dispensablestranger.com
 dispenser-rtb.sape.ru
 displacepepperyadvertisement.com
+display-api.sprinklr.com
+display-azrqa-data.sprinklr.com
+display-azrqa.sprinklr.com
+display-data.sprinklr.com
+display-dev-data.sprinklr.com
+display-dev.sprinklr.com
+display-dev1.sprinklr.com
+display-dev2-data.sprinklr.com
+display-dev2.sprinklr.com
+display-geo.sprinklr.com
+display-local-data.sprinklr.com
+display-local.sprinklr.com
+display-nqa-data.sprinklr.com
+display-nqa.sprinklr.com
+display-prod0-data.sprinklr.com
+display-prod0.sprinklr.com
+display-prod2-data.sprinklr.com
+display-prod2.sprinklr.com
+display-prod3-data.sprinklr.com
+display-prod3.sprinklr.com
+display-prod4-data.sprinklr.com
+display-prod4.sprinklr.com
+display-prod5-data.sprinklr.com
+display-prod5.sprinklr.com
+display-prod6-data.sprinklr.com
+display-prod6.sprinklr.com
+display-qa4-data.sprinklr.com
+display-qa4.sprinklr.com
+display-staging.sprinklr.com
 display.360totalsecurity.com
 display.ad.daum.net
 display.ad.g.daum.net
@@ -20311,6 +20450,7 @@ display.digitalriver.com
 display.mgmt.xad.com
 display.qc.coccoc.com
 display.ravm.tv
+display.sprinklr.com
 display.studio
 display.superbay.net
 display.xad.com
@@ -22127,6 +22267,8 @@ edgead.woomedya.com
 edgeads.org
 edgeadulthoodblessed.com
 edgeadx.net
+edgedl.me.gvt1.com
+edgedl.me.gvt1.comairlytics.airlock.twcmobile.weather.com
 edgeimpregnable.com
 edgevertise.com
 edgrmtracking.com
@@ -22456,6 +22598,7 @@ email-match.com
 email-reflex.com
 email.designmynight.com
 email.pipedrive.com
+email.sprinklr.com
 email81.com
 emailapi-v2.moengage.com
 emailretargeting.com
@@ -22502,6 +22645,7 @@ emergedsocietytheft.com
 emerodsours.cam
 emgwq.com
 emieweneusxwjp.com
+emiratesnbd.sprinklr.com
 emjjmnrvlldj.com
 emjs.mkzhan.com
 emkarto.fun
@@ -23326,6 +23470,7 @@ events.shareably.net
 events.simpli.fi
 events.sk.ht
 events.splash-screen.net
+events.sprinklr.com
 events.startappservice.com
 events.steelhousemedia.com
 events.streamrail.net
@@ -23522,6 +23667,7 @@ expepp.de
 experianmarketingservices.digital
 experianmatch.info
 experience.contextly.com
+experience.sprinklr.com
 experienceeggs.com
 experiment.appadhoc.com
 experiments.mozilla.org
@@ -23532,6 +23678,7 @@ expertnifg.com
 explanationrecognise.com
 exploitnookconsequently.com
 explore-123.com
+explore.sprinklr.com
 explore.zoom.us
 exploreholidayexcellent.com
 explorer-staging.flurry.com
@@ -23562,6 +23709,7 @@ exta-z.ru
 extad.org
 extend.tv
 extendedmoreimposter.com
+extensions-prod.sprinklr.com
 exterminatetooth.com
 external-promo-metrics.yandex.net
 external.simpleanalytics.com
@@ -23670,6 +23818,7 @@ f.zgbmw.com.cn
 f01ed651eca.com
 f1.06ps.com
 f1.bizhiku.net
+f1.help.sprinklr.com
 f1.ichong123.com
 f1.luoshenbest.cn
 f1.meishichina.com
@@ -24174,6 +24323,7 @@ febjroxjgzx.com
 feboni.info
 febwinter.com
 fecdn.user1st.info
+federatedml-pa.googleapis.com
 fedethezo.pro
 fedsdq.com
 fedsit.com
@@ -24377,6 +24527,8 @@ fibpeeode.site
 ficusoid.xyz
 fidelity-media-ssp.rtb.adx1.com
 fidelity-media.com
+fidelity-space.sprinklr.com
+fidelity.sprinklr.com
 fidspinner.pl
 fieldbilly.com
 fieldofbachus.com
@@ -24529,6 +24681,7 @@ firebasedynamiclinks.googleapis.com
 firebaseio.com
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
+firebaseremoteconfig.googleapis.com
 firebid.pl
 firecash.org
 firecpa.com
@@ -24558,6 +24711,7 @@ firstpromoter.com
 firstsponsor.de
 firsttrack.ru
 firtribe.com
+fisadvocacy.sprinklr.com
 fisari.com
 fisher56.com
 fishermanmartial.com
@@ -24641,6 +24795,7 @@ flaghit.com
 flagpoles.gnl-live.bbcverticals.com
 flagros2sii8fdbrh09.com
 flags.es
+flagstarbank.sprinklr.com
 flakyfeast.com
 flameorganizer.com
 flametraumatic.com
@@ -24692,6 +24847,7 @@ flinter.pro
 flip-pay.com
 flipdigital.ru
 flipflap.pro
+flipkart-app.sprinklr.com
 fliplotincreasingly.com
 flippantreprehensiblecharming.com
 flippersticktribute.com
@@ -24955,6 +25111,7 @@ formysql.com
 forrerri.com
 forrestersurveys.com
 fortedrow.pro
+fortis.sprinklr.com
 fortpush.com
 fortsould.pro
 fortuka.com
@@ -24964,6 +25121,7 @@ forum.globusevent.ru
 forumcomm-d.openx.net
 forumgaleri.com
 forumlar1.ht
+forums-att.sprinklr.com
 forwardhard.cn
 forwrdnow.com
 forzslodge.com
@@ -25054,6 +25212,7 @@ fprnt.com
 fptad.com
 fptadtrue-d.openx.net
 fptest.fraudmetrix.cn
+fpx-prod.sprinklr.com
 fpyacdna.com
 fqab5xq7qlgt.info
 fqbucxkfcya.com
@@ -25769,8 +25928,18 @@ galemeltdown.com
 galkama.info
 gallantoutskirts.com
 gallanttortoiseassemble.com
+gallery-azure2.sprinklr.com
+gallery-dev.sprinklr.com
+gallery-nqa.sprinklr.com
+gallery-prod0.sprinklr.com
+gallery-prod2.sprinklr.com
+gallery-prod3.sprinklr.com
+gallery-prod4.sprinklr.com
+gallery-prod6.sprinklr.com
+gallery-qa4.sprinklr.com
 gallery.adtima.vn
 gallery.smartadserver.com
+gallery.sprinklr.com
 galleyn.com
 gallonranchwhining.com
 gallopprisonbanter.com
@@ -27139,6 +27308,8 @@ gp.jstv.com
 gp.zaiyunli.cn
 gpbhgborcpy.com
 gpcdreunite.casa
+gpd.sprinklr.com
+gpdsprice.sprinklr.com
 gpjph.com
 gplayer.kmpmedia.net
 gpneofgeo.com
@@ -27154,6 +27325,8 @@ gqsgcdcxsmxw.com
 gqswg.com
 gqtffirr.com
 gr8y7z1xaq30.com
+grab-app.sprinklr.com
+grab.sprinklr.com
 grabbedindolenthourglass.com
 grabmyads.com
 gracaiko.net
@@ -27426,6 +27599,7 @@ gshtrl.top
 gsimedia.net
 gsjzlssws.com
 gsk.com
+gsk.sprinklr.com
 gslb.siteforce.com
 gslbeacon.lijit.com
 gslyxny.com
@@ -27740,6 +27914,7 @@ h1.18sd.cn
 h1.cfxinxi.cn
 h1.kukuw.com
 h12-media.com
+h1apps.sprinklr.com
 h2.18sd.cn
 h2.msn.com
 h250p-nj545.ads.tremorhub.com
@@ -28143,6 +28318,7 @@ hdat.xyz
 hdb.maxli.cn
 hdbcode.com
 hdc.maxli.cn
+hdfc-auth-ssl.sprinklr.com
 hdfdm.com
 hdfilms.pl
 hdggcdn.bayimob.com
@@ -28277,7 +28453,11 @@ hellocdn.top
 helloreverb.com
 hellosherpa.com
 helltraffic.com
+help-es.sprinklr.com
+help-jp.sprinklr.com
+help-ptbr.sprinklr.com
 help.baotangwang.cn
+help.sprinklr.com
 help.yunaq.com
 help2buyscheme.co.uk
 helpbeatlestribute.com
@@ -28795,6 +28975,7 @@ hollydeal.club
 holm.ru
 home-prize-winner-ma2d.live
 home-soon.com
+home.sprinklr.com
 home4loans.info
 home520.com
 homedepot.tt.omtrdc.net
@@ -29053,6 +29234,7 @@ hs-banner.com
 hs-data.com
 hs.qhupdate.com
 hsadspixel.net
+hsbc-app.sprinklr.com
 hsbkr.com
 hscollectedforms.net
 hscta.net
@@ -29776,6 +29958,7 @@ idcqi.com
 iddiction.com
 iddjpop.com
 iddpop.com
+idea.sprinklr.com
 ideahealkeeper.com
 idealads.net
 ideliv.net
@@ -30066,6 +30249,7 @@ imageplus.baidu.com
 images-demand.ssacdn.com
 images-dl.taboola.com
 images-home.com
+images-nqa.sprinklr.com
 images-or.ott.kaltura.com
 images-static.vrvm.com
 images.3lift.com
@@ -30095,6 +30279,7 @@ images.outbrainimg.com
 images.pagechoice.net
 images.perf-serving.com
 images.revcontent.com
+images.sprinklr.com
 images.startappservice.com
 images.tyyjzs.cn
 images.viglink.com
@@ -30218,6 +30403,7 @@ img.s8bbs.com
 img.scupio.com
 img.servint.net
 img.sheyuansu.com
+img.sprinklr.com
 img.ssl.msdk.11.com
 img.ssl.msdk.qq.com
 img.supfast.net
@@ -30661,6 +30847,7 @@ info.kinoclub77.ru
 info.meihua.docer.com
 info.pinyin.sogou.com
 info.raiffeisen.at
+info.sprinklr.com
 info.startappservice.com
 info.static.startappservice.com
 info.stockstar.com
@@ -30854,9 +31041,11 @@ insights.nr-assets.net
 insights.plista.com
 insights.podium.com
 insights.sitesearch360.com
+insights.sprinklr.com
 insights.swrve.com
 insights.vip.aetnd.com
 insights.zeustechnology.com
+insightsocial.sprinklr.com
 insigit.com
 insitemetrics.com
 insitepromotion.com
@@ -30946,10 +31135,13 @@ inte.sogoucdn.com
 inte.theta.sogoucdn.com
 integral-marketing.com
 integration-assets.sharethrough.com
+integration.dev.sprinklr.com
 integration.richrelevance.com
 integrations.fitanalytics.com
 integrations.syncmedia.io
 integrationsapi.leadforensics.com
+intel-prod2.sprinklr.com
+intel.sprinklr.com
 intelensafrete.stream
 intelevance.com
 intelimet.com
@@ -31029,6 +31221,7 @@ intermrkts.vo.llnwd.net
 intermundomedia.com
 internal-amis-res.cdn.bcebos.com
 internal-api.monzo.com
+internal.sprinklr.com
 internalsink.com
 internebula.net
 internet-lte-5gb.blogspot.com
@@ -31195,6 +31388,7 @@ ip2c.org
 ip2map.com
 ip2phrase.com
 ip46s2.go-mpulse.net.edgekey.net
+ipa.nqa.sprinklr.com
 ipa.pushwoosh.com
 ipada.cafe.naver.com
 ipaddresslabs.com
@@ -31420,10 +31614,12 @@ isub.snssdk.com.bytedns.net
 isupopc.com
 it-gmtdmp.mookie1.com
 it-pearl.com
+it-team.sprinklr.com
 it-v2.presage.io
 it-v2.prod.cloud.ogury.io
 it.ads.justpremium.com
 it.advertising.yahoo.com
+it.sprinklr.com
 it.tagslimit.com
 it028.net.cn
 it53.nl
@@ -31489,6 +31685,8 @@ itskiddoan.club
 itslive.com
 itspsmup.com
 itsup.com
+itsupport-dashboard.sprinklr.com
+itsupport-splunk.sprinklr.com
 itteholm.site
 ittorchicer.com
 itv.hexun.com
@@ -32028,6 +32226,7 @@ jinzpeng.cn
 jioads.akamaized.net
 jioeg.com
 jioer.pro
+jira.sprinklr.com
 jira.vpon.com
 jirafe.com
 jistaumt.com
@@ -32172,6 +32371,7 @@ johnsitsi.pro
 johnston.grapeshot.co.uk
 johtzj.com
 joicky.com
+join.sprinklr.com
 join.xlgirls.com
 joinads.me
 joiningpreferencemobile.com
@@ -32212,6 +32412,7 @@ joubozie.com
 jougrevu.com
 journalforum.org
 journalismthreshold.com
+journey.sprinklr.com
 journey.unicef.de
 jouteetu.net
 jovfwgr.cn
@@ -32255,6 +32456,8 @@ jpg1.oss-cn-beijing.aliyuncs.com
 jph.itiexue.net
 jpjmpqaupc.com
 jpkwk.top
+jpmc-space.sprinklr.com
+jpmc.sprinklr.com
 jppbyrkkgpgo.com
 jpplus.com
 jpqgxy.com
@@ -32953,6 +33156,7 @@ kbyfbw6aaada.com
 kbzdxt.com
 kc-valves.com
 kc.gouchezj.com
+kcc.sprinklr.com
 kcdn.xyz
 kcehdslfcqva.com
 kcolbda.com
@@ -33021,6 +33225,7 @@ kepler-37b.com
 keqi7dh3df.com
 keqrd.top
 ker.pic2pic.si
+kerala-field-covid.sprinklr.com
 kerebro.com
 kerg.net
 kerio-push-gateway-prod.elasticbeanstalk.com
@@ -33047,6 +33252,7 @@ kettinggiantry.com
 kevabila.com
 kevinhewu.com
 kevypeta.com
+kew.nqa.sprinklr.com
 kewhexethe.com
 kewholypti.com
 kewithrittit.ru
@@ -34053,6 +34259,7 @@ lbal.wowanalytics.co.uk
 lbbanners.com
 lbdata.tj.ijinshan.com
 lbfneriip.top
+lbg.sprinklr.com
 lbgchljyhjmev.com
 lbjs.adledge.com
 lbnyj2.bidder.owneriq.net
@@ -34124,6 +34331,7 @@ lead-or-call.ru
 lead.im
 lead.network
 lead.soperson.com
+lead.sprinklr.com
 leadadvert.info
 leadbi.com
 leadbolt.net
@@ -34221,6 +34429,7 @@ leftnetarenning.pro
 leftoverdense.com
 leftoverdoorbell.com
 lefxryhuzyw.com
+legacy-dashboards-dev.sprinklr.com
 legacy-tagan.adlightning.com
 legacy.dotomi.weighted.com.akadns.net
 legacy.nvidia.com
@@ -34583,6 +34792,7 @@ linkfeed.ru
 linkforyoud.com
 linkgrand.com
 linkhaitao.com
+linkinbio.sprinklr.com
 linkjingkeji.com
 linkmads.com
 linkmepu.com
@@ -34597,8 +34807,11 @@ linkpulse.com
 linkredirect.biz
 linkreferral.com
 links-and-traffic.com
+links-prod0.sprinklr.com
+links-prod2.sprinklr.com
 links-wm.ru
 links.boom.ge
+links.sprinklr.com
 links.voyeurweb.com
 links2revenue.com
 linkslot.ru
@@ -34676,6 +34889,8 @@ liuyansha.vip
 liuzishen.com
 live-api.immomo.com
 live-casino.nl
+live-chat-static.sprinklr.com
+live-chat.sprinklr.com
 live-eu-am.sekindo.com
 live-log.immomo.com
 live-m.immomo.com
@@ -35403,6 +35618,7 @@ lorajety.com
 lordofads.com
 lordtao.cn
 lore.circulate.com
+loreal2.sprinklr.com
 lorenfreeman.xyz
 lorenzourban.com
 loricalreach.info
@@ -35553,6 +35769,7 @@ lsfinteractive.com
 lshmjz.com
 lsjne.com
 lspzhtvstux.com
+lst-staging.sprinklr.com
 lstat.youku.com
 lsxc.shop
 lsxdcdnrrco.com
@@ -35644,6 +35861,7 @@ lutachechu.pro
 lutcdiimmeze.com
 lutsoops.net
 luuming.com
+luv2run.sprinklr.com
 luvaihoo.com
 luvcash.com
 luvcom.com
@@ -36789,6 +37007,7 @@ matrix.dailyinnovation.biz
 matswhyask.cam
 mattempts.info
 matterlytics.com
+mattermost.sprinklr.com
 maturescream.com
 matwbp.iask.sina.com.cn
 matzosetagood.com
@@ -36926,6 +37145,7 @@ mcdn.adspeed.com
 mcdn.batmobi.net
 mcdncoiw.com
 mcdnmv.com
+mcdonalds.sprinklr.com
 mcdp-chidc2.outbrain.com
 mcdp-nydc1.outbrain.com
 mcdp-sadc1.outbrain.com
@@ -37675,6 +37895,8 @@ mibsooks.net
 mic.mob.com
 micakidaugust.com
 michael31lin.com
+michelin-space.sprinklr.com
+michelin.sprinklr.com
 micodigo.com
 micreative-china.cn
 micro-win.com
@@ -37690,7 +37912,9 @@ microanalytics.io
 microcounter.de
 microscoperestriction.com
 microscopeundertakingprowl.com
+microsoft.sprinklr.com
 microsoftaffiliates.net
+microsoftonazure.sprinklr.com
 microsser.cn
 microusconvilla.xyz
 mid.houyi.baofeng.net
@@ -38166,6 +38390,7 @@ mobile-app.cuballama.com
 mobile-app.pl
 mobile-campaigns.avast.com
 mobile-click.biz
+mobile-collector.newrelic.com
 mobile-crash-origin.newrelic.com
 mobile-crash.newrelic.com
 mobile-de-d.openx.net
@@ -38516,6 +38741,7 @@ moren-1252794300.file.myqcloud.com
 moresmanomin.com
 moreusers.info
 morevisits.info
+morganstanley.sprinklr.com
 morgdm.ru
 morgdog.springserve.com
 morguecountryportray.com
@@ -38723,6 +38949,7 @@ mqqad.cs0309.html5.qq.com
 mqqad.html5.qq.com
 mqqadr.reader.qq.com
 mqs.ioam.de
+mqtt.sprinklr.com
 mqtt.us-west-2.prod.console.iot.aws.de
 mqtt.zhihu.com
 mr-rank.de
@@ -38792,6 +39019,7 @@ msdk.rqmob.com
 mse2v5oglm.com
 msecure108.com
 mselect.nl
+msg-app.sprinklr.com
 msg-intl.qy.net
 msg.71.am
 msg.c002.ottcn.com
@@ -39645,6 +39873,7 @@ nest.ru.net
 nest.youwatch.org
 nestcook.com
 nestedmedia.com
+nestle.sprinklr.com
 nesystersp.club
 net-ad-vantage.com
 net-filter.com
@@ -39860,6 +40089,7 @@ newsquestdigital.co.uk
 newsteaser.ru
 newstizer.ru
 newsubscribes.com
+newsuk.sprinklr.com
 newsunads.com
 newsupdatedepot.info
 newsupdatewe.info
@@ -40023,7 +40253,9 @@ niholaev.com
 nijegwiyiqc.xyz
 nijobfinder.co.uk
 nik.io
+nike-amp-webui.sprinklr.com
 nike-zgarnijbuty.coolpage.biz
+nike.sprinklr.com
 nikebuty-zgarnij.freetzi.com
 nikkiexxxads.com
 nikkiscash.com
@@ -40339,10 +40571,12 @@ northinmatedepression.com
 northmay.com
 northstartravelmedia.com
 northtariffgallon.com
+northwestern.sprinklr.com
 northwestlegendary.com
 northyap.com
 norton.pl
 norvalur.xyz
+norwegian.sprinklr.com
 noscreenplz2.ifeng.com
 nosensor.cn
 nostalgia.onego.ru
@@ -40471,6 +40705,14 @@ npush.site
 npvos.com
 nq42.com
 nq93jx1vpq9r.com
+nqa-advocacy.sprinklr.com
+nqa-care-community-cdn.sprinklr.com
+nqa-display-api.sprinklr.com
+nqa-guacamole.sprinklr.com
+nqa-logs.sprinklr.com
+nqa-red-beta.sprinklr.com
+nqaauto.sprinklr.com
+nqawapi.sprinklr.com
 nqfwx.cn
 nqmdjtol.top
 nqrkzcd7ixwr.com
@@ -40748,6 +40990,7 @@ nym1-mobile.adnxs.com
 nym1.mobile.adnxs.com
 nymolf.com
 nymotuda.com
+nyp.sprinklr.com
 nyphuboshu.com
 nypost-d.openx.net
 nyptistaha.com
@@ -40789,6 +41032,7 @@ o.skimresources.com
 o01fv23.loan
 o091i.com
 o0e.ru
+o1.email.sprinklr.com
 o1.jyjyj.cn
 o104379.ingest.sentry.io
 o1080147.ingest.sentry.io
@@ -40808,6 +41052,8 @@ o468856.ingest.sentry.io
 o473895.ingest.sentry.io
 o4h0np7.cn
 o4uxrk33.com
+o5.email.sprinklr.com
+o6.em243.sprinklr.com
 o626b32etkg6.com
 o65qmb.tw
 o7xs6runw.bkt.clouddn.com
@@ -41599,6 +41845,8 @@ opentracker.net
 opentracking.ru
 openunder.net
 openvenue.com
+openvpn-admin.sprinklr.com
+openvpn-client.sprinklr.com
 openx.adhaven.com
 openx.com
 openx.jp
@@ -41649,6 +41897,7 @@ opr.formulas.jp
 oproi.com
 opromo.com
 ops-cdn.undertone.com
+ops-nqa-influxdb.sprinklr.com
 opsivesh.net
 opsonew3org.sg
 opsoomet.net
@@ -42357,10 +42606,13 @@ page_skin.jp
 pagead-121hosted.l.121.com
 pagead-tpc.l.google.com
 pagead.google.com
+pagead.l.doubleclick.net
 pagead.l.google.com
 pagead2.121adservices.com
 pagead2.121syndication.com
 pagead2.googleadservices.com
+pagead2.googlesyndication.com
+pagead46.l.doubleclick.net
 pagechoice.com
 pagechoice.net
 pagechoicemotu.gentags.net
@@ -42398,6 +42650,7 @@ paht.tech
 pahtag.tech
 paibopse.com
 paid-to-promote.net
+paid.sprinklr.com
 paidforfree.com
 paidlinkz.net
 paidnewsletters.ocdn.eu
@@ -42869,6 +43122,7 @@ pd.ads.cn.miaozhen.com
 pd.sharethis.com
 pd3a.cn
 pd7-imp.revsci.net
+pdat.matterlytics.com
 pdbu.net
 pdc.dmleonyc.com
 pdev.chartbeat.net
@@ -43146,6 +43400,7 @@ pg-ad-b1.ws.126.net
 pg-prebid-server-aws-ane1.rubiconproject.com
 pg-prebid-server-aws-usw2.rubiconproject.com
 pg-prebid-server.rubiconproject.com
+pg.sprinklr.com
 pg.xdrig.com
 pg88cdn.com
 pgapi.ksmobile.com
@@ -43175,6 +43430,7 @@ pgpartner.com
 pgpl.g5e.com
 pgpyce.com
 pgs.io
+pgspace.sprinklr.com
 pgssl.com
 pgt1.voyage-prive.es
 pgthetradedeskv275874568748.s.moatpixel.com
@@ -43184,6 +43440,7 @@ pgtyfweuarofjgd.top
 ph-gmtdmp.mookie1.com
 ph5t.adups.com
 phaboart.net
+phabricator.sprinklr.com
 phabsoun.net
 phabys.com
 phaignoo.com
@@ -43559,6 +43816,8 @@ pixel-eu.rubiconproject.com
 pixel-eu.rubiconproject.net.akadns.net
 pixel-hk.pixelinteractivemedia.com
 pixel-origin.mathtag.com
+pixel-prod.sprinklr.com
+pixel-prod2.sprinklr.com
 pixel-r53.netseer.com
 pixel-s2s.mathtag.com
 pixel-static.spotify.com
@@ -43953,6 +44212,7 @@ pmelon.com
 pmetrics.getclicky.com
 pmetrics.performancing.com
 pmg.cr-nielsen.com
+pmi.sprinklr.com
 pmir.3g.11.com
 pmir.3g.qq.com
 pmli.cn
@@ -44308,6 +44568,7 @@ portablefish.com
 portak.net
 portakamus.com
 portal-bnnvara.cdn.prepr.io
+portal.sprinklr.com
 portalhc.com
 portalisimmo.com
 portallb.leadforensics.com
@@ -44525,6 +44786,7 @@ prd1.revid.centech.glulive.com
 prdele.eu
 prdlam.com
 prdwebcollector.ruetracking.com
+pre-prod-sso5.sprinklr.com
 pre-usermatch.targeting.unrulymedia.com
 pre.ads.justpremium.com
 pre.api.tw06.xlmc.sandai.net
@@ -44624,6 +44886,17 @@ presence.api.drift.com
 presentation-ams1.turn.com
 presentation-hkg1.turn.com
 presentation-sjc2.turn.com
+presentations-azrqa.sprinklr.com
+presentations-dev.sprinklr.com
+presentations-prod0.sprinklr.com
+presentations-prod2.sprinklr.com
+presentations-prod3.sprinklr.com
+presentations-prod4.sprinklr.com
+presentations-prod5.sprinklr.com
+presentations-prod6.sprinklr.com
+presentations-qa4.sprinklr.com
+presentations-staging.sprinklr.com
+presentations.sprinklr.com
 presentationsportsman.com
 presentationtracking.netflix.com
 presentlyarch.com
@@ -44781,17 +45054,36 @@ proctoriostatus.apphb.com
 prod-a-usa.applovin.com
 prod-a.applovin.com
 prod-ads.aerserv.com
+prod-apps2-k8s-ext-lb.sprinklr.com
 prod-ash-beacon-1960876484.us-east-1.elb.amazonaws.com
 prod-bid.applovin.com
+prod-care-community-cdn.sprinklr.com
+prod-care.sprinklr.com
+prod-cdata-app-export.sprinklr.com
 prod-collecticon.outlookmobile.com
 prod-collector.bigbasket.com
+prod-commerce-api.sprinklr.com
+prod-confluence.sprinklr.com
+prod-content-care-community-cdn.sprinklr.com
 prod-customfeeds.flashtalking.com
 prod-dcs-eventlog.decagames.com
 prod-defaulting-subscriptiontool.gismart.xyz
+prod-dell-sf-tier1.sprinklr.com
+prod-dell-sf-tier2.sprinklr.com
 prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com
 prod-e-node-1112.nexage.com
 prod-e-node-2112.nexage.com
+prod-encoded-videos.sprinklr.com
+prod-fortinet-advocacy-app.sprinklr.com
+prod-gitlab.sprinklr.com
+prod-influxdb.sprinklr.com
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
+prod-ipa-replica-int.sprinklr.com
+prod-lc-mqtt-nike.sprinklr.com
+prod-lc-mqtt-tier2.sprinklr.com
+prod-lc-mqtt-who.sprinklr.com
+prod-live-chat-mqtt.sprinklr.com
+prod-live-chat.sprinklr.com
 prod-m-node-1111.ssp.advertising.com
 prod-m-node-1112.nexage.com
 prod-m-node-1211.ssp.advertising.com
@@ -44799,14 +45091,22 @@ prod-m-node-1212.nexage.com
 prod-m-node-2111.ssp.advertising.com
 prod-m-node-2112.nexage.com
 prod-m-node-3111.ssp.advertising.com
+prod-media-proxy.sprinklr.com
 prod-ms.applovin.com
 prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com
 prod-plague-bacon.miniclippt.com
+prod-red-beta.sprinklr.com
+prod-samsung-live-chat.sprinklr.com
 prod-sb-appanalytics-us1.servicebus.windows.net
+prod-tier2-live-chat.sprinklr.com
+prod-twilio-pmi-tier2.sprinklr.com
+prod-who-live-chat.sprinklr.com
+prod-xb.sprinklr.com
 prod.adjoe.zone
 prod.adtechjp.com
 prod.apptimize.com
 prod.bidr.io
+prod.cdata.app.sprinklr.com
 prod.cdo.pitchleads.com
 prod.cloud.ogury.io
 prod.cm.publishers.advertising.a2z.com
@@ -44824,8 +45124,69 @@ prod.pr.analytics.console.aws.a2z.com
 prod.pw.analytics.console.aws.a2z.com
 prod.search.deployads.com
 prod.sift.co
+prod.sprinklr.com
 prod.tools.shortbread.analytics.console.aws.a2z.com
 prod.untd.com
+prod.userdownloads.sprinklr.com
+prod0-api.sprinklr.com
+prod0-care.sprinklr.com
+prod0-commerce-api.sprinklr.com
+prod0-influxdb.sprinklr.com
+prod0-live-chat-poc.sprinklr.com
+prod0-live-chat.sprinklr.com
+prod0-socialadvocacy.sprinklr.com
+prod0-socialapps.sprinklr.com
+prod0-xb.sprinklr.com
+prod0.sprinklr.com
+prod1-api.sprinklr.com
+prod1-influxdb.sprinklr.com
+prod1-socialapps.sprinklr.com
+prod2-api.sprinklr.com
+prod2-apps2-lb.sprinklr.com
+prod2-assets.sprinklr.com
+prod2-capacity-audit.sprinklr.com
+prod2-care-community-cdn.sprinklr.com
+prod2-care.sprinklr.com
+prod2-content.sprinklr.com
+prod2-display-api.sprinklr.com
+prod2-edge-ui-routing-lb.sprinklr.com
+prod2-external-share-cdn.sprinklr.com
+prod2-jumbo-lb.sprinklr.com
+prod2-jumbo2-lb.sprinklr.com
+prod2-live-chat-mqtt.sprinklr.com
+prod2-live-chat.sprinklr.com
+prod2-login.sprinklr.com
+prod2-media-proxy.sprinklr.com
+prod2-socialadvocacy.sprinklr.com
+prod2-sprcdn-assets.sprinklr.com
+prod2-sprcdn.sprinklr.com
+prod2-spx-components.cdn.sprinklr.com
+prod2-status.sprinklr.com
+prod2-webui-lb.sprinklr.com
+prod2.sprinklr.com
+prod3-assets.sprinklr.com
+prod3-external-share-cdn.sprinklr.com
+prod3-nl-assets.sprinklr.com
+prod3-nl-sprcdn-assets.sprinklr.com
+prod3-sprcdn-assets.sprinklr.com
+prod3.sprinklr.com
+prod4-anomaly-engine-influxdb.sprinklr.com
+prod4-care.sprinklr.com
+prod4-cdata-app.sprinklr.com
+prod4-content.sprinklr.com
+prod4-live-chat-mqtt.sprinklr.com
+prod4-red-beta.sprinklr.com
+prod4-socialadvocacy.sprinklr.com
+prod4-sprcdn-assets.sprinklr.com
+prod4-tier2-care.sprinklr.com
+prod4.sprinklr.com
+prod5-care.sprinklr.com
+prod6-api.sprinklr.com
+prod6-display-api.sprinklr.com
+prod6-live-chat.sprinklr.com
+prod6-logs.sprinklr.com
+prod6-webhooks.sprinklr.com
+prod6.sprinklr.com
 prodmp.ru
 prodo-api.ariva-services.de
 producebreed.com
@@ -45804,6 +46165,8 @@ pyvqoaoeeen.com
 pyxis.iad.appboy.com
 pyxjwks.com
 pyzkk.com
+pz-live-chat-mqtt.sprinklr.com
+pz.cdata.prod0.sprinklr.com
 pzdlfww.cn
 pzhuzlwjiymfos.com
 pzjrabknapw.com
@@ -45850,10 +46213,21 @@ q6idnawboy7g.com
 q6rwa.eschangchi.com
 q8eqh.top
 q8ntfhfngm.com
+qa-apple-influxdb.sprinklr.com
+qa-blueberry-webui.sprinklr.com
 qa-events-schema.viacom.tech
 qa-gmtdmp.mookie1.com
 qa-log.swrve.com
 qa.yieldmo.com
+qa4-advocacy-client.sprinklr.com
+qa4-care.sprinklr.com
+qa4-data-connector.sprinklr.com
+qa4-red-beta.sprinklr.com
+qa4-socialadvocacy.sprinklr.com
+qa4-sprcdn-assets.sprinklr.com
+qa4-tagging.sprinklr.com
+qa4-tier2-care.sprinklr.com
+qa4.sprinklr.com
 qa7mp9j.cn
 qaadv.com
 qaamgo-d.openx.net
@@ -46679,6 +47053,7 @@ raygun.com
 raygun.io
 rayjump.com
 rays-counter.com
+raytheon.sprinklr.com
 razdvabm.com
 razuphyju.com
 rb.adnxs.com
@@ -46974,6 +47349,7 @@ red88.uk
 redads.biz
 redarianman.com
 redatastore.ru
+redbull.sprinklr.com
 redclick.ru
 redcounter.net
 reddleops.pro
@@ -47100,6 +47476,7 @@ region.z.nomobileads.com
 regional.ads.tremorhub.com
 regionalsuperstitiousfingerprint.com
 regionconfig.amplitude.com
+regions.sprinklr.com
 regionseffective.com
 regionsparametersvacancy.com
 regisg.com
@@ -47250,6 +47627,7 @@ rementui.top
 remind.me
 reminews.com
 remintrex.com
+remote-data.urbanairship.com
 remote88.com
 remotedu.cn
 remoteeloise.com
@@ -48941,11 +49319,13 @@ salemwebnetworks-d.openx.net
 saleonce.top
 sales-express.eu
 sales.idio.co
+sales.sprinklr.com
 salesdoubler.com.ua
 salesforceiq.com
 salesgenius.com
 saleshandy.com
 salesiq.zoho.com
+salesloft.sprinklr.com
 salesloftlinks.com
 salesviewer.com
 salesviewer.org
@@ -48986,6 +49366,9 @@ samplerpouch.com
 sams.nikonimaging.com
 samsappsbn.vo.llnwd.net
 samsung-com.112.2o7.net
+samsung-space.sprinklr.com
+samsung-webform.sprinklr.com
+samsung.sprinklr.com
 samsungadhub.com
 samsungads.com
 samsungcloud.com
@@ -49025,6 +49408,8 @@ sanity-dataplane.rudderstack.com
 sankaudacityrefine.com
 sanliurfa.com
 sanme2.lanzoui.com
+santander-app.sprinklr.com
+santanderbesocial.sprinklr.com
 sanwukeji.xyz
 sanxiucaiwu.top
 sanxueshufa.cn
@@ -49305,6 +49690,7 @@ screechingslip.com
 screechingstove.com
 screencaptue-cdn.kampyle.com
 screencapture.kampyle.com
+screencontrol.sprinklr.com
 screwdianasurgery.com
 scribe.logs.roku.com
 scribe.twitter.com
@@ -49528,6 +49914,7 @@ sdk.scopely.io
 sdk.selz.com
 sdk.sharethrough.com
 sdk.snapkit.com
+sdk.split.io
 sdk.starbolt.io
 sdk.stat.foreign.nearme.com.cn
 sdk.stats-locations.com
@@ -49708,6 +50095,7 @@ secretmedia.s3.amazonaws.com
 secretspiders.com
 secretturtle.com
 secrr.cn
+sectest.sprinklr.com
 sectsenior.com
 secure-12.com
 secure-adnxs.edgekey.net
@@ -51510,15 +51898,20 @@ sochr.com
 social-sb.com
 social-touch.com
 social.hm.com
+socialapps.sprinklr.com
+socialatscale.sprinklr.com
 socialbars-web1.com
 socialbars-web4.com
 socialbirth.com
+socialbusiness.sprinklr.com
 socialcanvas-cdn.kargo.com
 socialelective.com
 socialhoney.co
 socialknowledge-d.openx.net
 sociallypublish.com
 socialmedia.com
+socialmirror.qa.sprinklr.com
+socialmirror.sprinklr.com
 socialprofitmachine.com
 socialreach.com
 socialsexnetwork.net
@@ -51526,6 +51919,7 @@ socialspark.com
 socialtrack.co
 socialtrack.net
 socialviewapp.com.pl
+socialyse-app.sprinklr.com
 sociaplus.com
 societingna.info
 sociocast.com
@@ -51884,7 +52278,15 @@ sp3.cndm.com
 sp96878.com
 sp9hb5jy81iw.ru
 spacash.com
+space-azrqa-distributed-nextjs.sprinklr.com
+space-azrqa-fd.sprinklr.com
 space-link.de
+space-microsoft.sprinklr.com
+space-named1-alb.sprinklr.com
+space-prod2.sprinklr.com
+space-prod4.sprinklr.com
+space-qa.sprinklr.com
+space.sprinklr.com
 spacehits.net
 spacenine.biz
 spacepools.org
@@ -52148,6 +52550,11 @@ sprawdzianyonline.pl
 sprawdzianyszkolne.pl
 sprawdzktopodgglada.blogspot.com
 sprawdzpl.pl
+sprcdn-assets.sprinklr.com
+sprcdn-nqa-sam.sprinklr.com
+sprcdn-prod0-sam.sprinklr.com
+sprcdn-qa4.sprinklr.com
+sprcdn.sprinklr.com
 spreadcreative.club
 spreadingmulticultural.com
 spreadlink.net
@@ -52161,11 +52568,16 @@ springmild.com
 springserve.com
 springserve.net
 springsister.com
+sprinkle.sprinklr.com
 sprinklecontent.com
+sprinklr-website-1.sprinklr.com
+sprinklr.com
+sprinklruniversity.sprinklr.com
 sprint-srs-appopen.asapp.com
 sprint.asapp.com
 sprintcollector.tealeaf.ibmcloud.com
 sprintrade.com
+sprite.sprinklr.com
 sprkl.io
 spro.so.com
 sprocket-ping.s3.amazonaws.com
@@ -52173,6 +52585,7 @@ sproose.com
 sprout-ad.com
 sproutstarbarnacle.com
 sproutunfairprovisions.com
+sprpzcdn.sprinklr.com
 spruceatom.com
 sps.springserve.com
 spscwlw.cn
@@ -52190,6 +52603,7 @@ spurioussteam.com
 spuriousstranger.com
 spuriousweather.com
 sputnik1.ru
+spx-components.cdn.sprinklr.com
 spxl.socy.es
 spxnet.com
 spyafoepeyddb.xyz
@@ -52365,6 +52779,7 @@ ssl.ad.dotandad.com
 ssl.cdne.cpmstar.com
 ssl.exelator.com
 ssl.gft2.de
+ssl.google-analytics.com
 ssl.gridsumdissector.com
 ssl.hyhzy.cn
 ssl.ligatus.com
@@ -52373,6 +52788,7 @@ ssl.msdk.11.com
 ssl.msdk.qq.com
 ssl.quantserve.com
 ssl.siteimprove.com
+ssl.sprinklr.com
 ssl.vungle.com
 ssl.ymapp.com
 ssl.zoomanalytics.co
@@ -52544,17 +52960,26 @@ stage.mobileapptracking.com
 stage.www.nexage.com
 stagegeforce.geforce.com
 stagepopkek.com
+stagewapi.sprinklr.com
 staging-console-cdn.adnxs.com
 staging-custom-event-inserter.newrelic.com
+staging-db-measures.nqa.sprinklr.com
 staging-e.anthill.vn
 staging-ib.3lift.com
 staging-insights-collector.newrelic.com
 staging-tlx.3lift.com
 staging-us-east-tlx.3lift.com
+staging-xb.sprinklr.com
 staging.adjust.io
 staging.applifier.com
+staging.sprinklr.com
 staging.wootric.com
+stagingapps.sprinklr.com
+stagingauto.sprinklr.com
 stagingjobshq.com
+stagingsec.sprinklr.com
+stagingui.sprinklr.com
+stagingvi.sprinklr.com
 stagroam.net
 staigroa.com
 staimpor.net
@@ -52579,6 +53004,7 @@ stanchartafrica.tt.omtrdc.net
 stanchartsingapore.sc.omtrdc.net
 stanchartsingapore.tt.omtrdc.net
 standadv.com
+standardchartered.sprinklr.com
 standinglover.com
 standingnest.com
 standingsack.com
@@ -52628,6 +53054,7 @@ startwebpromo.com
 starvationdefence.com
 starvationpatio.com
 starveornamentgeneralization.com
+starwood.sprinklr.com
 stas.outbrain.com
 stashedaccel.cam
 stat-58home.58che.com
@@ -53459,6 +53886,7 @@ storeslope.com
 storesurprise.com
 storetail.io
 storewidget.pcauthority.com.au
+stories.sprinklr.com
 storj.cloud
 storm.applifier.com
 storm.logger.baofeng.com
@@ -53664,6 +54092,7 @@ subwayjelly.com
 subxpk.com
 succeedkid.com
 succeedscene.com
+success.sprinklr.com
 successcompassion.com
 successfulscent.com
 successfultogether.co.uk
@@ -53722,6 +54151,7 @@ sumberiklan.com
 summerhamster.com
 summerlove4u.org
 summerobject.com
+summit.sprinklr.com
 sumofainstuff.com
 sumokoin.com
 sumome-140a.kxcdn.com
@@ -53817,6 +54247,7 @@ supplier.clickyab.com
 supply.upjers.com
 supplyframe.com
 supplyglossailment.com
+support.sprinklr.com
 supportiveimpassableevasion.com
 supportstew.com
 supportxmr.com
@@ -53853,7 +54284,11 @@ surroundpassed.com
 surv.xbizmedia.com
 survata.com
 surveillancelandmorgue.com
+survey-api.sprinklr.com
+survey-app.sprinklr.com
 survey-poll.com
+survey-prod2.sprinklr.com
+survey-prod3.sprinklr.com
 survey-staging.wootric.com
 survey.g.doubleclick.net
 survey.interquest.com
@@ -54026,6 +54461,7 @@ sxouyada.cn
 sxp.smartclip.net
 sxrgd.com
 sxsui.cn
+sxsw.sprinklr.com
 sxswjkgs.com
 sxtut.org
 sxtyhl.top
@@ -54203,6 +54639,7 @@ system.casalemedia.com
 systemizecoat.com
 systemleadb.com
 systemmonitoring.badgeville.com
+systems.sprinklr.com
 systerwithing.info
 sytcyf.com
 syteapi.com
@@ -55075,6 +55512,7 @@ techawards.pl
 techbeat.com
 techclicks.net
 techcrunchman.com
+techdata-app.sprinklr.com
 techgadgetsy.com
 techitdoit.com
 techlab-cdn.com
@@ -55119,6 +55557,7 @@ teknomobil.org
 tel-tel-fie.com
 telaria.adhaven.com
 telariaeventsbidder-east.extend.tv
+telefonica-app.sprinklr.com
 telegraf.detmir-stats.ru
 telegramspun.com
 telegraph-d.openx.net
@@ -55282,6 +55721,7 @@ testamentfendsounding.com
 testamentstrand.com
 testandtarget.omniture.com
 testcentre.vn
+testcert.nqa.sprinklr.com
 testedtouch.com
 testexemplify.com
 testfilter.com
@@ -55294,6 +55734,7 @@ testony.com
 testowanietwojegoiq.blogspot.com
 testplus.cn
 testsbox.ru
+testsurvey.nqa.sprinklr.com
 testtradedeskmve.s.moatpixel.com
 testyiq.com
 tesvitewbrl.com
@@ -55642,6 +56083,8 @@ thughighjackcheesy.com
 thugitori.pro
 thugtowardhindsight.com
 thultoll.com
+thumb-v-lv.xhcdn.com
+thumb.sprinklr.com
 thumbnail-galleries.net
 thumbnail.smartnews-ads.com
 thumbs.glispa.com
@@ -56129,6 +56572,7 @@ tools.bongacams.com
 tools.euroland.com
 tools.investis.com
 tools.mgid.com
+tools.sprinklr.com
 toolset.vip
 toonikab.com
 toonoost.net
@@ -56352,6 +56796,7 @@ tpat.api.vungle.akadns.net
 tpat.api.vungle.com
 tpbid.com
 tpc.121syndication.com
+tpc.googlesyndication.com
 tpcdn.top
 tpcnc.googlesyndication.com
 tpd4.cn
@@ -57220,6 +57665,7 @@ trail-web.com
 trailerfilma.online
 trailheadapp.com
 trainedgranddad.com
+training.sprinklr.com
 trainspersuasiveknitting.com
 traistecbole.com
 traitwarnfavorite.com
@@ -58033,6 +58479,8 @@ uballcc.com
 ubar-pro4.ru
 ubdwc.com
 ubembed.com
+uber-space.sprinklr.com
+uber.sprinklr.com
 uberads.com
 ubercpm.com
 uberdcmvpaidmm87264762368.s.moatpixel.com
@@ -58161,6 +58609,8 @@ ugabuga.icu
 ugahutoa.com
 uganod.com
 ugc.moji001.com
+ugcstaging-sprinklr.sprinklr.com
+ugcstaging.sprinklr.com
 ugcyllrneps.xyz
 ugdhsrhcq.com
 ugdturner.com
@@ -58485,6 +58935,7 @@ universalsearches.com
 universalsrc.com
 universaltrackingcontainer.com
 universe.send.microad.jp
+university.sprinklr.com
 universityofinternetscience.com
 univision-d.openx.net
 unixfuture.com
@@ -59505,6 +59956,7 @@ veristo.pl
 verizon.adhaven.com
 verizon.asapp.com
 verizon.demdex.net
+verizon.sprinklr.com
 verizontelecom.tt.omtrdc.net
 verkolasti.pw
 vernehepet.info
@@ -59943,8 +60395,10 @@ vis19.com
 visadd.com
 visagedbeard.com
 visariomedia.com
+vishal.nqa.sprinklr.com
 visiads.com
 visibility-stats.com
+visible-app.sprinklr.com
 visiblegains.com
 visiblemeasures.com
 visibli.com
@@ -60427,6 +60881,7 @@ vytxocb.cn
 vyule.com
 vyykulowdu.com
 vz-cdn.contentabc.com
+vz-cdn.trafficjunky.net
 vz-cdn2.contentabc.com
 vz-cdn2.trafficjunky.net
 vz681.com
@@ -61039,6 +61494,9 @@ webtrendslive.com
 webttracking.de
 webtuna.com
 webturn.ru
+webui.nqa.sprinklr.com
+webuinqa-48.sprinklr.com
+webuinqa.sprinklr.com
 webunder.ru
 webvideomarketing.ru
 webview.unityads.unity3d.com
@@ -61127,6 +61585,8 @@ welllwrite.com
 wellmadefrog.com
 wellmov.com
 wellnesszap.com
+wellsfargo-space.sprinklr.com
+wellsfargo.sprinklr.com
 wellviet.net
 welokygry.com
 welovepg.polymail.io
@@ -61226,6 +61686,7 @@ whathuvopu.com
 whatismyip.win
 whatisupman.site
 whatisuptodaynow.com
+whatsapp-api.sprinklr.com
 whatsapp-chat.xyz
 whatsappsohbetet.com
 whatsappsohbetim.net
@@ -61299,6 +61760,7 @@ whjibbprhng.com
 whkesznbi.com
 whmhdz.xyz
 whn.star-media.cn
+who.sprinklr.com
 whoachoh.com
 whoaremyfriends.com
 whoaremyfriends.net
@@ -61437,6 +61899,7 @@ widgets.planeta.ru
 widgets.progrids.com
 widgets.realestate.com.au
 widgets.shopifyapps.com
+widgets.sprinklr.com
 widgets.wp.com
 widjet.analnoe.tv
 widnd.dajiadou6.com
@@ -62190,6 +62653,8 @@ www.121adservices.com
 www.121tagmanager.com
 www.121tagservices.com
 www.1plusx.com
+www.202108-ssonew.sprinklr.com
+www.202110-ssonew.sprinklr.com
 www.4info.com
 www.6richtige.ch
 www.aax.me
@@ -62198,12 +62663,14 @@ www.adbert.com.tw
 www.adhood.com
 www.adyoulike.com
 www.aldaniti.net
+www.api-test.sprinklr.com
 www.areyouabot.net
 www.arkanoidgra.pl
 www.asadcdn.com
 www.ashaber.com
 www.auditude.com
 www.axeptio.eu
+www.beta.sprinklr.com
 www.bluekai.com
 www.bountysource.com
 www.browsealoud.com
@@ -62236,7 +62703,9 @@ www.easysurvey.info
 www.elabs3.com
 www.estrazionedellotto.it
 www.eurojackpot.org
+www.events.sprinklr.com
 www.exchangerates.org.uk
+www.explore.sprinklr.com
 www.fajnefanty.com
 www.fastly-insights.com
 www.fcgol.pl
@@ -62250,10 +62719,15 @@ www.google-analytics.com
 www.google.com.miaozhen.com
 www.googleoptimize.com
 www.gradiamenty.pl
+www.hdfc-auth-ssl.sprinklr.com
+www.help-es.sprinklr.com
+www.help.sprinklr.com
 www.hey.lt
 www.hollandcasino.nl
 www.images-home.com
 www.irishlottery.com
+www.join.sprinklr.com
+www.journey.sprinklr.com
 www.kiztelefonu.org
 www.klikijuz.com
 www.klyck.nl
@@ -62296,6 +62770,7 @@ www.newsbreak.com
 www.nijobfinder.co.uk
 www.nilkozmetik.com
 www.npttech.com
+www.nqaauto.sprinklr.com
 www.odliczamy.net
 www.onclickclear.com
 www.openindex.io
@@ -62323,16 +62798,22 @@ www.riddle.com
 www.samenzorgenvoortwente.nl
 www.sc.pages03.net
 www.sc.pages04.net
+www.screencontrol.sprinklr.com
 www.seslial.com
 www.simanalytics.nl
 www.speedcurve.com
 www.sponsorlink.nl
+www.sprinklr.com
 www.srmdata-us.com
 www.srmdata.com
 www.ssacdn.com
+www.ssl.sprinklr.com
+www.staging.sprinklr.com
+www.stagingauto.sprinklr.com
 www.statsforads.com
 www.storygize.net
 www.summerhamster.com
+www.summit.sprinklr.com
 www.superpyton.pl
 www.surveygizmo.eu
 www.svenskaspel.se
@@ -62351,6 +62832,8 @@ www.travelbase.nl
 www.trustguard.com
 www.turkpartnerim.net
 www.ucuzingilizce.com
+www.ugcstaging-sprinklr.sprinklr.com
+www.ugcstaging.sprinklr.com
 www.ugdturner.com
 www.unibet.com
 www.unibet.eu
@@ -62362,6 +62845,8 @@ www.vwa.la
 www.wardom.com.tr
 www.wcmcaas.td.com
 www.websiteyapma.com
+www.webuinqa.sprinklr.com
+www.whatsapp-api.sprinklr.com
 www.win2day.at
 www.wojnaczolgow.pl
 www.wojownicyzulicy.pl
@@ -64619,6 +65104,7 @@ ziig.com.cn
 zijaipse.com
 zijuejueta.com
 zikroarg.com
+zillowapps.sprinklr.com
 zim-zim-zam.com
 zimank.com
 zimingdh.com
