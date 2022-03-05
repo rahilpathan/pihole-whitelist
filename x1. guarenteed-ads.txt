@@ -1004,6 +1004,7 @@ aimg.fc2.com
 aiqua-config.c.appier.net
 aiqua-sdk.c.appier.net
 aiqua-user.c.appier.net
+airlytics.airlock.twcmobile.weather.com
 airpush.com
 ak-cdn.placelocal.com
 ak-events-collector.spot.im
@@ -1416,6 +1417,7 @@ api.magmamobile.com
 api.maropost.com
 api.megacool.co
 api.mgid.com
+api.mixpanel.com
 api.mobadvent.com
 api.mobcells.com
 api.mobeacon.mobisky.pl
@@ -1493,6 +1495,7 @@ api.tusdk.com
 api.umbel.com
 api.unbounce.com
 api.uprivaladserver.net
+api.us-east-1.aiv-delivery.net
 api.usabilla.com
 api.usersnap.com
 api.verify.mob.com
@@ -1608,6 +1611,7 @@ app-lon05.marketo.com
 app-lon06.marketo.com
 app-lon07.marketo.com
 app-lon08.marketo.com
+app-measurement.com
 app-sj01.marketo.com
 app-sj02.marketo.com
 app-sj03.marketo.com
@@ -1904,6 +1908,7 @@ aufeminin-g-d.openx.net
 augur.io
 auiopt.unityads.unity3d.com
 auth.follow-apps.com
+auth.split.io
 autoads.asia
 autocomplete.demandbase.com
 automatad-d.openx.net
@@ -2522,6 +2527,7 @@ cdn.perzonalization.com
 cdn.popcash.net
 cdn.pushcrew.com
 cdn.pushwoosh.com
+cdn.quantummetric.com
 cdn.revcontent.com
 cdn.revjet.com
 cdn.run-syndicate.com
@@ -2902,6 +2908,7 @@ config.adview.cn
 config.appjolt.com
 config.appsgeyser.com
 config.eastus-ssp.appgwv2.inmobi.com
+config.edge.skype.com
 config.emb-api.com
 config.hiido.com
 config.inmobi.cn
@@ -3361,6 +3368,7 @@ disqusads.com
 distractify-d.openx.net
 districtm-match.dotomi.com
 distroscale-d.openx.net
+dit.whatsapp.net
 dj1.baidu.com
 dk-gmtdmp.mookie1.com
 dl.cm.ksmobile.com
@@ -3533,6 +3541,8 @@ edge.safedk.com
 edge.sharethis.com
 edge.simplereach.com
 edge.yieldify.com
+edgedl.me.gvt1.com
+edgedl.me.gvt1.comairlytics.airlock.twcmobile.weather.com
 ef-dongfeng.tanx.com
 egami-tv-d.openx.net
 egraffiti-d.openx.net
@@ -3791,6 +3801,7 @@ fcanr.tracking.miui.com
 fcd.autoads.asia
 fdz.flashtalking.com
 featured.perfectionholic.com
+federatedml-pa.googleapis.com
 feed.baidu.com
 feedimages.simpli.fi
 fetch.yourblocksite.com
@@ -3810,6 +3821,8 @@ filter.ezmob.com
 filteradkernel.adsimilate.com
 financialtimesdfp415669142494.s.moatpixel.com
 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
+firebase-settings.crashlytics.com
+firebaseremoteconfig.googleapis.com
 first.iovation.com
 firstimpression-d.openx.net
 firstimpression.io
@@ -5298,6 +5311,7 @@ mobfox-server.thinknearhub.com
 mobfox.com
 mobicow.com
 mobidea.com
+mobile-collector.newrelic.com
 mobile-crash-origin.newrelic.com
 mobile-crash.newrelic.com
 mobile-de-d.openx.net
@@ -5760,8 +5774,11 @@ paas-push-api.immomo.com
 pad-v3.presage.io
 padsdel.com
 pagead-121hosted.l.121.com
+pagead.l.doubleclick.net
 pagead2.121adservices.com
 pagead2.121syndication.com
+pagead2.googlesyndication.com
+pagead46.l.doubleclick.net
 pages.taboola.com
 paimgcdn.baidu.com
 pandoramedia-mkt-prod1-t.campaign.adobe.com
@@ -5827,6 +5844,7 @@ pcookie.tanx.com
 pcookie.taobao.com
 pd.ads.cn.miaozhen.com
 pd.sharethis.com
+pdat.matterlytics.com
 pdev.chartbeat.net
 pdn.adingo.jp
 pdn.applovin.com
@@ -6083,6 +6101,7 @@ prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com
 prod-e-node-1112.nexage.com
 prod-e-node-2112.nexage.com
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
+prod-lc-mqtt-nike.sprinklr.com
 prod-m-node-1111.ssp.advertising.com
 prod-m-node-1112.nexage.com
 prod-m-node-1211.ssp.advertising.com
@@ -6360,6 +6379,7 @@ relap.io
 relaycn.icloseli.com
 remain.chartboosts.com
 remarketingpixel.com
+remote-data.urbanairship.com
 renderer.apester.com
 replaycontroller.4seeresults.com
 reporo.net
@@ -6807,6 +6827,7 @@ sdk.resu.io
 sdk.scopely.io
 sdk.selz.com
 sdk.sharethrough.com
+sdk.split.io
 sdk.starbolt.io
 sdk.stat.foreign.nearme.com.cn
 sdk.stats-locations.com
@@ -7264,6 +7285,7 @@ ssl-s.idio.co
 ssl.121-analytics.com
 ssl.cdne.cpmstar.com
 ssl.exelator.com
+ssl.google-analytics.com
 ssl.gridsumdissector.com
 ssl.lomadee.com
 ssl.msdk.11.com
@@ -7874,6 +7896,7 @@ thind.unityads.unity3d.com
 think.unbounce.com
 thinknear-hosted.thinknearhub.com
 thrtle.com
+thumb-v-lv.xhcdn.com
 thumbnail.smartnews-ads.com
 thumbs.glispa.com
 thunder.adnxs.com
@@ -7932,6 +7955,7 @@ tpat.api.vungle.akadns.net
 tpat.api.vungle.com
 tpbid.com
 tpc.121syndication.com
+tpc.googlesyndication.com
 tps-wlb-uswest.dvgtm.akadns.net
 tps11031.doubleverify.com
 tps30.doubleverify.com
@@ -8556,6 +8580,7 @@ vungle.com.edgekey.net
 vuukle-d.openx.net
 vyk.admaster.com.cn
 vz-cdn.contentabc.com
+vz-cdn.trafficjunky.net
 vz-cdn2.contentabc.com
 vz-cdn2.trafficjunky.net
 w.admedia.com
@@ -8758,6 +8783,7 @@ www.121tagmanager.com
 www.121tagservices.com
 www.chartboost.com
 www.geoplugin.net
+www.google-analytics.com
 www.localytics.com
 www.npttech.com
 www.sc.pages03.net
