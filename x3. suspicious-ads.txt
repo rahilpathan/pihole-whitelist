@@ -4331,7 +4331,6 @@ a.exoclick.com
 a.exosrv.com
 a.fandango.com
 a.fapcat.com
-a.faphouse.com
 a.fapster.xxx
 a.farlex.com
 a.faster-trk.com
@@ -9966,7 +9965,6 @@ adserver.janes.com
 adserver.janes.net
 adserver.janes.org
 adserver.janesguide.com
-adserver.juicyads.com
 adserver.justpremium.com
 adserver.killeraces.com
 adserver.kimia.es
@@ -21665,7 +21663,6 @@ btcadtop.com
 btcecho-relay.iocnt.net
 btcom.112.2o7.net
 btdnav.com
-btds.zog.link
 bte.ink
 btez8.xyz
 btf-analytics.s3.amazonaws.com
@@ -25245,7 +25242,6 @@ cdn75565438.ahacdn.me
 cdn75645151.ahacdn.me
 cdn76669448.ahacdn.me
 cdn77-pic.others-cdn.com
-cdn77-pic.xnxx-cdn.com
 cdn77.cityads.com
 cdn77.scoreuniverse.com
 cdn77746242.ahacdn.me
@@ -26444,7 +26440,6 @@ ck.ads.heytapmobi.com
 ck.connatix.com
 ck.houyi.baofeng.net
 ck.jads.co
-ck.juicyads.com
 ck.kejet.net
 ck.ncclick.co.kr
 ck.solocpm.com
@@ -28175,7 +28170,6 @@ collector.vhx.tv
 collector.viki.io
 collector.wasu.cn
 collector.wawlabs.com
-collector.xhamster.com
 collector.xhwebsite.com
 collector.xhwide1.com
 collector1.afreecatv.com
@@ -33573,7 +33567,6 @@ dhz-relay.iocnt.net
 dhzws7l31cq8p.cloudfront.net
 di-capt.com
 di.deliveryengine.adswizz.com
-di.phncdn.com
 di.rlcdn.com
 di.ssl.msdk.11.com
 di.ssl.msdk.qq.com
@@ -36943,7 +36936,6 @@ ehu96t2p.com
 ehxyz.com
 ei-event-collector.us-east-1.elasticbeanstalk.com
 ei.imstks.com
-ei.phncdn.com
 ei.phncdn.com.sds.rncdn7.com
 ei.rdtcdn.com.sds.rncdn7.com
 ei.rlcdn.com
@@ -38583,7 +38575,6 @@ evt.moatads.com
 evt.paytm.com
 evt.undertone.com
 evtp.bfmio.com
-evtubescms.phncdn.com
 evtvpaid.bfmio.com
 evushuco.com
 evwr.hitbox.com
@@ -40021,7 +40012,6 @@ fi.lzstatic.com
 fi1-ph.ypncdn.com
 fi1-ph.ypncdn.com.sds.rncdn7.com
 fi1.frosmo.com
-fi1.ypncdn.com
 fi1.ypncdn.com.sds.rncdn7.com
 fi88.club
 fialet.com
@@ -43669,8 +43659,6 @@ go.delmovip.com
 go.detmir.st
 go.digital.exponential.com
 go.dmzjmp.com
-go.eabids.com
-go.ero-advertising.com
 go.eu.bbelements.com
 go.eu.sparkpostmail1.com
 go.exrtbsrv.com
@@ -47480,7 +47468,6 @@ i.assetzen.net
 i.awin1.com
 i.bangassets.com
 i.bcicdn.com
-i.bcprm.com
 i.bestcontentfood.top
 i.bigin.io
 i.bigmir.net
@@ -47612,7 +47599,6 @@ i.w55c.net
 i.weltbild.de
 i.wmgtr.com
 i.wuhaolin.cn
-i.xozilla.com
 i.yldbt.com
 i.zhuoyaju.com
 i0-vcdn.anthill.vn
@@ -49009,9 +48995,7 @@ img-cloudflare.haizap.com
 img-dsp.oss-cn-beijing.aliyuncs.com
 img-goo.durasite.net
 img-home.csdnimg.cn.trpcdn.net
-img-hw.xnxx-cdn.com
 img-katestube.ent-cdn.com
-img-l3.xnxx-cdn.com
 img-l3.xvideos.com
 img-majestic-live.mncdn.com
 img-os-static.hoyolab.com.w.cdngslb.com
@@ -52450,7 +52434,6 @@ js.jnkstff.com
 js.joonbot.com
 js.jotform.com
 js.js-bn.com.edgekey.net
-js.juicyads.com
 js.jxabp.com.cn
 js.kau.li
 js.kiwihk.net
@@ -58274,7 +58257,6 @@ manage.aniview.com
 manage.com
 manage.epom.com
 manage.galaxiemedia.fr
-manage.juicyads.com
 manage.wdfans.cn
 manage001.adtech.fr
 manage001.adtech.us
@@ -64447,7 +64429,6 @@ notification.lionmobi.com
 notification.popads.net
 notification.trackpush.com
 notification.travian.com.tr
-notification.tubecup.net
 notification.webengage.com
 notificationallow.com
 notifier-configs.airbrake.io
@@ -71364,7 +71345,6 @@ promo.streaming-illimite.net
 promo.teenthais.com
 promo.twistyscash.com
 promo.ulust.com
-promo.vador.com
 promo.verajohn.com
 promo.worldprofitcenter.com
 promo4partners.com
@@ -83647,11 +83627,9 @@ static-ex.epom.com
 static-fed.piojm.tech
 static-forms.klaviyo.com
 static-hosted.stats.com
-static-hw.xnxx-cdn.com
 static-img.vidazoo.com
 static-img.zz.pt
 static-l3.others-cdn.com
-static-l3.xnxx-cdn.com
 static-landing-assets.project1content.com
 static-lefigaro.fr.edgekey.net
 static-login.sendpulse.com
@@ -84044,7 +84022,6 @@ static.iterable.com
 static.itrack.it
 static.itsdcdn.com
 static.itxuc.com
-static.javhd.com
 static.jememontre.com
 static.jeux-gratuits.com.edgekey.net
 static.jiaquyi.com
@@ -86479,7 +86456,6 @@ syndication.advertiserurl.com
 syndication.adxoo.com
 syndication.cntrafficpro.com
 syndication.exdynsrv.com
-syndication.exoclick.com
 syndication.exrtbsrv.com
 syndication.intel.com
 syndication.jsadapi.com
@@ -88645,15 +88621,8 @@ thughighjackcheesy.com
 thugitori.pro
 thugtowardhindsight.com
 thultoll.com
-thumb-v-lv.xhcdn.com
 thumb-v.xhcdn.com
-thumb-v0.xhcdn.com
-thumb-v1.xhcdn.com
-thumb-v3.xhcdn.com
-thumb-v4.xhcdn.com
-thumb-v5.xhcdn.com
 thumb-v7.xhcdn.com
-thumb-v8.xhcdn.com
 thumb.dable.io
 thumb.fushaar.link
 thumb.holidayguru.de
@@ -92098,7 +92067,6 @@ u-ads.adap.tv
 u-connect.urekamedia.com
 u-dmp.urekamedia.com
 u-iad04.e-planning.net
-u-on.eu
 u-us.openx.net
 u-watchit.com
 u.63kc.com
