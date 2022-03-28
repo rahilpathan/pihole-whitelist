@@ -3,6 +3,7 @@
 1-edge-chat.facebook.com
 1-undefined.facebook.com
 1.pool.ntp.org
+1337x.to
 1drv.com
 1drv.ms
 1hosts.cf
@@ -10,6 +11,7 @@
 2-undefined.facebook.com
 2.android.pool.ntp.org
 2.pool.ntp.org
+201205igp.gameloft.com
 3-edge-chat.facebook.com
 4-edge-chat.facebook.com
 4.bp.blogspot.com
@@ -27,6 +29,7 @@ a.config.skype.com
 a.disquscdn.com
 a463.w10.akamai.net
 a790.w16.akamai.net
+aan.amazon-adsystem.com
 aan.amazon.co.uk
 aan.amazon.com
 aax-eu.amazon-adsystem.com
@@ -34,6 +37,7 @@ aax-us-east.amazon-adsystem.com
 aax-us-iad.amazon.com
 aax-us-pdx.amazon-adsystem.com
 aax.amazon-adsystem.com
+about.medium.com
 account.samsung.com
 accounts.elephantjournal.com
 accounts.google.com
@@ -44,7 +48,9 @@ activation.sls.microsoft.com
 activity.windows.com
 ad.atdmt.com
 ad.doubleclick.net
+ad2.netshelter.net
 addons.prestashop.com
+adeslasdental.es
 adf.ly
 ads.opensubtitles.org
 ads2.opensubtitles.org
@@ -113,6 +119,7 @@ asset.wsj.net
 assets.adobedtm.com
 assets.getpocket.com
 assets.nflxext.com
+assets.omidoo.com
 assets.ubuntu.com
 assets.zendesk.com
 asus.com
@@ -243,6 +250,7 @@ client-s.gateway.messenger.live.com
 client.hip.live.com
 client.reactrjs.com
 clientconfig.passport.net
+clients.l.google.com
 clients0.google.com
 clients1.google.com
 clients2.google.com
@@ -317,7 +325,6 @@ display.ugc.bazaarvoice.com
 displaycatalog.mp.microsoft.com
 disqus.com
 disquscdn.com
-dl.delivery.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 dl.dropbox.com
 dl.dropboxusercontent.com
@@ -411,6 +418,7 @@ europe.pool.ntp.org
 event.mi.com
 events.gfe.nvidia.com
 everydayhealth.com
+evobanco.com
 evyy.net
 example.com
 expressvpn.com
@@ -445,6 +453,7 @@ files.brightcove.com
 files.overclock.net
 filters.adtidy.org
 financialexpress.com
+flashtalking.com
 flipkart.com
 fls-eu.amazon.co.uk
 fls-eu.amazon.com
@@ -464,6 +473,9 @@ ftp.chocolatey.org
 ftp.hp.com
 g.live.com
 g.whatsapp.net
+g1.symcb.com
+g2.symcb.com
+gameloft.com
 gan.doubleclick.net
 gapt.hit.gemius.pl
 gdlp01.c-wss.com
@@ -493,7 +505,6 @@ goodreads.com
 google-analytics.com
 google.com
 googleapis.com
-googleapis.com
 googleapis.l.google.com
 googlehosted.l.googleusercontent.com
 gopjn.com
@@ -509,6 +520,7 @@ hello.myfonts.net
 help.appsumo.com
 help.medium.com
 help.ui.xboxlive.com
+hkj8.evobanco.com
 hls.ted.com
 hn.algolia.com
 home.bt.com
@@ -628,7 +640,6 @@ ls.hit.gemius.pl
 m.digitaltrends.com
 m.gizmodo.com
 m.hotmail.com
-m.hotmail.com
 m.techrepublic.com
 m.weeklyad.target.com
 ma.techrepublic.com
@@ -739,7 +750,6 @@ mme.whatsapp.net
 mme6.whatsapp.net
 mmg-fna.whatsapp.net
 mmg.whatsapp.net
-mmg.whatsapp.net
 mmi244.whatsapp.net
 mmi269.whatsapp.net
 mmi479.whatsapp.net
@@ -771,7 +781,6 @@ newsletters.nationalgeographic.com
 nexus.ensighten.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
-nexusrules.officeapps.live.com
 nine.plugins.plexapp.com
 nls.techrepublic.com
 no-ip.com
@@ -782,8 +791,6 @@ notify.xboxlive.com
 npmjs.com
 npr-news.streaming.adswizz.com
 ns1.dropbox.com
-ns1.dropbox.com
-ns2.dropbox.com
 ns2.dropbox.com
 nsatc.net
 o.aolcdn.com
@@ -817,6 +824,7 @@ opensharecount.com
 opensoftwareupdate.com
 opensoftwareupdater.com
 openstat.net
+opensubtitles.org
 opentable.tt.omtrdc.net
 opentag-stats.qubit.com
 openvideoads.com
@@ -835,6 +843,7 @@ ovh.net
 ow.ly
 package.chocolatey.org
 packages.chocolatey.org
+pagead2.googlesyndication.com
 partner.microsoft.com
 pastebin.com
 paypal.com
@@ -852,6 +861,7 @@ pjtra.com
 placehold.it
 placeholdit.imgix.net
 platform-api.sharethis.com
+play.google.com
 play.googleapis.com
 play.itunes.apple.com
 players.brightcove.com
@@ -872,7 +882,6 @@ portableapps.com
 portal.fb.com
 pps.whatsapp.net
 preferences.truste.com
-pricelist.skype.com
 pricelist.skype.com
 privacy-policy.truste.com
 prod.telemetry.ros.rockstargames.com
@@ -898,6 +907,7 @@ qksrv.net
 quantcast.mgr.consensu.org
 query.prod.cms.rt.microsoft.com
 ramp.purch.com
+rarbg.to
 raw.githubusercontent.com
 rawgit.com
 rd.symcd.com
@@ -949,9 +959,9 @@ s3.symcb.com
 s4.symcb.com
 s5.symcb.com
 sa.symcb.com
-sa.symcb.com
 safaribooksonline.com
 safebrowsing.google.com
+saludybienestar.segurcaixaadeslas.es
 samsung.com
 samsungcloudsolution.net
 sbi.co.in
@@ -973,7 +983,9 @@ secure.skypeassets.com
 secure.surveymonkey.com
 secure.techrepublic.com
 seesaw.me
+segurcaixaadeslas.es
 self-repair.mozilla.org
+servedby.flashtalking.com
 serverfault.com
 service.weather.microsoft.com
 services.addons.mozilla.org
@@ -993,9 +1005,6 @@ skyhook.sonarr.tv
 skype.com
 slack.com
 sls.update.microsoft.com
-smallnetbuilder.com
-smallnetbuilder.com
-smallnetbuilder.com
 smallnetbuilder.com
 smartlock.google.com
 smashingmagazine.com
@@ -1054,6 +1063,7 @@ t.purch.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 tagcommander.com
+tags.tiqcdn.com
 tawk.to
 tc.tradetracker.com
 techradar.com
@@ -1064,10 +1074,14 @@ telemetry.microsoft.com
 tenforums.com
 text.getpocket.com
 textshot.medium.com
+tgdaily.com
+tgdaily.net
 the.earth.li
 theandroidsoul.com
 theguardian.com
 themoviedb.com
+thepiratebay.org
+thepiratebay.se
 thetvdb.com
 theverge.com
 thewindowsclub.com
@@ -1106,7 +1120,6 @@ twimg.com
 twitter.com
 typingclub.com
 ui.skype.com
-ui.skype.com
 undefined.facebook.com
 unsplash.com
 update.code.visualstudio.com
@@ -1130,6 +1143,8 @@ videolan.org
 videos.vidible.tv
 vidible.tv
 vimeo.com
+vma.tgdaily.com
+vma.tgdaily.net
 vodafoneindia.tt.omtrdc.net
 w1.web.whatsapp.com
 w2.web.whatsapp.com
@@ -1222,10 +1237,10 @@ www.fs.microsoft.com
 www.googletagmanager.com
 www.gstatic.com
 www.keezmovies.com
+www.linkedin.com
 www.m.hotmail.com
 www.mads.amazon-adsystem.com
 www.mmg.whatsapp.net
-www.msftncsi.com
 www.msftncsi.com
 www.myshopify.com
 www.openrcv.baidu.com
@@ -1249,6 +1264,7 @@ www.openx-server.thinknearhub.com
 www.openx.4shared.com
 www.openx.adfactor.nl
 www.openx.ajur.info
+www.paypalobjects.com
 www.platform-api.sharethis.com
 www.pt-gmtdmp.mookie1.com
 www.quantcast.mgr.consensu.org
