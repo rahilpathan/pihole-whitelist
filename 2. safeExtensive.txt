@@ -396,6 +396,7 @@
 4girlsfingerpaint.org
 4i.ae
 4ix.com
+4kplayer.pl
 4life.com
 4madesigngallerie.com.pl
 4ms.me
@@ -542,6 +543,7 @@ a.baidu.com
 a.c.eset.com
 a.config.skype.com
 a.cwip.eset.com
+a.disquscdn.com
 a.fsdn.com
 a.hl.mi.com
 a.huodong.mi.com
@@ -884,6 +886,7 @@ addr.com
 addshoppers.com
 addthis.com
 adedownload.adobe.com
+adeslasdental.es
 adf.ly
 adfa.st
 adfinis-sygroup.ch
@@ -3160,6 +3163,7 @@ ayl.lv
 ayt.fr
 az.gravatar.com
 az416426.vo.msecnd.net
+az764295.vo.msecnd.net
 az879543.vo.msecnd.net
 azabu-u.ac.jp
 azali.fr
@@ -3170,6 +3174,7 @@ azqq.com
 azure.cloudflare-dns.com
 azureedge.net
 azurewebsites.net
+b-api.facebook.com
 b-cdn.net
 b-gat.es
 b-www.facebook.com
@@ -4326,6 +4331,7 @@ c.booking.com
 c.brightcove.com
 c.cintnetworks.com
 c.cwip.eset.com
+c.disquscdn.com
 c.disquscdn.com.cdn.cloudflare.net
 c.eset.com
 c.evidon.com
@@ -6673,6 +6679,7 @@ desktops.engadget.com
 destinilocators.com
 destyy.com
 det-ta-g7g.amazon.com
+detectportal.firefox.com
 detik.com
 detne.ws
 dettinger-bank.de
@@ -7661,6 +7668,7 @@ elconfidencial.com
 elcorteingles.es
 eldadhost.ir
 elections.huffingtonpost.com
+electionsdata.ndtv.com
 electrolux.ugc.bazaarvoice.com
 electrum.org
 elegantthem.es
@@ -8045,6 +8053,7 @@ evilangel.com
 eviltracker.net
 evintl-ocsp.verisign.com
 evite.com
+evobanco.com
 evoke-windowsservices-tas.msedge.net
 evowise.com
 evsecure-ocsp.verisign.com
@@ -8267,10 +8276,12 @@ fda.gov
 fe.apple-dns.net
 fe02.lg.xiaomi.com
 fe05.lg.xiaomi.com
+fe2.update.microsoft.com
 fe2.update.microsoft.com.akadns.net
 fe2.wq.microsoft.com
 fe2.ws.microsoft.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+fe3.delivery.mp.microsoft.com
 fe3.update.microsoft.com
 fe4.edge.pantheon.io
 feature.fm
@@ -10199,6 +10210,7 @@ hkconfig.gcloud.qq.com
 hkepc.net
 hkg1.aastocks.com
 hkicl.com.hk
+hkj8.evobanco.com
 hkping.igamecj.com
 hksinc.zoom.com
 hkspeed.igamecj.com
@@ -11168,6 +11180,7 @@ images.dailykos.com
 images.dailystar.co.uk
 images.deliveryhero.io
 images.discordapp.net
+images.dmca.com
 images.financialexpress.com.edgekey.net
 images.google.com
 images.gotinder.com
@@ -11236,6 +11249,8 @@ img-cdn.huami.com
 img-developer.samsung.com
 img-developer.samsung.com.edgekey.net
 img-fotki.yandex.ru
+img-prod-cms-rt-microsoft-com.akamaized.net
+img-s-msn-com.akamaized.net
 img.ads.tvb.com
 img.alibaba.com
 img.alicdn.com
@@ -11259,6 +11274,7 @@ img.investorwords.com
 img.ly
 img.mediaset.it
 img.mp.itc.cn
+img.onesignal.com
 img.over-blog-kiwi.com
 img.pr0gramm.com
 img.purch.com
@@ -12133,6 +12149,7 @@ kin.naver.com
 kindle-time.amazon.com
 kindplanner.nl
 kindplannerstorage.blob.core.windows.net
+kinesis.us-east-1.amazonaws.com
 kingfeatures.com
 kiniksa.zoom.com
 kinja-debug.firebaseio.com
@@ -12860,6 +12877,7 @@ localhost.localdomain
 localhost.vk.com
 location-inference-westus.cloudapp.net
 location.live.net
+location.services.mozilla.com
 locationiq.com
 loccitane.com
 lockdownteam.piter-ix.vk.com
@@ -15244,6 +15262,7 @@ ogin.vk.com
 ogio.ugc.bazaarvoice.com
 ognjs.vk.com
 ogone.com
+ogs.google.com
 ogury.io
 oh.tags.crwdcntrl.net
 ohdev.in
@@ -15923,6 +15942,7 @@ page.amap.com
 page.li
 page.line.me
 pagead.l.doubleclick.net
+pagead2.googlesyndication.com
 pages.ebay.com
 pages.em.funimation.com
 pages.engage.xbox.com
@@ -18236,6 +18256,7 @@ salottobar.com
 salsalabs.com
 salsalabs.org
 saltcdn2.vk.com
+saludybienestar.segurcaixaadeslas.es
 salzlandsparkasse.de
 samap.com.py
 sameurl.com
@@ -18606,6 +18627,7 @@ secure.eu.playstation.com
 secure.footprint.net
 secure.gate2shop.com
 secure.getinbank.pl
+secure.gravatar.com
 secure.hostgator.com
 secure.hulu.com
 secure.ideabank.pl
@@ -18713,10 +18735,12 @@ segment.io
 segmentfault.com
 segpay.com
 segue.se
+segurcaixaadeslas.es
 sel.sony.com
 seldgtm1.sonymobile.com
 select.gotinder.com
 selenium-release.storage.googleapis.com
+self-repair.mozilla.org
 self.events.data.microsoft.com
 sell.smartstore.naver.com
 sell.storefarm.naver.com
@@ -22094,6 +22118,7 @@ upgrade.xl9.xunlei.com
 upload.blog.naver.com
 upload.cc
 upload.dcinside.com
+upload.facebook.com
 upload.rapidvideo.com
 upload.twitter.com
 upload.vimeo.com
@@ -22893,6 +22918,7 @@ vod.pl
 vod.tvp.pl
 vodafone.de
 vodafone.ugc.bazaarvoice.com
+vodafoneindia.tt.omtrdc.net
 voddownload.ndtv.com.edgekey.net
 vofcw7x.x.incapdns.net
 vogue.com
@@ -23699,6 +23725,7 @@ woosmap.com
 woot.com
 wootric.com
 word.office.naver.com
+wordpress.com
 wordpress.org
 wordstream.com
 work.google.com
@@ -24325,6 +24352,7 @@ www.epremki.eu
 www.eps-analyzer.de
 www.epsilon.iad-03.braze.com
 www.epson-printer-ink.beesearch.info
+www.eqads.com
 www.eqology.com
 www.eqs-redserver.appspot.com
 www.equallyyolked.com
@@ -24895,6 +24923,7 @@ www.lilo.org
 www.line.me
 www.lineageoslog.com
 www.linkbucks.com
+www.linkedin.com
 www.linkedinmobileapp.com
 www.linksynergy.com
 www.linkwithin.com
@@ -25266,6 +25295,7 @@ www.rt.com
 www.rtm.vint.xbox.com
 www.rtp.pt
 www.rumble.com
+www.s.amazon-adsystem.com
 www.s.to
 www.s3-ap-southeast-1.amazonaws.com
 www.s3-eu-west-1.amazonaws.com
