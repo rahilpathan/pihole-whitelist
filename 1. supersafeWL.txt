@@ -3753,7 +3753,6 @@ eviltracker.net
 evintl-ocsp.verisign.com
 evite.com
 evoke-windowsservices-tas.msedge.net
-evoke-windowsservices-tas.msedge.net^
 evowise.com
 evsecure-ocsp.verisign.com
 evt.klarna.com
@@ -8941,7 +8940,6 @@ s3-eu-central-1.amazonaws.com
 s3-eu-west-1.amazonaws.com
 s3-us-west-2.amazonaws.com
 s3.amazonaws.com
-s3.amazonaws\.com
 s3.ap-northeast-2.amazonaws.com
 s3.ap-south-1.amazonaws.com
 s3.symcb.com
@@ -11982,7 +11980,6 @@ www.pastebin.com
 www.payeasy.lk
 www.paypal.com
 www.paypalobjects.com
-www.pinterest.
 www.pinterest.com
 www.pjatr.com
 www.pjtra.com

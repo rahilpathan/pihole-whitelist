@@ -8706,7 +8706,6 @@ evintl-ocsp.verisign.com
 evite.com
 evobanco.com
 evoke-windowsservices-tas.msedge.net
-evoke-windowsservices-tas.msedge.net^
 evowise.com
 evsecure-ocsp.verisign.com
 evt.klarna.com
@@ -19748,7 +19747,6 @@ s3-telemetry-eust4.cloudapp.net
 s3-us-west-1.amazonaws.com
 s3-us-west-2.amazonaws.com
 s3.amazonaws.com
-s3.amazonaws\.com
 s3.ap-northeast-2.amazonaws.com
 s3.ap-south-1.amazonaws.com
 s3.eu-central-1.amazonaws.com
@@ -27179,7 +27177,6 @@ www.photobucket.com
 www.picupload.ebay.com
 www.pingdom.com
 www.pinnacle.com
-www.pinterest.
 www.pinterest.com
 www.piwik.org
 www.pixiv.net
