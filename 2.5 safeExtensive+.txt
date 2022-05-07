@@ -849,11 +849,9 @@ a.klaviyo.com
 a.nonstoppartner.net
 a.ooyala.com
 a.opmnstr.com
-a.optnmstr.com
 a.pomf.cat
 a.pomf.su
 a.pr-cy.ru
-a.pub.network
 a.realsrv.com
 a.sellpoint.net
 a.shifen.com
@@ -3769,7 +3767,6 @@ api.micloud.xiaomi.net
 api.mihome.xiaomi.net
 api.mina.mi.com
 api.miwifi.com
-api.mixpanel.com
 api.mobile.immobilienscout24.de
 api.monitor.azure.com
 api.mymonero.com
@@ -3789,7 +3786,6 @@ api.opentok.com
 api.openweathermap.org
 api.opinary.com
 api.oplata.com
-api.optnmstr.com
 api.or.at
 api.ow.ly
 api.particle.io
@@ -4329,7 +4325,6 @@ arvetellefsen.no
 arxiv.org
 arzum.com.tr
 as.baidu.com
-as.casalemedia.com
 as.com
 as.flipboard.com
 as.uncn.jp
@@ -5035,7 +5030,6 @@ bam-forms.com
 bam-sdk-configs.bamgrid.com
 bam-x.com
 bam.it
-bam.nr-data.net
 bam.tr
 bambenekconsulting.com
 bamericano.com
@@ -7416,7 +7410,6 @@ c.gj.qq.com
 c.hqq.tv
 c.huawei.com
 c.id.mi.com
-c.jsrdn.com
 c.live.com
 c.live.com.nsatc.net
 c.media-amazon.com
@@ -11751,7 +11744,6 @@ display-qa.ugc.bazaarvoice.com
 display-rc.ugc.bazaarvoice.com
 display-stg.ugc.bazaarvoice.com
 display-test.ugc.bazaarvoice.com
-display.apester.com
 display.ph
 display.ugc.bazaarvoice.com
 displayad.naver.com
@@ -13926,7 +13918,6 @@ fastdomain.com
 fastdrama.co
 fastdrama.se
 fasthosts.co.uk
-fastlane.rubiconproject.com
 fastlane.tools
 fastly-analytics.com
 fastly-chat.ign.com
@@ -18084,7 +18075,6 @@ iask.sina.com.cn
 iatv.tmgrup.com.tr
 ib-sachsen-anhalt.de
 ib.ablv.com
-ib.adnxs.com
 ib.agrambanka.hr
 ib.airbank.cz
 ib.apkbank.ru
@@ -26662,7 +26652,6 @@ openwrt.com
 openwrt.org
 openx.4shared.com
 openx.gamereactor.dk
-openx.net
 opera-mini.net
 opera-proxy.net
 opera.cloudflare-dns.com
@@ -30473,7 +30462,6 @@ ruggable.com
 rukminim1.flixcart.com
 rule34hentai.net
 rules.atgsvcs.com
-rules.quantcount.com
 rumba.fi
 rumble.com
 rumble.run
@@ -33890,7 +33878,6 @@ static.3001.net
 static.360buyimg.com
 static.abcmouse.com
 static.actionbutton.co
-static.addtoany.com
 static.adf.ly
 static.akacdn.ru
 static.amazon.jobs
@@ -33911,7 +33898,6 @@ static.cdn.responsys.net
 static.clickfunnels.com
 static.cloudflareinsights.com
 static.coinbase.com
-static.criteo.net
 static.crunchyroll.com
 static.dingtalk.com
 static.djangoproject.com
@@ -34878,8 +34864,6 @@ tado.com
 tadst.com
 tag.aticdn.net
 tag.blog.naver.com
-tag.bounceexchange.com
-tag.crsspxl.com
 tag.getdrip.com
 tag.md-nx.com
 tag.partner.mairdumont.com
