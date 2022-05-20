@@ -7651,6 +7651,7 @@ dmca.twitch.tv
 dmcdn.com
 dmcdn.net
 dmd.metaservices.microsoft.com
+dmd.metaservices.microsoft.com.akadns.net
 dmicro.ru
 dmm.com
 dmp.adform.net
@@ -15263,6 +15264,7 @@ mhtr.be
 mi-idc.com
 mi-img.com
 mi.com
+mi.edgekey.net
 mi.me
 mi.samsung.com
 mi.tt
@@ -19808,6 +19810,7 @@ rpetri.ch
 rpg.twitch.tv
 rpgenerator.net
 rplg.co
+rpm.newrelic.com
 rpplfr.me
 rps-asea.skypetoken.skype.com
 rps-euno.skypetoken.skype.com
@@ -20764,6 +20767,7 @@ sel.sony.com
 seldgtm1.sonymobile.com
 select.gotinder.com
 selenium-release.storage.googleapis.com
+self-events-data.trafficmanager.net
 self-repair.mozilla.org
 self.events.data.microsoft.com
 selkombank.ru
@@ -22514,6 +22518,7 @@ stats.ssa.gov
 stats.stackexchange.com
 stats.streamelements.com
 stats.t-online.de
+stats.uptimerobot.com
 stats.whatsapp.com
 statsandengagement.help.soundcloud.com
 status.adobe.com
@@ -24689,6 +24694,7 @@ usc.zoom.com
 uscc.korem.com
 uscis.gov
 usda.gov
+use-application-dns.net
 use.adserver.snapads.com
 use.fontawesome.com
 use.my
