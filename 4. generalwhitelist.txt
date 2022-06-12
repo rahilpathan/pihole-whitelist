@@ -189,6 +189,7 @@
 1.usa.gov
 1.vk.com
 1.www.s81c.com
+1.xx.fbcdn.net
 10.client-channel.google.com
 10.docs.google.com
 10.drive.google.com
@@ -4209,6 +4210,8 @@ ads-e-darwin.hulustream.com
 ads-ex.com
 ads-grooveshark.com
 ads-iframe-display.ph
+ads-resources-legacy.waze.com
+ads-resources.waze.com
 ads-serve.brave.com
 ads-srv.net
 ads-static.brave.com
@@ -8248,6 +8251,7 @@ android-1.com
 android-api-de.gumtree.com
 android-api-us.crackle.com
 android-api.fitbit.com
+android-apk.org
 android-appboot.netflix.com
 android-developers.blogspot.com
 android-developers.googleblog.com
@@ -9666,6 +9670,7 @@ api.video.xiaomi.com
 api.videoder.net
 api.videos.oovvuu.com
 api.vidnode.net
+api.viglink.com
 api.viki.io
 api.vimeo.com
 api.vip.miui.com
@@ -12284,6 +12289,7 @@ audible.co.uk
 audible.com
 audible.de
 audible.fr
+audible.sc.omtrdc.net
 audibletrack.com
 audibletrial.com
 audiboi.com
@@ -14786,6 +14792,7 @@ bavariayachts.com
 baventures.com
 bavethospital.com
 bawagpsk.com
+baxleyweather.com
 baxtermn.gov
 baxterregional.org
 bay-1.extsky.microsoft.com
@@ -20707,6 +20714,7 @@ c.finanzen.net
 c.footprint.net
 c.gdt.qq.com
 c.gj.qq.com
+c.go-mpulse.net
 c.googlevideo.com
 c.hqq.tv
 c.huawei.com
@@ -21787,6 +21795,7 @@ captivemarketing.net
 captivexs.com
 captl1.co
 captur.in
+capture.crutchfield.com
 captureflag.io
 capturetheflag.withgoogle.com
 caputomarkets.com
@@ -22834,6 +22843,7 @@ cdn-img-feed.streeteasy.com
 cdn-img.health.com
 cdn-learn.adafruit.com
 cdn-learning.artstation.com
+cdn-magiclinks.trackonomics.net
 cdn-mobile.api.pluto.tv
 cdn-mobile.aptoide.com
 cdn-mvpdmanager.video.aetnd.com
@@ -22938,6 +22948,7 @@ cdn.amazon.com
 cdn.amazon.de
 cdn.amazon.es
 cdn.amazon.it
+cdn.amplitude.com
 cdn.ampproject.org
 cdn.antenne.de
 cdn.anvato.net
@@ -26592,6 +26603,7 @@ click.e.usatoday.com
 click.em.blizzard.com
 click.em.gamestop.com
 click.em.usconcealedcarry.com
+click.email.anthem.com
 click.email.microsoftemail.com
 click.email.microsoftonline.com
 click.email.microsoftrewards.com
@@ -29568,6 +29580,7 @@ control.d-imaging.sony.co.jp
 control.kochava.com
 control.phone.com
 control.softlayer.com
+control.tvinteractive.tv
 control4.com
 controlautomaticoeducacion.com
 controleng.com
@@ -41077,6 +41090,7 @@ em.io
 em.kuntv.pw
 em.realtimetv.me
 em.typekit.com
+em.weathertech.com
 em1.typekit.com
 em3technologies.com
 ema.eset.com
@@ -42336,6 +42350,7 @@ err.taobao.com
 error-reporter.juno.ea.com
 error.fc2.com
 errorkillers.net
+errors.client.optimizely.com
 erroticahunter.com
 ersamedia.ch
 erskine.edu
@@ -42535,6 +42550,7 @@ espn.com
 espn.com.au
 espn.com.br
 espn.go.com
+espn.hb.omtrdc.net
 espn.in
 espn.uol.com.br
 espn3.com
@@ -43188,6 +43204,7 @@ eventbrite.ca
 eventbrite.co.uk
 eventbrite.com
 eventbroker.api.microsoft.com
+eventbus.intuit.com
 eventbuzz.co.il
 eventdex.com
 eventer.co.il
@@ -43260,6 +43277,7 @@ everbank.com
 everbuying.net
 everest.castbox.fm
 everest.com
+everestjs.net
 everesttech.net
 everettwa.gov
 evergage.com
@@ -51673,6 +51691,7 @@ go.9nl.com
 go.acer.com
 go.alt.ac.uk
 go.amazonservices.com
+go.androidpolice.com
 go.att.com
 go.auncurology.com
 go.be.net
@@ -52383,6 +52402,7 @@ google.ph
 google.pk
 google.pl
 google.pn
+google.prf.hn
 google.ps
 google.pt
 google.qa
@@ -57539,6 +57559,7 @@ hulsteinexcavatinginc.com
 hult.edu
 hulu-matchmaker.s3.us-west-2.amazonaws.com
 hulu.com
+hulu.hb.omtrdc.net
 hulu.jp
 hulu.tv
 huluad.com
@@ -67860,6 +67881,7 @@ kms8.msguides.com
 kms9.msguides.com
 kmsethnz.com
 kmsfile.partners.extranet.microsoft.com
+kmspico10.com
 kmsv.jp
 kmtd.org.tr
 kmuh.org.tw
@@ -70150,6 +70172,7 @@ lennylarry.com
 lennyletter.com
 lenoir-nc.gov
 lenorathompsonwriter.com
+lenovo.7eer.net
 lenovo.com
 lenovo.com.cn
 lenovo.resultspage.com
@@ -71258,6 +71281,7 @@ lissfit.com
 list-manage.com
 list-manage1.com
 list-manage2.com
+list-manager.zaius.com
 list.blogspambl.com
 list.dsbl.org
 list.iblocklist.com
@@ -75850,6 +75874,7 @@ mcckc.edu
 mccks.edu
 mcclatchy-wires.com
 mcclatchy.com
+mcclatchy.sc.omtrdc.net
 mcclatchydc.com
 mcclatchyinteractive.com
 mcclellandcollege.vic.edu.au
@@ -80682,6 +80707,7 @@ msm.ru
 msmary.edu
 msmc.edu
 msmeehnia.com
+msmetrics.ws.sonos.com
 msmm.msn.com
 msmnyc.edu
 msmu.edu
@@ -89495,6 +89521,7 @@ osaumservice.microsoft.com
 osb-apps.samsungqbe.com
 osb-eusvc.samsungqbe.com
 osb-ussvc.samsungqbe.com
+osb-v2.samsungqbe.com
 osb.samsungqbe.com
 osboxes.org
 osbso.org
@@ -90488,6 +90515,7 @@ pages.ebay.ph
 pages.em.funimation.com
 pages.em.target.com
 pages.engage.xbox.com
+pages.ex.tractorsupply.com
 pages.github.com
 pages.homedepot.com
 pages.hotmart.com
@@ -91352,6 +91380,7 @@ patientsafetymovement.org
 patmcgrathchevyland.com
 patoghu.com
 patorjk.com
+patreon.apms5.com
 patreon.com
 patreonhq.com
 patreonusercontent.com
@@ -95945,6 +95974,7 @@ printify.com
 printler.com
 printmaster.com
 printmotor.com
+printoid.net
 printpps.com
 printweb.de
 priobye.ru
@@ -97818,6 +97848,7 @@ pub.gamezop.com
 pub.idqqimg.com
 pub.mac.microsoft.com
 pub.msn.com
+pub.s6.exacttarget.com
 pub.tunnl.com
 pub.vitrue.com
 pub1.us
@@ -102027,6 +102058,7 @@ repl.it
 replacementdocs.com
 replacements.com
 replacescript.in
+replay.crutchfield.com
 replay.pokemonshowdown.com
 replenish.goepson.com
 replies.io
@@ -102054,6 +102086,7 @@ report-uri.com
 report.cybertip.org
 report.ht
 report.if.ua
+report.netgear.glassboxdigital.io
 reportband.gov
 reportedcalls.com
 reporter.gr
@@ -102268,6 +102301,7 @@ rest-prde.immedia-semi.com
 rest.bandsintown.com
 rest.eu.logentries.com
 rest.growinginteractive.com
+rest.iad-03.braze.com
 rest.logentries.com
 rest.us.logentries.com
 restapi.amap.com
@@ -106980,6 +107014,7 @@ secure-cf-c.ooyala.com
 secure-cloud.jp
 secure-dcdn.cdn.nimg.jp
 secure-dcr.imrworldwide.com
+secure-drm.imrworldwide.com
 secure-gen-hapi.canal-plus.com
 secure-m.accorhotels.com
 secure-media1.hotstarext.com
@@ -115114,6 +115149,7 @@ statnews.com
 statravel.com.au
 stats-prod.svc.gearsofwar.net
 stats.adobe.com
+stats.adultswim.com
 stats.antpool.com
 stats.api.xiaomi.net
 stats.appsflyer.com
@@ -115384,6 +115420,7 @@ stereomag.ro
 stereomanuals.com
 stereophile.com
 stereophonics.com
+stereos2s.crutchfield.com
 sterling-adventures.co.uk
 sterling-il.gov
 sterling-ma.gov
@@ -123834,6 +123871,7 @@ tp24.com
 tpa.or.th
 tparents.org
 tpaunms.westeurope.cloudapp.azure.com
+tpb.pa
 tpb.vn
 tpg.com.au
 tpgblog.com
@@ -124194,6 +124232,7 @@ tracking.s24.com
 tracking.se
 tracking.surveycheck.com
 tracking.truthfinder.com
+tracking.v-sept.net
 tracking8171.com
 trackings.post.japanpost.jp
 trackingthetrackers.com
@@ -124839,6 +124878,7 @@ trinitashospital.org
 trinity-health.org
 trinity-nc.gov
 trinity.edu
+trinity.platform.intuit.com
 trinity.wa.edu.au
 trinityal.gov
 trinitybiblecollege.edu
@@ -128738,6 +128778,7 @@ usa.philips.com
 usa.skanska.com
 usa.yamaha.com
 usaa.com
+usaa360.com
 usability.gov
 usabilitytesten.nl
 usabilla.com
@@ -128795,6 +128836,7 @@ usatravel-specials.net
 usaudiomart.com
 usauthor.playstation.com
 usawatchdog.com
+usaweatherfinder.com
 usb.com.ua
 usb.edu.co
 usb.edu.mx
@@ -132751,6 +132793,7 @@ vivwbox.de
 viwbox.de
 vix.com
 vixen.com
+vixenless.com
 viz.com
 viz.greynoise.io
 vizejs.info
@@ -137653,6 +137696,7 @@ wow.curseforge.com
 wow.id
 wow.in.th
 wow.li
+wow.metoffice.gov.uk
 wow.zamimg.com
 wowace.com
 wowbiz.ro
@@ -137876,6 +137920,7 @@ ws-feed.pro.coinbase.com
 ws-in.amazon-adsystem.com
 ws-mt1.pusher.com
 ws-na.amazon-adsystem.com
+ws-us2.pusher.com
 ws-zeplin.pusher.com
 ws.126.net
 ws.aglwebservices.com
@@ -140659,6 +140704,7 @@ www.crunchbase.com
 www.crunchyroll.adtrackers.net
 www.crunchyroll.bannertrack.net
 www.crunchyroll.com
+www.crutchfield.com
 www.cryptopia.co.nz
 www.crystalidea.com
 www.cs.liiift.io
@@ -140922,6 +140968,8 @@ www.derekseaman.com
 www.derf.me
 www.desert.sn
 www.desktop.spotify.com
+www.destiny2game.com
+www.destinylfg.net
 www.destyy.com
 www.detne.ws
 www.dev-multiscreen.samsung.com
@@ -141849,6 +141897,7 @@ www.freshdirect.com
 www.fresheye.com
 www.fretsonfire.org
 www.freze.it
+www.friendlyduck.com
 www.fritz.box
 www.fro.gy
 www.frog.wix.com
@@ -144882,6 +144931,7 @@ www.pagedemo.co
 www.pagepluscellular.com
 www.pages.info.exclusive-networks.com
 www.pages03.net
+www.pages06.net
 www.pair.com
 www.palemoon.org
 www.paloaltonetworks.com
@@ -147526,6 +147576,7 @@ www.use.my
 www.use.typekit.com
 www.use.typekit.net
 www.useinsider.com
+www.usenet.nl
 www.usenix.org
 www.usercentrics.com
 www.usercentrics.eu
