@@ -61,8 +61,7 @@ api.fitbit.com
 api.gfe.nvidia.com
 api.github.com
 api.nexusmods.com
-api.nexusmods.com/
-api.nexusmods.com/*
+api.nexusmods.com
 api.simplisafe.com
 api.snapcraft.io
 api.twitter.com

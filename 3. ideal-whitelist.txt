@@ -7590,7 +7590,6 @@ appspot.com
 appspy.com
 appstatebanner.jp
 appsto.re
-appsto.re/us/EesS8.i
 appstore-tv-prod-na.amazon.com
 appstore.cdn.pandora.xiaomi.com
 appstore.com
@@ -109160,8 +109159,7 @@ api.fitbit.com
 api.gfe.nvidia.com
 api.github.com
 api.nexusmods.com
-api.nexusmods.com/
-api.nexusmods.com/*
+api.nexusmods.com
 api.simplisafe.com
 api.snapcraft.io
 api.twitter.com

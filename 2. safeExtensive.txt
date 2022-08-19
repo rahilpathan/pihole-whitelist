@@ -3554,8 +3554,7 @@ api.newrelic.com
 api.next.exchange
 api.nextgen.guardianapps.co.uk
 api.nexusmods.com
-api.nexusmods.com/
-api.nexusmods.com/*
+api.nexusmods.com
 api.nfl.com
 api.nordvpn.com
 api.odesli.co
