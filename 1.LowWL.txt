@@ -25,7 +25,6 @@
 102.112.2o7.net
 102.122.2o7.net
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
-106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services meta.plex.tv
 107.189.10.20.sslip.io
 112.2o7.net
 1188.lv
@@ -2708,7 +2707,6 @@ app.sephora.com
 app.skiff.org
 app.slack.com
 app.speedpix.com.br
-app.speedpix.com.br|appboot.netflix.com
 app.usercentrics.eu
 app.xhtml
 app2.salesmanago.pl
@@ -3082,7 +3080,6 @@ auth.gfx.ms
 auth.qcbtonlinebanking.web-cashplus.com
 auth.samsungosp.com
 auth.securebanklogin.com
-auth.securebanklogin.com?brand=washington
 auth.split.io
 auth0.com
 authbe.sec.intl.miui.com
@@ -5468,7 +5465,7 @@ cbonline.co.uk
 cbonline.enterprisebanker.com
 cboprf.com
 cbox.ws
-cbozark.com.
+cbozark.com
 cbozarks.com
 cbportal.commerzbank.com
 cbq.com.qa
@@ -10310,7 +10307,7 @@ fnbsc.com
 fnbscott.com
 fnbseiling.com
 fnbsf.com
-fnbshawnee.com;www.fnbokla.com
+fnbshawnee.com
 fnbshiner.com
 fnbsi.com
 fnbsm.com
@@ -12393,7 +12390,6 @@ http-fa-darwin.hulustream.com
 http-test1.luminatinet.com
 http-va-darwin.hulustream.com
 httpool.com
-https:
 httpslink.com
 htxt.it
 htz.li
@@ -14515,7 +14511,6 @@ leon.com.do
 leroymerlin.ru
 letai.ru
 letobank.ru
-letop10.
 letsdecentralize.org
 letsencrypt.org
 lettucelimit.com
@@ -14824,7 +14819,6 @@ lm.licenses.adobe.com
 lmla.com
 lmsigut001.sb
 lmsigut001.sbny.local
-lmsigut001.sbny.local:9446
 ln-s.net
 ln-s.ru
 ln.mtahost.co
@@ -17505,7 +17499,7 @@ oke.io
 okeybank.com
 okheritage.com
 okl.lt
-oklahomabankandtrust.com;www.oklabank.c
+oklahomabankandtrust.com
 oklahomafederalcreditunion.org
 okok.fr
 okstatebank.com
@@ -19083,7 +19077,6 @@ pineriverstatebank.com
 pinews.co
 ping-admin.ru
 ping-app1.idrive.com
-ping.*.adguard.io
 ping.adguard.io
 ping.avast.com
 ping.cloud.tencent.com
@@ -19268,7 +19261,6 @@ pm.wu.cz
 pmbank.com
 pmd.cdn.turner.com
 pmdssl.flixkart.com.edgekey.net
-pmenboeqhyrpvomq.
 pnapi.invoca.net
 pnb-kewanee.com
 pnb.com
@@ -19449,7 +19441,6 @@ ppurifier.game.xiaomi.com
 pr-clinica.ru
 pr-cy.ru
 pr-star.de
-pr..jha.treasury.jackhenry.com
 pr.jha.treasury.jackhenry.com
 pr0gramm.com
 practicalmoneyskills.com
@@ -20007,7 +19998,6 @@ r.stripe.com
 r1.visualwebsiteoptimizer.com
 r1.ykimg.com
 r10s.jp
-r2---sn-4g5e6ns6.googlevideo.com
 r2.visualwebsiteoptimizer.com
 r20.rs6.net
 r29.co
@@ -20017,7 +20007,6 @@ r3.res.office365.com
 r3.visualwebsiteoptimizer.com
 r4.res.office365.com
 r42tag.com
-r6---sn-4g5e6nl6.googlevideo.com
 r8t.us
 r9cdn.net
 raac33.net
@@ -23559,7 +23548,6 @@ streamate.com
 streamelements.com
 streamhunter.top
 streamillimit.com
-streamillimit�.com
 streaming-live.rtp.pt
 streaming.adswizz.com
 streamlike.com
@@ -30874,6 +30862,7 @@ www.fnboaonlinebank.com
 www.fnbofdwight.com
 www.fnbofks.com
 www.fnbofsedan.com
+www.fnbokla.com
 www.fnbolathe.com
 www.fnbord.com
 www.fnbordway.com
@@ -32004,7 +31993,6 @@ www.infirstbank.com
 www.info
 www.info.agribank.com
 www.info.ms
-www.info@anbok.com
 www.ing-usa.com
 www.ing.com
 www.ing.nl
@@ -33536,7 +33524,6 @@ www.nyp.st
 www.nyr.kr
 www.nyti.ms
 www.nytimes.com
-www.nytimes.com:443
 www.nyv.me
 www.nzh.tw
 www.o-x.fr
@@ -33592,6 +33579,7 @@ www.ojrq.net
 www.ok.me
 www.okfcb.com
 www.okl.lt
+www.oklabank.com
 www.oklahomacentral.org
 www.okok.fr
 www.ola.com
