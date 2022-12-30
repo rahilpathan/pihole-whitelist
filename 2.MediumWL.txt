@@ -90,6 +90,7 @@
 102.122.2o7.net
 10267.redirect.appmetrica.yandex.com
 1038135.redirect.appmetrica.yandex.com
+106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.se
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 107.189.10.20.sslip.io
 110415.libdd.com
@@ -575,7 +576,7 @@
 9810-tst-pci.btbanking.com
 9901-sbx.btbanking.com
 999.sh
-9Anime.to
+9anime.to
 9en.us
 9gag.com
 9m.no
@@ -585,13 +586,6 @@
 9qr.de
 9to5google.com
 9xlinks.si
-Intellix.capitalonebank.com
-Onlinebanking.iThinkfi.org
-Secure.nbkc.com
-TBOnline.capfed.com
-WWW-E.QA.NetTeller.com
-WWW-a.QA.NetTeller.com
-WWW.COMMUNITYFIRSTCU.ORG
 a-0001.a-msedge.net
 a-0002.a-msedge.net
 a-0003.a-msedge.net
@@ -650,6 +644,7 @@ a.shifen.com
 a.stat.xiaomi.com
 a.thumbs.redditmedia.com
 a.tiles.mapbox.com
+a.top4top.net
 a.trellocdn.com
 a.ucoz.net
 a.ucoz.ru
@@ -7843,6 +7838,7 @@ ca-gard.fr
 ca-guadeloupe.fr
 ca-illeetvilaine.fr
 ca-languedoc.fr
+ca-lb.ultimedia.com
 ca-loirehauteloire.fr
 ca-martinique.fr
 ca-midi.fr
@@ -9211,6 +9207,7 @@ check.ddos-guard.net
 check.ptlogin2.wechat.com
 check.svyaznoy.ru
 check.torproject.org
+check2.tsb.co.uk
 check4.facebook.com
 check6.facebook.com
 checkappexec.microsoft.com
@@ -11054,7 +11051,6 @@ crks.me
 crl-ds.ws.symantec.com.edgekey.net
 crl.adobe.com
 crl.apple.com
-crl.apple.comcrl.entrust.net
 crl.comodoca.com
 crl.comodoca4.com
 crl.entrust.net
@@ -19808,6 +19804,7 @@ imb.ru
 imbanking.by
 imdb.com
 ime.api.xiaomi.com
+imeipro.info
 imerys.cso.coupahost.com
 imexbanka.hr
 imexnet.imexbanka.hr
@@ -19871,6 +19868,7 @@ img.techwallacdn.com
 img.tfd.com
 img.topddl.net
 img.ucweb.com
+img.ultimedia.com
 img.us.news.samsung.com
 img.utdstc.com
 img.vidible.tv
@@ -20276,6 +20274,7 @@ intellicast.com
 intelligence.ingrammicro.com
 intelligenceadx.com
 intellitxt.com
+intellix.capitalonebank.com
 intensedebate.com
 inter.youdao.com
 interact.regions.com
@@ -21619,6 +21618,7 @@ l.google.com
 l.googleusercontent.com
 l.hh.de
 l.instagram.com
+l.messenger.com
 l.qq.com
 l.yimg.com
 l1.britannica.com
@@ -23790,6 +23790,7 @@ mediagiphy.com
 mediagra.com
 mediaiqdigital.com
 mediakit.breitbart.com
+medialb.ultimedia.com
 mediamarkt.at
 mediamarkt.de
 mediamarkt.es
@@ -24773,7 +24774,6 @@ ms.applvn.com
 ms.gravatar.com
 ms.vipstatic.com
 ms4.applovin.com
-ms4.applovin.com$importan
 msa.akadns6.net
 msa.intuit.com
 msagfx.live.com
@@ -25775,7 +25775,6 @@ netdsb.com
 netease.com
 netech.postaffiliatepro.com
 neteller.com
-netflix.
 netflix.com
 netflix.net
 netflux.cloud.vimeo.com
@@ -27420,6 +27419,7 @@ onlinebanking.gc4bank.net
 onlinebanking.greatbasin.org
 onlinebanking.hewfcu.com
 onlinebanking.huntington.com
+onlinebanking.ithinkfi.org
 onlinebanking.kawvalleybank.com
 onlinebanking.kingsleybank.com
 onlinebanking.lfcu.org
@@ -30492,19 +30492,13 @@ r20.rs6.net
 r29.co
 r29.us
 r2p.de
-r3---sn-a5mlrn7r.googlevideo.com
 r3.bithumb.com
 r3.o.lencr.org
 r3.res.office365.com
 r3.visualwebsiteoptimizer.com
-r4---sn-a5meknek.googlevideo.com
-r4---sn-npoe7n7y.googlevideo.com
-r4---sn-qxo7rn7e.googlevideo.com
 r4.bithumb.com
 r4.res.office365.com
 r42tag.com
-r5---sn-4g5ednsl.googlevideo.com
-r5---sn-ntqe6nes.c.2mdn.net
 r5.bithumb.com
 r6.mo.baidu.com
 r8t.us
@@ -31254,6 +31248,7 @@ reportappgo.189.cn
 reports.adguard.com
 reports.boldchat.com
 reports.cliqz.com
+reports.crashlytics.com
 reports.exodus-privacy.eu.org
 repository-images.githubusercontent.com
 repository.cliqz.com
@@ -32721,7 +32716,7 @@ secode2.hd.xiaomi.com
 secondfederal.com
 secre.jp
 secret.ly
-secret.É¢oogle.com
+secret.é¢oogle.com
 secret.ɢoogle.com
 secretivecub.com
 secretspiders.com
@@ -32884,6 +32879,7 @@ secure.myoncenter.com
 secure.mysummit.ba
 secure.mysummit.bank
 secure.myvirtualbranch.com
+secure.nbkc.com
 secure.nbtbank.com
 secure.net.wwe.com
 secure.netflix.com
@@ -36303,7 +36299,6 @@ szmg.qq.com
 szn.cz
 szo.ch
 szukaj.wp.pl
-s{1..5}.symcb.com
 t-3.cc
 t-info.mail.adobe.com
 t-mo.co
@@ -36573,6 +36568,7 @@ tbkbank.com
 tbo.capfed.com
 tboc.com
 tboh.com
+tbonline.capfed.com
 tbonlinebanking.com
 tbonm.com
 tbs.imtt.qq.com
@@ -36803,10 +36799,10 @@ test.millimanbenefits.com
 test.mmlaccess.com
 test.steampowered.com
 test.vuukle.com
-testFIhomepage.com
 test_whitelist.sh
 testappread.blob.core.windows.net
 testbank.firstnational.com
+testfihomepage.com
 testhomepage.com
 testkitchen.huffingtonpost.com
 testmyipv6.com
@@ -37251,6 +37247,7 @@ timecards.haystax.com
 timefederalsavings.com
 timeinc.net
 timeline.line.me
+times.com
 timesofindia.indiatimes.com
 timesurl.at
 timetobank.com
@@ -37425,12 +37422,10 @@ tohle.de
 token-dispenser-mirror.herokuapp.com
 token-dispenser.duckdns.org
 token-dispenser.herokuapp.com
-token.cp.microsoft.com/
 token.safebrowsing.apple
 token.services.mozilla.com
 tokenization.api.playstation.com
 tokens-auth.touchtype-fluency.com
-tokensit.cp.microsoft-tst.com/
 tokopedia.app.link
 tokyostarbank.co.jp
 tolu.na
@@ -38887,6 +38882,7 @@ up.blog.naver.com
 up.cm.ksmobile.com
 up.com
 up.raindrop.io
+up.top4top.net
 up.woozooo.com
 up1fichier.com
 upay.megafon.ru
@@ -38930,7 +38926,7 @@ update.virtualbox.org
 update.vivaldi.com
 update.xboxlive.com
 updated.chase.com
-updatedTest.chase.com
+updatedtest.chase.com
 updateeventtesting.blob.core.windows.net
 updatejdownloader.org
 updatekeepalive.mcafee.com
@@ -41563,6 +41559,7 @@ wwis-dubc1-vip60.adobe.com
 wwtdd.tags.crwdcntrl.net
 www-1012.aig.com
 www-400.aig.com
+www-a.qa.netteller.com
 www-admin.sonymobile.com
 www-b.qa.netteller.com
 www-banner.chat.ru
@@ -41573,6 +41570,7 @@ www-cdn.icloud.com.akadns.net
 www-cdn.whatsapp.net
 www-cnbc-com.cdn.ampproject.org
 www-d.qa.netteller.com
+www-e.qa.netteller.com
 www-eset-com.api.cspconsole.com
 www-file.huawei.com
 www-google-analytics.l.google.com
@@ -41613,12 +41611,12 @@ www.1ffc.com
 www.1l2.us
 www.1link.in
 www.1st-fed.com
-www.1stColonial.com
 www.1sta.com
 www.1stadvantage.org
 www.1stbankseaisle.com
 www.1stcb.com
 www.1stchoicesavings.ca
+www.1stcolonial.com
 www.1stcombank.com
 www.1stcomm.org
 www.1stconstitution.com
@@ -41763,24 +41761,14 @@ www.91mobiles.com
 www.944.la
 www.98.to
 www.999.sh
-www.9Anime.to
 www.9anime.at
 www.9anime.pw
+www.9anime.to
 www.9apps.com
 www.9m.no
 www.9mp.com
 www.9qr.de
 www.9xlinks.si
-www.BankPlus.net
-www.FSBWA.com
-www.Grasshopper.bank
-www.GreatSouthernBank.com
-www.HBdomainname.com
-www.HBedcu-digitalbanking.com
-www.Myapexcard.com
-www.PCSB.com
-www.ThriventCU.com
-www.WeArePCSB.com
 www.a-fr.is
 www.a.espncdn.com
 www.a.shifen.com
@@ -42735,6 +42723,7 @@ www.bankorient.com
 www.bankozarks.com
 www.bankpcb.com
 www.bankpds.com
+www.bankplus.net
 www.bankpullman.com
 www.bankrate.com
 www.bankri.com
@@ -44012,6 +44001,7 @@ www.communitychoicecu.com
 www.communitycreditunion.com
 www.communityelmhurst.com
 www.communityfirstbank.com
+www.communityfirstcu.org
 www.communityfirstfl.org
 www.communitynational.com
 www.communitynationalbank.com
@@ -45895,6 +45885,7 @@ www.fsbshannon-polo.com
 www.fsbshelby.com
 www.fsbtrust.com
 www.fsbuvalde.com
+www.fsbwa.com
 www.fsbwever.com
 www.fscb.com
 www.fscorp.com
@@ -46467,6 +46458,7 @@ www.grantsbank.com
 www.grapelandstatebank.com
 www.graphpad.com
 www.grasshopper.ba
+www.grasshopper.bank
 www.gravatar.com
 www.gravatr.com
 www.graybar.com
@@ -46492,6 +46484,7 @@ www.greatnwfcu.com
 www.greatplainsfcu.com
 www.greatquoter.com
 www.greatriverfcu.org
+www.greatsouthernbank.com
 www.greatwesternbank.com
 www.greenbank.com
 www.greenbeltfcu.com
@@ -46633,6 +46626,8 @@ www.hawaiistatefcu.com
 www.hawaiiusafcu.com
 www.hawthornbank.com
 www.hbcascadefcu.org
+www.hbdomainname.com
+www.hbedcu-digitalbanking.com
 www.hbicu.org
 www.hbo.com
 www.hbspk.co
@@ -46945,7 +46940,6 @@ www.i-sprint.com
 www.i.snap.com
 www.i1.social.s-msft.com
 www.i99.cz
-www.iThinkfi.org
 www.iaac.com
 www.iaacu.org
 www.iaacuonline.org
@@ -47228,6 +47222,7 @@ www.itcu.org
 www.iterasi.net
 www.ithacajr.nl
 www.ithem.es
+www.ithinkfi.org
 www.itiproducts.com
 www.itm.im
 www.ito.mx
@@ -48478,13 +48473,12 @@ www.my
 www.my.su
 www.my.yoplait.com
 www.my100bank.com
-www.myNYCB.com
-www.mySFcard.com
 www.myabilitynetwork.com
 www.myaccountaccess.com
 www.myacfcu.com
 www.myaffinitybank.com
 www.myamericu.org
+www.myapexcard.com
 www.myaspirefcu.org
 www.myawardorder.com
 www.mybank4.com
@@ -48593,6 +48587,7 @@ www.mynefcu.org
 www.mynmcu.com
 www.mynovant.org
 www.mynucu.org
+www.mynycb.com
 www.mynyl.newyorklife.com
 www.myonlinecreditcard.com
 www.myowncu.com
@@ -48614,6 +48609,7 @@ www.myrvcu.com
 www.mysaintagnes.com
 www.myschoolbucks.com
 www.mysecureconnect.com
+www.mysfcard.com
 www.myshopify.com
 www.mysonicwall.com
 www.mysp.ac
@@ -49492,6 +49488,7 @@ www.pcmag.com
 www.pcmatic.com
 www.pco.lt
 www.pcrichard.com
+www.pcsb.com
 www.pcsbanking.net
 www.pctfcu.org
 www.pcu.org
@@ -51695,6 +51692,7 @@ www.threadless.com
 www.threatcrowd.org
 www.threeriversbankmontana.com
 www.thrivent.com
+www.thriventcu.com
 www.thriventcuonlinebanking.com
 www.thrl.st
 www.thumbzilla.com
@@ -52687,6 +52685,7 @@ www.we.tl
 www.wealthcu.org
 www.wealthfront.com
 www.wealthscapeinvestor.com
+www.wearepcsb.com
 www.weather.com
 www.weather.gov
 www.web-development-blog.com
@@ -53227,7 +53226,7 @@ www3.troweprice.com
 www3.webhostingtalk.com
 www31.mutualofomaha.com
 www4-static.gog-statics.com
-www4.9Anime.to
+www4.9anime.to
 www4.bing.com
 www4.citizensbankonline.com
 www4.funimation.com
@@ -53238,7 +53237,7 @@ www4.irs.gov
 www5.2giga.link
 www5.untangle.com
 www6.2giga.link
-www6.9Anime.to
+www6.9anime.to
 www6.encrypt.standardbank.co.za
 www6.homecu.net
 www6.mediafire.com
@@ -53247,7 +53246,7 @@ www63.bb.com.br
 www7.2giga.link
 www7b.tax.ny.gov
 www8.0zz0.com
-www8.9Anime.to
+www8.9anime.to
 www8.comerica.com
 www8.glam.com
 www8.tax.ny.gov
