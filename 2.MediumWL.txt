@@ -829,6 +829,7 @@ aboardlevel.com
 aboc.com
 aboluowang.com
 aboo.se
+about.ads.microsoft.com
 about.com
 about.diigo.com
 about.flipboard.com
@@ -1672,6 +1673,8 @@ ads-e-darwin.hulustream.com
 ads-fa-darwin.hulustream.com
 ads-game-187f4.firebaseapp.com
 ads-kesselhaus.com
+ads-serve.brave.com
+ads-static.brave.com
 ads-trk.vidible.tv
 ads-twitter.com
 ads.365.mk
@@ -1721,6 +1724,7 @@ ads.bluemountain.com
 ads.boerding.com
 ads.boylesports.com
 ads.brabys.com
+ads.brave.com
 ads.brazzers.com
 ads.bumq.com
 ads.casinocity.com
@@ -3319,6 +3323,7 @@ amazon.osaka
 amazon.ovh
 amazon.paris
 amazon.partners
+amazon.partners.tremorhub.com
 amazon.parts
 amazon.party
 amazon.pe
@@ -3891,6 +3896,7 @@ apex.techrepublic.com
 apexstats.com
 api-2-0.spot.im
 api-aicall.aiasst.xiaomi.com
+api-auth-mobile.hootsuite.com
 api-auth.soundcloud.com
 api-bc.wtzw.com
 api-beta.huawei.com
@@ -4044,6 +4050,7 @@ api.dropbox.com
 api.e.kuaishou.com
 api.ebay-kleinanzeigen.de
 api.embed.ly
+api.emsicc.com
 api.entrance.sonymobile.com
 api.epicgames.de
 api.epicgames.dev
@@ -4154,6 +4161,7 @@ api.narrativ.com
 api.naver.com
 api.netflix.com
 api.next.exchange
+api.nextdns.io
 api.nextgen.guardianapps.co.uk
 api.nexusmods.com
 api.nfl.com
@@ -4255,6 +4263,7 @@ api.thetvdb.com
 api.tiles.mapbox.com
 api.today.line.me
 api.toptenreviews.com
+api.townsq.io
 api.traq.li
 api.travel.rakuten.co.jp
 api.trello.com
@@ -5383,6 +5392,7 @@ b23.ru
 b2b.viacom.com
 b2bapi.zee5.com
 b2c-extensions.s3.amazonaws.com
+b2clogin.com
 b2l.me
 b3.yahoo.co.jp
 b5.yahoo.co.jp
@@ -5399,6 +5409,7 @@ babesource.com
 babiesrus.com
 babybus.com
 babyneeds.ro
+bac-assets.com
 bacflorida.com
 back.ly
 back4.2giga.link
@@ -6495,6 +6506,7 @@ bestbank.com
 bestboundary.com
 bestbuy.ca
 bestbuy.com
+bestbuy.demdex.net
 bestfwdservice.com
 bestgore.com
 bestgore.fun
@@ -8697,6 +8709,7 @@ cdn.technologyreview.com
 cdn.theatlantic.com
 cdn.tinypass.com
 cdn.transifex.com
+cdn.tsyndicate.com
 cdn.ttgtmedia.com
 cdn.twitchalerts.com
 cdn.unpkg.com
@@ -9100,6 +9113,7 @@ charts.profinance.ru
 chase.co.uk
 chase.com
 chasecanada.ca
+chasecdn.com
 chaseonline.chase.com
 chaseonlinei1.devweb.chase.com
 chaseonlinei2.devweb.chase.com
@@ -10659,6 +10673,7 @@ content-autofill.googleapis.com
 content-fox.uplynk.com
 content-hacs.svc.halowaypoint.com
 content-icc.pulselive.com
+content-images.p-cdn.com
 content-media.bonial.biz
 content-prod.iot.irobotapi.com
 content-storage-upload.googleapis.com
@@ -11272,6 +11287,8 @@ curiosity.com
 curiouscat.cl
 curl.im
 currency.com
+current.com
+current.pxf.io
 curriestatebank.com
 cursecdn.com
 curtaincows.com
@@ -12232,6 +12249,7 @@ directivepub.com
 directleads.com
 directline.botframework.com
 directnet.com
+directory-prod.lb.ownlocal.com
 directory.soundcloud.com
 directory.vimeo.com
 directory.winred.com
@@ -14299,6 +14317,7 @@ external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
 external-offer-mapping-service.juno.ea.com
 external-ort2-1.xx.fbcdn.net
+external-preview.redd.it
 external.fath5-1.fna.fbcdn.net
 external.xx.fbcdn.net
 extole.io
@@ -17068,6 +17087,7 @@ gohsn.co
 goingplatinum.com
 gokano.com
 gokev.in
+gokinetic.com
 golang.org
 gold.xhamsterpremium.com
 goldbach.com
@@ -17400,8 +17420,11 @@ gothenburgstatebank.com
 gotime.tulsafcu.org
 gotinder.com
 goto-target-com.customtraffic.impactradius.com
+goto-walmart-com.ct.impactradius.com
 goto.algolia.com
+goto.americanexpress.com
 goto.clickfunnels.com
+goto.discover.com
 goto.jet.com
 goto.target.com
 goto.walmart.com
@@ -17501,6 +17524,7 @@ grandtimberbank.com
 granitbank.hu
 granitemountainbank.com
 grant.levittamp.org
+grant.rewards.brave.com
 grant.ua
 grantcostatebank.com
 grantcountybank.com
@@ -17793,6 +17817,7 @@ h5api.m.taobao.com
 h78xb.pw
 h85-235-17-132.cust.a3fiber.se
 habcorp.com
+haberler.com
 habitatpeoria.volunteerhub.com
 habitica.com
 habitualhumor.com
@@ -19732,6 +19757,7 @@ images.dmca.com
 images.duckduckgo.com
 images.dwell.com
 images.easeus.com
+images.edu.imaginelearning.com
 images.financialexpress.com.edgekey.net
 images.fotmob.com
 images.gog-statics.com
@@ -20171,6 +20197,7 @@ inkpeak.com
 inlandbank.com
 inlnk.ru
 inmobi.com
+inmotion-hosting.evyy.net
 inner-active.com
 innocentwax.com
 innogames.com
@@ -21217,6 +21244,7 @@ kepler.jd.com
 keppelbank.com.sg
 kerndtbrothers.com
 kernel.org
+kershaw.kaiusa.com
 keshefoundation.org
 keshequa.summitupcbt.org
 kesmatic.com
@@ -22127,6 +22155,7 @@ link.p0.com
 link.safelinkconverter.com
 link.springer.com
 link.swa.info
+link.swansonvitamins.com
 link.sylikes.com
 link.techcrunch.com
 link.theplatform.com
@@ -24169,6 +24198,7 @@ microticker.com
 mid.ru
 midambk.com
 midamericabanking.com
+midamericanenergy.com
 midasplayer.com
 midcoastbankonline.com
 midcountrybank.com
@@ -24284,6 +24314,7 @@ minorshort.weixin.qq.com
 minpension.se
 minsk.by
 minsterbank.com
+mint.com
 mint.finance.intuit.com
 mint.splunk.com
 mintegral.com
@@ -24883,6 +24914,7 @@ mundanenail.com
 mundanepollution.com
 mundo.sputniknews.com
 municipalbank.com
+municipalonlinepayments.com
 munistrategies.com
 munj.pw
 muo.fm
@@ -24894,6 +24926,7 @@ musescore.com
 musescore.org
 music-jp-coupon.line.me
 music-mag.line.me
+music.126.net
 music.163.com
 music.amazon.com
 music.line.me
@@ -25067,6 +25100,7 @@ my.morskoybank.com
 my.nanorep.com
 my.navyfederal.org
 my.netscout.com
+my.nextdns.io
 my.ny.gov
 my.oneplus.com
 my.parallels.com
@@ -26005,6 +26039,7 @@ ni.to
 niagara.instructure.com
 niagarabank.com
 niagarahealth.on.ca
+niagarawater.com
 nib.ie
 nibis.de
 nibpk.com
@@ -28152,6 +28187,7 @@ page.amap.com
 page.gitlab.com
 pagead.l.doubleclick.net
 pagead.l.google.com
+pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 pagefair.com
 pagerank-ranking.de
@@ -28194,6 +28230,7 @@ pancake.cdn-apple.com.akadns.net
 pandacommerce.net
 pandapush-iad-prod.inscloudgate.net
 pando.com
+pandora.com
 pandora.mi.com
 panduoduo.net
 panel.dreamhost.com
@@ -28489,6 +28526,7 @@ payment.rakuten.co.jp
 payment.ru
 payment.www.linkedin.com
 paymentech.cardinalcommerce.com
+paymentech.net
 paymentgate.ru
 paymentinstruments.mp.microsoft.com
 paymentnew.ok.ru
@@ -29238,6 +29276,7 @@ plu.sh
 pluckypocket.com
 pluckytaste.com
 plug.it
+plugin.intuitcdn.net
 plugin.mediavoice.com
 plugins.longtailvideo.com
 plugrush.com
@@ -31109,6 +31148,7 @@ redirector.brave.com
 redirector.googlevideo.com
 redirector.gvt1.com
 redirects.ca
+redirects.tradedoubler.com
 redirectvoluum.com
 redirx.com
 redis.io
@@ -31126,7 +31166,9 @@ reelfootbank.com
 ref.in
 ref.so
 ref.to
+refer.ccbill.com
 refer.citrix.com
+refer.sofi.com
 refer.wordpress.com
 reference.com
 referrals.brave.com
@@ -32001,6 +32043,7 @@ s3-eu-south-1.amazonaws.com
 s3-eu-west-1.amazonaws.com
 s3-eu-west-2.amazonaws.com
 s3-eu-west-3.amazonaws.com
+s3-iad-ww.cf.videorolls.row.aiv
 s3-sa-east-1.amazonaws.com
 s3-us-east-1.amazonaws.com
 s3-us-east-2.amazonaws.com
@@ -32069,6 +32112,7 @@ s3.eu-west-1.amazonaws.com
 s3.eu-west-2.amazonaws.com
 s3.eu-west-3.amazonaws.com
 s3.graphiq.com
+s3.ll.videorolls.row.aiv-cdn.net
 s3.meituan.net
 s3.sa-east-1.amazonaws.com
 s3.symcb.com
@@ -32124,6 +32168,7 @@ sabank.hr
 sabb.com
 sabinebank.com
 sabio.us
+sable.pxf.io
 sabnzbd.org
 sachsenlb.de
 sacramento.cbslocal.com
@@ -32535,6 +32580,7 @@ screenshotscontent-xboxlive.com
 scri.bi
 scribblelive.com
 scribd.com
+scribe.logs.roku.com
 scribnerbank.com
 scribol.com
 scripps.wd5.myworkdayjobs.com
@@ -35279,6 +35325,7 @@ static-assets.coinbase.com
 static-cache.k2s.cc
 static-cdn.jtvnw.net
 static-cdn.osdn.net
+static-cdn.spot.im
 static-cf.cleverbridge.com
 static-dm.akamaized.net
 static-dot-virustotalcloud.appspot.com
@@ -35350,6 +35397,7 @@ static.gigabyte.com
 static.gmlinteractive.com
 static.gotinder.com
 static.home.mi.com
+static.hotjar.com
 static.hsappstatic.net
 static.hsstatic.net
 static.hubspot.com
@@ -35523,6 +35571,7 @@ statsfe2.update.microsoft.com.akadns.net
 statsie.com
 status.adobe.com
 status.brave.com
+status.bugsnag.com
 status.coinbase.com
 status.daum.net
 status.dealersocket.com
@@ -36246,6 +36295,7 @@ syd1.speedtest.telstra.net
 sydbank.dk
 sydney-1.hide.me
 sydneywater.com.au
+syf.com
 sylikes.com
 sylter-bank.de
 symantec.com
@@ -36256,8 +36306,10 @@ synacor.com
 sync.foxnews.com
 sync.pocketcasts.com
 sync.standardnotes.org
+synchrony.com
 synchronybank.com
 synchronycredit.com
+synchronysurvey.siteintercept.qualtrics.com
 syncplusconfig.s3.amazonaws.com
 syndicaster.tv
 syndicatebank.com
@@ -37217,6 +37269,8 @@ tightwadbank.net
 tikker.emta.ee
 tikkie.me
 tiktok.com
+tiktokcdn-us.com
+tiktokcdn.com
 tiktokv.com
 tildacdn.com
 tildenbank.com
@@ -37368,6 +37422,7 @@ tmoutchi.us
 tms.airtelbroadband.in
 tmstatebank.com
 tmvs.tv
+tmx.bestbuy.com
 tmx.td.com
 tmz.com
 tmz.me
@@ -38242,6 +38297,7 @@ tsys.accessaccountdetails.com
 ttbbank.com
 ttgtmedia.com
 ttk.pp.ua
+ttlivecdn.com
 ttnet.net.tr
 ttvnw.net
 tuasaude.com
@@ -40970,6 +41026,7 @@ wellingtonsb.com
 wellmadefrog.com
 wellsfargo.com
 wellsfargo.customercarenet.com
+wellsfargomedia.com
 wellsfederalbank.com
 wellspringsoftware.com
 wellsriversavings.com
@@ -41244,6 +41301,7 @@ windowsupdate.s.llnwi.net
 windowupdate.org
 windscribe.com
 windstream.auth-gateway.net
+windstream.com
 windy.com
 winfric.biz
 winfuture.de
@@ -53611,6 +53669,7 @@ yogh.me
 yon.ir
 yoplait.com
 yorktownbank.com
+yospace-directv.akamaized.net
 yospace.com
 yotpo.com
 yottaa.net
