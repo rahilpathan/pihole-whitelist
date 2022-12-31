@@ -6,6 +6,7 @@
 0.ch.pool.ntp.org
 0.client-channel.google.com
 0.cn.pool.ntp.org
+0.com
 0.coreos.pool.ntp.org
 0.de.pool.ntp.org
 0.debian.pool.ntp.org
@@ -3065,6 +3066,7 @@ amazon.coffee
 amazon.college
 amazon.cologne
 amazon.com
+amazon.com.be
 amazon.community
 amazon.company
 amazon.computer
@@ -8422,6 +8424,7 @@ ccc.sys.miui.com
 ccclub.cmbchina.com
 ccf.admeen.org
 ccfinancial.onlineaccounts.org
+ccgslb.com.cn
 cci.redcondor.net
 ccj.im
 ccleaner.com
@@ -11572,6 +11575,7 @@ damdoor.com
 damengxiang.me
 damoh.schneevonmorgen.com
 damoh.spiegel.de
+damro.lk
 dan.ba
 dana.boardeffect.com
 dana.id
@@ -13429,6 +13433,7 @@ eightforums.com
 eim.carefusion.com
 eimg.smzdm.com
 ein.funimation.com
+eindependencia.edu.mx
 einfo.esi.net
 eio-feed.exchange.coinbase.com
 eip-ntt.pinimg.com.akapinimg.net
@@ -53783,6 +53788,7 @@ z9.fr
 za.gl
 za.ign.com
 za.pl
+za.zdn.vn
 zaba.hr
 zady.cdntrex.com
 zagat.bz
