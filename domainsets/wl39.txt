@@ -278,8 +278,6 @@ adobe.com
 adocean.pl
 adorama.evyy.net
 ads-a-darwin.hulustream.com
-ads-resources-legacy.waze.com
-ads-resources.waze.com
 ads.twitter.com
 adservice.google.ac
 adservice.google.ad
@@ -519,13 +517,10 @@ adservice.google.ws
 adservice.google.xn--mxtq1m
 adservice.google.xn--ngbrx
 adservice.google.xn--node
-adsmoloco.com
 adsrvr.org
 adtechus.com
 adv.li
-adv.wp.pl
 adwcleaner.toolslib.net
-adx.adform.net
 ae01.alicdn.com
 affiliatefuture.com
 aforismi.meglio.it
@@ -594,7 +589,6 @@ api.ipify.org
 api.leanplum.com
 api.lever.co
 api.meta.ndmdhs.com
-api.mixpanel.com
 api.narrativ.com
 api.pinterest.com
 api.pushbullet.com
@@ -604,7 +598,6 @@ api.trakt.tv
 api.twitter.com
 api.videoder.net
 api.vidible.tv
-api.viglink.com
 api.vuukle.com
 api.zhuti.xiaomi.com
 api2.branch.io
@@ -614,7 +607,6 @@ apis.google.com
 apiservices.krxd.net
 apmebf.com
 apne.ws
-app-measurement.com
 app.adjust.com
 app.adjust.net.in
 app.box.com
@@ -634,8 +626,6 @@ apple.sjv.io
 appleid.apple.com.akadns.net
 appleid.cdn-apple.com
 appleiphonecell.com
-applovin.com
-applvn.com
 apps.crashlytics.com
 apps.skype.com
 appsflyer.com
@@ -664,11 +654,9 @@ assoc-redirect.amazon.com
 astro-gaming.sjv.io
 at-go.kelkoogroup.net
 at.adtech.redventures.io
-at.cbsi.com
 atdmt.com
 atkins.sjv.io
 au.ms
-audible.sc.omtrdc.net
 austin.sw.roku.com
 authz.api.ws-hp.com
 authz.wpp.api.hp.com
@@ -712,7 +700,6 @@ belk.sjv.io
 benefitcosmetics.com
 bestbuy.com
 bestbuy.com.ssl.sc.omtrdc.net
-bestbuy.demdex.net
 bfads.net
 bfast.com
 bidswitch.net
@@ -769,7 +756,6 @@ bxl.me
 bzh.me
 c.apple.com
 c.bing.com
-c.go-mpulse.net
 c.googlevideo.com
 c.msn.com
 c.office.com
@@ -827,7 +813,6 @@ cdn-magiclinks.trackonomics.net
 cdn-us-cf2.yottaa.net
 cdn.abcotvs.net
 cdn.adrise.tv
-cdn.amplitude.com
 cdn.anvato.net
 cdn.branch.io
 cdn.cookielaw.org
@@ -852,7 +837,6 @@ cf6.co
 ch-go.kelkoogroup.net
 ch0p.darty.com
 charitycharge.sjv.io
-chartboost.com
 cheapfaremart.com
 chefs-plate.sjv.io
 chevrolet.com
@@ -899,7 +883,6 @@ click.fidelityinvestments.com
 click.holidayinnclubemail.com
 click.icptrack.com
 click.instantink.hpsmart.com
-click.junmediadirect.com
 click.landsend.com
 click.linkprice.com
 click.linksynergy.com
@@ -947,7 +930,6 @@ clkpl.tradedoubler.com
 clkuk.tradedoubler.com
 clouddrive.com
 cloudfront.net
-cm.g.doubleclick.net
 cn86.org
 cnc.addlive.io
 cnt.streamz.ws
@@ -1044,12 +1026,10 @@ dart.l.doubleclick.net
 dash.sjv.io
 dashboard-01.braze.com
 data.api.cnn.io
-data.flurry.com
 data.microsoft.com
 data.msn.com
 datadoghq-browser-agent.com
 datadoghq.com
-datafeedfile.com
 dc-storm.com
 dcf.espn.com
 dcs.megaphone.fm
@@ -1060,13 +1040,10 @@ deals.thehackernews.com
 decathlon-nl.sjv.io
 deeplink-bh.datafeedfile.com
 del.icio.us
-delivery-cdn-cf.adswizz.com
 delivery.vidible.tv
 dellupdater.dell.com
-deloplen.com
 demdex.net
 dev.virtualearth.net
-dev.visualwebsiteoptimizer.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
 dft.ba
@@ -1117,7 +1094,6 @@ dx.com
 dyncdn.me
 dyo.gs
 e-10293.adzerk.net
-e.crashlytics.com
 e37.eu
 ea.galerieslafayette.com
 earnin.sjv.io
@@ -1186,7 +1162,6 @@ erw.cz
 es-go.kelkoogroup.net
 es.t-mobile.com
 espn.com
-espn.hb.omtrdc.net
 espncdn.com
 etl.tindersparks.com
 etrk.asus.com
@@ -1198,10 +1173,8 @@ eultech.fnac.com
 eus.client.hip.live.com
 event-img.enter-pubg-new-state.com
 event.aes.mnc861.mcc405.pub.3gppnetwork.org
-eventbus.intuit.com
 events.release.narrativ.com
 events.split.io
-everestjs.net
 evyy.net
 evyy.net^important
 ex9.co
@@ -1330,8 +1303,6 @@ google-analytics.com
 google.com
 google.prf.hn
 googleadapis.l.google.com
-googleads.g.doubleclick.net
-googleads.github.io
 googleadservices.com
 googleanalytics.com
 googleapis.com
@@ -1503,12 +1474,10 @@ jieb.be
 joy-organics.sjv.io
 jp22.net
 jqw.de
-js.appboycdn.com
 js.braintreegateway.com
 js.maxmind.com
 js.media-lab.ai
 js.pusher.com
-jsc.adskeeper.com
 json.ludokingapi.com
 justanswer.sjv.io
 justbeamit.com
@@ -1572,7 +1541,6 @@ lick.my
 lidl.media01.eu
 lien.li
 lien.pl
-liftoff.io
 liingo-eyewear.sjv.io
 lijit.com
 lin.io
@@ -1643,10 +1611,8 @@ make.my
 mandm-direct-fr.sjv.io
 mandm-direct-ie.sjv.io
 mandrillapp.com
-manifest.53.localytics.com
 manifest.auditude.com
 manifest.googlevideo.com
-manifest.localytics.com
 manscaped.sjv.io
 marinsm.com
 mas-ext.amazon.com
@@ -1694,8 +1660,6 @@ mizunousa.sjv.io
 mkt6385.com
 mktoweb.com
 mmtro.com
-mobile-collector.newrelic.com
-mobile.launchdarkly.com
 mobilemaps-pa-gz.googleapis.com
 moengage.com
 molekule.sjv.io
@@ -1716,7 +1680,6 @@ msedge.api.cdp.microsoft.com
 msedge.net
 msftconnecttest.com
 msftncsi.com
-msmetrics.ws.sonos.com
 mtalk.google.com
 mut.lu
 mx-go.kelkoogroup.net
@@ -1881,7 +1844,6 @@ pointshound.sjv.io
 pointshoundaa.sjv.io
 portal.fb.com
 post.spmailtechno.com
-postaffiliatepro.com
 postmates.sjv.io
 postsign.docusign.com
 pp.userapi.com
@@ -1919,14 +1881,11 @@ ptab.it
 ptm.ro
 ptpb.pw
 ptsa.sjv.io
-pub.s6.exacttarget.com
-pubads.g.doubleclick.net
 pubsub.plex.bz
 pulsar.ebay.com
 purchase.sjv.io
 pvolve.sjv.io
 pw2.ro
-px-conf.perimeterx.net
 px.a8.net
 pxf.io
 py6.ru
@@ -1990,11 +1949,9 @@ reise.lc
 reitmans.sjv.io
 relink.fr
 reminders-pa.googleapis.com
-remote-data.urbanairship.com
 renault2018total.sjv.io
 replay.crutchfield.com
 report.netgear.glassboxdigital.io
-reports.crashlytics.com
 res.cloudinary.com
 resellerclubcom.sjv.io
 rest.iad-03.braze.com
@@ -2106,7 +2063,6 @@ safe.mn
 sagyap.tk
 saharalasvegas.sjv.io
 sailthru.com
-salemove.com
 salesforce.com
 saltrock.sjv.io
 samsungcloudsolution.com
@@ -2132,11 +2088,9 @@ secret-escapes-de.sjv.io
 secret-escapes-nl.sjv.io
 secret-escapes-uk.sjv.io
 secure-appldnld.apple.com
-secure-drm.imrworldwide.com
 secure.adnxs.com
 secure.uptrillion.com
 secureir.ebaystatic.com
-securepubads.g.doubleclick.net
 seeme.at
 segment.com
 segue.se
@@ -2144,14 +2098,11 @@ self.events.data.microsoft.com
 sendgrid.net
 sentry.io
 sephora.com
-servedby.flashtalking.com
 service.bfast.com
 service.force.com
-service.kingoapp.com
 services.apps.microsoft.com
 services.ludokingapi.com
 serving-sys.com
-sessions.bugsnag.com
 setapp.sjv.io
 settings-win.data.microsoft.com
 settings.crashlytics.com
@@ -2194,12 +2145,10 @@ skroc.pl
 slickdeals.net
 sls.update.microsoft.com.akadns.net
 slscr.update.microsoft.com
-smart.idmnet.pl
 smartadserver.com
 smartfinancial.sjv.io
 smb.sjv.io
 smetrics.costco.com
-smetrics.foxnews.com
 smetrics.t-mobile.com
 smll.co
 smtp.mail.yahoo.com
@@ -2225,7 +2174,6 @@ square.sjv.io
 squarespace.sjv.io
 squeezemetrics.com
 ssacdn.com
-ssl-google-analytics.l.google.com
 ssl.gs
 stacjaeksperta20182019.sjv.io
 star-mini.c10r.facebook.com
@@ -2237,7 +2185,6 @@ stat3.hungama.ind.in
 stat3.moneycontrol.com
 stat4.moneycontrol.com
 static.cdn.responsys.net
-static.doubleclick.net
 static.fastpic.ru
 static.hotjar.com
 static.id.hp.com
@@ -2252,8 +2199,6 @@ statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-wcus-ms-com.akamaized.net
 statics-uhf-wus.akamaized.net
 statics.streamable.com
-stats.adultswim.com
-stats.g.doubleclick.net
 stats.gc.apple.com
 statsfe2.update.microsoft.com.akadns.net
 statuspage.io
@@ -2275,12 +2220,10 @@ sugarsync.com
 suite15.emarsys.net
 sun-basket-meal-delivery-purchase.sjv.io
 sunday-scaries.sjv.io
-supersonicads.com
 supportkb.dell.com
 surfshark.sjv.io
 surl.me
 sux.cz
-sw88.espn.com
 swa.sjv.io
 swarovski.com
 swcatalog.apple.com
@@ -2291,7 +2234,6 @@ swimspot.com
 swquery.apple.com
 swscan.apple.com
 swupmf.adobe.com
-sxj8.adj.st
 sy.pe
 symcb.com
 syndication.exosrv.com
@@ -2306,7 +2248,6 @@ t.emailing.monoprix.fr
 t.lt02.net
 t.me
 t.myvisualiq.net
-t.sharethis.com
 t0.gstatic.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
@@ -2580,13 +2521,11 @@ wscont1.apps.microsoft.com
 wscont2.apps.microsoft.com
 wss.analyticacdn.com
 wtc.la
-wtg-ads.com
 wu.cz
 wus.client.hip.live.com
 wv.service.expressplay.com
 ww7.fr
 www-analyticsindiamag-com.cdn.ampproject.org
-www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www.7eer.net
 www.affiliatefuture.com
