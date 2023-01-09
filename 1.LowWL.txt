@@ -610,13 +610,6 @@
 9qr.de
 9to5google.com
 9xlinks.si
-Bbancobmg.com.br
-L9.fr
-Lvvk.com
-To8.cc
-Wealthfront.com
-_sip._tcp.ent.east.mymtm.us
-_xmpp-client._tcp.im.mymtm.us
 a-0001.a-msedge.net
 a-0002.a-msedge.net
 a-0003.a-msedge.net
@@ -2074,7 +2067,10 @@ among.us
 amongusplay.online
 amoory.com
 amos.alicdn.com
+amp-api-edge.apps.apple.com
+amp-api-edge.apps.apple.com.edgekey.net
 amp-api-prd.bostonglobe.com
+amp-api-search-edge.apps.apple.com
 amp-usatoday-com.cdn.ampproject.org
 amp.businessinsider.com
 amp.com.au
@@ -2273,6 +2269,7 @@ apbsrilanka.org
 apcocu.online-cu.com
 apeksbank.com.ua
 apex.techrepublic.com
+api-02.moengage.com
 api-between.vcnc.co.kr
 api-cdn.embed.ly
 api-cf.affirm.com
@@ -2301,6 +2298,7 @@ api-v4.trbo.com
 api-xl9-ssl.xunlei.com
 api.account.xiaomi.com
 api.accuweather.com
+api.ad.xiaomi.com
 api.adguard.com
 api.adguard.org
 api.ads.tvb.com
@@ -2350,9 +2348,11 @@ api.exchange.coinbase.com
 api.facebook.com
 api.fast.com
 api.fing.io
+api.flexpool.io
 api.flickr.com
 api.freeletics.com
 api.gawker.com
+api.geetest.com
 api.getpocket.com
 api.gfe.nvidia.com
 api.giphy.com
@@ -2806,6 +2806,7 @@ assets.huluim.com
 assets.jassets.com
 assets.jetlore.com
 assets.micpn.com
+assets.minutemediacdn.com
 assets.mmsrg.com
 assets.msn.com
 assets.nflxext.com
@@ -5803,6 +5804,7 @@ cdn.fbsbx.com
 cdn.firebase.com
 cdn.flipboard.com
 cdn.fluidplayer.com
+cdn.flurry.com
 cdn.fontawesome.com
 cdn.gadgets360.com
 cdn.gigya.com
@@ -6082,6 +6084,7 @@ ceuswatcab02.blob.core.windows.net
 cey-ebanking.com
 cf-st.sc-cdn.net
 cf.hamreus.com
+cf.iadsdk.apple.com
 cf.ly
 cf.ru
 cf1.vuze.com
@@ -6608,6 +6611,7 @@ click.holidayinnclubemail.com
 click.hookupinyourcity.com
 click.icptrack.com
 click.instantink.hpsmart.com
+click.justwatch.com
 click.landsend.com
 click.linkprice.com
 click.linksynergy.com
@@ -6867,6 +6871,7 @@ cn.bing.com
 cn.pcfreetime.com
 cn.reuters.com
 cn.ua
+cn.wswebcdn.com
 cn86.org
 cname.api.origin.com
 cname.data.origin.com
@@ -12007,6 +12012,7 @@ get-shorty.com
 get-url.com
 get.adobe.com
 get.contentpass.net
+get.geojs.io
 get.sh
 get.skype.com
 get.untangle.com
@@ -12905,6 +12911,7 @@ gvt2.com
 gvt3.com
 gw.alicdn.com
 gw.alipayobjects.com
+gw.line.naver.jp
 gwapi.zee5.com-v2.edgekey.net
 gwhospital.com
 gwk.nl
@@ -13960,6 +13967,7 @@ iad-02.braze.com
 iad-04.braze.com
 iad.liveperson.net
 iadb.org
+iadsdk.apple.com
 iadsdk.apple.com.akadns.net
 iadsdk.apple.com.edgekey.net
 iaf.infinity.com
@@ -14294,6 +14302,7 @@ icbdr.com
 icbe.ru
 icentralstatebank.com
 icgcom.com
+ichnaea-web.netflix.com
 ichnaea.netflix.com
 icicibank.ca
 icicibank.com
@@ -14620,6 +14629,7 @@ images.vinted.net
 images.vizio.com
 images1.minutemediacdn.com
 images2.imgbox.com
+images2.minutemediacdn.com
 images2015.cnblogs.com
 imagesak.secureserver.net
 imageshack.com
@@ -15520,6 +15530,7 @@ jutone.com
 juvander.net
 jux.de
 jvbonline.com
+jvc.gg
 jwpcdn.com
 jwplatform.com
 jwplayer.com
@@ -15994,6 +16005,7 @@ kots.nu
 kovanica.hr
 kowabit.de
 koyote.com
+koyu.space
 kp.cc
 kpcu.com
 kpu.samsungelectronics.com
@@ -16595,6 +16607,7 @@ lifehacker.com
 lifelock.com
 lifepointhospitals.com
 lifestream.aol.com
+liffsdk.line-scdn.net
 liftdna.com
 ligabank.de
 lightbank.ru
@@ -17624,6 +17637,7 @@ media-bru2-1.cdn.whatsapp.net
 media-cdt1-1.cdn.whatsapp.net
 media-dfw5-1.cdn.whatsapp.net
 media-exp1.licdn.com
+media-expl1.licdn.com
 media-frt3-1.cdn.whatsapp.net
 media-frt3-2.cdn.whatsapp.net
 media-frx5-1.cdn.whatsapp.net
@@ -17911,6 +17925,7 @@ meshca.googleapis.com
 meshconfig.googleapis.com
 meshtelemetry.googleapis.com
 meson.rghost.ru
+message.sp-prod.net
 message331.sp-prod.net
 messagelabs.com
 messagemedia.com
@@ -19182,6 +19197,7 @@ neighborsfcu.architect-cert.fiservapps.com
 neighborsink.com
 neklassniki.ru
 nekto.me
+nelo2-col.linecorp.com
 nelsonbay.com
 neo.ly
 neocities.org
@@ -19870,6 +19886,7 @@ oblhospital.com.ua
 oboeyasui.com
 oboom.com
 obrbank.ru
+obs.line-scdn.net
 observer.com
 obviousidea.com
 obxhost.net
@@ -21055,6 +21072,7 @@ p01-mailws.icloud.com
 p02-mailws.icloud.com
 p03-mailws.icloud.com
 p04-mailws.icloud.com
+p04e.t.en25.com
 p05-mailws.icloud.com
 p06-mailws.icloud.com
 p07-mailws.icloud.com
@@ -21178,6 +21196,7 @@ page.gitlab.com
 page.li
 page.link
 pagead.l.doubleclick.net
+pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 pages.ex.tractorsupply.com
 pages.info.exclusive-networks.com
@@ -21857,6 +21876,7 @@ pixel.app.returnpath.net
 pixel.disco.skyshowtime.com
 pixel.everesttech.net
 pixel.nymag.com
+pixeldrain.com
 pixelme.me
 pixelzirkus.gameforge.com
 pixietrixcomix.com
@@ -24130,6 +24150,7 @@ s7d2.scene7.com
 s7y.us
 s8-1.trafficdeposit.com
 s8.trafficdeposit.com
+s88570519.t.en25.com
 s9-1.trafficdeposit.com
 s9.trafficdeposit.com
 sa-blacklist.stearns.org
@@ -25419,6 +25440,7 @@ sl-vb.de
 sl.ly
 slack-redir.net
 slack.com
+slackb.com
 slagelsedyrehospital.dk
 slashdot.org
 slate.com
@@ -26578,6 +26600,7 @@ static.hubspot.com
 static.id.hp.com
 static.intercomassets.com
 static.ips.apple.com
+static.jvc.gg
 static.kameleoon.com
 static.kickstarter.com
 static.libsyn.com
@@ -29265,6 +29288,7 @@ update.utorrent.com
 update.xboxlive.com
 updated.chase.com
 updatedtest.chase.com
+updatefaker.com
 updatekeepalive.mcafee.com
 updates-http.cdn-apple.com
 updates.cdn-apple.com
@@ -29459,6 +29483,7 @@ useaglefcu.test-financialhost.org
 usebutton.com
 usecreditunion.org
 usecu.org
+usefathom.com
 useinsider.com
 user-att-107-136-128-0.e8999.b.akamaiedge.net
 user-att-107-203-0-0.e8999.b.akamaiedge.net
@@ -30897,6 +30922,7 @@ wetransfer.com
 wetter.de
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
+weworkremotely.com
 wews.com
 weymouthbank.com
 wfbi.com
@@ -31860,6 +31886,7 @@ www.antiochcommfcu.org
 www.antonioli.eu
 www.antpool.com
 www.antrouter.antpool.com
+www.antutu.com.bsgslb.cn
 www.antwerpexchangebank.com
 www.any.gs
 www.anytown.com
@@ -35060,6 +35087,7 @@ www.generationscreditunion.com
 www.genesisecu.com
 www.genisyscu.org
 www.genisysonlinebanking.org
+www.geojs.io
 www.georgiaheritagebank.com
 www.georgianbank.com
 www.georgiapowerfcu.org
@@ -41463,6 +41491,7 @@ zbp.pl
 zbs-giz.si
 zcbank.com
 zcbprod.alipay.com
+zcmglobal.v.bsgslb.cn
 zd.net
 zdbb.net
 zdf.de

@@ -1105,11 +1105,6 @@
 9xbuddy.in
 9xbuddy.org
 9xlinks.si
-Bbancobmg.com.br
-L9.fr
-Lvvk.com
-To8.cc
-Wealthfront.com
 _bittorrent-tracker._tcp.knology.net
 _bittorrent-tracker._tcp.net
 _bittorrent-tracker._tcp.vastbb.net
@@ -4346,7 +4341,9 @@ amongusplay.online
 amoory.com
 amos.alicdn.com
 amp-api-edge.apps.apple.com
+amp-api-edge.apps.apple.com.edgekey.net
 amp-api-prd.bostonglobe.com
+amp-api-search-edge.apps.apple.com
 amp-api.music.apple.com
 amp-integration.glomex.com
 amp-reddit-com.cdn.ampproject.org
@@ -4771,6 +4768,7 @@ apex.oracle.com
 apex.techrepublic.com
 apextactical.com
 aphis.usda.gov
+api-02.moengage.com
 api-2-0.spot.im
 api-a99cee34-08a5-4baa-903d-1e259ee8f6e9.sendbird.com
 api-aicall.aiasst.xiaomi.com
@@ -4871,6 +4869,7 @@ api.account.xiaomi.com
 api.accounts.firefox.com
 api.accuweather.com
 api.actionbutton.co
+api.ad.xiaomi.com
 api.adguard.com
 api.adguard.org
 api.ads.tvb.com
@@ -5021,6 +5020,7 @@ api.filecat.net
 api.findawayworld.com
 api.fing.io
 api.flattr.com
+api.flexpool.io
 api.flickr.com
 api.flipboard.com
 api.flixster.com
@@ -12195,6 +12195,7 @@ cdn.flippenterprise.net
 cdn.flowcode.com
 cdn.flowplayer.com
 cdn.fluidplayer.com
+cdn.flurry.com
 cdn.focus-home.com
 cdn.fontawesome.com
 cdn.foodbeast.com
@@ -13177,6 +13178,7 @@ cf-whatson.pluto.tv
 cf.chownowcdn.com
 cf.eip.telegraph.co.uk
 cf.hamreus.com
+cf.iadsdk.apple.com
 cf.ly
 cf.nascar.com
 cf.passport.hpe.com
@@ -14708,6 +14710,7 @@ cn.reuters.com
 cn.tripadvisor.com
 cn.ua
 cn.ultraiso.net
+cn.wswebcdn.com
 cn366.awmdm.com
 cn86.org
 cna.st
@@ -26072,6 +26075,7 @@ get.contentpass.net
 get.daum.net
 get.freshly.com
 get.geo.opera.com
+get.geojs.io
 get.net.playstation.net
 get.opensuse.org
 get.plickers.com
@@ -27676,6 +27680,7 @@ gvt3.com
 gvx.blob.core.windows.net
 gw.alicdn.com
 gw.alipayobjects.com
+gw.line.naver.jp
 gw.yunos.com
 gwapi.zee5.com-v2.edgekey.net
 gwhospital.com
@@ -29848,6 +29853,7 @@ iad-04.braze.com
 iad.gov
 iad.liveperson.net
 iadb.org
+iadsdk.apple.com
 iadsdk.apple.com.akadns.net
 iadsdk.apple.com.edgekey.net
 iaf.infinity.com
@@ -30249,6 +30255,7 @@ ichef.bbc.co.uk
 ichef.bbci.co.uk
 ichelmets.com
 ichnaea-web.latency.prodaa.netflix.com
+ichnaea-web.netflix.com
 ichnaea.netflix.com
 ichpnet.org
 ici.radio-canada.ca
@@ -33869,6 +33876,7 @@ jutone.com
 juvander.net
 jux.de
 jvbonline.com
+jvc.gg
 jw.org
 jwpcdn.com
 jwplatform.com
@@ -34713,6 +34721,7 @@ kotv.com
 kovanica.hr
 kowabit.de
 koyote.com
+koyu.space
 kp.cc
 kpcu.com
 kpstaticbj.wx.ckjr001.com
@@ -35822,6 +35831,7 @@ lifestyle.r7.com
 lifetouch.com
 lifewire.com
 lifezette.com
+liffsdk.line-scdn.net
 liftdna.com
 ligabank.de
 light-and-security.com
@@ -38399,6 +38409,7 @@ media-dfw5-1.cdn.whatsapp.net
 media-direct.cdn.viber.com
 media-dmg.assets-cdk.com
 media-exp1.licdn.com
+media-expl1.licdn.com
 media-frt3-1.cdn.whatsapp.net
 media-frt3-2.cdn.whatsapp.net
 media-frx5-1.cdn.whatsapp.net
@@ -39125,6 +39136,7 @@ meson.rghost.ru
 message.bilibili.com
 message.bithumb.com
 message.diigo.com
+message.sp-prod.net
 message331.sp-prod.net
 messagelabs.com
 messagemedia.com
@@ -42018,6 +42030,7 @@ neklassniki.ru
 neko-san.fr
 nekto.me
 nelnet.net
+nelo2-col.linecorp.com
 nelson-tel.redcondor.net
 nelsonbay.com
 nemoarms.com
@@ -43485,6 +43498,7 @@ obo-prod.oesp.ziggogo.tv
 oboeyasui.com
 oboom.com
 obrbank.ru
+obs.line-scdn.net
 observador.pt
 observations.buienradar.nl
 observatory.mozilla.org
@@ -45347,6 +45361,7 @@ p03-mailws.icloud.com
 p03.upd.kaspersky.com
 p04-mailws.icloud.com
 p04.upd.kaspersky.com
+p04e.t.en25.com
 p05-mailws.icloud.com
 p05.upd.kaspersky.com
 p06-mailws.icloud.com
@@ -45570,6 +45585,7 @@ page.gitlab.com
 page.li
 page.link
 pagead.l.doubleclick.net
+pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 pagepluscellular.com
 pages.autodesk.com
@@ -47046,6 +47062,7 @@ pixel.everesttech.net
 pixel.nymag.com
 pixel4k.com
 pixelatedarcade.com
+pixeldrain.com
 pixelfederation.com
 pixelio.de
 pixelme.me
@@ -51787,6 +51804,7 @@ s8.ipcamlive.com
 s8.trafficdeposit.com
 s8.vcdn.biz
 s82i.app.link
+s88570519.t.en25.com
 s9-1.trafficdeposit.com
 s9.cnzz.com
 s9.picofile.com
@@ -54565,6 +54583,7 @@ sl.gravatar.com
 sl.ly
 slack-redir.net
 slack.com
+slackb.com
 slacker.com
 slaesforce.com
 slagelsedyrehospital.dk
@@ -56839,6 +56858,7 @@ static.ips.apple.com
 static.istockphoto.com
 static.isu.pub
 static.itch.io
+static.jvc.gg
 static.kameleoon.com
 static.kickstarter.com
 static.klaviyo.com
@@ -63036,6 +63056,7 @@ updatedragon.nuance.com
 updatedtest.chase.com
 updateeventtesting.blob.core.windows.net
 updateexte.services.openoffice.org
+updatefaker.com
 updateinfo.desktop.aol.com
 updatejdownloader.org
 updatekeepalive.mcafee.com
@@ -63532,6 +63553,7 @@ usedcars.com
 usedmotorcyclestore.com
 usedtrucks.ryder.com
 usedworktrucksforsale.com
+usefathom.com
 useinsider.com
 usenet.agency
 usenet.farm
@@ -66251,6 +66273,7 @@ weu1-urlp.secure.skypeassets.com
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 wewillship.com
+weworkremotely.com
 wews.com
 weymouthbank.com
 wf.vanillicon.com
@@ -69407,6 +69430,7 @@ www.antopusa.com
 www.antpool.com
 www.antrouter.antpool.com
 www.antstream.com
+www.antutu.com.bsgslb.cn
 www.antwerpexchangebank.com
 www.anxietycoach.com
 www.anxietycommunity.com
@@ -82200,6 +82224,7 @@ www.geogebra.org
 www.geogebratube.org
 www.geographicguide.com
 www.geoip-db.com
+www.geojs.io
 www.geolite.maxmind.com
 www.geolocation-db.com
 www.geolocation.garmin.com
@@ -107418,6 +107443,7 @@ zbrushcentral.com
 zbs-giz.si
 zcbank.com
 zcbprod.alipay.com
+zcmglobal.v.bsgslb.cn
 zconfig.alibabausercontent.com
 zd.map.fastly.net
 zd.net

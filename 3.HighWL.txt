@@ -1829,11 +1829,8 @@
 9xbuddy.org
 9xlinks.si
 9zvip.net
-Cpp.zoom.com
-L9.fr
-Lvvk.com
-Ruangguru.zoom.com
-To8.cc
+cpp.zoom.com
+ruangguru.zoom.com
 _bittorrent-tracker._tcp.knology.net
 _bittorrent-tracker._tcp.net
 _bittorrent-tracker._tcp.vastbb.net
@@ -6681,8 +6678,10 @@ amoslee.com
 amotherworld.com
 amouradistance.vk.com
 amp-api-edge.apps.apple.com
+amp-api-edge.apps.apple.com.edgekey.net
 amp-api-edge.music.apple.com
 amp-api-prd.bostonglobe.com
+amp-api-search-edge.apps.apple.com
 amp-api.music.apple.com
 amp-integration.glomex.com
 amp-reddit-com.cdn.ampproject.org
@@ -7456,6 +7455,7 @@ apextactical.com
 apf-francehandicap.org
 apfn.org
 aphis.usda.gov
+api-02.moengage.com
 api-2-0.spot.im
 api-a99cee34-08a5-4baa-903d-1e259ee8f6e9.sendbird.com
 api-aicall.aiasst.xiaomi.com
@@ -7569,6 +7569,7 @@ api.accounts.firefox.com
 api.accuweather.com
 api.actionbutton.co
 api.ad-gone.com
+api.ad.xiaomi.com
 api.adguard.com
 api.adguard.org
 api.adidas.com.cn
@@ -7739,6 +7740,7 @@ api.findawayworld.com
 api.fing.io
 api.fitbit.com
 api.flattr.com
+api.flexpool.io
 api.flickr.com
 api.flipboard.com
 api.flixster.com
@@ -19540,6 +19542,7 @@ cdn.flippenterprise.net
 cdn.flowcode.com
 cdn.flowplayer.com
 cdn.fluidplayer.com
+cdn.flurry.com
 cdn.focus-home.com
 cdn.fontawesome.com
 cdn.foodbeast.com
@@ -20771,6 +20774,7 @@ cf-whatson.pluto.tv
 cf.chownowcdn.com
 cf.eip.telegraph.co.uk
 cf.hamreus.com
+cf.iadsdk.apple.com
 cf.ly
 cf.nascar.com
 cf.passport.hpe.com
@@ -23282,6 +23286,7 @@ cn.ultraiso.net
 cn.uncyclopedia.wikia.com
 cn.uptodown.com
 cn.voa.mobi
+cn.wswebcdn.com
 cn2.streetvoice.com
 cn366.awmdm.com
 cn6.eu
@@ -42177,6 +42182,7 @@ get.daum.net
 get.dev
 get.freshly.com
 get.geo.opera.com
+get.geojs.io
 get.google.com
 get.how
 get.net.playstation.net
@@ -44846,6 +44852,7 @@ gvu.gatech.edu
 gvx.blob.core.windows.net
 gw.alicdn.com
 gw.alipayobjects.com
+gw.line.naver.jp
 gw.m.163.com
 gw.yunos.com
 gwapi.zee5.com-v2.edgekey.net
@@ -48416,6 +48423,7 @@ iad.gov
 iad.liveperson.net
 iadb.org
 iadmusicmatvideo.music.126.net
+iadsdk.apple.com
 iadsdk.apple.com.akadns.net
 iadsdk.apple.com.edgekey.net
 iae.univ-lyon3.fr
@@ -48938,6 +48946,7 @@ ichef.bbc.co.uk
 ichef.bbci.co.uk
 ichelmets.com
 ichnaea-web.latency.prodaa.netflix.com
+ichnaea-web.netflix.com
 ichnaea.netflix.com
 ichpnet.org
 ichun.us
@@ -58103,6 +58112,7 @@ lifewire.com
 lifewithalacrity.com
 lifewithoutplastic.com
 lifezette.com
+liffsdk.line-scdn.net
 liftdna.com
 liftware.com
 lifx.com
@@ -63324,6 +63334,7 @@ mesotw.com
 message.bilibili.com
 message.bithumb.com
 message.diigo.com
+message.sp-prod.net
 message331.sp-prod.net
 messagebird.com
 messagelabs.com
@@ -68087,6 +68098,7 @@ nekoslovakia.net
 nekto.me
 nelft.nhs.uk
 nelnet.net
+nelo2-col.linecorp.com
 nelshelby.com
 nelson-atkins.org
 nelson-tel.redcondor.net
@@ -70696,6 +70708,7 @@ oboom.com
 obozrevatel.com
 obrbank.ru
 obrnadzor.gov.ru
+obs.line-scdn.net
 obs.line-scdn.net.edgekey.net
 observador.pt
 observations.buienradar.nl
@@ -73460,6 +73473,7 @@ p03-mailws.icloud.com
 p03.upd.kaspersky.com
 p04-mailws.icloud.com
 p04.upd.kaspersky.com
+p04e.t.en25.com
 p05-mailws.icloud.com
 p05.upd.kaspersky.com
 p06-mailws.icloud.com
@@ -73741,6 +73755,7 @@ page.mixi.jp
 page2.jp
 page2rss.com
 pagead.l.doubleclick.net
+pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 pagebannermobile.as
 pagedemo.co
@@ -76113,6 +76128,7 @@ pixel.nymag.com
 pixel.pn
 pixel4k.com
 pixelatedarcade.com
+pixeldrain.com
 pixelexperience.org
 pixelfederation.com
 pixelio.de
@@ -83748,6 +83764,7 @@ s8.vcdn.biz
 s81.rapidgator.net
 s81c.com
 s82i.app.link
+s88570519.t.en25.com
 s8forum.com
 s9-1.trafficdeposit.com
 s9.cnzz.com
@@ -91870,6 +91887,7 @@ static.is
 static.istockphoto.com
 static.isu.pub
 static.itch.io
+static.jvc.gg
 static.kameleoon.com
 static.kickstarter.com
 static.klaviyo.com
@@ -102321,6 +102339,7 @@ updatedtest.chase.com
 updateeakpi.ht
 updateeventtesting.blob.core.windows.net
 updateexte.services.openoffice.org
+updatefaker.com
 updateinfo.desktop.aol.com
 updatejdownloader.org
 updatekeepalive.mcafee.com
@@ -114276,6 +114295,7 @@ www.antropogenez.ru
 www.antropologi.info
 www.antrouter.antpool.com
 www.antstream.com
+www.antutu.com.bsgslb.cn
 www.antwerpen.be
 www.antwerpexchangebank.com
 www.antyradio.pl
@@ -191669,6 +191689,7 @@ zcache.com
 zcash.flypool.org
 zcbank.com
 zcbprod.alipay.com
+zcmglobal.v.bsgslb.cn
 zcoin.io
 zconfig.alibabausercontent.com
 zcool.com.cn
