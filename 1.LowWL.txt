@@ -907,7 +907,6 @@ accstg.smithbarney.com
 acctcdn.msftauth.net
 accura.cc
 accuweather.com
-acdn.adnxs.com
 acdsystems.com
 acehardware.com
 acenar.com
@@ -1126,7 +1125,6 @@ adoptum.net
 adorama.evyy.net
 adpushup.com
 adregain.com
-adremedy.com
 adrianbank.com
 adrianstatebank.com
 adrise.tv
@@ -1220,7 +1218,6 @@ ads.uxs.at
 ads.v-lazer.com
 ads.videoadex.com
 ads.virtuopolitan.com
-ads.vnumedia.com
 ads.walkiberia.com
 ads.webinak.sk
 ads.yumenetworks.com
@@ -2238,7 +2235,6 @@ api-v4.trbo.com
 api-xl9-ssl.xunlei.com
 api.account.xiaomi.com
 api.accuweather.com
-api.ad.xiaomi.com
 api.adguard.com
 api.adguard.org
 api.ads.tvb.com
@@ -2790,7 +2786,6 @@ aszkenazy.com
 at-config.sensic.net
 at-go.kelkoogroup.net
 at-o.net
-at.adtech.redventures.io
 at.alicdn.com
 at.alicdn.com.danuoyi.alicdn.com
 at.cmt.com
@@ -4107,7 +4102,6 @@ beverlyhospital.com
 bevinsanimalhospital.com
 bexi.co.id
 beyondmenu.com
-beyondsecurity.com
 beyondweb.com
 bezpecnost.csas.cz
 bf10.co
@@ -5663,7 +5657,6 @@ cdn.fbsbx.com
 cdn.firebase.com
 cdn.flipboard.com
 cdn.fluidplayer.com
-cdn.flurry.com
 cdn.fontawesome.com
 cdn.gadgets360.com
 cdn.gigya.com
@@ -5762,7 +5755,6 @@ cdn1.digitaltrends.com
 cdn1.espn.net
 cdn1.ettoday.net
 cdn1.manager-magazin.de
-cdn1.smartadserver.com
 cdn1.spiegel.de
 cdn2-staging.signal.org
 cdn2.cam-content.com
@@ -5948,7 +5940,6 @@ ceuswatcab02.blob.core.windows.net
 cey-ebanking.com
 cf-st.sc-cdn.net
 cf.hamreus.com
-cf.iadsdk.apple.com
 cf.ly
 cf.ru
 cf1.vuze.com
@@ -6490,8 +6481,6 @@ click.news.vans.com
 click.nl.npr.org
 click.o.delta.com
 click.official.nike.com
-click.oneplus.cn
-click.oneplus.com
 click.pstmrk.it
 click.redditmail.com
 click.revue.email
@@ -11088,7 +11077,6 @@ foxchasebank.com
 foxcu.org
 foxcuacademy.com
 foxnews.com
-foxnews.demdex.net
 foxriverstatebank.com
 foxs.pt
 foxsports.com.au
@@ -12266,7 +12254,6 @@ google.vu
 google.ws
 googleadapis.l.google.com
 googleadservices.com
-googleanalytics.com
 googleapis.com
 googleapis.l.google.com
 googleapps.com
@@ -13615,7 +13602,6 @@ iaccess.firstlightfcu.org
 iad-02.braze.com
 iad-04.braze.com
 iadb.org
-iadsdk.apple.com
 iadsdk.apple.com.akadns.net
 iadsdk.apple.com.edgekey.net
 iaf.infinity.com
@@ -14372,7 +14358,6 @@ incine.ru
 inclarity.co.uk
 includecheck.oisd.nl
 includes.ccdc02.com
-incoming.telemetry.mozilla.org
 incommonsbank.com
 incrediblebank.com
 incredimail.com
@@ -16258,7 +16243,6 @@ links.strava.com
 linkshrink.net
 linkslice.com
 linksplit.io
-linkstorms.com
 linkto.com.br
 linkto.im
 linktr.ee
@@ -18053,7 +18037,6 @@ msh.amazon.co.uk
 msh.amazon.com
 mskcc1.foldingathome.org
 mslandbank.com
-msmetrics.ws.sonos.com
 msn.com
 msnbc.com
 msngfcu.com
@@ -18652,7 +18635,6 @@ nehawkabank.com
 neighborsfcu.architect-cert.fiservapps.com
 neighborsink.com
 nekto.me
-nelo2-col.linecorp.com
 nelsonbay.com
 neo.ly
 neocities.org
@@ -20577,7 +20559,6 @@ page.gitlab.com
 page.li
 page.link
 pagead.l.doubleclick.net
-pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 pages.ex.tractorsupply.com
 pages.info.exclusive-networks.com
@@ -21231,7 +21212,6 @@ pius-hospital.de
 pivotal.github.com
 piwik.org
 pix.sueddeutsche.de
-pixel.app.returnpath.net
 pixel.disco.skyshowtime.com
 pixel.everesttech.net
 pixel.nymag.com
@@ -23152,7 +23132,6 @@ rudolfstiftung.at
 ruedersdorfer-krankenhaus.de
 rukminim1.flixcart.com
 rules.clearurls.xyz
-rum-http-intake.logs.datadoghq.com
 rumble.com
 run-2.publictracker.xyz
 run.publictracker.xyz
@@ -24782,7 +24761,6 @@ smecu.org
 smeet.com
 smetrics.10daily.com.au
 smetrics.aem.playstation.com
-smetrics.cnn.com
 smetrics.costco.com
 smetrics.dhl.de
 smetrics.discover.com
@@ -25458,8 +25436,6 @@ spon.de
 sport.onet.pl
 sport.pl
 sports-reports.com
-sports-streams-online.best
-sports-streams-online.com
 sports.latimes.com
 sports.ru
 sports.sina.com.cn
@@ -25580,7 +25556,6 @@ ssl.bblck.me
 ssl.berkeley.edu
 ssl.biglion.ru
 ssl.easypay.by
-ssl.google-analytics.com
 ssl.gs
 ssl.gstatic.com
 ssl.kaptcha.com
@@ -26087,7 +26062,6 @@ streamtheworld.com
 streetviewpixels-pa.googleapis.com
 strefa.fm
 stressthem.to
-stretchsquirrel.com
 striking.ly
 stringtownanimalhospital.com
 stripe.com
@@ -28055,7 +28029,6 @@ twrt.me
 twsbank.com
 twtr.to
 twtr.us
-twttr.com
 twurl.cc
 twurl.nl
 twven.com
