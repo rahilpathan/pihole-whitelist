@@ -742,25 +742,6 @@
 9nl.com
 9qr.de
 9to5google.com
-ALL .bitcanna.io
-ALL .debian.org
-ALL .freebsd.org
-ALL .kernel.org
-ALL .netbsd.org
-ALL .openbsd.org
-ALL .pfsense.org
-ALL .redhat.com
-ALL .report-uri.com
-ALL .videolan.org
-REG ^(?!.*\.?(oem)).*\.twimg\.com$
-REG ^(?!.*\.?(popcon)).*\.ubuntu\.com$
-REG ^(?!.*\.?(vstats)).*\.digitaltrends\.com$
-REG ^(?!.*\.?(watchdog\.ohio|dap\.digitalgov|stats\.ssa|adgallery\.whitehousedrugpolicy)).*\.gov$
-REG ^.*\.oloadcdn\.net$
-RZD ebay
-RZD google
-RZD openload
-RZD pulsar.ebay
 a-0001.a-msedge.net
 a-0002.a-msedge.net
 a-0003.a-msedge.net
@@ -5626,6 +5607,7 @@ bitandspuranimalhospital.com
 bitbucket.io
 bitbucket.org
 bitcanna.io
+bitcanna.io
 bitcast-a.v1.iad1.bitgravity.com
 bitcoin.com
 bitcoin.de
@@ -8267,7 +8249,6 @@ click.trafficguard.ai
 click.twcwigs.com
 click.txn-email.playstation.com
 click.virt.exacttarget.com
-click.virt.s*.exacttarget.com
 click.virt.s10.exacttarget.com
 click.virt.s11.exacttarget.com
 click.virt.s12.exacttarget.com
@@ -8385,7 +8366,6 @@ clips4sale.com
 cliqnship.com
 cliqz.com
 clj.valuecommerce.com
-clk*.tradedoubler.com
 clk.boulanger.com
 clk.in
 clk.ink
@@ -8742,7 +8722,6 @@ columbiahospital.com
 columbusbankandtrust.com
 columbusfirstbank.com
 columbusmba.org
-com
 com-verification.id
 com.af
 com.ag
@@ -10285,6 +10264,7 @@ dealtap.com
 deanbank.com
 debankers.com
 debian.org
+debian.org
 debuz.com
 dec.fazenda.df.gov.br
 decathlon-nl.sjv.io
@@ -11783,7 +11763,6 @@ email-open.adtidy.net
 email-open.adtidy.org
 email-opn.adguard.com
 email-tracking.infobip.com
-email.*.skyeng.ru
 email.163.com
 email.appsumo.com
 email.awscloud.com
@@ -13889,6 +13868,7 @@ free.open.tracker.4.starka.st
 free.vk.com
 freebasics.com
 freebitco.in
+freebsd.org
 freebsd.org
 freecodecamp.org
 freedom.1776.ga
@@ -18704,6 +18684,7 @@ kentuckyfarmersbank.com
 kepler.jd.com
 kerndtbrothers.com
 kernel.org
+kernel.org
 kernelapps.sjv.io
 kernmedicalcenter.com
 kerrisdalevethospital.com
@@ -20040,7 +20021,6 @@ localbitcoins.com
 locale.roblox.com
 localethereum.com
 localfirstbank.com
-localhost
 localhost.vk.com
 localizecdn.com
 localnet.net
@@ -21036,7 +21016,6 @@ mbvt.com
 mbz19n.accounts.clickbank.com
 mc-8c48dcd0-9dfd-4591-be7d-409340-headless-fd1.azurefd.net
 mc-siderail.spot.im
-mc.*.exacttarget.com
 mcaf.ee
 mcafee.com
 mcb-bank.com
@@ -22888,6 +22867,7 @@ netbanking.erstebank.rs
 netbranch-key-web.diamondcu.com
 netbranchweb.diamondcu.com
 netbsd.org
+netbsd.org
 netc.sfr.fr
 netcenter.com.cn
 netcore.co.in
@@ -22901,7 +22881,6 @@ netease.com
 netech.postaffiliatepro.com
 neteller.com
 netfirms.com
-netflix.
 netflix.com
 netflix.net
 netflux.cloud.vimeo.com
@@ -24506,6 +24485,7 @@ openbc.com
 openbittorrent.com
 openbl.org
 openbsd.org
+openbsd.org
 opencdn.jomodns.com
 opencollective.com
 openconnect.netflix.com
@@ -25542,6 +25522,7 @@ pfm.psbank.ru
 pfsb-urbana.com
 pfsb.com
 pfsbank.ru
+pfsense.org
 pfsense.org
 pg.cdn.integration.viber.com
 pg.cdn.viber.com
@@ -27466,6 +27447,7 @@ redefine.pl
 redefine2.hit.stat24.com
 redfin.com
 redhat.com
+redhat.com
 redhdtube.xxx
 rediff.com
 redir.diamond.synacor.com
@@ -27597,6 +27579,7 @@ repo-mirror.kano.me.s3.amazonaws.com
 repo.skype.com
 repo.xposed.info
 report-uri.cloudflare.com
+report-uri.com
 report-uri.com
 report.drudgenow.com
 report.meituan.com
@@ -31108,7 +31091,7 @@ staging-collab.cloud.unity3d.com
 staging-discuss.newrelic.com
 staging-locationhistory-pa.sandbox.googleapis.com
 staging-store.crunchyroll.com
-staging..coinmama.com
+staging.coinmama.com
 staging.admin.e.mi.com
 staging.ai.api.xiaomi.com
 staging.app-analytics.snapchat.com
@@ -35204,6 +35187,7 @@ videodelivery.net
 videofarm.daum.net
 videogum.tags.crwdcntrl.net
 videolan.org
+videolan.org
 videolog.blog.naver.com
 videomate.mobi
 videoplaza.tv
@@ -36346,7 +36330,6 @@ whiteboard.microsoft.com
 whiteboard.ms
 whitehouse.gov
 whitehouseblackmarket.ugc.bazaarvoice.com
-whitelist
 whitelisting.kaspersky.com
 whitepapers.techrepublic.com
 whiteriverhealthsystem.com
@@ -37156,7 +37139,7 @@ www.alerusretirementsolutions.com
 www.alexa.com
 www.algarfcu.org
 www.algolia.com
-www.algolia.com #codepen
+www.algolia.com
 www.algonquinstatebank.com
 www.ali.sk
 www.alibaba.com

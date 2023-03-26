@@ -1690,25 +1690,6 @@
 9xbuddy.in
 9xbuddy.org
 9zvip.net
-ALL .bitcanna.io
-ALL .debian.org
-ALL .freebsd.org
-ALL .kernel.org
-ALL .netbsd.org
-ALL .openbsd.org
-ALL .pfsense.org
-ALL .redhat.com
-ALL .report-uri.com
-ALL .videolan.org
-REG ^(?!.*\.?(oem)).*\.twimg\.com$
-REG ^(?!.*\.?(popcon)).*\.ubuntu\.com$
-REG ^(?!.*\.?(vstats)).*\.digitaltrends\.com$
-REG ^(?!.*\.?(watchdog\.ohio|dap\.digitalgov|stats\.ssa|adgallery\.whitehousedrugpolicy)).*\.gov$
-REG ^.*\.oloadcdn\.net$
-RZD ebay
-RZD google
-RZD openload
-RZD pulsar.ebay
 _http._tcp.deb.debian.org
 _http._tcp.ftp.us.debian.org
 _http._tcp.repo.mongodb.org
@@ -5966,7 +5947,6 @@ ameristatebank.com
 ameritrade.com
 amermounts.com
 amessagewithabottle.com
-amex
 amex.co
 amexbank.de
 amexgiftcard.com
@@ -7857,7 +7837,6 @@ applause.com
 appldnld.apple.com
 appldnld.apple.com.akadns.net
 appldnld.g.aaplimg.com
-apple
 apple-dns.cn
 apple-dns.net
 apple-singapore.sjv.io
@@ -13132,6 +13111,7 @@ bitbucket.org
 bitbuilt.net
 bitbuy.ca
 bitc.bme.emory.edu
+bitcanna.io
 bitcanna.io
 bitcast-a.bitgravity.com
 bitcast-a.v1.iad1.bitgravity.com
@@ -20991,7 +20971,6 @@ click.txn-email.playstation.com
 click.union.vip.com
 click.updates.ubisoft.com
 click.virt.exacttarget.com
-click.virt.s*.exacttarget.com
 click.virt.s10.exacttarget.com
 click.virt.s11.exacttarget.com
 click.virt.s12.exacttarget.com
@@ -21196,7 +21175,6 @@ cliqz.com
 cliradex.com
 clitoraid.org
 clj.valuecommerce.com
-clk*.tradedoubler.com
 clk.boulanger.com
 clk.in
 clk.ink
@@ -21681,7 +21659,6 @@ cnx.org
 cny.yoyo.org
 cnynews.com
 cnzz.com
-co
 co-opbank.co.ke
 co-opcreditunions.org
 co-operativebank.co.nz
@@ -22144,7 +22121,6 @@ columbusbankandtrust.com
 columbusfirstbank.com
 columbusmba.org
 columbusmonthly.com
-com
 com-s02.net
 com-verification.id
 com.af
@@ -24706,7 +24682,6 @@ ctwant.com
 ctx.lcmh.org
 ctx.ly
 ctznsbank.com
-cu
 cu-village.com
 cu.ac.bd
 cu.edu
@@ -26478,6 +26453,7 @@ debian.nautile.nc
 debian.netlinux.cl
 debian.noc.ntua.gr
 debian.org
+debian.org
 debian.osuosl.org
 debian.otenet.gr
 debian.polytech-lille.fr
@@ -27275,7 +27251,6 @@ dhbbank.de
 dhcp.biz
 dhgate.com
 dhjhkxawhe8q4.cloudfront.net
-dhl
 dhl.com
 dhl.de
 dhl.fr
@@ -31229,7 +31204,6 @@ email-open.adtidy.org
 email-opn.adguard.com
 email-sendgrid-deep-linking.chewy.com
 email-tracking.infobip.com
-email.*.skyeng.ru
 email.163.com
 email.adobe.com
 email.appsumo.com
@@ -37146,6 +37120,7 @@ freebetco.in
 freebibleimages.org
 freebitco.in
 freebrowser.org
+freebsd.org
 freebsd.org
 freechal.com
 freechapel.org
@@ -44480,7 +44455,6 @@ htworkshop.com
 htxt.it
 htz.li
 htz3.noho.st
-hu
 hu-go.kelkoogroup.net
 hu-hu.facebook.com
 hu.gravatar.com
@@ -51465,6 +51439,7 @@ kerio.com
 keripo.com
 kerndtbrothers.com
 kernel.org
+kernel.org
 kernelapps.sjv.io
 kernmedicalcenter.com
 kerrang.com
@@ -55107,7 +55082,6 @@ localethereum.com
 localfirstbank.com
 localfonts.eu
 localgymsandfitness.com
-localhost
 localhost.vk.com
 localist-images.azureedge.net
 localization.thdws.com
@@ -58000,7 +57974,6 @@ mbz19n.accounts.clickbank.com
 mc-8c48dcd0-9dfd-4591-be7d-409340-headless-fd1.azurefd.net
 mc-avatars.miniclipcdn.com
 mc-siderail.spot.im
-mc.*.exacttarget.com
 mc.corel.com
 mc.login.exacttarget.com
 mc.weatherflow.com
@@ -58184,7 +58157,6 @@ mdttac.com
 mdw-efz.ms-acdc.office.com
 mdxarms.com
 mdz-nbn-resolving.de
-me
 me-en.kaspersky.com
 me.apple-dns.net
 me.com
@@ -63786,6 +63758,7 @@ netbk.co.jp
 netbranch-key-web.diamondcu.com
 netbranchweb.diamondcu.com
 netbsd.org
+netbsd.org
 netc.com
 netc.sfr.fr
 netcenter.com.cn
@@ -63812,8 +63785,6 @@ neteller.com
 netfilter.org
 netfirms.com
 netflav.com
-netflix
-netflix.
 netflix.com
 netflix.net
 netflixmovies.com
@@ -63958,7 +63929,6 @@ nevergetbusted.com
 neverware.com
 nevid.us
 nevskybank.ru
-new
 new-3lunch.net
 new-akiba.com
 new-car-services.carsdirect.com
@@ -67633,6 +67603,7 @@ openbittorrent.com
 openbl.org
 openbsd.hk
 openbsd.org
+openbsd.org
 openbuilds.com
 openbusmap.org
 opencaching.de
@@ -68014,7 +67985,6 @@ oreo.com
 oresundsbron.com
 orfonline.org
 orfordbank.com
-org
 org-ap.samsung.com
 org-d21734ce-4c63-474e-88b8-8dde42197769.salsalabs.org
 org-fota-dn.ospserver.net
@@ -68810,7 +68780,6 @@ p71-mailws.icloud.com
 p72-mailws.icloud.com
 p9.com.tw
 p_register.ph
-pa
 pa.cdn.appfolio.com
 pa.gov
 pa.land.to
@@ -70425,6 +70394,7 @@ pfsb-urbana.com
 pfsb.com
 pfsbank.com
 pfsbank.ru
+pfsense.org
 pfsense.org
 pg-wuming.com
 pg.cdn.integration.viber.com
@@ -75797,6 +75767,7 @@ redgiant.com
 redgold.com
 redgoldtomatoes.com
 redhat.com
+redhat.com
 redhawkrifles.com
 redhdtube.xxx
 redhilltactical.com
@@ -76233,6 +76204,7 @@ repo.wsu.edu
 repo.xposed.info
 repo1.maven.org
 report-uri.cloudflare.com
+report-uri.com
 report-uri.com
 report.aliyun.com
 report.cybertip.org
@@ -85334,7 +85306,7 @@ staging-eu01-ralphlauren.demandware.net
 staging-locationhistory-pa.sandbox.googleapis.com
 staging-pro.filethis.com
 staging-store.crunchyroll.com
-staging..coinmama.com
+staging.coinmama.com
 staging.admin.e.mi.com
 staging.ai.api.xiaomi.com
 staging.app-analytics.snapchat.com
@@ -97782,6 +97754,7 @@ videojug.com
 videokings.nl
 videolan.mirrors.hivelocity.net
 videolan.org
+videolan.org
 videoland.com
 videolog.blog.naver.com
 videomaker.com
@@ -100691,7 +100664,6 @@ whitehouse.org
 whitehouseblackmarket.ugc.bazaarvoice.com
 whiteknightsupply.com
 whitelines.com
-whitelist
 whitelist.sh
 whitelisting.kaspersky.com
 whitenoisesound.net
@@ -104476,7 +104448,7 @@ www.algdefense.com
 www.algerie-francaise.org
 www.algodoo.com
 www.algolia.com
-www.algolia.com #codepen
+www.algolia.com
 www.algonquincollege.com
 www.algonquindesign.ca
 www.algonquinstatebank.com
@@ -164762,7 +164734,6 @@ youthnetradio.org
 youthspeaks.org
 youthvillages.org
 youtu.be
-youtube
 youtube-creatorcommunity.com
 youtube-dl.org
 youtube-eng.googleblog.com
