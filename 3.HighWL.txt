@@ -7430,7 +7430,6 @@ api.woot.com
 api.wunderground.com
 api.x.sndcdn.com
 api.xda-developers.com
-api.xiaomi.com
 api.ximalaya.com
 api.xk.miui.com
 api.xmpush.xiaomi.com
@@ -13112,7 +13111,6 @@ bitbuilt.net
 bitbuy.ca
 bitc.bme.emory.edu
 bitcanna.io
-bitcanna.io
 bitcast-a.bitgravity.com
 bitcast-a.v1.iad1.bitgravity.com
 bitcheese.net
@@ -18588,7 +18586,6 @@ cdn1.polaris.com
 cdn1.readspeaker.com
 cdn1.resellerratings.com
 cdn1.rvtrader.com
-cdn1.smartadserver.com
 cdn1.snowmobiletrader.com
 cdn1.snowmobiletrader.com.cdn.cloudflare.net
 cdn1.sportngin.com
@@ -26452,7 +26449,6 @@ debian.mur.at
 debian.nautile.nc
 debian.netlinux.cl
 debian.noc.ntua.gr
-debian.org
 debian.org
 debian.osuosl.org
 debian.otenet.gr
@@ -37121,7 +37117,6 @@ freebibleimages.org
 freebitco.in
 freebrowser.org
 freebsd.org
-freebsd.org
 freechal.com
 freechapel.org
 freecharge.in
@@ -39628,7 +39623,6 @@ github-releases.githubusercontent.com
 github.blog
 github.co
 github.com
-github.com.cnpmjs.org
 github.community
 github.dev
 github.developerdan.com
@@ -41052,7 +41046,6 @@ graph.accountkit.com
 graph.bustle.com
 graph.facebook.com
 graph.fbpigeon.com
-graph.instagram.com
 graph.microsoft.com
 graph.oculus.com
 graph.qq.com
@@ -51439,7 +51432,6 @@ kerio.com
 keripo.com
 kerndtbrothers.com
 kernel.org
-kernel.org
 kernelapps.sjv.io
 kernmedicalcenter.com
 kerrang.com
@@ -60785,7 +60777,6 @@ momtraneur.com
 mon-va.tiktokv.com
 mon-va.tiktokv.com.edgesuite.net
 mon.compteczam.fr
-mon.isnssdk.com
 mon.net.br
 mona.com.mx
 monabanq.com
@@ -63757,7 +63748,6 @@ netbirds.com
 netbk.co.jp
 netbranch-key-web.diamondcu.com
 netbranchweb.diamondcu.com
-netbsd.org
 netbsd.org
 netc.com
 netc.sfr.fr
@@ -67603,7 +67593,6 @@ openbittorrent.com
 openbl.org
 openbsd.hk
 openbsd.org
-openbsd.org
 openbuilds.com
 openbusmap.org
 opencaching.de
@@ -70394,7 +70383,6 @@ pfsb-urbana.com
 pfsb.com
 pfsbank.com
 pfsbank.ru
-pfsense.org
 pfsense.org
 pg-wuming.com
 pg.cdn.integration.viber.com
@@ -75767,7 +75755,6 @@ redgiant.com
 redgold.com
 redgoldtomatoes.com
 redhat.com
-redhat.com
 redhawkrifles.com
 redhdtube.xxx
 redhilltactical.com
@@ -76204,7 +76191,6 @@ repo.wsu.edu
 repo.xposed.info
 repo1.maven.org
 report-uri.cloudflare.com
-report-uri.com
 report-uri.com
 report.aliyun.com
 report.cybertip.org
@@ -84985,7 +84971,6 @@ ssl.dlsite.com
 ssl.easypay.by
 ssl.ebrclerkofcourt.org
 ssl.geoplugin.net
-ssl.google-analytics.com
 ssl.gs
 ssl.gstatic.com
 ssl.hwcdn.net
@@ -85306,10 +85291,10 @@ staging-eu01-ralphlauren.demandware.net
 staging-locationhistory-pa.sandbox.googleapis.com
 staging-pro.filethis.com
 staging-store.crunchyroll.com
-staging.coinmama.com
 staging.admin.e.mi.com
 staging.ai.api.xiaomi.com
 staging.app-analytics.snapchat.com
+staging.coinmama.com
 staging.community.coinbase.com
 staging.flipboard.com
 staging.plex.tv
@@ -87555,7 +87540,6 @@ sufc.co.uk
 sug.browser.miui.com
 sug.search.daum.net
 sugabellyrocks.com
-sugar.zhihu.com
 sugarandcharm.com
 sugarcrm.com
 sugarmusic.com
@@ -88643,7 +88627,6 @@ t.ssl.ak.dynamic.tiles.virtualearth.net
 t.tiktok.com
 t.tl
 t.uber.com
-t.uc.cn
 t.umblr.com
 t.usnews.com
 t.vacations.disneydestinations.com
@@ -92316,7 +92299,6 @@ tones.wolfram.com
 tongal.com
 tongbu.com
 tongil.or.kr
-tongji.baidu.com
 tongji.cn
 tongsaibay.co.th
 tongwen.openfoundry.org
@@ -95165,7 +95147,6 @@ un.org
 una.org.uk
 unacademy.com
 unagi-eu.amazon.com
-unagi-na.amazon.com
 unagi.amazon.cn
 unagi.amazon.co.jp
 unagi.amazon.co.uk
@@ -97753,7 +97734,6 @@ videohive.net
 videojug.com
 videokings.nl
 videolan.mirrors.hivelocity.net
-videolan.org
 videolan.org
 videoland.com
 videolog.blog.naver.com
@@ -104447,7 +104427,6 @@ www.algarfcu.org
 www.algdefense.com
 www.algerie-francaise.org
 www.algodoo.com
-www.algolia.com
 www.algolia.com
 www.algonquincollege.com
 www.algonquindesign.ca
@@ -125001,7 +124980,6 @@ www.goodway.com
 www.goodwill.org
 www.goodwood.com
 www.goodyear.com
-www.google-analytics.com
 www.google.ac
 www.google.ad
 www.google.ae
@@ -163937,7 +163915,6 @@ xfire.com
 xfl.ag
 xflight.xboxlive.com
 xflight.xboxlive.com cert.mgt.xboxlive.com
-xflight.xboxlive.comcert.mgt.xboxlive.com
 xforge.xboxlive.com
 xfru.it
 xfxforce.com
@@ -164031,7 +164008,6 @@ xk.me
 xkcd.com
 xkms.xbolive.com
 xkms.xbolive.com def-vef.xboxlive.com
-xkms.xbolive.comdef-vef.xboxlive.com
 xkms.xboxlive.com
 xl-bygg.no
 xl.movieposterdb.com

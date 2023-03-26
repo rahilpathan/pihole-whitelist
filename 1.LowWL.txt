@@ -3499,7 +3499,6 @@ api.winred.com
 api.wunderground.com
 api.x.sndcdn.com
 api.xda-developers.com
-api.xiaomi.com
 api.ximalaya.com
 api.xk.miui.com
 api.xmpush.xiaomi.com
@@ -5607,7 +5606,6 @@ bitandspuranimalhospital.com
 bitbucket.io
 bitbucket.org
 bitcanna.io
-bitcanna.io
 bitcast-a.v1.iad1.bitgravity.com
 bitcoin.com
 bitcoin.de
@@ -7380,7 +7378,6 @@ cdn1.espn.net
 cdn1.ettoday.net
 cdn1.friendbuy.com
 cdn1.hubspot.net
-cdn1.smartadserver.com
 cdn1.xda-developers.com
 cdn13.com
 cdn2-staging.signal.org
@@ -10264,7 +10261,6 @@ dealtap.com
 deanbank.com
 debankers.com
 debian.org
-debian.org
 debuz.com
 dec.fazenda.df.gov.br
 decathlon-nl.sjv.io
@@ -10717,7 +10713,6 @@ dlevans.com
 dlglobal.qq.com
 dlied1.qq.com
 dlied1.tcdn.qq.com
-dlied5.myapp.com
 dlied6.qq.com
 dlink.com.br
 dlisted.com
@@ -13869,7 +13864,6 @@ free.vk.com
 freebasics.com
 freebitco.in
 freebsd.org
-freebsd.org
 freecodecamp.org
 freedom.1776.ga
 freedombank.com
@@ -14636,7 +14630,6 @@ gitea.io
 gitee.com
 github.blog
 github.com
-github.com.cnpmjs.org
 github.community
 github.developerdan.com
 github.hubspot.com
@@ -15288,7 +15281,6 @@ graph-video.facebook.com
 graph.accountkit.com
 graph.facebook.com
 graph.fbpigeon.com
-graph.instagram.com
 graph.microsoft.com
 graph.qq.com
 graph.vk.com
@@ -15419,7 +15411,6 @@ gsnb.com
 gsp-ssl-geomap.ls-apple.com.akadns.net
 gsp-ssl.ls-apple.com.akadns.net
 gsp-ssl.ls.apple.com
-gsp0.baidu.com
 gsp1.apple.com
 gstatic.com
 gstaticadssl.l.google.com
@@ -17646,7 +17637,6 @@ inferno.demonoid.is
 infinexgroup.com
 infinity.com
 info-msk.rusfinance.ru
-info.apnic.net
 info.binance.com
 info.cloudflare.com
 info.cyberplat.ru
@@ -18459,7 +18449,6 @@ js.braintreegateway.com
 js.captcha-display.com
 js.data.auto.qq.com
 js.driftt.com
-js.gleam.io
 js.hs-scripts.com
 js.hsforms.net
 js.hubspot.com
@@ -18683,7 +18672,6 @@ kentlandbank.com
 kentuckyfarmersbank.com
 kepler.jd.com
 kerndtbrothers.com
-kernel.org
 kernel.org
 kernelapps.sjv.io
 kernmedicalcenter.com
@@ -20663,7 +20651,6 @@ mailtag.com
 mailtrack.io
 mailws.icloud.com
 mailyahoo.com
-maimai.cn
 main-ding.de
 main.cloudflare-dns.com
 main.iam.ad.ext.azure.com
@@ -21925,7 +21912,6 @@ moments-photos.gotinder.com
 momentum.hilltopsecurities.com
 momporn.one
 momslikeme.com
-mon.isnssdk.com
 mona.com.mx
 monaco-privatebanking.com
 monadnockhospital.org
@@ -22867,7 +22853,6 @@ netbanking.erstebank.rs
 netbranch-key-web.diamondcu.com
 netbranchweb.diamondcu.com
 netbsd.org
-netbsd.org
 netc.sfr.fr
 netcenter.com.cn
 netcore.co.in
@@ -23474,7 +23459,6 @@ nsx.np.dl.playstation.net
 nsx.np.grs.playstation.net
 nsx.sec.np.dl.playstation.net
 nt.me
-nt2.ele.me
 nt3.ggpht.com
 ntbank.net
 ntbx.co
@@ -24484,7 +24468,6 @@ openbank.ru
 openbc.com
 openbittorrent.com
 openbl.org
-openbsd.org
 openbsd.org
 opencdn.jomodns.com
 opencollective.com
@@ -25522,7 +25505,6 @@ pfm.psbank.ru
 pfsb-urbana.com
 pfsb.com
 pfsbank.ru
-pfsense.org
 pfsense.org
 pg.cdn.integration.viber.com
 pg.cdn.viber.com
@@ -27447,7 +27429,6 @@ redefine.pl
 redefine2.hit.stat24.com
 redfin.com
 redhat.com
-redhat.com
 redhdtube.xxx
 rediff.com
 redir.diamond.synacor.com
@@ -27579,7 +27560,6 @@ repo-mirror.kano.me.s3.amazonaws.com
 repo.skype.com
 repo.xposed.info
 report-uri.cloudflare.com
-report-uri.com
 report-uri.com
 report.drudgenow.com
 report.meituan.com
@@ -30911,12 +30891,10 @@ ssl.berkeley.edu
 ssl.biglion.ru
 ssl.dl.g15.letvlb.com
 ssl.easypay.by
-ssl.google-analytics.com
 ssl.gs
 ssl.gstatic.com
 ssl.kaptcha.com
 ssl.marfeelcdn.com
-ssl.msdk.qq.com
 ssl.o.auspost.com.au
 ssl.o.webmd.com
 ssl.p.jwpcdn.com
@@ -31091,10 +31069,10 @@ staging-collab.cloud.unity3d.com
 staging-discuss.newrelic.com
 staging-locationhistory-pa.sandbox.googleapis.com
 staging-store.crunchyroll.com
-staging.coinmama.com
 staging.admin.e.mi.com
 staging.ai.api.xiaomi.com
 staging.app-analytics.snapchat.com
+staging.coinmama.com
 staging.community.coinbase.com
 staging.flipboard.com
 staging.plex.tv
@@ -31756,7 +31734,6 @@ sudafed.ugc.bazaarvoice.com
 sudf-resources.hpcloud.hp.com
 sudu8.com
 sug.search.daum.net
-sugar.zhihu.com
 sugarriverbank.com
 sugarsca.pe
 sugarsync.com
@@ -32113,7 +32090,6 @@ t.salesmatemail.com
 t.sina.com.cn
 t.sohu.com
 t.uber.com
-t.uc.cn
 t.umblr.com
 t.usnews.com
 t.vacations.disneydestinations.com
@@ -32929,7 +32905,6 @@ tiny.pl
 tiny123.com
 tinyarro.ws
 tinyarrows.com
-tinychinacdnweb.qiniu.com.w.kunlunno.com
 tinyendian.vk.com
 tinyfac.es
 tinyium.com
@@ -33108,7 +33083,6 @@ ton.com.br
 ton.twimg.com
 tone.co.nz
 tongbu.com
-tongji.baidu.com
 tongwen.openfoundry.org
 tongzhi.95516.com
 tool.ccb.com
@@ -34150,7 +34124,6 @@ umwatsonc.events.data.microsoft.com
 umweltbank.de
 un.org
 unagi-eu.amazon.com
-unagi-na.amazon.com
 unagi.amazon.cn
 unagi.amazon.co.jp
 unagi.amazon.co.uk
@@ -35186,7 +35159,6 @@ videocopilot.net
 videodelivery.net
 videofarm.daum.net
 videogum.tags.crwdcntrl.net
-videolan.org
 videolan.org
 videolog.blog.naver.com
 videomate.mobi
@@ -37138,7 +37110,6 @@ www.alerusfinancial.com
 www.alerusretirementsolutions.com
 www.alexa.com
 www.algarfcu.org
-www.algolia.com
 www.algolia.com
 www.algonquinstatebank.com
 www.ali.sk
@@ -40462,7 +40433,6 @@ www.good.ly
 www.goodolddownloads.com
 www.goodreads.com
 www.goodshepherdcu.org
-www.google-analytics.com
 www.google.ac
 www.google.ad
 www.google.ae
@@ -46024,7 +45994,6 @@ xfcumortgage.org
 xfinity.com
 xflight.xboxlive.com
 xflight.xboxlive.com cert.mgt.xboxlive.com
-xflight.xboxlive.comcert.mgt.xboxlive.com
 xg4ken.com
 xgapromomanager-pa.googleapis.com
 xgslb.net
@@ -46056,7 +46025,6 @@ xk.me
 xkcd.com
 xkms.xbolive.com
 xkms.xbolive.com def-vef.xboxlive.com
-xkms.xbolive.comdef-vef.xboxlive.com
 xkms.xboxlive.com
 xl7xml.client.xunlei.com
 xl8.eu
