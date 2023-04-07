@@ -17,7 +17,6 @@
 0.client-channel.google.com
 0.cloudflare-dns.com
 0.cn.pool.ntp.org
-0.com
 0.coreos.pool.ntp.org
 0.de.pool.ntp.org
 0.debian.pool.ntp.org
@@ -102,6 +101,7 @@
 1.vk.com
 1.www.s81c.com
 100.naver.com
+100010552.collect.igodigital.com
 1000flowers.sjv.io
 1001.cloudflare-dns.com
 10046.mi.com
@@ -379,7 +379,6 @@
 1stnorcalcu.org
 1stpacific.org
 1stsecuritybank.com
-1stsecurityofwabb.btbanking.com
 1stsource.com
 1ststatebank.com
 1ststatebankmc.com
@@ -456,7 +455,6 @@
 24.hu
 240.87.vk.com
 244631299-prod.rfksrv.com
-247ihost.com
 24banking.md
 24banking.ro
 24ex.com
@@ -470,7 +468,6 @@
 2540notify.vk.com
 265.com
 267274089.vk.com
-27
 2800flowers.sjv.io
 28554.redirect.appmetrica.yandex.com
 28mozilla.cloudflare-dns.com
@@ -563,7 +560,6 @@
 39.net
 3c.co
 3cdc.org
-3dns-2.adobe.com
 3dns-3.adobe.com
 3ds.bankofbaku.com
 3ds.oschadnybank.com
@@ -579,7 +575,6 @@
 3p.ampproject.net
 3ra.be
 3riversbank.com
-3rt.tace.ru
 3t.org
 3x.ro
 3x.si
@@ -650,7 +645,6 @@
 58cdn.com.cn
 58pic.com
 5d404.v.fwmrm.net
-5em.cz
 5iantlavalamp.com
 5pointcu.org
 5test.cn
@@ -704,7 +698,6 @@
 87.vk.com
 881903.com
 888poker.com
-8ch.net
 8pecxstudios.com
 8pipd2db.sslego.tcloudscdn.com
 8u.cz
@@ -750,7 +743,6 @@ a-0009.a-msedge.net
 a-0010.a-msedge.net
 a-0012.a-msedge.net
 a-3.ru
-a-airasia-001-gyf12.insnw.net
 a-msedge.net
 a-v2.sndcdn.com
 a-vrv.akamaized.net
@@ -767,9 +759,7 @@ a.hl.mi.com
 a.huodong.mi.com
 a.kickass.to
 a.klaviyo.com
-a.kwimgs.com
 a.leopard-raws.org
-a.market.xiaomi.com
 a.muloqot.uz
 a.myapp.com
 a.nel.cloudflare.com
@@ -795,7 +785,6 @@ a.vfgtb.com
 a.w.bilicdn1.com
 a.wish.org
 a.wishabi.com
-a.yximgs.com
 a0.fr
 a1.adform.net
 a1.adformnet.akadns.net
@@ -962,7 +951,6 @@ abload.de
 abm.org.mx
 abmr.net
 abnamro.com
-abnamro.com.sg
 abnamro.nl
 abnamroprivatebanking.com
 aboc.com
@@ -994,7 +982,6 @@ abtexas.com
 abtgold.com
 abtsgmuender-bank.de
 abuelos.com
-abufinzio.monocul.us
 abuse.ch
 ac-talk.kakao.com
 ac.duckduckgo.com
@@ -1166,7 +1153,6 @@ activate-sjc0.adobe.com
 activate.adobe.com
 activate.bitsum.com
 activate.cdn.viber.com
-activate.wip3.adobe.com
 activatemycards.com
 activation-v2.kaspersky.com
 activation-v2.sls.microsoft.com
@@ -1208,7 +1194,6 @@ ad.admitad.com
 ad.allboxing.ru
 ad.antpool.com
 ad.aruba.it
-ad.atdmt.com
 ad.bondage.com
 ad.dep.no
 ad.dmm.com
@@ -1328,7 +1313,6 @@ adj.st
 adl.windows.com
 adlandpro.com
 adlermode.com
-adli.pw
 adlice.com
 adload.ru
 adm.vk.com
@@ -1367,8 +1351,6 @@ adnews.ms
 adobe-dns-01.adobe.com
 adobe-dns-02.adobe.com
 adobe-dns-04.adobe.com
-adobe-dns-2.adobe.com
-adobe-dns-3.adobe.com
 adobe-dns.adobe.com
 adobe.com
 adobe.ly
@@ -1702,7 +1684,6 @@ adservice.google.ph
 adservice.google.pk
 adservice.google.pl
 adservice.google.pn
-adservice.google.politie
 adservice.google.ps
 adservice.google.pt
 adservice.google.qa
@@ -2119,8 +2100,6 @@ allsouth.architect-cert.fiservapps.com
 allsouth.onlinebank.com
 allspringglobal.com
 alltheinternet.com
-alltimeonline.pacificcapitalbank.com
-alltimeonline.pcbancorp.com
 allume.sjv.io
 allure.com
 alluremedia.com
@@ -2143,7 +2122,6 @@ alphabank.ro
 alphadomus.co.nz
 alpinebank.com
 alpinecapitalbank.com
-alrashidhospital.com
 alrayanbank.co.uk
 alrayanintermediaries.co.uk
 alsalam-hospital.net
@@ -2184,7 +2162,6 @@ alvaradohospital.com
 alvarotrigo.com
 alxinger-bank.de
 am-api.snapchat.com
-am.coinbase.com
 amagerbanken.dk
 amalgamated-bank-of-chicago.sjv.io
 amalgamatedbank.com
@@ -3079,7 +3056,6 @@ ap.cdn.survey.medallia.com
 ap.ebs.bankofchina.com
 ap.ign.com
 ap.org
-ap.orgdict.leo.org
 ap.spotify.com
 ap108.cs304112.vk.com
 ap6.ssl.msdk.qq.com
@@ -3090,7 +3066,6 @@ apadv.co
 apartments.com
 apbconnect.com
 apbsrilanka.org
-apcocu.online-cu.com
 apeksbank.com.ua
 apexstats.com
 api-02.moengage.com
@@ -3107,7 +3082,6 @@ api-consup.huawei.com
 api-content-photos.dropbox.com
 api-content.dropbox.com
 api-d.dropbox.com
-api-glb.smoot.apple.com
 api-global.netflix.com
 api-godaddy.nd.nudatasecurity.com
 api-guestbook.blog.naver.com
@@ -3196,7 +3170,6 @@ api.bufferapp.com
 api.c99.nl
 api.calendar.intl.miui.com
 api.cdp.microsoft.com
-api.chat.xiaomi.net
 api.checkout.com
 api.chip-secured-download.de
 api.cliqz.com
@@ -3894,7 +3867,6 @@ aspmx.l.google.com
 aspmx2.googlemail.com
 aspmx3.googlemail.com
 aspnetcdn.com
-asptest.schwabrt.com
 asset.wsj.net
 assets-ads.3dtuning.com
 assets-cdk.com
@@ -4327,7 +4299,6 @@ backstage.soundcloud.com
 backstage.taboola.com
 backtrack-linux.org
 bacn.me
-baconredirects-elb-eyweax7fhr0v-300945382.us-east-1.elb.amazonaws.com
 badcredit.org
 badcreditloans.com
 badge.stumbleupon.com
@@ -4502,7 +4473,6 @@ bank11.de
 bank11direkt.de
 bank1440.com
 bank1saar.de
-bank2.ba
 bank2.bank
 bank2online.com
 bank34.ua
@@ -5116,7 +5086,6 @@ bbvausa.netxinvestor.com
 bbyurl.us
 bc.bankdolinsk.ru
 bc.invb.ru
-bc.kbmkb.ru
 bc.marfeelcache.com
 bc.vc
 bc0a.com
@@ -5494,7 +5463,6 @@ biomerge.vk.com
 bipartisanreport.com
 bir.net.tr
 birdislandbank.com
-bireysel-ziraat.com
 bireysel.payfix.com.tr
 bireysel.turkishbank.com
 biri.com.tr
@@ -5502,7 +5470,6 @@ bis.org
 bisbank.com.ua
 bisonstatebank.com
 bistrozaim.ua
-bit
 bit-hdtv.com
 bit.do
 bit.ly
@@ -5660,7 +5627,6 @@ blog.gravatar.com
 blog.hide.me
 blog.hitbtc.com
 blog.hubspot.com
-blog.hulu.com
 blog.it.playstation.com
 blog.kowalczyk.info
 blog.like.naver.com
@@ -5823,7 +5789,6 @@ bnc.lt
 bnc.nc
 bncbank.com
 bnccorp.com
-bncfgonline.btbanking.com
 bndes.gov.br
 bnet.163.com
 bni.co.id
@@ -6290,10 +6255,8 @@ business.faktura.ru
 business.google.com
 business.hide.me
 business.linkedin.com
-business.netbankerplus.com
 business.officedepot.com.edgekey.net
 business.opera.com
-business.rabobankamerica.com
 business.snapchat.com
 business.sohu.com
 business.synovus.com
@@ -6433,6 +6396,7 @@ c10.trafficdeposit.com
 c11.trafficdeposit.com
 c1bank.com
 c1stbank.com
+c2.dealnews.com
 c2.piano.io
 c2.ugc.bazaarvoice.com
 c212.net
@@ -6546,7 +6510,6 @@ caja-ingenieros.es
 cajabadajoz.es
 cajacanarias.es
 cajacirculo.es
-cajadeavila.es
 cajadeburgos.es
 cajaduero.es
 cajaen.es
@@ -6802,7 +6765,6 @@ castbox.shopping.naver.com
 castell-bank.de
 castlerockbank.com
 castlerockbank.net
-castlerockonlinebanking.btbanking.com
 catchylink.com
 cathaybank.com
 cathaybk.com.tw
@@ -7124,7 +7086,6 @@ cdn.jwplayer.com
 cdn.kuaidi100.com
 cdn.leafletjs.com
 cdn.livechatinc.com
-cdn.livefyre.com
 cdn.livestream.com
 cdn.mbl.is
 cdn.mediavoice.com
@@ -7493,7 +7454,6 @@ chambers-bank.com
 champlainbank.com
 chan.sankakucomplex.com
 chanakancloud.net
-chanchan.uchuu.co.uk
 change.org
 change.org.cdn.cloudflare.net
 changehero.io
@@ -7700,7 +7660,6 @@ christianpost.com
 christliches-klinikum-melle.de
 christliches-krankenhaus-ev.de
 christopher.se
-chrma.co
 chrome-security.cloudflare-dns.com
 chrome.adtidy.org
 chrome.cloudflare-dns.com
@@ -8116,7 +8075,6 @@ clients6.google.com
 clients6.google.com.hk
 clients6.googleusercontent.com
 clients7.googleusercontent.com
-clients8.google.com
 clientsc.alipay.com
 clientservices.googleapis.com
 clientstream.intuit.launchdarkly.com
@@ -8829,7 +8787,6 @@ consumer-img.huawei.com
 consumer-res.huawei.com
 consumer.entitlement.skype.com
 consumer.huawei.com
-consumer.prosperity.ba
 consumer.prosperity.bank
 consumercardaccess.com
 consumercreditawards.co.uk
@@ -8851,7 +8808,6 @@ content-media.bonial.biz
 content-prod.iot.irobotapi.com
 content-storage-upload.googleapis.com
 content.aimatch.com
-content.cf
 content.chia-anime.tv
 content.cloudflare.com
 content.cptrack.de
@@ -9019,7 +8975,6 @@ cox.com
 cox.net
 coxmt.com
 cp.bluesnap.com
-cp76677.edgefcs.net
 cp801.prod.do.dsp.mp.microsoft.com
 cpanel.com
 cpanel.net
@@ -9057,7 +9012,6 @@ cracovia.pl
 craft-gin-club.sjv.io
 craighospital.com
 craigslist.org
-cranecu.onlineaccounts.org
 crash.steampowered.com
 crashlytics.com
 crashlytics2.l.google.com
@@ -9504,7 +9458,6 @@ cstbank.com
 cstv.com
 cstwpush.com
 ct-m-fbx.fbsbx.com
-ct.impactradius.com
 ct.klclick.com
 ct.pinterest.com
 ct.sendgrid.net
@@ -9619,7 +9572,6 @@ cvs.adobe.com
 cvs.com
 cvspharmacydrugs.ugc.bazaarvoice.com
 cvw-privatbank-ag.de
-cw.phncdn.com
 cwahi.net
 cwbank.com
 cwbk.com
@@ -9682,7 +9634,6 @@ d.image.i4.cn
 d.joinhoney.com
 d.la1-c1-ord.salesforceliveagent.com
 d.line-scdn.net
-d.meituan.net
 d.ns.campaign.adobe.com
 d.toutiao.com
 d.yimg.com
@@ -9785,7 +9736,6 @@ daimlerchrysler-bank.com
 dairybank.com
 dairylandstatebank.com
 dairystatebank.com
-daisbook.com
 dakic-ia-300.com
 dakotasamerica.com
 dakotawesternbank.com
@@ -10022,7 +9972,6 @@ deep-ice.com
 deeplink-bh.datafeedfile.com
 deerhuntingnation.com
 deervalleycu.org
-def-vef.xboxlive.com
 default.cn.nt.wagbridge.ad.alibabacorp.com.gds.alibabadns.com
 default.cn.wagbridge.ad.alibabacorp.com
 default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com
@@ -10285,7 +10234,6 @@ digirati.com.br
 digital-advisor.com
 digital-railcard.co.uk
 digital.bankunited.com
-digital.cpb.ba
 digital.noorbank.com
 digitaladvisor.dk
 digitalassetlinks.googleapis.com
@@ -10583,7 +10531,6 @@ doi.org
 doiop.com
 dolcegabbana.com
 dollarbank.com
-dolp.cc
 domain-api.rebrandly.com
 domain.antpool.com
 domain.com
@@ -10753,7 +10700,6 @@ dpreview.com
 dpu.samsungelectronics.com
 dr-bromba.de
 dr49lng3n1n2s.cloudfront.net
-draftprodoms.trafficmanager.net
 drake-bank.com
 dramafever.com
 draugams.lt
@@ -10864,6 +10810,7 @@ dtb1.ru
 dtbank.hu
 dtdg.co
 dtioykqj1u8de.cloudfront.net
+dtm.harborfreight.com
 dto.vakifbank.com.tr
 dts.podtrac.com
 du1gtm004.adobe.com
@@ -10962,7 +10909,6 @@ e-mail.vk.com
 e-pastabanka.lv
 e-pay.by
 e-peoplesbank.com
-e-plat.mdmbank.com
 e-recht24.de
 e-tjanster.1177.se
 e-words.jp
@@ -10985,7 +10931,6 @@ e10.whatsapp.net
 e10217.g.akamaiedge.net
 e11.whatsapp.net
 e11100.g.akamaiedge.net
-e1151.e12.akamaiedge.net
 e12.whatsapp.net
 e12906.dscx.akamaiedge.net
 e13.whatsapp.net
@@ -10993,14 +10938,12 @@ e14.whatsapp.net
 e15.whatsapp.net
 e16.whatsapp.net
 e16973.a.akamaiedge.net
-e18.whatsapp.net
 e1cu.org
 e2.whatsapp.net
 e2561.b.akamaiedge.net
 e2725.g.akamaiedge.net
 e3.whatsapp.net
 e3489.cd.akamaiedge.net
-e37.eu
 e37364.dscd.akamaiedge.net
 e3843.g.akamaiedge.net
 e4.whatsapp.net
@@ -11028,7 +10971,6 @@ e9631.j.akamaiedge.net
 e9839.b.akamaiedge.net
 ea.co
 ea.com
-ea.galerieslafayette.com
 ea1-urlp.secure.skypeassets.com
 ea1.com.edgekey.net
 ea2.com.edgekey.net
@@ -11191,13 +11133,11 @@ eckernfoerder-bank.de
 ecleneue.com
 eclipsebank.com
 ecn.dev.virtualearth.net
-ecology-tech403.ml
 ecom.centurybt.com
 ecom.dutchbanglabank.com
 ecom.prkcorp.com
 ecom.us.samsung.com
 ecomm.pre.mpay.samsung.com
-ecomm.stg.mpay.samsung.com
 ecommerce.iap.unity3d.com
 ecommpay.com
 econ.st
@@ -11267,7 +11207,6 @@ edgefrecdn.azureedge.net
 edgekey.net
 edgertonhospital.com
 edgesuite.net
-edgetipscdn.microsoft.com
 edgewaterbank.com
 edgewoodanimalhospital.com
 edgexads.com
@@ -11440,7 +11379,6 @@ elo.com.br
 eloqua.com
 elpais.com
 elpis.gr
-elsastatebank.com
 elsb.com
 elsevier.com
 elster.de
@@ -11448,7 +11386,6 @@ elterntreff-online.de
 eltrafiko.com
 elurl.com
 elvenar.com
-ely.re
 em.dynamicyield.com
 em.funimation.com
 em1.typekit.com
@@ -11464,11 +11401,11 @@ email-links.crowdfireapp.com
 email-open.adtidy.net
 email-open.adtidy.org
 email-opn.adguard.com
+email-st.seekingalpha.com
 email-tracking.infobip.com
 email.163.com
 email.appsumo.com
 email.awscloud.com
-email.docker.com
 email.elfster.com
 email.elitedangerous.com
 email.flipboard.com
@@ -11528,7 +11465,6 @@ emoji.redditmedia.com
 emospace.net
 emp.bbci.co.uk
 emperion.net
-empireacu.org
 empirebank.com
 emploiquebec.gouv.qc.ca
 emprendedordigital.com
@@ -11700,7 +11636,6 @@ equityplusllc.com
 er.search.naver.com
 erax.cz
 ereg.adobe.com
-ereg.wip3.adobe.com
 eren.chia-anime.tv
 erfurter-bank.de
 ergobank.ru
@@ -11805,8 +11740,6 @@ ethikbank-onlinebanking.de
 ethn.io
 ethz.ch
 etimebanker.bankofthewest.com
-etimedemo.bankofthewest.com
-etimedev16.bankofthewest.com
 etimeqa12.bankofthewest.com
 etimeqa13.bankofthewest.com
 etimeqa14.bankofthewest.com
@@ -12098,7 +12031,6 @@ f-st.co
 f.c2r.ts.cdn.office.net
 f.chtah.com
 f.kinja-static.com
-f.youku.com
 f000.backblazeb2.com
 f002.backblazeb2.com
 f1-prod-production.apigee.net
@@ -12320,7 +12252,6 @@ fbfcwi.com
 fbid.ru
 fbmilton.com
 fbmortgageloans.com
-fbmuleshoe.com
 fbngp.ca
 fbofc.com
 fbonline.biz
@@ -12395,12 +12326,10 @@ fe.apple-dns.net
 fe.dealclub.de
 fe02.lg.xiaomi.com
 fe2.update.microsoft.com
-fe2.update.microsoft.com.akadns.net
 fe2.update.microsoft.com.nsatc.net
 fe2.ws.microsoft.com
 fe2cr.update.microsoft.com
 fe2cr.update.msft.com.trafficmanager.net
-fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 fe3.delivery.mp.microsoft.com
 fe3.update.microsoft.com
 fe3cr.delivery.mp.microsoft.com
@@ -13095,7 +13024,6 @@ fnb-la.com
 fnb-ne.com
 fnb-online.com
 fnb-onlinebankingcenter.com
-fnb-sf.btbanking.com
 fnb-sf.com
 fnb-trust.com
 fnb.co.za
@@ -13861,7 +13789,6 @@ g.alicdn.com
 g.alicdn.com.danuoyi.alicdn.com
 g.cn
 g.co
-g.download.windowsupdate.com.c.footprint.net
 g.ezoic.net
 g.ign.com
 g.justwatch.com
@@ -14009,7 +13936,6 @@ gazeta.pl
 gazprombank.ru
 gazstroybank.ru
 gaztransbank.ru
-gbank.rsk.kg
 gbba.net
 gbbmptx.secure.fundsxpress.com
 gbcbank.com
@@ -14217,7 +14143,6 @@ getui.com
 geturl.us
 getus.com
 getvi.sjv.io
-gfcim5.gq
 gfe.nvidia.com
 gfwsl.geforce.com
 gfx.ms
@@ -14225,7 +14150,6 @@ gfycat.com
 gg.apple.com
 gg.gg
 gg.google.com
-ggopjn.com
 ggpht.com
 ggpht.net
 gh.ffshrine.org
@@ -14384,7 +14308,6 @@ gls-online-filiale.de
 gls.de
 glsen.us
 glyph.medium.com
-gm.gds.mmstat.com
 gm.mmstat.com
 gm1.ggpht.com
 gmail-smtp-in.l.google.com
@@ -14430,6 +14353,7 @@ go.checkout.com
 go.cnn.com
 go.co
 go.com
+go.corsair.com
 go.daum.net
 go.e2language.com
 go.energized.pro
@@ -14469,7 +14393,6 @@ go.sonymobile.com
 go.th
 go.theregister.com
 go.to
-go.trafficrouter.io
 go.trouter.io
 go.trouter.skype.com
 go.twitch.tv
@@ -14533,7 +14456,6 @@ goo.io
 goo.ne.jp
 goo.su
 good.ly
-goodhopehospital.org
 goodmortgage.com
 goodolddownloads.com
 goodreads.com
@@ -14832,7 +14754,6 @@ gothenburgstatebank.com
 gotime.tulsafcu.org
 gotinder.com
 goto-target-com.customtraffic.impactradius.com
-goto.algolia.com
 goto.clickfunnels.com
 goto.jet.com
 goto.target.com
@@ -15103,7 +15024,6 @@ gucu.org
 guernseybank.com
 guerrillamail.com
 guestbook.blog.naver.com
-guiama.is
 guid.tpns.sh.tencent.com
 guide-acs.m.taobao.com
 guide.sjv.io
@@ -15323,7 +15243,6 @@ hb.mydccu.org
 hb.pennstatefederal.com
 hb.priorityonecu.org
 hb.seaboardfcu.com
-hb.swacu.org
 hb.tinkerfcu.org
 hb.unionbank.co.il
 hb.visterracu.org
@@ -15346,7 +15265,6 @@ hbbtv.superrtl.de
 hbbtv.zdf.de
 hbbtv01p.anixe.net
 hbbtvapp.sonnenklar.tv
-hbccat.fdecs.com
 hbhospital.com
 hbk-zwickau.de
 hbl.ch
@@ -15422,14 +15340,12 @@ hearstnp.com
 heartbeat.dm.origin.com
 hearthsong.com
 heartland-bank.com
-heartlandanimalhospital.us
 heartlandbank.com
 heartlandcu.org
 heartlandnb.com
 heartlandstatebank.com
 heatmap.pconline.com.cn
 heavy.com
-hebanking.stpaulfcu.org
 hebervalleybank.com
 hebrew-home-hospital.org
 hebronet.com
@@ -15781,7 +15697,6 @@ home.familyfirstny.com
 home.focusatwill.com
 home.google.com
 home.hulu.com
-home.ingdirect.com
 home.mi.com
 home.mijngezondheid.net
 home.neustar
@@ -15878,7 +15793,6 @@ horizonhobby.co.uk
 horl.com
 horriblevideos.com
 horror-comics.com
-horseanswerstoday.com
 horten.ws
 hortner.com
 horturl.com
@@ -16208,7 +16122,6 @@ i.imgbox.com
 i.imgci.com
 i.imgur.com
 i.instagram.com
-i.kredprombank.ru
 i.lithium.com
 i.lockobank.ru
 i.loli.net
@@ -16376,7 +16289,6 @@ ibank.doncombank.ru
 ibank.dtb1.ru
 ibank.dvbank.ru
 ibank.ekp.lv
-ibank.elbin-bank.ru
 ibank.euroalliance.ru
 ibank.fast.org.tw
 ibank.fbbank.ru
@@ -16460,7 +16372,6 @@ ibank2.ru
 ibank2.stkbank.ru
 ibank2.ua
 ibank2.vfbank.ru
-ibank2.vpb.su
 ibank24.kz
 ibanka.seb.lv
 ibankcsb.com
@@ -16480,7 +16391,6 @@ ibc.com
 ibc.roscap.com
 ibcbankonline.ibc.com
 ibcbanks.org
-ibcdev3.corillian.net
 ibchospital.com
 ibenefitcenter2.mercerhrs.com
 iberiabank.com
@@ -16497,7 +16407,6 @@ ibo.es
 ibook.info
 ibotta.sjv.io
 ibranch.firstcommercecu.org
-ibs.firstamlink.com
 ibs.secure-banking.com
 ibs.spurtbank.ru
 ibsbjstar.ccb.com.cn
@@ -17130,7 +17039,6 @@ import.spot.im
 impressionmonster.com
 impressionz.co.uk
 imrworldwide.com
-ims-na1-prprod.adobelogin.com
 imshopping.com
 imtt.qq.com
 imurl.com
@@ -17341,7 +17249,6 @@ insights.peel-prod.com
 insights.samsung.com
 insigniabank.com
 insinkerator.ugc.bazaarvoice.com
-insnw.net
 insomniagamingfestival.com
 insouth.com
 inspectlet.com
@@ -17822,7 +17729,6 @@ ja.wikipedia.com
 ja2.gamersky.com
 jabcreations.com
 jabu.edu.ng
-jacepayment.airasia.com
 jackbox.tv
 jackieschocolate.sjv.io
 jackjones.com
@@ -17893,7 +17799,6 @@ jellyfish.pandora.xiaomi.com
 jemisp.com
 jenius.com
 jenkins.playstation.com
-jeremy.ga
 jeremylee.sh
 jerseybankersassociation.com
 jerseystatebank.com
@@ -17967,7 +17872,6 @@ joingevalia.com
 joinhoney.com
 joinmycu.com
 joinslack.binance.com
-joint.reg2t.sandai.net
 jok-gi.de
 joker.com
 jomodns.com
@@ -18055,6 +17959,7 @@ json.ludokingapi.com
 jsonip.com
 jssb.com
 jssocdn.indiatimes.com
+jsv3.recruitics.com
 jtbank.ru
 jtlo.net
 jtnb.com
@@ -18664,7 +18569,6 @@ kreditbanken.dk
 kreditkarten-banking.lbb.de
 kreditprombank.com
 kredodirect.com.ua
-kredprombank.ru
 kredytbank.com.pl
 kredytbank.com.ua
 kreiskrankenhaeuser-rottal-inn.de
@@ -18822,7 +18726,6 @@ kunlunta.com
 kunlunvi.com
 kunlunwe.com
 kunzi.me
-kurskprombank.ru
 kurumsal.aktifbank.com.tr
 kurumsal.param.com.tr
 kurumsal.turkishbank.com
@@ -19208,7 +19111,6 @@ libsyn.com
 lic.kr
 licdn.com
 license.adrise.tv
-license.hulu.com
 license.strmeasy.com
 license.unity3d.com
 licensebuttons.net
@@ -19283,6 +19185,7 @@ link.cnbc.com
 link.dailycaller.com
 link.digitaladvisor.dk
 link.epicgames.com
+link.freebooksy.com
 link.freshmail.mx
 link.indiegogo.com
 link.mail.bloombergbusiness.com
@@ -19299,6 +19202,7 @@ link.theskimm.com
 link.tl
 link.twitch.tv
 link.uk.expediamail.com
+link.wired.com
 link.wizzair.com
 link.wnep.com
 link.zip.net
@@ -19466,7 +19370,6 @@ lizearle.ugc.bazaarvoice.com
 ljgate.com
 ljplus.ru
 ljrnmiqx.vk.com
-lk.bcsb.ru
 lk.ht
 lk.megafon.ru
 lk.motivtelecom.ru
@@ -19540,7 +19443,6 @@ lnkiy.com
 lnks.fr
 lnks.gd
 lnkurl.com
-lnky.fr
 lnky.in
 lnnk.in
 lnnkin.com
@@ -19769,7 +19671,6 @@ lukasstiftung-altenburg.de
 lulz.com
 lumbeeguarantybank.com
 luminatinet.com
-luna.jae.su
 lunarstorm.se
 lunenburgvethospital.com
 lungenklinikamsee.de
@@ -19839,7 +19740,6 @@ m.baidu.com
 m.banggood.com
 m.bbc.com
 m.bestbuy.com
-m.bestofmedia.com
 m.bharattimes.com
 m.bitcoin.com
 m.bithumb.com
@@ -19896,7 +19796,6 @@ m.huffingtonpost.co.uk
 m.huffingtonpost.com
 m.huffingtonpost.com.au
 m.huffpost.com
-m.hulu.com
 m.ibtimes.co.uk
 m.ign.com
 m.imgur.com
@@ -20190,7 +20089,6 @@ manga-news.com
 manga.chia-anime.tv
 manga.line.me
 mangaupdates.com
-mange-news.com
 mangler3.generals.ea.com
 mangler4.generals.ea.com
 mango-mobilites.fr
@@ -20518,7 +20416,6 @@ mcssl.com
 mcstr.net
 mctcu.org
 mcvillestatebank.com
-mcw.yourcreditunion.org
 md-nx.com
 mdap.alipay.com
 mdbankers.com
@@ -20562,8 +20459,6 @@ medbank.lt
 medconline.com
 medcs.huawei.com
 media-amazon.com
-media-ams3-1.cdn.whatsapp.net
-media-amt2-1.cdn.whatsapp.net
 media-arn2-1.cdn.whatsapp.net
 media-ber1-1.cdn.whatsapp.net
 media-bru2-1.cdn.whatsapp.net
@@ -20579,8 +20474,6 @@ media-lax1.inq.com
 media-lax3-1.cdn.whatsapp.net
 media-lax3-2.cdn.whatsapp.net
 media-lga3-1.cdn.whatsapp.net
-media-lhr3-1.cdn.whatsapp.net
-media-lht6-1.cdn.whatsapp.net
 media-mad1-1.cdn.whatsapp.net
 media-mia3-1.cdn.whatsapp.net
 media-muc2-1.cdn.whatsapp.net
@@ -20596,7 +20489,6 @@ media-sjc3-1.cdn.whatsapp.net
 media-sof1-1.cdn.whatsapp.net
 media-vie1-1.cdn.whatsapp.net
 media-waw1-1.cdn.whatsapp.net
-media-yyz1-1-cdn.whatsapp.net
 media.api.aws.viber.com
 media.api.eu.aws.viber.com
 media.arstechnica.com
@@ -20611,7 +20503,6 @@ media.discordapp.net
 media.eventhubs.com
 media.expedia.com
 media.fabj2-1.fna.whatsapp.net
-media.fads1-1.fna.whatsapp.net
 media.fbel3-1.fna.whatsapp.net
 media.fcgh5-1.fna.whatsapp.net
 media.fcgk9-1.fna.whatsapp.net
@@ -20628,11 +20519,9 @@ media.fevn1-1.fna.whatsapp.net
 media.ffjr1-1.fna.whatsapp.net
 media.ffjr1-3.fna.whatsapp.net
 media.fgye1-1.fna.whatsapp.net
-media.fhel2-1.fna.whatsapp.net
 media.flos2-1.fna.whatsapp.net
 media.fmnl10-1.fna.whatsapp.net
 media.fplu6-1.fna.whatsapp.net
-media.fprg2-1.fna.whatsapp.net
 media.frec2-1.fna.whatsapp.net
 media.frix1-1.fna.whatsapp.net
 media.frix4-1.fna.whatsapp.net
@@ -20820,7 +20709,6 @@ mercantilebk.com
 mercbank.com
 mercedes-benz-bank.de
 mercedesbenztruck.sjv.io
-mercerhospital.org
 merchandise.api.playstation.com
 merchant.bithumb.com
 merchants.google.com
@@ -20912,7 +20800,6 @@ methodisthospitals.org
 methuencoop.com
 metib.ru
 metlife.ru
-metok-ccc.intl.xiaomi.com
 metok.sys.miui.com
 metric.gstatic.com
 metricool.com
@@ -20954,7 +20841,6 @@ mfb.hu
 mfbank.ru
 mfbanknet.com
 mfbonline.com
-mfcudev.corillian.net
 mfhziu.vk.com
 mfire.com
 mfk-bank.ru
@@ -20999,7 +20885,6 @@ michaelhill.ugc.bazaarvoice.com
 michaelis-krankenhaus.de
 michaelreesehospital.com
 michiganfirst.com
-micloud.xiaomi.net
 micpn.com
 microbit.org
 microcenter.ugc.bazaarvoice.com
@@ -21034,7 +20919,6 @@ midlandsb.com
 midlandstatesbank.btbanking.com
 midlandstatesbank.com
 midmobank.com
-midnatbankhb.btbanking.com
 midpennbank.com
 midsouthbank.com
 midsouthbanking.com
@@ -21263,13 +21147,9 @@ mmfiles.amp.mcafee.com
 mmflint.me
 mmg-fna.whatsapp.net
 mmg.whatsapp.net
-mmi244.whatsapp.net
-mmi479.whatsapp.net
-mmi651.whatsapp.net
 mminternet.com
 mmismm.com
 mmo.tc
-mms.whatsapp.net
 mmstat.com
 mmtro.com
 mn-bank.com
@@ -21512,7 +21392,6 @@ mozillazine.org
 mozlinks-zh.blogspot.com
 mozsocial.cliqz.com
 mozu.com
-mp.huangye.miui.com
 mp.microsoft.com
 mp.twitch.tv
 mp.weixin.qq.com
@@ -21568,7 +21447,6 @@ msbankers.com
 msbonline.com
 msbtx.com
 mscomajax.vo.msecnd.net
-msconline.altaone.net
 mscrl.microsoft.com
 msdn.com
 msdn.microsoft.com
@@ -21668,7 +21546,6 @@ munj.pw
 muo.fm
 mup.amp.mcafee.com
 murphywall.com
-murraystatebank.com
 musescore.org
 music-jp-coupon.line.me
 music-mag.line.me
@@ -21983,7 +21860,6 @@ myprovidencebank.com
 myprovident.com
 mypurchaseperks.com
 myqcloud.com
-myrepublicank.com
 myrepublicbank.com
 mysafra.com
 mysanb.com
@@ -22042,7 +21918,6 @@ na2.documents.adobe.com
 na2.docusign.net
 na2.p4.documentsawsperf.adobe.com
 na2m-pr.licenses.adobe.com
-na4r.services.adobe.com
 na5.content.force.com
 na53.content.force.com
 na61-na62.wagbridge.alibaba.tanx.com
@@ -22282,7 +22157,6 @@ net.id
 net.in
 net.kentbank.hr
 net.nf
-net.pnb.com
 net.richardsw.club
 net.tr
 net2dish.com
@@ -22447,6 +22321,7 @@ newsjizz.in
 newsletter-html.vk.com
 newsletter-link.com
 newsletter.bdnews24.com
+newsletter.businessinsider.com
 newsletterind.huawei.com
 newsletters.bancsabadell.com
 newsletters.nationalgeographic.com
@@ -22465,7 +22340,6 @@ newstube.ru
 newsweek.com
 newsy.com
 newtekreferrals.com
-newtimebank.ru
 newtonpaiva.br
 newtripolibank.net
 newvector.map.baidu.com
@@ -22997,7 +22871,6 @@ o.9nl.com
 o.aolcdn.com
 o.auspost.com.au
 o.auspost.com.au.ssl.d2.sc.omtrdc.net
-o.data.mistat.xiaomi.com
 o.ea.com
 o.macu.com
 o.ss2.us
@@ -23044,7 +22917,6 @@ oauth.reddit.com
 oauth.tau.vk.com
 oauth.vk.com
 oauthaccountmanager.googleapis.com
-ob.burbankcity.org
 ob.clearwatercreditunion.org
 ob.cmcu.org
 ob.cuofco.org
@@ -23108,9 +22980,7 @@ ocsp.godaddy.com
 ocsp.godaddy.com.akadns.net
 ocsp.int-x1.letsencrypt.org
 ocsp.int-x2.letsencrypt.org
-ocsp.int-x3.letsencrypt.org
 ocsp.int-x3.letsencrypt.org.edgesuite.net
-ocsp.int-x4.letsencrypt.org
 ocsp.microsoft.com
 ocsp.pki.goog
 ocsp.rootg2.amazontrust.com
@@ -23267,7 +23137,6 @@ ola.com
 olabank.ru
 olark.com
 olb.1stcolonial.com
-olb.bankfirst.com
 olb.cbtva.com
 olb.comfedcu.org
 olb.comtrustfcu.com
@@ -23422,7 +23291,6 @@ onba.ch
 onbbank.com
 onclinic.ru
 ondeck.com
-ondemand.ufcu.org
 one.cloudflare-dns.com
 one.com
 one.lt
@@ -23482,7 +23350,6 @@ online-banking.hsbc.com.ar
 online-metrix.net
 online-trailnorth.com
 online.1stnb.com
-online.abfcu.org
 online.accessnationalbank.com
 online.acnb.com
 online.adcb.com
@@ -23500,7 +23367,6 @@ online.americanrivierabank.com
 online.amnat.com
 online.apexclearing.com
 online.apgfcu.com
-online.applefcu.org
 online.ashlandcu.org
 online.asifcu.com
 online.asviobank.ua
@@ -23600,7 +23466,6 @@ online.jhfcu.org
 online.jimmyjohns.com
 online.kamkombank.ru
 online.kasikornbankgroup.com
-online.kemba.org
 online.kombank.ru
 online.landmarkbank.com
 online.lloydsbank.co.uk
@@ -23657,7 +23522,6 @@ online.smcu.org
 online.standardlife.com
 online.statefarm.com
 online.svrbank.ru
-online.tcbk.com
 online.techcu.com
 online.tiscoasset.com
 online.tkbbank.ru
@@ -23684,13 +23548,11 @@ online.wsecu.org
 online.xcelfcu.org
 online.yampavalleybank.com
 online2.fremontbank.com
-online5.openbank.com
 onlineaccess.ncsecu.org
 onlineaccess1.com
 onlineaccessplus.com
 onlineapp.unibank.az
 onlinebank.kz
-onlinebank.pfcu4me.us
 onlinebanking-aktivbank.de
 onlinebanking-alxinger-bank.de
 onlinebanking-bankhausbauer.de
@@ -23790,7 +23652,6 @@ onlinebanking.prescottstatebank.com
 onlinebanking.privatebankofbuckhead.com
 onlinebanking.qcbt.com
 onlinebanking.quorumfcu.org
-onlinebanking.rivermarkcu.org
 onlinebanking.rkfdbank.com
 onlinebanking.synovus.com
 onlinebanking.tablerockbank.com
@@ -23809,18 +23670,15 @@ onlinebanking3-qa.golden1.com
 onlinebankingconsumerscu.org
 onlinebankingpcsb.com
 onlinebankingpp.becu.org
-onlinebankingqa2.kdc.capitalone.com
 onlinebanktours.com
 onlinebillpay-email.com
 onlinecourses.nptel.ac.in
 onlinefarmersbank.com
 onlinefirstfed.com
-onlinei1.cardmemberservices.com
 onlineimagelockbox.regions.com
 onlineinvesting.usbank.com
 onlinemetrobank-na.com
 onlinencr.com
-onlineq7.cardmemberservices.com
 onlinesbi.com
 onlineserver.net
 onlineservices.ubs.com
@@ -23938,7 +23796,6 @@ opentelemetry.io
 opentor.org
 opentracker.acgnx.com
 opentracker.acgnx.se
-opentracker.cc
 opentracker.i2p.rocks
 opentracker.lingyurouqing.xyz
 openuserjs.org
@@ -24050,11 +23907,9 @@ orig.sc.g.mi.com
 origin-a.akamaihd.net
 origin-a.akamaihd.net.edgesuite.net
 origin-assets.vimeo.com
-origin-blog.hulu.com
 origin-na.ssl-images-amazon.com
 origin.com
 original.com.br
-origincache-atn.fbcdn.net
 originus.samsung.com
 orion.ugc.bazaarvoice.com
 orionfcu.com
@@ -24558,7 +24413,6 @@ passport.n.shifen.com
 passport.net
 passport.tianya.cn
 passport.twitch.tv
-passport.xiaomi.com
 passport.yandex.by
 passport.yandex.com
 passport.yandex.com.tr
@@ -24655,7 +24509,6 @@ paymentech.cardinalcommerce.com
 paymentgate.ru
 paymentnew.ok.ru
 payments.braintree-api.com
-payments.chronopay.com
 payments.goldenpay.az
 payments.google.com
 payments.mtsbank.ru
@@ -25040,7 +24893,6 @@ pilgrimbank.com
 pilkanozna.pl
 pilotbank.com
 pilotgrovesavingsbank.com
-pimg1.126.net
 pin-em.data.ea.com
 pin-river.data.ea.com
 pin.st
@@ -25053,7 +24905,6 @@ pineriverstatebank.com
 pinews.co
 ping-admin.ru
 ping-app1.idrive.com
-ping.adguard.io
 ping.avast.com
 ping.cloud.tencent.com
 ping.feedburner.com
@@ -25399,7 +25250,6 @@ pool.ntp.org
 pools1.cryptopia.co.nz
 pools2.cryptopia.co.nz
 pop.com
-pop.li
 pop.srv158-137-240-87.vk.com
 pop.srv67-190-240-87.vk.com
 pop.srv72-190-240-87.vk.com
@@ -25530,7 +25380,6 @@ ppa.launchpad.net
 ppc.adhere.marchex.com
 ppcplus.121fcu.org
 ppcprotect.com
-ppfr.it
 pphs.org
 ppl.hu
 ppl.i.lithium.com
@@ -25541,7 +25390,6 @@ pps.fuib.com
 pps.whatsapp.net
 ppt.cc
 ppt.li
-ppurifier.game.xiaomi.com
 pr-clinica.ru
 pr-cy.ru
 pr.comet.yahoo.com
@@ -25550,7 +25398,6 @@ pr.oneplus.com
 pr0gramm.com
 practicalmoneyskills.com
 practice.typekit.com
-practivate.adobe.com
 prairiecommunitybank.com
 prbb.ru
 prd.jwpltx.com
@@ -25715,7 +25562,6 @@ prod.cloud.rockstargames.com
 prod.detectportal.prod.cloudops.mozgcp.net
 prod.disqus.map.fastlylb.net
 prod.dw.us.fdcnet.biz
-prod.imgur.map.fastlylb.net
 prod.mobile.roku.com
 prod.nexusrules.live.com.akadns.net
 prod.p02ams.pod.rockstargames.com
@@ -25950,7 +25796,6 @@ public.sn.files.1drv.com
 public.tableau.com
 public.tableausoftware.com
 public.tracker.vraphim.com
-public.vilynx.com
 public.websteronline.com
 publicbank.com.my
 publicidees.com
@@ -26062,6 +25907,7 @@ pwebanner.naver.com
 pwire.at
 pwlanding.com
 pwsb.com
+px-conf.perimeterx.net
 px.a8.net
 px.effirst.com
 px.spiceworks.com
@@ -26093,17 +25939,8 @@ qa.global.fncstatic.com
 qa.jha.treasury.jackhenry.com
 qa.netteller.com
 qa.sockets.stackexchange.com
-qa1-online.fusa.bankone.net
-qa12-ofx.web.bankone.net
-qa14-ofx.web.bankone.net
-qa5-online.fusa.bankone.net
-qaa-www.bankone.com
 qab-chaseonline.chase.com
-qab-www.bankone.com
-qac-www.bankone.com
 qae-chaseonline.chase.com
-qae-www.bankone.com
-qaf-web.bankone.net
 qamozilla.cloudflare-dns.com
 qantascu.com.au
 qantasmoney.com
@@ -26166,7 +26003,6 @@ qsrm.qualcomm.com
 qt.gtimg.cn
 qt.io
 qte.me
-qtstm32fan.ru
 quainator.com
 quaintoak.com
 qualcomm.com
@@ -26881,14 +26717,12 @@ reha-sachsen.de
 reha-zentrum-mettingen.de
 rei.com
 reimageplus.com
-reise.lc
 reisebank.de
 reisub.nsupdate.info
 reitmans.sjv.io
 reklamdsp.com
 relay-client-c03.iocnt.net
 relay01.hitbtc.com
-release.theplatform.com
 release.twitch.tv
 releases.flowplayer.com
 releases.flowplayer.org
@@ -26977,7 +26811,6 @@ reservebank.gov.fj
 reservebank.to
 resolver.gslb.mi-idc.com
 resolver.msg.global.xiaomi.net
-resolver.msg.xiaomi.ne
 resolver.msg.xiaomi.net
 resonabank.co.jp
 resource.np.ac.playstation.net
@@ -27342,7 +27175,6 @@ rt.com
 rt.imgur.com
 rt.nu
 rt.optizone.ru
-rt.se
 rt.tc
 rt.vk.com
 rt2.ca
@@ -27468,7 +27300,6 @@ s-nuistatic.avcdn.net
 s-os.de
 s-pankki.fi
 s-passets-cache-ak0.pinimg.com
-s-static.ak.facebook.com
 s-url.fr
 s-usc1c-nss-223.firebaseio.com
 s-usc1c-nss-233.firebaseio.com
@@ -27481,6 +27312,7 @@ s.aolcdn.com
 s.apache.org
 s.benny.sh
 s.bit.ly
+s.bluecore.com
 s.btc.com
 s.cdn.turner.com
 s.click.aliexpress.com
@@ -27564,7 +27396,6 @@ s14.trafficdeposit.com
 s15.trafficdeposit.com
 s16.trafficdeposit.com
 s17.trafficdeposit.com
-s171.lanxtra.com
 s1777052651.t.eloqua.com
 s18.trafficdeposit.com
 s19.trafficdeposit.com
@@ -27580,7 +27411,6 @@ s2.trafficdeposit.com
 s2.wp.com
 s20.trafficdeposit.com
 s2017a.techmeme.com
-s214.lanxtra.com
 s24.com
 s24.is
 s2b.standardchartered.com
@@ -28005,7 +27835,6 @@ scdn.co
 scdn.com
 scenarieconomici.it
 scene7.com
-scenefz.me
 scenekids.com
 sch.gr
 sch.mp
@@ -28079,7 +27908,6 @@ scontent-iad3-1.xx.fbcdn.net
 scontent-lga3-1.cdninstagram.com
 scontent-mia3-1.xx.fbcdn.net
 scontent-nrt1-1.xx.fbcdn.net
-scontent-ort2-2.xx.fbcdn.net
 scontent-yyz1-1.xx.fbcdn.net
 scontent.cdninstagram.com
 scontent.fgdl5-1.fna.fbcdn.net
@@ -28273,7 +28101,6 @@ secre.jp
 secret-escapes-de.sjv.io
 secret-escapes-nl.sjv.io
 secret-escapes-uk.sjv.io
-secret.google.com
 sectigo.com
 section.blog.naver.com
 secu.slb.com
@@ -28287,7 +28114,6 @@ secure-booker.com
 secure-ccbankonline.com
 secure-cdn.mplxtms.com
 secure-cf-c.ooyala.com
-secure-cscu.org
 secure-ffnwb.com
 secure-figfcu.com
 secure-gncu.org
@@ -28304,7 +28130,6 @@ secure-veritycu.com
 secure.4frontcu.com
 secure.aadcdn.microsoftonline-p.com
 secure.adnxs.com
-secure.ally.ca
 secure.ally.com
 secure.amerisbank.com
 secure.anedot.com
@@ -28427,7 +28252,6 @@ secure12.onlineaccess1.com
 secure2.onlineaccess1.com
 secure3.nsandi.com
 secure3.sunflowerbank.com
-secure4.onlineaccess1.com
 secure4.segpay.com
 secure5.arcot.com
 secure5.es.arcot.com
@@ -28734,7 +28558,6 @@ shadyurl.com
 shaken.rakuten.co.jp
 shalbyhospital.org
 shalla.byethost12.com
-shallalist.de
 shalltry.com
 shamekh.ws
 shamrockbank.com
@@ -28746,7 +28569,6 @@ share.adobe.com
 share.camoe.cn
 share.cdn.integration.viber.com
 share.cdn.viber.com
-share.dmca.gripe
 share.flipboard.com
 share.hsforms.com
 share.naver.com
@@ -28859,6 +28681,7 @@ shoppy.gg
 shoprunner.com
 shops.myshopify.com
 shopspring.sjv.io
+shopstyle.evyy.net
 shopvote.de
 shorebank.com
 shorebankcorp.com
@@ -28954,7 +28777,6 @@ sierravistaregional.com
 sift.com
 siftscience.com
 signal-iduna.de
-signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 signal.art
 signal.org
 signalcaptchas.org
@@ -29169,7 +28991,6 @@ sloveniansavings.com
 slr.ch
 sls-direkt.de
 sls.update.microsoft.com
-sls.update.microsoft.com.akadns.net
 slscr.update.microsoft.com
 slsp.sk
 sludini.lv
@@ -29302,7 +29123,6 @@ snappublisher.snapchat.com
 snappytvpoc-vh.akamaihd.net
 snapscouts.de
 snapshat.com
-snaptu-mini.c10r.facebook.com
 snaptu-mini.facebook.com
 snat.goguardian.com
 snb-t.com
@@ -29481,7 +29301,6 @@ sonyericsson2.accu-weather.com
 sonyjpnpsg-1.hs.llnwd.net
 sonymobile.com
 sonynetworkentertain.tt.omtrdc.net
-soo.gd
 soo.sg
 soolutions.company
 soonerstatebank.com
@@ -30014,7 +29833,6 @@ springbot.com
 springcreekanimalhospital.com
 springer.com
 springhillbank.com
-springvalleybank.com
 sprint.com
 sprint.olabank.ru
 sproutsocial.com
@@ -30350,7 +30168,6 @@ stadtsparkasse-schmallenberg.de
 stadtsparkasse-schwalmstadt.de
 stadtsparkasse-versmold.de
 staffordsavingsbank.com
-stage-onliineofx.bankone.com
 stage-onlineofx.bankone.com
 stage.guce.advertising.com
 stage.login.engadget.com
@@ -30522,7 +30339,6 @@ static.actionbutton.co
 static.ada.support
 static.adguard.com
 static.adtidy.org
-static.ak.connect.facebook.com
 static.akacdn.ru
 static.antpool.com
 static.appsumo.com
@@ -30583,7 +30399,6 @@ static.micloud.xiaomi.net
 static.moddb.com
 static.moovitapp.com
 static.naver.com
-static.networkedblogs.com
 static.opentok.com
 static.ow.ly
 static.parastorage.com
@@ -30668,7 +30483,6 @@ stats.stackexchange.com
 stats.stb-ottow.de
 stats.streamelements.com
 stats.uptimerobot.com
-statsfe2.update.microsoft.com.akadns.net
 status.adobe.com
 status.ahadns.com
 status.coinbase.com
@@ -30910,7 +30724,6 @@ stream.twitch.tv
 streamate.com
 streamelements.com
 streamer.tawenda-tech.org
-streamillimit.com
 streaming-live.rtp.pt
 streaming.adswizz.com
 streaming.vk.com
@@ -30954,7 +30767,6 @@ studivz.com
 studivz.de
 stuff.co.nz
 stumbleupon.com
-sturdyonline2.btbanking.com
 sturdyonline2.com
 sturly.com
 stuttgarter-volksbank.de
@@ -31171,7 +30983,6 @@ sutterhealth.org
 suttonbank.com
 suunto.ugc.bazaarvoice.com
 suupohjanosuuspankki.fi
-sux.cz
 sv-bank.com
 sv.gravatar.com
 sv.symcd.com
@@ -31198,7 +31009,6 @@ swap.bike
 swarovski.com
 swatchseries.to
 swbank.com
-swbankonline.btbanking.com
 swbanktx.com
 swbell.net
 swbnv.com
@@ -31665,6 +31475,7 @@ telekom.sk
 telemetry-console.api.playstation.com
 telemetry-prd.ap.tesla.services
 telemetry-prd.vn.tesla.services
+telemetry.devolutions.net
 telemetry.gfe.nvidia.com
 telemetry.insights.video.a2z.com
 telemetry.svc.halowaypoint.com
@@ -31683,7 +31494,6 @@ tellurian.net
 telstra.com
 telstraclear.co.nz
 telus.net
-tembr.ru
 temiskaming-hospital.com
 temp.poloniex.com
 templecommunityhospital.com
@@ -31736,7 +31546,6 @@ test.millimanbenefits.com
 test.nextdns.io
 test.quantcast.mgr.consensu.org
 testbank.firstnational.com
-testfihomepage.com
 testhomepage.com
 testkitchen.huffingtonpost.com
 testmyipv6.com
@@ -31974,7 +31783,6 @@ theregister.co.uk
 theregister.com
 therightbank.com
 therisingstar.com
-thesa.us
 theseblogs.com
 theseforums.com
 thesent.nl
@@ -32047,7 +31855,6 @@ thsb.com
 thsbank.com
 thueringen-klinik.de
 thueringen-spion.de
-thug.rocks
 thumb.pr0gramm.com
 thumbnail.image.rakuten.co.jp
 thumbnail.thench.net
@@ -32059,7 +31866,6 @@ thumbsnap.com
 thumbzilla.com
 thunderbird.net
 thunderhead.com
-thurstonfirst.btbanking.com
 thurstonfirstbank.com
 thwins.com
 ti.me
@@ -32149,7 +31955,6 @@ tinkoff.ru
 tiny.cc
 tiny.lt
 tiny.ly
-tiny.ms
 tiny.one
 tiny.pl
 tiny123.com
@@ -32219,7 +32024,6 @@ tk-romeo.cs7777.vk.com
 tk-stage.cs7777.vk.com
 tk-tomato.cs7777.vk.com
 tk.greedland.net
-tk.mabo.ltd
 tkb.com.tr
 tkb.lv
 tkbb.org.tr
@@ -32432,7 +32236,6 @@ tptq.com
 tpv.sr
 tr-tr.about.flipboard.com
 tr.abiir.top
-tr.abir.ga
 tr.abirxo.cf
 tr.bangumi.moe
 tr.burnabyhighstar.com
@@ -32511,7 +32314,6 @@ tracker.alpharatio.cc
 tracker.altrosky.nl
 tracker.animebytes.tv
 tracker.anirena.com
-tracker.anonwebz.xyz
 tracker.army
 tracker.artixlinux.org
 tracker.auctor.tv
@@ -32545,7 +32347,6 @@ tracker.dler.org
 tracker.dmhy.pw
 tracker.dnlab.net
 tracker.dump.cl
-tracker.dutchtracking.nl
 tracker.e-utp.net
 tracker.edkj.club
 tracker.electro-torrent.pl
@@ -32563,7 +32364,6 @@ tracker.filepit.to
 tracker.files.fm
 tracker.flashtorrents.org
 tracker.foreverpirates.co
-tracker.fortu.io
 tracker.frozen-layer.net
 tracker.funfile.org
 tracker.gbitt.info
@@ -32580,7 +32380,6 @@ tracker.idocdn.com
 tracker.imgoingto.icu
 tracker.internetwarriors.net
 tracker.ipv6tracker.ru
-tracker.iriseden.fr
 tracker.iro.moe
 tracker.jiesen.life
 tracker.jonaslsa.com
@@ -32616,21 +32415,17 @@ tracker.nitrix.me
 tracker.noobsubs.net
 tracker.novaopcj.eu.org
 tracker.nyaa.uk
-tracker.nyap2p.com
 tracker.ololosh.space
 tracker.open-internet.nl
 tracker.openbittorrent.com
 tracker.openbtba.com
-tracker.opentracker.se
 tracker.opentrackr.org
 tracker.parrotlinux.org
 tracker.parrotsec.org
 tracker.pcfreetime.com
 tracker.pimpmyworld.to
-tracker.pirateparty.gr
 tracker.piratepublic.com
 tracker.pomf.se
-tracker.publicbt.com
 tracker.publictracker.xyz
 tracker.pussytorrents.org
 tracker.quix.cf
@@ -32648,13 +32443,11 @@ tracker.stifel.com
 tracker.sushirave.net
 tracker.swarm3.network
 tracker.swateam.org.uk
-tracker.sylphix.com
 tracker.tambovnet.org
 tracker.tamersunion.org
 tracker.tasvideos.org
 tracker.tcp.exchange
 tracker.texoviva.com
-tracker.tfile.me
 tracker.theempire.bz
 tracker.theoks.net
 tracker.tiny-vps.com
@@ -32670,7 +32463,6 @@ tracker.trackerfix.com
 tracker.trackton.ga
 tracker.tricitytorrents.com
 tracker.tvnihon.com
-tracker.tvunderground.org.ru
 tracker.uw0.xyz
 tracker.v6speed.org
 tracker.vectahosting.eu
@@ -32760,7 +32552,6 @@ traditionbank.com
 traditioncapitalbank.com
 traditionsal.com
 traffic-redirecting.com
-traffic.alexa.com
 traffic.eks.megaphone.cloud
 traffic.libsyn.com
 traffic.megaphone.fm
@@ -32921,7 +32712,6 @@ trn.st
 trndbl.co
 trojan-killer.net
 troni.me
-tronml.cf
 troops.ai
 trophy01.np.community.playstation.net
 tropicalspicegarden.com
@@ -33029,7 +32819,6 @@ tuenti.net
 tuentiadictos.es
 tuh.nu
 tuijian.dangdang.com
-tularefcu.online-cu.com
 tulipfe.org
 tulsafederalcu.org
 tumblr.com
@@ -33064,7 +32853,6 @@ tv.cntv.cn
 tv.deezer.com
 tv.emby.media
 tv.itc.cn
-tv.line.me
 tv.media.jio.com
 tv.naver.com
 tv.ok.ru
@@ -33106,7 +32894,6 @@ tw.cx
 tw.nbcsports.com
 tw.weibo.com
 tw0.us
-tw03a159.sandai.net
 tw1.us
 tw2.us
 tw9.us
@@ -33122,7 +32909,6 @@ twemoji.maxcdn.com
 twfhcsec.com.tw
 twhite.me
 twhub.com
-twi.im
 twibbonize.com
 twibbonize.com.cdn.ezoic.net
 twiends.com
@@ -33258,7 +33044,6 @@ ubt.com
 ubtc.net
 ubuntu.com
 ubuntuforums.org
-uby.es
 uc-novel-api.shuqireader.com
 uc.cn
 uc.pcbeta.com
@@ -33313,7 +33098,6 @@ ui-portal.de
 ui.com
 ui.cs7777.vk.com
 ui.ptlogin2.wechat.com
-ui.skype.akadns.net
 ui.tau.vk.com
 ui.vk.com
 uib.ff.avast.com
@@ -33374,12 +33158,10 @@ umcu.financialhost.org
 umcu.org
 umd.edu
 umdc.aliapp.org
-umdc.alipay.org
 umecreditunion.onlineaccounts.org
 umeng.com
 umich.edu
 umich.qualtrics.com
-ummcu.com
 umn.edu
 umonitor.com
 umpquabank.com
@@ -34050,7 +33832,6 @@ valuebanktexas.com
 valuedopinions.co.uk
 valuehost.ru
 valuepenguin.com
-valv.im
 valvesoftware.com
 valvistaanimalhospital.com
 vampirefreaks.tags.crwdcntrl.net
@@ -35010,25 +34791,17 @@ w.org
 w.soundcloud.com
 w.wwwww.wtf
 w1.sndcdn.com
-w1.web.whatsapp.com
 w1p.fr
-w2.web.whatsapp.com
 w2xg.com
 w3.org
 w3.sc2000.net
-w3.web.whatsapp.com
 w33.us
 w34.us
 w3m.huawei.com
 w3school.com
 w3schools.com
 w3t.org
-w4.web.whatsapp.com
-w5.web.whatsapp.com
 w55.de
-w6.web.whatsapp.com
-w7.web.whatsapp.com
-w8.web.whatsapp.com
 w88.espn.com
 wa.me
 wa9.la
@@ -35187,7 +34960,6 @@ wbx2.com
 wcb.net
 wcbonline.com
 wccftech.com
-wcfcu.online-cu.com
 wcghospital.datastar.net
 wch.sa.gov.au
 wclink.co
@@ -35584,7 +35356,6 @@ widgets.ign.com
 widgets.opinary.com
 widgets.prisjakt.nu
 widgets.turnto.com
-widgets.twimg.com
 widgets.weather.com
 widgetserver.com
 widiba.it
@@ -35933,10 +35704,10 @@ ww1.chia-anime.tv
 ww2.chia-anime.tv
 ww2.samsung.se
 ww2.sinaimg.cn
+ww22.cinecalidad.fo
 ww4.sinaimg.cn
 ww7.fr
 wwd.us
-wwis-dubc1-vip60.adobe.com
 wwtdd.tags.crwdcntrl.net
 www-a.qa.netteller.com
 www-admin.sonymobile.com
@@ -36036,7 +35807,6 @@ www.2hell.com
 www.2long.cc
 www.2mycu.com
 www.2no.co
-www.2riversbank.com
 www.2savvy.com
 www.2su.de
 www.2truth.com
@@ -36257,8 +36027,6 @@ www.aeroquipcu.com
 www.aesfcu.com
 www.aetna.com
 www.afbank.com
-www.afbca.com
-www.afbusa.com
 www.afcu.org
 www.afcutx.com
 www.afenafcu.org
@@ -36373,7 +36141,6 @@ www.altavistacu.org
 www.alternatives.org
 www.altiercu.org
 www.altra.org
-www.altrahb.org
 www.altraonline.org
 www.alturacu.com
 www.alturl.com
@@ -36684,7 +36451,6 @@ www.baike.com
 www.bakerboyer.com
 www.bakerfcu.org
 www.baldwincountyfcu.com
-www.baltimoretrustco.com
 www.bancfirst.com
 www.bancfirstonline.com
 www.bancobuenaventura.com
@@ -36710,15 +36476,12 @@ www.bankaf.com
 www.bankalpine.com
 www.bankanderson.com
 www.bankannapolis.com
-www.bankatbyron.com
 www.bankatcnb.com
 www.bankatcommerce.com
 www.bankatfirst.com
 www.bankatfirstnational.com
 www.bankatharrington.com
 www.bankatlantic.com
-www.bankatlanticbusinessonlinebanking.com
-www.bankatlanticonlinebanking.com
 www.bankatunited.com
 www.bankatvalley.com
 www.bankatvillage.com
@@ -36791,7 +36554,6 @@ www.bankofeastman.com
 www.bankofengland-ar.com
 www.bankofestespark.com
 www.bankofeverett.com
-www.bankofflorida.com
 www.bankoffloridaonline.com
 www.bankoffortbend.com
 www.bankofgc.com
@@ -36815,7 +36577,6 @@ www.bankofkyhb.com
 www.bankoflancaster.com
 www.bankofleessummit.com
 www.bankoflincoln.com
-www.bankoflincolnonline.com
 www.bankoflouisiana.com
 www.bankofluxemburg.com
 www.bankofmadisonga.com
@@ -36846,7 +36607,6 @@ www.bankofripley.com
 www.bankofrothville.com
 www.bankofsantaclarita.com
 www.bankofsf.com
-www.bankofsmithtownonline.com
 www.bankofsouthernmd.com
 www.bankofstcroix.com
 www.bankofstockton.com
@@ -37125,7 +36885,6 @@ www.bocconline.com
 www.bofcu.com
 www.bofifederalbank.com
 www.bofm.com
-www.bofonlineaventura.com
 www.boh.com
 www.boi.re
 www.bokf.com
@@ -37269,7 +37028,6 @@ www.cabelas.com
 www.cabelasclubvisa.com
 www.cachefly.net
 www.cachevalleybank.com
-www.cachor.ro
 www.cacu.com
 www.cacuonline.org
 www.cacuonlinebanking.com
@@ -37292,7 +37050,6 @@ www.caloaks.com
 www.calpacfcu.org
 www.calstatela-fcu.org
 www.calumetcountybank.com
-www.calvertbankonline.com
 www.cambridge.org
 www.cambridgesavings.com
 www.camdennational.com
@@ -37414,7 +37171,6 @@ www.cbtcnet.com
 www.cbtks.com
 www.cbtno.com
 www.cbtva.com
-www.cbtwaco.ba
 www.cbtwaco.bank
 www.cbtwaco.com
 www.cbtxonline.com
@@ -37452,13 +37208,11 @@ www.ccutx.org
 www.ccuwausau.com
 www.cda.pl
 www.cdbt.com
-www.cdc.gov
 www.cdcfcu.com
 www.cdcl.ru
 www.cdfcu.com
 www.cdfcu.org
 www.cdn.amazon.co.uk
-www.cdn.amazon.com
 www.cdn.amazon.de
 www.cdn.amazon.es
 www.cdn.amazon.it
@@ -37527,7 +37281,6 @@ www.cf2.me
 www.cf6.co
 www.cf97.co
 www.cfbankco.com
-www.cfbinstantaccess.com
 www.cfbk.com
 www.cfcu.org
 www.cfcuonline.com
@@ -37559,7 +37312,6 @@ www.charteroak.org
 www.charterwest.com
 www.chartway.com
 www.chase.com
-www.chasebank.com
 www.chathamfederal.com
 www.chcu.com
 www.chcu.org
@@ -37576,7 +37328,6 @@ www.chesbank.com
 www.cheshirecfcu.org
 www.chessiefcu.org
 www.chesterfieldfcu.net
-www.chestertownbank.com
 www.chestnutrunfcu.org
 www.chetcofcu.org
 www.chevronfcu.org
@@ -37648,7 +37399,6 @@ www.citizensfb.com
 www.citizensfederalsl.com
 www.citizensfirst.com
 www.citizenslc.com
-www.citizensnationatonline.com
 www.citizensnb.com
 www.citizensnbonline.com
 www.citizenssecurity.com
@@ -37758,7 +37508,6 @@ www.cnbank.com
 www.cnbankpa.com
 www.cnbc.com
 www.cnbcindonesia.com
-www.cnbconnectonline.com
 www.cnbil.com
 www.cnbinternet.com
 www.cnbohio.com
@@ -37766,7 +37515,6 @@ www.cnbok.com
 www.cnbonline.com
 www.cnbstl.com
 www.cnbt.com
-www.cnbtexas-online.com
 www.cnbtexas.com
 www.cnbthebank.com
 www.cnbthebankonline.com
@@ -37966,7 +37714,6 @@ www.countryclubbank.com
 www.countryfcu.com
 www.countryflags.io
 www.countybankdel.com
-www.countybankmdonline.com
 www.countyedfcu.org
 www.countyfcu.org
 www.countyfirstbank.com
@@ -38359,7 +38106,6 @@ www.dvfcuonlinebranch.org
 www.dview.org
 www.dvlr.it
 www.dwarfurl.com
-www.dwb.ba
 www.dwb.bank
 www.dwdean.com
 www.dwin1.com
@@ -38581,7 +38327,6 @@ www.essn.tl
 www.esyurl.com
 www.et.tv
 www.etahub.com
-www.eteamz.com
 www.etf.com
 www.etfcu.org
 www.etfcuonlinebanking.org
@@ -38652,7 +38397,6 @@ www.f-st.co
 www.faaecu.org
 www.faafcu.org
 www.fabathens.com
-www.fabathensonline.com
 www.fabt.com
 www.fabtn.com
 www.facebook.com
@@ -38723,7 +38467,6 @@ www.fcb-keokuk.com
 www.fcbank.com
 www.fcbanking.com
 www.fcbcullman.com
-www.fcbebanking.com
 www.fcbhillsboro.com
 www.fcbmd.com
 www.fcbok.com
@@ -38770,7 +38513,6 @@ www.ffnwb.com
 www.ffsb.com
 www.ffsbangola.com
 www.fgb.ae
-www.fgbjaxonline.com
 www.fgccu.org
 www.fhb.com
 www.fhfcu.org
@@ -38856,7 +38598,6 @@ www.firstbankers.com
 www.firstbankkansas.com
 www.firstbanklinden.com
 www.firstbanklubbock.com
-www.firstbankmi.com
 www.firstbankmo.com
 www.firstbankofberne.com
 www.firstbankofcg.com
@@ -38877,7 +38618,6 @@ www.firstcalfcu.org
 www.firstcapitalfcu.com
 www.firstcapitalonline.com
 www.firstcarolinabank.com
-www.firstcbt.ba
 www.firstcbt.bank
 www.firstcentral.net
 www.firstcentralcu.com
@@ -38995,7 +38735,6 @@ www.firstrepublic.com
 www.firstrepublichb.com
 www.firstresourcebank.com
 www.firstrust.com
-www.firstsavingsbanking.com
 www.firstsavingsbanks.bank
 www.firstsavingsonline.com
 www.firstscotia.com
@@ -39150,7 +38889,6 @@ www.fnbholdrege.com
 www.fnbhugo.com
 www.fnbhuntsvilletx.com
 www.fnbhutch.com
-www.fnbib.com
 www.fnbimk.com
 www.fnbjohnson.com
 www.fnbk.com
@@ -39333,7 +39071,6 @@ www.frontgate.com
 www.frontier-ok.com
 www.frontierbank.com
 www.frontpagemag.com
-www.frontrangebankonline.com
 www.frontwavecu.com
 www.frostbank.com
 www.frsb.net
@@ -39381,7 +39118,6 @@ www.fstsb.com
 www.fswb.com
 www.ft.com
 www.ftaccountservices.aul.com
-www.ftbank.com
 www.ftcy.co
 www.ftnb.net
 www.ftp.chocolatey.org
@@ -39552,7 +39288,6 @@ www.globalcu.org
 www.globalcuebranch.org
 www.globalpaymentsinc.com
 www.globalresearch.ca
-www.gloucestercoop.com
 www.gloucestercoop1.com
 www.glsen.us
 www.glyph.medium.com
@@ -39993,7 +39728,6 @@ www.hawaiistatefcu.com
 www.hawaiiusafcu.com
 www.hawthornbank.com
 www.hbcascadefcu.org
-www.hbedcu-digitalbanking.com
 www.hbicu.org
 www.hbo.com
 www.hbspk.co
@@ -40015,7 +39749,6 @@ www.healthnutnews.com
 www.heartcu.org
 www.heartlandbankdirect.com
 www.heartlandecu.com
-www.heartlandmortgagecenter.com
 www.hebronsavingsbank.com
 www.hec.su
 www.hefcu.com
@@ -40069,7 +39802,6 @@ www.hidemyass.com
 www.hiderefer.com
 www.highcharts.com
 www.highdesertbank.com
-www.highdesertbankonline.com
 www.highlandbanks.com
 www.highlandcommercialbank.com
 www.highlandsindependentbank.com
@@ -40342,10 +40074,8 @@ www.info
 www.info.internet.org
 www.infoblox.com
 www.ing-diba.de
-www.ing-usa.com
 www.ing.com
 www.ing.nl
-www.ingretirementplans.com
 www.inhumanity.com
 www.inlandfederal.org
 www.inlnk.ru
@@ -40641,7 +40371,6 @@ www.kl.am
 www.klarna.com
 www.klaviyo.com
 www.kleinbank.com
-www.kleinbankonline.com
 www.kmart.com
 www.kmsfinancial.com
 www.knbkress.com
@@ -40694,7 +40423,6 @@ www.lacapfcu.org
 www.lacnic.net
 www.laco.st
 www.lafambank.com
-www.lafambankonlinebnk.com
 www.lafayettecommunitybank.com
 www.lafcu.com
 www.lafcu.org
@@ -41074,7 +40802,6 @@ www.meadowlandcu.org
 www.meadowsbank.com
 www.meadvilleareafcu.com
 www.meafcu.org
-www.mechanics-coop.blilk.com
 www.mechanics-coop.com
 www.mechanicsbank.com
 www.mechanicsbankonline.com
@@ -41172,7 +40899,6 @@ www.metropolitanbank.com
 www.metrounitedbank.com
 www.metrumcu.org
 www.metuchensavingsbank.com
-www.mewkid.net
 www.mfbonline.com
 www.mfcu.net
 www.mfculodi.org
@@ -41331,7 +41057,6 @@ www.mpefcu.com
 www.mpscu.org
 www.mql5.com
 www.mrcu.com
-www.mrte.ch
 www.ms-cu.org
 www.msbank.com
 www.mscu.net
@@ -41365,7 +41090,6 @@ www.munafederal.com
 www.munciefcu.com
 www.muncybank.com
 www.muo.fm
-www.murraystatebank.com
 www.musicianscu.org
 www.musiciansfriend.com
 www.mutualbancorp.com
@@ -41426,7 +41150,6 @@ www.myeecu.org
 www.myewebcu.org
 www.myexchangebank.com
 www.myfafcu.org
-www.myfcb.ba
 www.myfcb.bank
 www.myfcb.com
 www.myfcbusa.com
@@ -41450,7 +41173,6 @@ www.mygpcu.com
 www.mygreenstoneaccess.com
 www.mygulfbank.com
 www.myhccu.org
-www.myhomepage.com
 www.myinvestorsbank.com
 www.myisland.com
 www.myjcccu.com
@@ -41493,13 +41215,11 @@ www.myprovident.com
 www.myrepublicbank.com
 www.myrivervalleycu.org
 www.myrvcu.com
-www.mysfcard.com
 www.myshopify.com
 www.myspace.com
 www.myspire.com
 www.mystart.com
 www.mystreetscape.com
-www.mysummit.ba
 www.mysummit.bank
 www.mysummit.com
 www.mysunwest.com
@@ -41621,7 +41341,6 @@ www.netcoresmartech.com
 www.neteller.com
 www.netfcu.org
 www.netflix.com
-www.netitmo.financial-net.com
 www.netnanny.com
 www.netnet.me
 www.nets.com.sg
@@ -41654,6 +41373,7 @@ www.newportgroup.com
 www.newrelic.com
 www.newrizonsfcu.com
 www.news.google.com
+www.newsbreak.com
 www.newser.me
 www.newsinvoice.com
 www.newsmth.net
@@ -41703,7 +41423,6 @@ www.noffcu.org
 www.noip.co
 www.noip.com
 www.nokia.ly
-www.norcomcu.org
 www.nordcu.org
 www.nordichardware.se
 www.nordstrom.com
@@ -41800,7 +41519,6 @@ www.nuvobank.com
 www.nvb.com
 www.nvboh.com
 www.nvidia.com
-www.nwbank.com
 www.nwbanks.com
 www.nwcu.com
 www.nwfcu.org
@@ -41934,12 +41652,10 @@ www.onlinebanking-fsbse.com
 www.onlinebanking-sactocu.org
 www.onlinebanking.pnc.com
 www.onlinebankingpcsb.com
-www.onlineccu.org
 www.onlinelcsb.com
 www.onlinemecu.com
 www.onlinemetrobank-na.com
 www.onlinesbiglobal.com
-www.onlinetbf.com
 www.onmpeg.com
 www.onmsnbc.co
 www.onpointcu.com
@@ -42098,7 +41814,6 @@ www.partner-ads.com
 www.partner-ads.comer.net
 www.partnercoloradocu.org
 www.partners1stcu.org
-www.partnersbank.net
 www.partnersfcu.org
 www.partnersffcu.org
 www.partnerstrust.com
@@ -42158,7 +41873,6 @@ www.peachstatefcu.com
 www.peachstatefcu.net
 www.pearlandbank.com
 www.pearlcitybank.com
-www.pebankonline.com
 www.peckservers.com
 www.pecujax.org
 www.peeksoft.co
@@ -42189,8 +41903,6 @@ www.peoplesbanc.com
 www.peoplesbancorp.com
 www.peoplesbank-wa.com
 www.peoplesbankal.com
-www.peoplesbankmd.com
-www.peoplesbankmdonline.com
 www.peoplesbanknet.com
 www.peoplesbankofcommerce.com
 www.peoplesbankofseneca.com
@@ -42346,7 +42058,6 @@ www.polr.me
 www.polrproject.org
 www.pool.ntp.org
 www.poolhb.com
-www.pop.li
 www.popafcu.org
 www.poprl.com
 www.pops.ci
@@ -42590,7 +42301,6 @@ www.racked.cc
 www.radiotvc.com
 www.radiusbank.com
 www.radnortrust.com
-www.radnortrustcm.com
 www.railroadcu.org
 www.rainbowfcu.com
 www.rakuten.co.jp
@@ -42647,7 +42357,6 @@ www.rebrandlydomain.com
 www.rebrick.it
 www.recode.net
 www.recruitics.com
-www.red-e-cashonline.com
 www.red.ht
 www.redbrandcu.com
 www.redcanoecu.com
@@ -42761,7 +42470,6 @@ www.riz.cz
 www.rjf.com
 www.rk.com
 www.rkfdbank-business.blilk.com
-www.rkfdbank.ba
 www.rkfdbank.com
 www.rlsccu.org
 www.rly.cc
@@ -43194,7 +42902,6 @@ www.sitepoint.com
 www.sites.google.com
 www.siucu.org
 www.sjcu.org
-www.sjnb.com
 www.sjnbank.com
 www.sjnbsj.com
 www.sk.gy
@@ -43206,7 +42913,6 @@ www.skr.sk
 www.skroc.pl
 www.skycn.com
 www.skyfcu.org
-www.skynetcenter.me
 www.skyone.org
 www.skype.com
 www.skypeassets.com
@@ -43293,7 +42999,6 @@ www.some.ly
 www.somersethillsbank.com
 www.somersetsavings.com
 www.somersettrust.com
-www.somobank.com
 www.sonabank.com
 www.song.ly
 www.sonomafed.com
@@ -43502,7 +43207,6 @@ www.stlawrfcu.com
 www.stlouisbank.com
 www.stlouiscommunity.com
 www.stmarysbank.com
-www.stmichaelsbankmd.com
 www.stmichaelsfcu.com
 www.stockcross.com
 www.stockgrowersbank.com
@@ -43630,7 +43334,6 @@ www.tampabayfederal.com
 www.taobao.com
 www.tapcocu.com
 www.tapcocu.org
-www.tapcocuhb.org
 www.tapfcu.com
 www.target.com
 www.tatacliq.com
@@ -43713,7 +43416,6 @@ www.tensas.com
 www.terrabank.com
 www.tesfcu.org
 www.test.com
-www.testbank.firstnational.com
 www.teutopolisstatebank.com
 www.texanscu.org
 www.texas-star-bank.com
@@ -43838,7 +43540,6 @@ www.thetvdb.com
 www.theubank.com
 www.theverge.com
 www.thevernonbank.com
-www.thevillagebank.com
 www.thewiltonbank.com
 www.thewindowsclub.com
 www.thewrap.com
@@ -44079,7 +43780,6 @@ www.tubeviral.com
 www.tucoemas.org
 www.tucows.com
 www.tucsonfcu.com
-www.tucsonfcuhb.com
 www.tucsontelco.com
 www.tudou.com
 www.tuh.nu
@@ -44288,7 +43988,6 @@ www.url.ie
 www.url.lotpatrol.com
 www.url.mn
 www.url2.fr
-www.url360.me
 www.url4.eu
 www.url5.org
 www.urlbeat.net
@@ -44436,7 +44135,6 @@ www.velocitycommunity.org
 www.velocitycu.com
 www.verd.in
 www.veridiancu.org
-www.verisightgroup.com
 www.verisign.com
 www.veritasfcu.org
 www.veritexbank.com
@@ -44583,7 +44281,6 @@ www.wbclovis.com
 www.wbtrnd.co
 www.wcb.com
 www.wcb.net
-www.wcbnmonline.net
 www.wccftech.com
 www.wccu.org
 www.wccucreditunion.coop
@@ -44715,7 +44412,6 @@ www.williamblair.com
 www.williamstownbank.com
 www.willowgrovebank.com
 www.wilmingtontrust.com
-www.wilserv.org
 www.wilshirebank.com
 www.wilsonbank.com
 www.wilsonmuirbank.com
@@ -44750,7 +44446,6 @@ www.wko.at
 www.wkrg.com
 www.wl.co
 www.wlsefcu.com
-www.wlvbatchqa11.org
 www.wnbvernon.com
 www.wocfcu.com
 www.wololo.net
@@ -44815,7 +44510,6 @@ www.wyocentral.org
 www.wyochem.com
 www.wyoming-bank.com
 www.wypinnbank.com
-www.wystar.com
 www.x10.mx
 www.x2c.eu
 www.xaddr.com
@@ -45021,7 +44715,6 @@ wwwimages2.adobe.com
 wwwimages2.stage.adobe.com
 wwwimg.roku.com
 wwwstatic.chia-anime.tv
-wwwstatic.megaupload.com
 wwww.coinbase.com
 wwww.soundcloud.com
 wwww.youporn.com
@@ -45087,7 +44780,6 @@ xboxab.net
 xboxapi.com
 xboxdesignlab.xbox.com
 xboxera.com
-xboxexperiencesprod.experimentation.xboxlive.com
 xboxlive.com
 xboxlive.com.edgekey.net
 xboxmedia.ign.com
@@ -45443,7 +45135,6 @@ z-m.facebook.com
 z-p4-graph.facebook.com
 z.cdn.turner.com
 z.cdp-dev.cnn.com
-z.mercax.com
 z.tochka.com
 z.zz.ht
 z0p.de
@@ -45532,7 +45223,6 @@ zh.wikipedia.org
 zh_cn.statcounter.com
 zh_tw.statcounter.com
 zhaopin.com
-zhibo.mi.com
 zhidao.baidu.com
 zhihu.com
 zhimg.com
@@ -45581,7 +45271,6 @@ zkr.de
 zl3f2-pp-services.1fsapi.com
 zmags.com
 zmedia.com
-zmtcdn.edgekey.net
 zo.ee
 zobj.net
 zoho.com
