@@ -1709,9 +1709,9 @@
 99wbwc.com
 99widgets.com
 99ybcc.com
-9anime.to
 9anime.at
 9anime.pw
+9anime.to
 9animes.ru
 9apps.com
 9bis.com
@@ -1738,16 +1738,6 @@
 9xbuddy.in
 9xbuddy.org
 9zvip.net
-kutt.it
-onedrive-collection.device.mobileengagement.windows.net
-_http._tcp.deb.debian.org
-_http._tcp.ftp.us.debian.org
-_http._tcp.repo.mongodb.org
-_http._tcp.security.debian.org
-_netblocks.google.com
-_netblocks2.google.com
-_spf.google.com
-_xmpp-client._tcp.im.mymtm.us
 a-0001.a-msedge.net
 a-0002.a-msedge.net
 a-0003.a-msedge.net
@@ -1855,6 +1845,7 @@ a.union.mi.com
 a.vartoken.com
 a.vfghd.com
 a.vfgtb.com
+a.visualrevenue.com
 a.vskitcdn.com
 a.w.bilicdn1.com
 a.wish.org
@@ -8740,6 +8731,7 @@ artifexian.com
 artifexmundi.com
 artifices.org
 artificialworlds.net
+artifiles.com
 artimondo.co.uk
 artimpressions.com
 artiphon.com
@@ -13286,6 +13278,7 @@ bikramyoga.com
 bil.com
 bild.de
 bild.h-cdn.com
+bild.ivwbox.de
 bilddagboken.se
 bildderfrau.de
 bilder-a.akamaihd.net
@@ -13483,6 +13476,7 @@ birdsandblooms.com
 birdsend.net
 birdwatchersdigest.com
 birdwatchingbuzz.com
+bireysel-zÃ®raat.com
 bireysel.payfix.com.tr
 bireysel.turkishbank.com
 biri.com.tr
@@ -21688,6 +21682,7 @@ clients5.googleusercontent.com
 clients6.google.com
 clients6.google.com.hk
 clients6.googleusercontent.com
+clients7.google.com
 clients7.googleusercontent.com
 clientsc.alipay.com
 clientsdk.luminati.io
@@ -24506,7 +24501,6 @@ creationmuseum.org
 creationtoday.org
 creative.7o7.cx
 creative.adobe.com
-creative.ak fbcdn.net
 creative.ak.fbcdn.net
 creative.com
 creative.mylife.com
@@ -24687,7 +24681,6 @@ crkt.com
 crl-ds.ws.symantec.com.edgekey.net
 crl.adobe.com
 crl.apple.com
-crl.apple.com crl.entrust.net
 crl.comodoca.com
 crl.comodoca4.com
 crl.entrust.net
@@ -31334,6 +31327,7 @@ eccmp.com
 ecco.com
 eccouncil.org
 eccu.org
+ecdinterface.philips.com
 ecdn0.wn.com
 ecdn1.wn.com
 ecdn2.wn.com
@@ -45125,6 +45119,7 @@ home.guender.net
 home.hiwaay.net
 home.hulu.com
 home.kpmg
+home.marvinmarvin.de
 home.mcafee.com
 home.mi.com
 home.migunowners.org
@@ -46052,6 +46047,7 @@ hulu-matchmaker.s3.us-west-2.amazonaws.com
 hulu.com
 hulu.hb.omtrdc.net
 hulu.tv
+hulustream.com
 hum.tv
 human-connection.org
 human.nl
@@ -54433,6 +54429,7 @@ kurzgesagt.org
 kusocity.com
 kuster.house.gov
 kut.org
+kutt.it
 kutt.lckp.top
 kutxa.es
 kuula.co
@@ -54531,6 +54528,7 @@ l.engage.canva.com
 l.facebook.com
 l.fairblocker.com
 l.franceculture.fr
+l.googleusercontent.com
 l.hdnux.com
 l.incredimail.com
 l.instagram.com
@@ -59321,6 +59319,7 @@ marvel.com
 marvelentertainment.tumblr.com
 marvell.com
 marvelous-remarkable.cablemod.com
+marvinmarvin.de
 marx.libcom.org
 marxist.com
 marxist.net
@@ -61015,7 +61014,6 @@ met-cronet-reporter.dreport.meituan.net
 met2.hp.com
 meta-chart.com
 meta-db-worker02.pop.ric.plex.bz
-meta-db-worker02.pop.ric.plex.bz meta.plex.bz
 meta.m.wikimedia.org
 meta.plex.bz
 meta.plex.tv
@@ -65736,6 +65734,7 @@ netbible.com
 netbirds.com
 netbiscuits.net
 netbk.co.jp
+netblocks.google.com
 netbranch-key-web.diamondcu.com
 netbranchweb.diamondcu.com
 netbsd.org
@@ -69000,6 +68999,7 @@ onedio.com
 onedirectionmusic.com
 onedirt.com
 onedoorland.com
+onedrive-collection.device.mobileengagement.windows.net
 onedrive.com
 onedrive.live.com
 onedriveclucproddm20006.blob.core.windows.net
@@ -70723,6 +70723,7 @@ p.imgur.com
 p.journity.com
 p.jwpcdn.com
 p.kuaidi100.com
+p.liadm.com
 p.mymtm.us
 p.nfltags.com
 p.opay.tw
@@ -72819,8 +72820,10 @@ physioroom.com
 pi-dns.com
 pi-hole.github.io
 pi-hole.net
+pi-ue1-lba3.pardot.com
 pi-ue1-public-lb-f0209c6950285322.elb.us-east-1.amazonaws.com
 pi-ue1.pardot.com
+pi-ue1.t.pardot.com
 pi.314159.ru
 pi.hole
 pi.opensprinkler.com
@@ -81812,6 +81815,7 @@ scomaterial.entergy.com
 scone-pa.clients6.google.com
 sconsentit9.trafficmanager.net
 scontent-atl3-1.xx.fbcdn.net
+scontent-frx5-1.cdninstagram.com
 scontent-iad3-1.cdninstagram.com
 scontent-iad3-1.xx.fbcdn.net
 scontent-lga3-1.cdninstagram.com
@@ -82349,6 +82353,7 @@ secret-escapes-nl.sjv.io
 secret-escapes-uk.sjv.io
 secret-zone.net
 secret.google.com
+secret.Ã‰Â¢oogle.com
 secret.ã‰â¢oogle.com
 secretchina.com
 secretcinema.org
@@ -91987,6 +91992,7 @@ tbtemple.org.uk
 tbthouston.org
 tc-boxing.com
 tc.gc.ca
+tc.tradetracker.com
 tc.tradetracker.net
 tc.tradetracker.nl
 tc2000.com
@@ -97837,6 +97843,7 @@ ui.ads.microsoft.com
 ui.assets-asda.com
 ui.com
 ui.cs7777.vk.com
+ui.l.google.com
 ui.powerreviews.com
 ui.ptlogin2.wechat.com
 ui.se
@@ -106135,9 +106142,9 @@ www.99pps.com
 www.99wbwc.com
 www.99ybcc.com
 www.99zan.site
-www.9anime.to
 www.9anime.at
 www.9anime.pw
+www.9anime.to
 www.9apps.com
 www.9ddm.com
 www.9gag.com
@@ -114528,6 +114535,7 @@ www.c-span.org
 www.c-spanvideo.org
 www.c.1password.com
 www.c.amazon-adsystem.com
+www.c.apple.com
 www.c.booking.com
 www.c.disquscdn.com
 www.c.s-microsoft.com
@@ -115452,6 +115460,7 @@ www.cbtxonline.com
 www.cbvs.sr
 www.cbwc.com
 www.cbwge.com
+www.cc-dt.com
 www.cc-sd.edu
 www.cc.cc
 www.cc.cnetcontent.com
@@ -115711,6 +115720,7 @@ www.cdnetworks.com
 www.cdnetworks.net
 www.cdnfile.info
 www.cdngeneral.rentcafe.com
+www.cdninstagram.com
 www.cdnjquery.com
 www.cdnjs.cloudflare.com
 www.cdnjs.com
@@ -119522,6 +119532,7 @@ www.dasoertliche.de
 www.dasolo.org
 www.dat.de
 www.data-api.benzinga.com
+www.data.cloudian.com
 www.data.corp.unity3d.com
 www.data.inetsgi.com
 www.data.mistat.intl.xiaomi.com
@@ -121134,6 +121145,7 @@ www.dopersonalitytest.com
 www.dopice.sk
 www.dopl3r.com
 www.doppler.com
+www.doppler.hulu.com
 www.doqqkdlppl6bl.cloudfront.net
 www.dordt.edu
 www.dorimnews.com
@@ -127679,6 +127691,7 @@ www.ggcu.org
 www.ggg50.pw
 www.ggnome.com
 www.ggood.vip
+www.ggpht.com
 www.ggrecon.com
 www.ggsgamer.com
 www.ggtefcu.org
@@ -131103,6 +131116,7 @@ www.htworkshop.com
 www.htxt.it
 www.huaban.com
 www.hualane.cl
+www.hualaÃ±e.cl
 www.hualaã±e.cl
 www.huami.com
 www.huangkitchen.com
@@ -131999,6 +132013,7 @@ www.image.email.microsoftemail.com
 www.image.inews24.com
 www.image.invaluable.com
 www.image.issuu.com
+www.image.jimcdn.com
 www.image.minnesotavikingsemail.com
 www.image.modcdn.io
 www.image.olightstore.com
@@ -140165,6 +140180,7 @@ www.mironet.cz
 www.mirrativ.com
 www.mirror.aarnet.edu.au
 www.mirror.amaze.com.au
+www.mirror.centos.org
 www.mirror.co.uk
 www.mirror.hoster.kz
 www.mirror.hro.nl
@@ -152111,6 +152127,7 @@ www.scmp.com
 www.scnb.com
 www.scone-pa.clients6.google.com
 www.scontent-iad3-1.cdninstagram.com
+www.scontent-lga3-1.cdninstagram.com
 www.scontent.fgdl5-1.fna.fbcdn.net
 www.scoobydoo.fandom.com
 www.scoobysworkshop.com

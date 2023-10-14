@@ -1176,6 +1176,7 @@
 9mp.com
 9news.com
 9nl.com
+9nl.es
 9now.com.au
 9qr.de
 9splay.store
@@ -1184,16 +1185,6 @@
 9to5toys.com
 9xbuddy.in
 9xbuddy.org
-Kutt.it
-OneDrive-Collection.device.mobileengagement.windows.net
-_http._tcp.deb.debian.org
-_http._tcp.ftp.us.debian.org
-_http._tcp.repo.mongodb.org
-_http._tcp.security.debian.org
-_netblocks.google.com
-_netblocks2.google.com
-_spf.google.com
-_xmpp-client._tcp.im.mymtm.us
 a-0001.a-msedge.net
 a-0002.a-msedge.net
 a-0003.a-msedge.net
@@ -1289,6 +1280,7 @@ a.union.mi.com
 a.vartoken.com
 a.vfghd.com
 a.vfgtb.com
+a.visualrevenue.com
 a.vskitcdn.com
 a.w.bilicdn1.com
 a.wish.org
@@ -5065,6 +5057,7 @@ ap.orgdict.leo.org
 ap.rdcpix.com
 ap.spotify.com
 ap108.cs304112.vk.com
+ap3.salesforce.com
 ap6.ssl.msdk.qq.com
 apa.org
 apabank.ru
@@ -5467,6 +5460,7 @@ api.maptiler.com
 api.mapy.cz
 api.mathpix.com
 api.mcc.miui.com
+api.media.atlassian.com
 api.media.jio.com
 api.medium.com
 api.meetme.com
@@ -6444,6 +6438,7 @@ art19.com
 arte.tv
 artembank.com.ua
 artfiles.alphacoders.com
+artfiles.com
 artfund.org
 arthipo.com
 arthromed.de
@@ -6455,6 +6450,8 @@ articles.latimes.com
 articles.vacation101.com
 articleted.com
 artifactory.appodeal.com
+artifices.org
+artifiles.com
 artimondo.co.uk
 artimpressions.com
 artisansbank.com
@@ -7430,6 +7427,7 @@ avantlink.com
 avanza.se
 avast.com
 avataaars.io
+avatar-cdn.atlassian.com
 avatar.guim.co.uk
 avatar.pornone.com
 avatar.skype.com
@@ -9354,6 +9352,7 @@ bikesandbeardsgear.com
 bil.com
 bild.de
 bild.h-cdn.com
+bild.ivwbox.de
 bilddagboken.se
 bildderfrau.de
 bilder-a.akamaihd.net
@@ -14891,6 +14890,7 @@ clients5.googleusercontent.com
 clients6.google.com
 clients6.google.com.hk
 clients6.googleusercontent.com
+clients7.google.com
 clients7.googleusercontent.com
 clientsc.alipay.com
 clientsdk.luminati.io
@@ -15040,6 +15040,7 @@ cloudfunctions.net
 cloudglb.com
 cloudglb.net
 cloudharmony.net
+cloudian.com
 cloudinary.com
 cloudmaestro.com
 cloudmail17.netcore.co.in
@@ -15386,6 +15387,7 @@ codeanywhere.com
 codeberg.org
 codecanyon.img.customer.envatousercontent.com
 codecanyon.net
+codecheck.info
 codecs.fedoraproject.org
 codegrazer.com
 codegrepper.com
@@ -16859,7 +16861,6 @@ createsend.com
 createsend1.com
 creative.7o7.cx
 creative.adobe.com
-creative.ak fbcdn.net
 creative.ak.fbcdn.net
 creative.com
 creative.mylife.com
@@ -16965,7 +16966,6 @@ crkt.com
 crl-ds.ws.symantec.com.edgekey.net
 crl.adobe.com
 crl.apple.com
-crl.apple.com crl.entrust.net
 crl.comodoca.com
 crl.comodoca4.com
 crl.entrust.net
@@ -18390,6 +18390,7 @@ danesconames.com
 dangerousminds.net
 dangerousprototypes.com
 danid.dk
+danielamichalskifotografie.com
 danmurphys.ugc.bazaarvoice.com
 danpassaro.com
 dansguardian.org
@@ -18491,6 +18492,7 @@ data.answerbase.com
 data.api.cnn.io
 data.bilibili.com
 data.chiasenhac.com
+data.cloudian.com
 data.cnn.com
 data.corp.unity3d.com
 data.flurry.com
@@ -20566,6 +20568,7 @@ download.digiex.net
 download.dm.origin.com
 download.dnscrypt.info
 download.dnscrypt.org
+download.docker.com
 download.documentfoundation.org
 download.dymo.com
 download.eac-cdn.com
@@ -20616,6 +20619,7 @@ download.nirsoft.net
 download.notable.app
 download.nullsoft.com
 download.nus.edu.sg
+download.nutanix.com
 download.opensuse.org
 download.opera.com
 download.oracle.com
@@ -21263,6 +21267,7 @@ e.deviantart.net
 e.ebidtech.com
 e.getpocket.com
 e.givesmart.com
+e.hollisterco.com
 e.huawei.com
 e.imguol.com
 e.issuu.com
@@ -21628,6 +21633,7 @@ ecbsn.com
 eccmp.com
 ecco.com
 eccu.org
+ecdinterface.philips.com
 ecdn0.wn.com
 ecdn1.wn.com
 ecdn2.wn.com
@@ -23501,6 +23507,7 @@ ezurl.cc
 ezurl.eu
 f-droid.org
 f-log-at.grammarly.io
+f-log-extension.grammarly.io
 f-mbank.com
 f-mbankonline.com
 f-s-b.com
@@ -24878,6 +24885,7 @@ fitbit.com
 fitbodybuzz.com
 fitbook.de
 fitd.it
+fitforfun.de
 fitgirl-repacks.site
 fitm.ag
 fitminutes.com
@@ -30333,6 +30341,7 @@ home.fnf.com
 home.focusatwill.com
 home.google.com
 home.hulu.com
+home.marvinmarvin.de
 home.mcafee.com
 home.mi.com
 home.migunowners.org
@@ -30942,6 +30951,7 @@ hulu-matchmaker.s3.us-west-2.amazonaws.com
 hulu.com
 hulu.hb.omtrdc.net
 hulu.tv
+hulustream.com
 humana.com
 humanesc.wpengine.com
 humanesociety.org
@@ -36733,6 +36743,7 @@ l.engage.canva.com
 l.facebook.com
 l.fairblocker.com
 l.franceculture.fr
+l.googleusercontent.com
 l.hdnux.com
 l.instagram.com
 l.linklyhq.com
@@ -37158,6 +37169,7 @@ learning.oreilly.com
 learnmyway.com
 leaseplanbank.de
 leaseweb.com
+leasingmarkt.us.4.list-manage.com
 leawo.org
 leben.org
 lebigdata.fr
@@ -37965,6 +37977,7 @@ livefyre.com
 livehelpnow.net
 livehindustan.com
 liveintent.com
+liveintent.newyorktimesinfo.com
 liveinternet.ru
 livejasmin.com
 livejournal.com
@@ -39108,6 +39121,7 @@ mad-style.com
 mad.ly
 madcatz.com
 maddmacsprecisiontactical.com
+made.com
 madeincookware.com
 madeleine-mode.at
 madeleine.com
@@ -39730,6 +39744,7 @@ martinus-hospital.de
 marvel-b1-cdn.bc0a.com
 marvel.com
 marvelous-remarkable.cablemod.com
+marvinmarvin.de
 marx.libcom.org
 marykay.com
 marylandtaxes.gov
@@ -40969,7 +40984,6 @@ met-cronet-reporter.dreport.meituan.net
 met2.hp.com
 meta-chart.com
 meta-db-worker02.pop.ric.plex.bz
-meta-db-worker02.pop.ric.plex.bz meta.plex.bz
 meta.m.wikimedia.org
 meta.plex.bz
 meta.plex.tv
@@ -44028,6 +44042,7 @@ netbanking.erstebank.rs
 netbeez.net
 netbiscuits.net
 netbk.co.jp
+netblocks.google.com
 netbranch-key-web.diamondcu.com
 netbranchweb.diamondcu.com
 netbsd.org
@@ -44393,6 +44408,7 @@ newyorkcables.com
 newyorkcommercialbank.com
 newyorker.com
 newyorkfed.org
+newyorktimesinfo.com
 newz.dk
 newzenler.com
 newzit.com
@@ -45249,6 +45265,7 @@ nusports.com
 nutabuse.com
 nutaku.com
 nutaku.net
+nutanix.com
 nutrientsurvival.com
 nutrija.com
 nutrisystem.com
@@ -46120,6 +46137,7 @@ one.one.cloudflare-dns.com
 one.one.one.cloudflare-dns.com
 one.one.one.one.cloudflare-dns.com
 one.ubuntu.com
+oneDrive-collection.device.mobileengagement.windows.net
 oneaccount.com
 oneacross.com
 oneaday.com
@@ -47373,6 +47391,7 @@ p.hulu.com
 p.imgur.com
 p.journity.com
 p.jwpcdn.com
+p.liadm.com
 p.mymtm.us
 p.nfltags.com
 p.ost.im
@@ -48791,8 +48810,10 @@ physioroom.com
 pi-dns.com
 pi-hole.github.io
 pi-hole.net
+pi-ue1-lba3.pardot.com
 pi-ue1-public-lb-f0209c6950285322.elb.us-east-1.amazonaws.com
 pi-ue1.pardot.com
+pi-ue1.t.pardot.com
 pi.314159.ru
 pi.hole
 pi.opensprinkler.com
@@ -53928,6 +53949,7 @@ s3-prod.modernhealthcare.com
 s3-production.bobvila.com
 s3-r-w.us-east-2.amazonaws.com
 s3-sa-east-1.amazonaws.com
+s3-support.cloudian.com
 s3-us-east-2.amazonaws.com
 s3-us-west-1-w.amazonaws.com
 s3-us-west-1.amazonaws.com
@@ -54764,6 +54786,7 @@ scomaterial.entergy.com
 scone-pa.clients6.google.com
 sconsentit9.trafficmanager.net
 scontent-atl3-1.xx.fbcdn.net
+scontent-frx5-1.cdninstagram.com
 scontent-iad3-1.cdninstagram.com
 scontent-iad3-1.xx.fbcdn.net
 scontent-lga3-1.cdninstagram.com
@@ -61925,6 +61948,7 @@ tbsc.apple.com
 tbskip.taobao.com
 tbstat.com
 tc-boxing.com
+tc.tradetracker.com
 tc.tradetracker.net
 tcaexpress.net
 tcarms.com
@@ -62307,6 +62331,7 @@ terappeuta.com
 terasi.net
 tercept.com
 terezowens.com
+teridioncloud.net
 terminal.akado.ru
 terminal.ucs.su
 terminal28.com
@@ -65455,6 +65480,7 @@ ui.ads.microsoft.com
 ui.assets-asda.com
 ui.com
 ui.cs7777.vk.com
+ui.l.google.com
 ui.powerreviews.com
 ui.ptlogin2.wechat.com
 ui.skype.akadns.net
@@ -70886,6 +70912,7 @@ www.9gag.com
 www.9m.no
 www.9mp.com
 www.9news.com
+www.9nl.es
 www.9qr.de
 www.9to5google.com
 www.9to5mac.com
@@ -74468,6 +74495,7 @@ www.c-o.in
 www.c-sharpcorner.com
 www.c.1password.com
 www.c.amazon-adsystem.com
+www.c.apple.com
 www.c.booking.com
 www.c.disquscdn.com
 www.c.s-microsoft.com
@@ -74924,6 +74952,7 @@ www.cbtwaco.com
 www.cbtxonline.com
 www.cbwc.com
 www.cbwge.com
+www.cc-dt.com
 www.cc.cc
 www.cc.cnetcontent.com
 www.cc.com
@@ -75129,6 +75158,7 @@ www.cdna.clicktale.net
 www.cdnbay.com
 www.cdne-static.yjcontentdelivery.com
 www.cdngeneral.rentcafe.com
+www.cdninstagram.com
 www.cdnjs.cloudflare.com
 www.cdnnsports.com
 www.cdnzone.org
@@ -75818,6 +75848,7 @@ www.cloudflare.com
 www.cloudflareinsights.com
 www.cloudfront.net
 www.cloudharmony.net
+www.cloudian.com
 www.cloudinary.com
 www.cloudns.cl
 www.cloudns.net
@@ -75946,6 +75977,7 @@ www.codeanywhere.com
 www.codeberg.org
 www.codecademy.com
 www.codecanyon.net
+www.codecheck.info
 www.codecu.org
 www.codegrazer.com
 www.codegrepper.com
@@ -76942,6 +76974,7 @@ www.danesconames.com
 www.dangdang.com
 www.dangerousminds.net
 www.dangerousprototypes.com
+www.danielamichalskifotografie.com
 www.danpassaro.com
 www.dansguardian.org
 www.dantos.com
@@ -76967,6 +77000,7 @@ www.dashhudson.com
 www.dashlane.com
 www.daskeyboard.com
 www.data-api.benzinga.com
+www.data.cloudian.com
 www.data.corp.unity3d.com
 www.data.inetsgi.com
 www.data.mistat.intl.xiaomi.com
@@ -77719,6 +77753,7 @@ www.dopc.cz
 www.dopen.us
 www.dopice.sk
 www.dopl3r.com
+www.doppler.hulu.com
 www.doqqkdlppl6bl.cloudfront.net
 www.dorkly.com
 www.dortonline.org
@@ -79664,6 +79699,7 @@ www.fisintegratedpayables.com
 www.fislbxcentral.com
 www.fitbit.com
 www.fitbodybuzz.com
+www.fitforfun.de
 www.fitgirl-repacks.site
 www.fitminutes.com
 www.fitnathemovie.com
@@ -80869,6 +80905,7 @@ www.gfycat.com
 www.gg.gg
 www.gg.pl
 www.ggcu.org
+www.ggpht.com
 www.ggrecon.com
 www.ggtefcu.org
 www.ghacks.net
@@ -83008,6 +83045,7 @@ www.image.email.microsoftemail.com
 www.image.inews24.com
 www.image.invaluable.com
 www.image.issuu.com
+www.image.jimcdn.com
 www.image.minnesotavikingsemail.com
 www.image.modcdn.io
 www.image.olightstore.com
@@ -85445,6 +85483,7 @@ www.mad.ly
 www.madcatz.com
 www.madcofcu.org
 www.maddmacsprecisiontactical.com
+www.made.com
 www.madeleine-mode.at
 www.madeleine.com
 www.madeleineinn.com
@@ -86422,6 +86461,7 @@ www.mirasafety.com
 www.mironet.cz
 www.mirror.aarnet.edu.au
 www.mirror.amaze.com.au
+www.mirror.centos.org
 www.mirror.co.uk
 www.mirror.hoster.kz
 www.mirror.hro.nl
@@ -91737,6 +91777,7 @@ www.scmp.com
 www.scnb.com
 www.scone-pa.clients6.google.com
 www.scontent-iad3-1.cdninstagram.com
+www.scontent-lga3-1.cdninstagram.com
 www.scontent.fgdl5-1.fna.fbcdn.net
 www.scoobydoo.fandom.com
 www.scoop.it
