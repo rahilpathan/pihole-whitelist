@@ -966,7 +966,6 @@ aax-eu-retail-direct.amazon-adsystem.com
 aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
-aax-eu.amazon.
 aax-eu.amazon.ae
 aax-eu.amazon.co.uk
 aax-eu.amazon.com
@@ -984,7 +983,6 @@ aax-fe-sin-rtb-adx.amazon-adsystem.com
 aax-fe-sin-rtb.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
-aax-fe.amazon.
 aax-fe.amazon.co.jp
 aax-fe.amazon.com
 aax-fe.amazon.com.au
@@ -1247,7 +1245,6 @@ acnb.com
 acommunitybank.com
 acompli.helpshift.com
 acompli.net
-acompli.net$app=com.microsoft.office.outlook
 acorns.com
 acorns.sjv.io
 acosm.in
@@ -1666,8 +1663,6 @@ adserver.trojaner-info.de
 adserver.tupolska.com
 adserverxxl.de
 adservice.com
-adservice.google
-adservice.google.
 adservice.google.ac
 adservice.google.ad
 adservice.google.ae
@@ -2518,7 +2513,6 @@ amazon.coffee
 amazon.college
 amazon.cologne
 amazon.com
-amazon.com$app=com.audible.application
 amazon.com.be
 amazon.community
 amazon.company
@@ -2976,8 +2970,6 @@ amazon.yachts
 amazon.yokohama
 amazon.zone
 amazonaws.com
-amazonaws.com$app=com.tunnelbear.android
-amazonaws.com$app=ru.beeline.services
 amazonforum.com
 amazonservices.com
 amazontrust.com
@@ -3461,7 +3453,6 @@ api.brightcove.com
 api.browser.intl.miui.com
 api.browser.miui.com
 api.browser.yandex.ru
-api.browser.yandex.ru$app=ru.yandex.disk
 api.bufferapp.com
 api.c99.nl
 api.calendar.intl.miui.com
@@ -3593,7 +3584,6 @@ api.micloud.xiaomi.net
 api.mina.mi.com
 api.miwifi.com
 api.mobile-api.ru
-api.mobile-api.ru$app=ru.mamba.client
 api.mobile.immobilienscout24.de
 api.monitor.azure.com
 api.moyu.ac.cn
@@ -3751,7 +3741,6 @@ api.zaloapp.com
 api.zhuti.intl.xiaomi.com
 api.zhuti.xiaomi.com
 api.zomato.com
-api.zomato.com$app=com.application.zomato
 api1.origin.com
 api1.weather.com
 api2-qa05.chase.com
@@ -3823,11 +3812,9 @@ app-monitor.ele.me
 app-perms.playstation.com
 app-ru.huawei.com
 app-uk.huawei.com
-app..adjust.com
+app.adjust.com
 app.aave.com
 app.adjust.cn
-app.adjust.com
-app.adjust.com$app=com.azure.authenticator
 app.adjust.io
 app.adjust.net.in
 app.adjust.world
@@ -4286,7 +4273,6 @@ assoc-amazon.co.uk
 assoc-amazon.com
 assoc-amazon.de
 assoc-amazon.jp
-assoc-redirect.amazon.
 assoc-redirect.amazon.com
 assocbank.com
 associatedbank.com
@@ -4420,7 +4406,6 @@ audi.com
 audibank.de
 audible.com
 audible.de
-audible.de$app=com.audible.application
 audid-api.taobao.com
 audience.atex.com
 audience.media
@@ -4652,7 +4637,6 @@ azure.cloudflare-dns.com
 azure.com
 azure.com.au
 azureedge.net
-azureedge.net$app=com.microsoft.office.outlook
 azurewebsites.net
 azwindows.ipv6.microsoft.com.akadns.net
 b-api.facebook.com
@@ -7571,7 +7555,7 @@ cdn-static-1.medium.com
 cdn-us-cf2.yottaa.net
 cdn-us-ec.yottaa.net
 cdn-video.gtflixtv.com
-cdn..exponea.com
+cdn.exponea.com
 cdn.abcotvs.net
 cdn.adc.eamobile.com
 cdn.adf.ly
@@ -7638,7 +7622,6 @@ cdn.embedly.com
 cdn.enter-pubg-new-state.com
 cdn.evergage.com
 cdn.exp.xiaomi.com
-cdn.exponea.com
 cdn.ezoic.net
 cdn.fbsbx.com
 cdn.fds-ssl.api.xiaomi.com
@@ -8572,7 +8555,7 @@ cli.gs
 cliccami.info
 click-trk.com
 click-url.com
-click..experian.com
+click.experian.com
 click.accesstrade.co.id
 click.airmalta-mail.com
 click.aliexpress.com
@@ -8822,7 +8805,6 @@ cloob.com
 cloom.com
 clop.in
 cloud-api.yandex.net
-cloud-api.yandex.net$app=ru.yandex.disk
 cloud-native-sre.wtf
 cloud-news.ionos.com
 cloud.189.cn
@@ -11080,7 +11062,6 @@ developers.cloudflare.com
 developers.coinbase.com
 developers.facebook.com
 developers.google.com
-developers.google.com$app=com.symantec.mobilesecurity
 developers.kakao.com
 developers.line.me
 developers.medium.com
@@ -11211,7 +11192,6 @@ digirati.com.br
 digistats.westjet.com
 digital-advisor.com
 digital-railcard.co.uk
-digital-railcard.co.uk$app=com.raildeliverygroup.railcard
 digital.bankunited.com
 digital.noorbank.com
 digitaladvisor-elb.go2cloud.org
@@ -11391,7 +11371,6 @@ dl.flathub.org
 dl.free.fr
 dl.gl-inet.com
 dl.google.com
-dl.google.com$app=com.android.providers.media
 dl.humble.com
 dl.l.google.com
 dl.maxthon.cn
@@ -11419,7 +11398,6 @@ dlisted.com
 dll.xposed.info
 dlrshv.es
 dls-udc.dqa.samsung.com
-dls-udc.dqa.samsung.com$app=com.samsung.accessory.safiletransfer
 dls.di.atlas.samsung.com
 dls.net
 dlsrc.getmonero.org
@@ -11720,7 +11698,6 @@ downloadanysong.com
 downloadcenter.samsung.com
 downloadcontent.opensuse.org
 downloader.disk.yandex.ru
-downloader.disk.yandex.ru$app=ru.yandex.disk
 downloads.boomkat.com
 downloads.flipboard.com
 downloads.getmonero.org
@@ -13332,7 +13309,6 @@ fac.com
 facebook.at
 facebook.cn
 facebook.com
-facebook.com$app=com.instagram.android
 facebook.com.br
 facebook.com.tr
 facebook.de
@@ -14330,7 +14306,6 @@ fmsbonline.com
 fmub.com
 fn-cb.com
 fn.tc
-fna.fbcdn.net$app=com.facebook.katana
 fnac.com
 fnac.eulerian.net
 fnatic.sjv.io
@@ -14534,7 +14509,6 @@ fonts.com
 fonts.google.com
 fonts.googleapis.com
 fonts.gstatic.com
-fonts.gstatic.com$app=com.google.android.gms
 fonts.intercomcdn.com
 fonts.net
 foo.software
@@ -15562,7 +15536,6 @@ gg.gg
 gg.google.com
 ggopjn.com
 ggpht.com
-ggpht.com$app=com.google.android.youtube
 ggpht.net
 gh.ffshrine.org
 gha.ebay.com
@@ -15984,8 +15957,6 @@ google.co.za
 google.co.zm
 google.co.zw
 google.com
-google.com$app=com.vkontakte.android
-google.com$app=ru.yandex.disk
 google.com.af
 google.com.ag
 google.com.ai
@@ -16166,9 +16137,6 @@ google.ws
 googleadapis.l.google.com
 googleadservices.com
 googleapis.com
-googleapis.com$app=com.google.android.calendar
-googleapis.com$app=com.google.android.gms
-googleapis.com$app=com.google.android.syncadapters.calendar
 googleapis.l.google.com
 googleapps.com
 googlearth.com
@@ -16190,7 +16158,6 @@ googlesource.com
 googletagmanager.com
 googletagservices.com
 googleusercontent.com
-googleusercontent.com$app=com.google.android.youtube
 googlevideo.com
 googleweblight.com
 googlezip.net
@@ -16337,7 +16304,6 @@ graph.accountkit.com
 graph.facebook.com
 graph.facebook.net
 graph.fbpigeon.com
-graph.fbpigeon.com$app=com.facebook.katana
 graph.instagram.com
 graph.microsoft.com
 graph.vk.com
@@ -16554,7 +16520,6 @@ guta.ru
 gutapay.ru
 gutzwiller.ch
 gvt1.com
-gvt1.com$app=com.google.android.gms
 gvt2.com
 gw.alicdn.com
 gw.alipayobjects.com
@@ -21005,7 +20970,7 @@ lingows.appspot.com
 link-earn.com
 link-target.net
 link-zero.com
-link..paramountplus.com
+link.paramountplus.com
 link.ac
 link.adtidy.org
 link.betclic.com
@@ -21686,7 +21651,6 @@ m.entertain.naver.com
 m.espn.com
 m.exactag.com
 m.facebook.com
-m.facebook.com$app=com.facebook.katana
 m.files.bbci.co.uk
 m.firecams.com
 m.firstpost.com
@@ -22902,7 +22866,6 @@ microg.org
 microify.com
 microless.com
 microsoft.com
-microsoft.com$app=com.microsoft.office.outlook
 microsoft.qualtrics.com
 microsoftapp.net
 microsoftdemandcenter-ssl.mktoweb.com
@@ -23462,7 +23425,6 @@ mpsnare.iesnare.com
 mpv.orcasnet.com
 mql5.com
 mqtt-mini.facebook.com
-mqtt-mini.facebook.com$app=com.facebook.katana
 mqtt-p4.facebook.com
 mqtt-us-2.roborock.com
 mqtt.c10r.facebook.com
@@ -23781,7 +23743,6 @@ myabl.com
 myaccount.ascensus.com
 myaccount.enigmasoftware.com
 myaccount.google.com
-myaccount.google.com$app=com.google.android.gms
 myaccount.nytimes.com
 myaccount.payoneer.com
 myaccountaccess.com
@@ -24769,7 +24730,6 @@ northwesternbankonline.com
 northwestsavingsbank.com
 northwoodsbank.com
 norton.com
-norton.com$app=com.symantec.mobilesecurity
 nortonanimalhospital.com
 norwaybank.com
 norwaysavingsbank.com
@@ -27252,7 +27212,7 @@ pineriverstatebank.com
 pinews.co
 ping-admin.ru
 ping-app1.idrive.com
-ping..adguard.io
+ping.adguard.io
 ping.avast.com
 ping.cloud.tencent.com
 ping.feedburner.com
@@ -27470,7 +27430,6 @@ playmoviesdfe-pa.googleapis.com
 playncs.com
 playon.tv
 playstation.com
-playstation.com$app=com.scee.psxandroid
 playstation.com.edgekey.net
 playstation.com.ssl.d1.sc.omtrdc.net
 playstation.net
@@ -27492,7 +27451,6 @@ plex.direct
 plex.r.worldssl.net
 plex.se
 plex.tv
-plex.tv$app=com.plexapp.android
 plexapp.com
 plfah1-1.mskcc.org
 plfah2-1.mskcc.org
@@ -28763,7 +28721,6 @@ raiffeisenbankersingen.de
 raiffeisenonline.ro
 raika-erbes-buedesheim.de
 railcard.co.uk
-railcard.co.uk$app=com.raildeliverygroup.railcard
 rainbowinternetservices.com
 raindrop.io
 raise.ada.support
@@ -29162,8 +29119,7 @@ redir.ec
 redir.fr
 redir.tradedoubler.com
 redirect-ads.com
-redirect..aws.a2z.com
-redirect.appmetrica.yandex.
+redirect.aws.a2z.com
 redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 redirect.as
@@ -32118,7 +32074,6 @@ soolutions.company
 soonerstatebank.com
 sophienklinik.de
 sophos.com
-sophosxl.net$app=com.sophos.smsec
 soporte.latam.playstation.com
 sopranos-eindhoven.nl
 sorelintl.ugc.bazaarvoice.com
@@ -33589,7 +33544,6 @@ store.gematsu.com
 store.glasswire.com
 store.hide.me
 store.hispace.hicloud.com
-store.hispace.hicloud.com$app=com.huawei.gameassistant
 store.is.autonavi.com
 store.kaspersky.com
 store.keshefoundation.org
@@ -33662,7 +33616,7 @@ streamads.com
 streamate.com
 streamelements.com
 streamer.tawenda-tech.org
-streamillimit�.com
+streamillimit.com
 streaming-live.rtp.pt
 streaming.adswizz.com
 streaming.vk.com
@@ -34467,7 +34421,6 @@ tel.meet
 telacu.com
 tele.net
 tele2.ru
-tele2.ru$app=ru.tele2.mytele2
 telebank.forshtadt.ru
 telebank.tatsotsbank.ru
 telecet.ru
@@ -35986,7 +35939,6 @@ tunein.com
 tuner-api.hdhomerun.com
 tunnelbear.cloudflare-dns.com
 tunnelbear.com
-tunnelbear.com$app=com.tunnelbear.android
 tupelosmallanimalhospital.com
 tupperware.ipapercms.dk
 turanbank.az
@@ -36522,7 +36474,7 @@ uns.apsis.one
 unsere-raiba.de
 unserevolksbank.de
 unsplash.com
-unsubscribe..leanplum.com
+unsubscribe.leanplum.com
 untangle.com
 unv.integration.viber.com
 unvrs.al
@@ -37624,10 +37576,8 @@ vizual.ai
 vizury.com
 vjs.zencdn.net
 vk-cdn.net
-vk-cdn.net$app=com.vkontakte.android
 vk.cc
 vk.com
-vk.com$app=com.vkontakte.android
 vk.comwww.vk.com
 vk.me
 vk.vk.com
@@ -37639,7 +37589,6 @@ vkontakte.rucs5422.vk.com
 vkrugudruzei.ru
 vkube.vk.com
 vkuservideo.net
-vkuservideo.net$app=com.vkontakte.android
 vl.am
 vl.api.np.km.playstation.net
 vl.ru
@@ -38328,7 +38277,6 @@ weather.gov
 weather.naver.com
 weather.pandora.xiaomi.com
 weatherapi.market.xiaomi.com
-weatherapi.market.xiaomi.com$app=com.miui.weather2
 weatherbug.com
 weathernationtv.com
 weatherzone.com.au
@@ -38650,8 +38598,6 @@ whatsapp.cc
 whatsapp.com
 whatsapp.info
 whatsapp.net
-whatsapp.net$app=com.whatsapp
-whatsapp.net$app=com.whatsapp.w4b
 whatsapp.org
 whatsapp.tv
 whatsappbrand.com
@@ -43720,7 +43666,6 @@ www.google.co.za
 www.google.co.zm
 www.google.co.zw
 www.google.com
-www.google.com$app=com.google.android.gms
 www.google.com.af
 www.google.com.ag
 www.google.com.ai
@@ -50632,7 +50577,6 @@ xvxx.com
 xwizft.vk.com
 xwt-classics.net
 xx.fbcdn.net
-xx.fbcdn.net$app=com.facebook.katana
 xxsurl.de
 xxx.com.br
 xxxmyself.com
@@ -50811,12 +50755,10 @@ youtube-nocookie.co.ggpht.com
 youtube-nocookie.com
 youtube-ui.l.google.com
 youtube.com
-youtube.com$app=com.google.android.youtube
 youtube.com.cloudflare-dns.com
 youtube.de
 youtube.googleapis.com
 youtubei.googleapis.com
-youtubei.googleapis.com$app=com.google.android.youtube
 youtubekids.com
 youvisit.com
 youwatch.org
@@ -50842,7 +50784,6 @@ ytechb.com
 ythingy.com
 ytimg-edge-static.l.google.com
 ytimg.com
-ytimg.com$app=com.google.android.youtube
 ytimg.l.google.com
 ytmnd.com
 yts.ag
