@@ -662,7 +662,6 @@ aax-eu-retail-rtb.amazon.com
 aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
-aax-eu.amazon.
 aax-eu.amazon.ae
 aax-eu.amazon.co.uk
 aax-eu.amazon.co.za
@@ -685,7 +684,6 @@ aax-fe-sin-rtb-adx.amazon-adsystem.com
 aax-fe-sin-rtb.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
-aax-fe.amazon.
 aax-fe.amazon.co.jp
 aax-fe.amazon.com
 aax-fe.amazon.com.au
@@ -1176,6 +1174,7 @@ adgardener.com
 adguard-dns.com
 adguard-dns.io
 adguard.com
+adguard.io
 adguardteam.github.io
 adhaven.com
 adhese.be
@@ -1788,7 +1787,6 @@ adserversolutions.com
 adserverxxl.de
 adservetx.media.net
 adservice.com
-adservice.google.
 adservice.google.ac
 adservice.google.ad
 adservice.google.ae
@@ -3008,7 +3006,6 @@ app-api.ted.com
 app-cdn.spot.im
 app-measurement.com
 app-us1.com
-app..adjust.com
 app.aave.com
 app.adjust.cn
 app.adjust.com
@@ -3277,7 +3274,6 @@ assoc-amazon.com
 assoc-amazon.de
 assoc-amazon.fr
 assoc-amazon.jp
-assoc-redirect.amazon.
 assoc-redirect.amazon.co.uk
 assoc-redirect.amazon.com
 associates-amazon.com
@@ -5287,7 +5283,6 @@ cdn-secuchart.com
 cdn-static-1.medium.com
 cdn-us-cf2.yottaa.net
 cdn-us-ec.yottaa.net
-cdn..exponea.com
 cdn.abcotvs.net
 cdn.adf.ly
 cdn.adfoc.us
@@ -5868,7 +5863,6 @@ cli.gs
 cli.re
 cliccami.info
 click-trk.com
-click..experian.com
 click.accesstrade.co.id
 click.airmalta-mail.com
 click.aliexpress.com
@@ -13625,7 +13619,6 @@ lequipeur.sjv.io
 leroymerlin.ru
 letai.ru
 letobank.ru
-letop10.
 letsdecentralize.org
 letsencrypt.org
 letsharu.cc
@@ -13795,7 +13788,6 @@ linebank.com.tw
 linfan.moe
 lingva.ml
 link-booster.de
-link..paramountplus.com
 link.ac
 link.adtidy.org
 link.betclic.com
@@ -18529,7 +18521,6 @@ pinbank.ua
 pinews.co
 ping-admin.ru
 ping-app1.idrive.com
-ping.*.adguard.io
 ping.adguard.io
 ping.avast.com
 ping.cloud.tencent.com
@@ -18709,7 +18700,6 @@ pm.wu.cz
 pmb.akprind.ac.id
 pmd.cdn.turner.com
 pmdssl.flixkart.com.edgekey.net
-pmenboeqhyrpvomq.
 pmo.app.link
 pnapi.invoca.net
 pnb.com
@@ -18884,7 +18874,6 @@ ppurl.io
 pr-clinica.ru
 pr-cy.ru
 pr-star.de
-pr..jha.treasury.jackhenry.com
 pr.jha.treasury.jackhenry.com
 pr.tn
 pr0gramm.com
@@ -20015,8 +20004,6 @@ redir.is
 redir.lomadee.com
 redir.tradedoubler.com
 redirect-ads.com
-redirect..aws.a2z.com
-redirect.appmetrica.yandex.
 redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 redirect.at
@@ -23160,7 +23147,6 @@ streamate.com
 streamelements.com
 streamhunter.top
 streamillimit.com
-streamillimit�.com
 streaming-live.rtp.pt
 streaming.adswizz.com
 streamlike.com
@@ -25620,7 +25606,6 @@ uns.apsis.one
 unsere-raiba.de
 unserevolksbank.de
 unsplash.com
-unsubscribe..leanplum.com
 unsubscribe.leanplum.com
 unsubscribe.prod.leanplum.com
 untangle.com
@@ -29728,7 +29713,6 @@ www.nymcu.org
 www.nynb.com
 www.nynbonlinebanking.com
 www.nytimes.com
-www.nytimes.com:443
 www.o.aolcdn.com
 www.o1.email.medium.com
 www.o2.email.medium.com
