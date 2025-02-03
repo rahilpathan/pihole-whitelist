@@ -66,7 +66,7 @@ autolinkmaker.itunes.apple.com
 avatars.tidiochat.com
 awitatpapuri.com
 b.vlsp.network
-backstory.ebay.*
+backstory.ebay.com
 badge.weatherextension.com
 banner.wintrustdigitalbanking.com
 beacons.ai
@@ -235,7 +235,6 @@ metric.gstatic.com
 michaelapplysome.com
 minepi.com
 minghui.org
-mkt%.com
 mmm.page
 mpsnare.iesnare.com
 mscr.io
@@ -278,7 +277,7 @@ pissmail.com
 planet.net
 plati.ru
 play-asia.com
-play-livetech.shopee.*
+play-livetech.shopee.com
 pluto.smallpdf.com
 policy.app.cookieinformation.com
 poltio.com
@@ -351,7 +350,6 @@ starwank.com
 static.indystar.com
 static.landbot.io
 static.mobilelegends.com
-static.mobilelegends.com.wsoversea.com # CNAME
 static.newsletter2go.com
 staticcache.gslb.sgw.shopeemobile.com
 status.avaamo.com

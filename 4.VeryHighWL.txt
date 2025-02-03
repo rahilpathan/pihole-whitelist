@@ -12925,7 +12925,7 @@ backstage.soundcloud.com
 backstage.taboola.com
 backstageincome.com
 backstagepass20.sdse.disney.com
-backstory.ebay.*
+backstory.ebay.com
 backstreetboys.com
 backtothefuture.fandom.com
 backtotiananmen.com
@@ -80195,7 +80195,6 @@ mkmachining.com
 mkme.org
 mkontakt.pl
 mksecrets.net
-mkt%.com
 mkt-jcpenney.com
 mkt.com
 mkt030.com
@@ -94342,7 +94341,7 @@ plaxo.com
 play-asia.com
 play-games.googleusercontent.com
 play-lh.googleusercontent.com
-play-livetech.shopee.*
+play-livetech.shopee.com
 play.acast.com
 play.afreecatv.com
 play.anghami.com
@@ -112049,7 +112048,6 @@ static.minne.com
 static.miraheze.org
 static.mixi.media
 static.mobilelegends.com
-static.mobilelegends.com.wsoversea.com # CNAME
 static.moddb.com
 static.modernbike.com
 static.moovitapp.com
